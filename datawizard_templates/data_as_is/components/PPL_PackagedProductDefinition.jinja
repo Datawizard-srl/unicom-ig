@@ -1,9 +1,10 @@
-Instance: {{full_name}}-PPD-1109900-A
+Instance: {{full_name}}-PPD
 InstanceOf: PPLPackagedProductDefinition
 Usage: #{{usage}}
-* identifier[pcid].value = "BEL-{{pcId}}-1109900a" //pcId ?
+
+* identifier[pcid].value = "{{country.abbreviation}}-{{pcId}}" //pcId ?
 * packageFor = Reference({{full_name}}-MPD)
-* containedItemQuantity = 30 $200000000014#{{unit_of_presentation.code}} "{{unit_of_presentation.display}}"
+* containedItemQuantity = {{pack_size}} $200000000014#{{unit_of_presentation.code}} "{{unit_of_presentation.display}}"
 //  * description = "Tabletid on pakendatud PVC/PVDC/Al blistritesse (valged) või PVC/Al blistritesse (valged)."
 //  * extension.url = "http://ema.europa.eu/fhir/extension/language"
 //  * extension.valueCoding = $100000072057#100000072172 "Estonian"
