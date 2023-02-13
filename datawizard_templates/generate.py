@@ -5,6 +5,9 @@ from jinja2 import Environment, FileSystemLoader
 import pandas as pd
 import numpy as np
 
+from script.utilities import get_doseform_display, get_country_info_by_ema, get_language_info_by_ema, \
+    get_unit_of_presentation_display, get_routes_of_administration_display, get_substance_display_by_ema
+
 
 def validate_row(row):
     # pharmaceutical dose form must be spor
@@ -16,56 +19,58 @@ def main():
     for index, row in df.iterrows():
         validate_row(row)
         context = {
-            "instance_name": row['fullName'],
-            "full_name": row['fullName'],
+            "instance_name": row['fullName'].strip(),
+
+            "full_name": row['fullName'].strip().replace(" ", "-"),
+
             "organization": {
                 "identifier": row['marketingAuthorizationHolder'],
                 "name": row['marketingAuthorizationHolderLabel'],
             },
+
             "mpid": row["mpIdLabel"],  # TODO this is not the mpid
+
             "pharmaceutical_doseform": {
                 "code": row['administrableDoseForm'],
-                "display": '',  # TODO retrieve display by code
+                "display": get_doseform_display(row['administrableDoseForm']),  # TODO retrieve display by code
             },
+
             "legal_status_of_supply": {
                 "code": '',  # TODO ????
                 "display": '',  # TODO ????
             },
-            "country": {  # TODO must be hardcoded??
-                "code": '',
-                "display": '',
-                "abbreviation": '',
-            },
-            "language": {  # TODO must be hardcoded??
-                "code": '',
-                "display": '',
-            },
+
+            "country": get_country_info_by_ema(row['country']),
+            "language": get_language_info_by_ema(row['country']),
+
             "authorization_holder": {
-                "code": '',
+                "code": row['marketingAuthorizationHolder'],  # TODO not sure if this is the exact column
             },
+
             "administrable_doseform": {
-                "code": '',
-                "display": '',
+                "code": row['administrableDoseForm'],
+                "display": get_doseform_display(row['administrableDoseForm']),
             },
+
             "unit_of_presentation": {
-                "code": '',
-                "display": '',
+                "code": row['pharmaceuticalProductUnitOfPresentation'],
+                "display": get_unit_of_presentation_display(row['pharmaceuticalProductUnitOfPresentation']),
             },
             "route_of_administration": {
-                "code": '',
-                "display": '',
+                "code": row['routesOfAdministration'],
+                "display": get_routes_of_administration_display(row['routesOfAdministration']),
             },
             "manufactured_doseform": {
-                "code": '',
-                "display": '',
+                "code": row['manufacturedDoseForm'],
+                "display": get_doseform_display(row['manufacturedDoseForm']),
                 "unit_of_presentation": {
-                    "code": '',
-                    "display": '',
+                    "code": row['routesOfAdministration'],
+                    "display": get_routes_of_administration_display(row['routesOfAdministration']),
                 },
             },
             "substance": {
-                "code": '',
-                "display": '',
+                "code": row['substanceCode'],
+                "display": get_substance_display_by_ema(row['substanceCode']),
             },
             "presentation_ratio": {
                 "numerator": {
@@ -90,8 +95,9 @@ def main():
                     "code": '',
                     "display": '',
                 },
-                "pack_size": 0
             },
+            "pack_size": 0,
+            "pcId": row['pcId']
         }
 
         output_str = template.render(**context)
@@ -158,4 +164,7 @@ if __name__ == '__main__':
     # create output dir if doesn't exists
     pathlib.Path.mkdir(args.output, parents=True, exist_ok=True)
 
+    # a = df['manufacturedDoseFormLabel'].drop_duplicates()
+    # b = df['manufacturedDoseForm'].drop_duplicates()
+    # print([c for c in zip(a,b)])
     main()
