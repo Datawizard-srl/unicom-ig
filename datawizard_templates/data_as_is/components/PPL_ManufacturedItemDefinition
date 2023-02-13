@@ -1,0 +1,6 @@
+Instance: {{full_name}}-MID
+InstanceOf: PPLManufacturedItemDefinition
+Usage: #{{usage}}
+* status = #active
+* manufacturedDoseForm = $200000000004#{{manufactured_doseform.code}} "{{manufactured_doseform.display}}"
+* unitOfPresentation = $200000000014#{{manufactured_doseform.unit_of_presentation.code}} "{{manufactured_doseform.unit_of_presentation.display}}"

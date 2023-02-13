@@ -1,0 +1,9 @@
+Instance: "{{full_name}}-APD"
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #{{usage}}
+* status = #active
+* formOf = Reference({{full_name}}-MPD)
+* administrableDoseForm = $200000000004#{{administrable_doseform.code}} "{{administrable_doseform.display}}"
+* unitOfPresentation = $200000000014#{{unit_of_presentation.code}} "{{unit_of_presentation.display}}"
+* producedFrom = Reference({{full_name}}-MID)
+* routeOfAdministration.code = $100000073345#{{route_of_administration.code}} "{{route_of_administration.display}}"
