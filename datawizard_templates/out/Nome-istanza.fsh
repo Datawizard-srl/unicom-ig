@@ -1,6 +1,6 @@
 Instance: Nome-istanza
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
+Usage: #example
 * identifier[mpid].value = "mpId"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Current"
