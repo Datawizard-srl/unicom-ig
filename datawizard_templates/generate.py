@@ -5,8 +5,7 @@ from jinja2 import Environment, FileSystemLoader
 import pandas as pd
 import numpy as np
 
-from script.utilities import get_doseform_display, get_country_info_by_ema, get_language_info_by_ema, \
-    get_unit_of_presentation_display, get_routes_of_administration_display, get_substance_display_by_ema
+from script.utilities import *
 
 
 def validate_row(row):
@@ -17,11 +16,18 @@ def validate_row(row):
 
 def main():
     for index, row in df.iterrows():
+        print(f"row_{index=}", end=": ")
         validate_row(row)
+
+        if not row['pharmaceuticalProductUnitOfPresentation']\
+                or row['substanceName'].upper() == 'AMLODIPINE MESILATE MONOHYDRATE':
+            # TODO if unit of presentation is null then concentration strength must be not null
+            # TODO missing AMLODIPINE MESILATE MONOHYDRATE from sustance code system
+            continue
         context = {
             "instance_name": row['fullName'].strip(),
 
-            "full_name": row['fullName'].strip().replace(" ", "-"),
+            "full_name": row['fullName'].strip().replace(" ", "-").replace("(", '').replace(")", ''),
 
             "organization": {
                 "identifier": row['marketingAuthorizationHolder'],
@@ -30,10 +36,7 @@ def main():
 
             "mpid": row["mpIdLabel"],  # TODO this is not the mpid
 
-            "pharmaceutical_doseform": {
-                "code": row['administrableDoseForm'],
-                "display": get_doseform_display(row['administrableDoseForm']),  # TODO retrieve display by code
-            },
+            "pharmaceutical_doseform": get_doseform(row['administrableDoseForm']),
 
             "legal_status_of_supply": {
                 "code": '',  # TODO ????
@@ -47,26 +50,21 @@ def main():
                 "code": row['marketingAuthorizationHolder'],  # TODO not sure if this is the exact column
             },
 
-            "administrable_doseform": {
-                "code": row['administrableDoseForm'],
-                "display": get_doseform_display(row['administrableDoseForm']),
-            },
+            "administrable_doseform": get_doseform(row['administrableDoseForm']),
 
-            "unit_of_presentation": {
-                "code": row['pharmaceuticalProductUnitOfPresentation'],
-                "display": get_unit_of_presentation_display(row['pharmaceuticalProductUnitOfPresentation']),
-            },
-            "route_of_administration": {
-                "code": row['routesOfAdministration'],
-                "display": get_routes_of_administration_display(row['routesOfAdministration']),
-            },
+            "unit_of_presentation": get_unit_of_presentation(row['pharmaceuticalProductUnitOfPresentation']),
+
+            "route_of_administration": get_routes_of_administration(row['routesOfAdministration']),
+
             "manufactured_doseform": {
                 "code": row['manufacturedDoseForm'],
-                "display": get_doseform_display(row['manufacturedDoseForm']),
-                "unit_of_presentation": {
-                    "code": row['routesOfAdministration'],
-                    "display": get_routes_of_administration_display(row['routesOfAdministration']),
-                },
+                "display": get_doseform(row['manufacturedDoseForm']),
+                # "unit_of_presentation": {
+                #     "code": row['routesOfAdministration'],
+                #     "display": get_routes_of_administration(row['routesOfAdministration']),
+                # },
+                "unit_of_presentation": get_routes_of_administration(row['routesOfAdministration']),
+
             },
             "substance": {
                 "code": row['substanceCode'],
@@ -103,7 +101,7 @@ def main():
         output_str = template.render(**context)
 
         name = context["instance_name"].replace("/", '').strip().replace(" ", "-")
-        print(f'Generating {name}...')
+        print(f'Generating {name} (fullName={context["instance_name"]})...')
         with open(args.output / f'{name}.fsh', 'wt') as output_file:
             output_file.write(output_str)
 
@@ -164,7 +162,4 @@ if __name__ == '__main__':
     # create output dir if doesn't exists
     pathlib.Path.mkdir(args.output, parents=True, exist_ok=True)
 
-    # a = df['manufacturedDoseFormLabel'].drop_duplicates()
-    # b = df['manufacturedDoseForm'].drop_duplicates()
-    # print([c for c in zip(a,b)])
     main()
