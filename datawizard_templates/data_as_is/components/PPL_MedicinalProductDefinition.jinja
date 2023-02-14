@@ -10,10 +10,8 @@ Usage: #{{usage}}
 * classification[0] = $100000093533#100000095065 "amlodipine"
 * classification[+] = $who-atc#C08CA01 "amlodipine"
 * name.productName = "{{full_name}}"
-{% if name_parts %}
-{%- for part_key, part_value in name_parts.items() -%}
-* name.part[{{part_key}}].part = "{{medicinal_product_definition.part_value}}"
-{%- endfor -%}
-{% endif %}
+{%- for part_key, part_value in medicinal_product_definition.name_parts.items() %}
+* name.part[{{part_key}}].part = "{{part_value}}"
+{%- endfor %}
 * name.usage.country = $100000000002#{{country.code}} "{{country.display}}"
 * name.usage.language = $100000072057#{{language.code}} "{{language.display}}"

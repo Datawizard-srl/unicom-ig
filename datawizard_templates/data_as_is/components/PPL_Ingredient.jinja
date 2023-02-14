@@ -11,8 +11,8 @@ Usage: #{{usage}}
 * substance.strength.presentationRatio.numerator = {{ingredient.presentation_ratio.numerator.value}} $100000110633#{{ingredient.presentation_ratio.numerator.code}} "{{ingredient.presentation_ratio.numerator.display}}"
 * substance.strength.presentationRatio.denominator = {{ingredient.presentation_ratio.denominator.value}} $200000000014#{{ingredient.presentation_ratio.denominator.code}} "{{ingredient.presentation_ratio.denominator.display}}"
 {%- endif %}
-{% if ingredient.reference_strength -%}
-* substance.strength.referenceStrength.substance.concept = $sms#{{ingredient.substance.code}} "{{ingredient.substance.display}}"
+{% if ingredient.moiety -%}
+* substance.strength.referenceStrength.substance.concept = $sms#{{ingredient.moiety.code}} "{{ingredient.moiety.display}}"
 * substance.strength.referenceStrength.strengthRatio.numerator = {{ingredient.reference_strength.numerator.value}} $100000110633#{{ingredient.reference_strength.numerator.code}} "{{ingredient.reference_strength.numerator.display}}"
 * substance.strength.referenceStrength.strengthRatio.denominator = {{ingredient.reference_strength.denominator.value}} $100000110633#{{ingredient.reference_strength.denominator.code}} "{{ingredient.reference_strength.denominator.display}}"
 {%- endif %}

@@ -28,12 +28,12 @@ from script.utilities import *
 def validate_row(row):
     # pharmaceutical dose form must be spor
     # unit of presentation must be spor
+    # if unit of presentation is null then concentration strength must be not null
     ...
 
 
 def main():
     for index, row in df.iterrows():
-        if index > 0: break
         print(f"row_{index=}", end=": ")
         validate_row(row)
 
@@ -42,7 +42,7 @@ def main():
             # TODO missing AMLODIPINE MESILATE MONOHYDRATE from sustance code system
             continue
         context = {
-            "full_name": row['fullName'].strip().replace(" ", "-").replace("(", '').replace(")", ''),
+            "full_name": row['fullName'].strip().replace(" ", "-").replace("(", '').replace(")", '').replace("/", '-'),
             "mpid": row["mpIdLabel"],  # TODO this is not the mpid
             "country": get_country_info_by_ema(row['country']),
             "language": get_language_info_by_ema(row['country']),
@@ -58,26 +58,29 @@ def main():
             # INGREDIENT
             "ingredient": {
                 "substance": get_substance(row['substanceCode']),
+                "moiety": {'code': row['moietyCode'], 'display': row['moietyLabel']},
+
                 "presentation_ratio": {
                     "numerator": {
-                        "value": '',
+                        "value": float(row['referenceStrengthPresentationNumeratorValue']),
                         "code": '',
                         "display": '',
                     },
                     "denominator": {
-                        "value": '',
+                        "value": row['referenceStrengthPresentationDenominatorValue'] or 1,
                         "code": '',
                         "display": '',
                     }
                 },
+
                 "reference_strength": {
                     "numerator": {
-                        "value": '',
+                        "value": row['referenceStrengthPresentationNumeratorValue'],
                         "code": '',
                         "display": '',
                     },
                     "denominator": {
-                        "value": '',
+                        "value": row['referenceStrengthPresentationDenominatorValue'] or 1,
                         "code": '',
                         "display": '',
                     },
@@ -88,7 +91,7 @@ def main():
             "manufactured_item_definition": {
                 "manufactured_doseform": {
                     **get_doseform(row['manufacturedDoseForm']),
-                    "unit_of_presentation": get_routes_of_administration(row['routesOfAdministration']),
+                    "unit_of_presentation": get_unit_of_presentation(row['pharmaceuticalProductUnitOfPresentation']),
                 },
             },
 
@@ -96,15 +99,21 @@ def main():
             "medicinal_product_definition": {
                 "pharmaceutical_doseform": get_doseform(row['administrableDoseForm']),
                 "legal_status_of_supply": {
-                    "code": '',  # TODO ????
-                    "display": '',  # TODO ????
+                    "code": '100000072084',  # TODO ????
+                    "display": "Medicinal Product subject to medical prescription",  # TODO ????
                 },
+                "name_parts": {  # TODO
+                    'invented': 'invented part',
+                    'doseForm': 'dose form',
+                    'strength': 'strength'
+                }
             },
 
             # PACKAGED PRODUCT DEFINITION
             "packaged_product_definition": {
-                "unit_of_presentation": get_routes_of_administration(row['routesOfAdministration']),
-                "pack_size": 0,
+                "unit_of_presentation": get_unit_of_presentation(row['manufacturedItemUnitOfPresentation']),
+                "pack_size": row['packSize'],
+                "description": "Mock description",
             },
 
             # REGULATED AUTHORIZATION
@@ -113,8 +122,8 @@ def main():
                     "code": row['marketingAuthorizationHolder'],  # TODO not sure if this is the exact column
                 },
                 "organization": {
-                    "identifier": row['marketingAuthorizationHolder'],
-                    "name": row['marketingAuthorizationHolderLabel'],
+                    "identifier": row['marketingAuthorizationHolder'],  # TODO not sure if this is the exact column
+                    "name": row['marketingAuthorizationHolderLabel'],  # TODO not sure if this is the exact column
                 },
 
             },

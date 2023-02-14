@@ -16,7 +16,7 @@ Description: "Agen 10mg Tablet. Estonia. Simple example of one full product as a
 * entry[=].request.url = "RegulatedAuthorization/{{full_name}}-RA"
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/{{full_name}}-RA"
 
-* entry[+].resource = {{organization.identifier}}
+* entry[+].resource = LOC-{{organization.identifier}}-{{organization.name}}
 * entry[=].request.method = #PUT
 * entry[=].request.url = "Organization/{{organization.identifier}}"
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/{{organization.identifier}}"

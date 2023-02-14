@@ -14,7 +14,7 @@ Usage: #example
 * entry[=].request.url = "RegulatedAuthorization/Amlodipin-AB-tabl.-10-mg-RA"
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Amlodipin-AB-tabl.-10-mg-RA"
 
-* entry[+].resource = 1302
+* entry[+].resource = LOC-1302-Aurobindo
 * entry[=].request.method = #PUT
 * entry[=].request.url = "Organization/1302"
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/1302"
@@ -49,11 +49,13 @@ Usage: #inline
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Current"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-* legalStatusOfSupply = $100000072051# ""
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * classification[0] = $100000093533#100000095065 "amlodipine"
 * classification[+] = $who-atc#C08CA01 "amlodipine"
 * name.productName = "Amlodipin-AB-tabl.-10-mg"
-
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
 * name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
 * name.usage.language = $100000072057#100000072169 "Dutch"
 
@@ -65,7 +67,7 @@ Usage: #inline
 * identifier.value = "1302"
 * subject = Reference(Amlodipin-AB-tabl.-10-mg-MPD)
 * type = $220000000060#220000000061 "Marketing Authorisation"
-* region = $100000000002##100000000337 "Kingdom of Belgium"
+* region = $100000000002#100000000337 "Kingdom of Belgium"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 * statusDate = "2013-06-07"
 * holder = Reference(1302)
@@ -79,7 +81,7 @@ Usage: #inline
 * administrableDoseForm = $200000000004#100000073664 "Tablet"
 * unitOfPresentation = $200000000014#200000002152 "Tablet"
 * producedFrom = Reference(Amlodipin-AB-tabl.-10-mg-MID)
-* routeOfAdministration.code = $100000073345#20053000 "Oral use"
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
 
 
 Instance: Amlodipin-AB-tabl.-10-mg-MID
@@ -87,7 +89,7 @@ InstanceOf: PPLManufacturedItemDefinition
 Usage: #inline
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073664 "Tablet"
-* unitOfPresentation = $200000000014#20053000 "Oral use"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
 
 
 Instance: Amlodipin-AB-tabl.-10-mg-I
@@ -99,11 +101,11 @@ Usage: #inline
 * for[+] = Reference(Amlodipin-AB-tabl.-10-mg-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $sms#100000090079 "Amlodipine besilate"
-* substance.strength.presentationRatio.numerator =  $100000110633# ""
-* substance.strength.presentationRatio.denominator =  $200000000014# ""
-* substance.strength.referenceStrength.substance.concept = $sms#100000090079 "Amlodipine besilate"
-* substance.strength.referenceStrength.strengthRatio.numerator =  $100000110633# ""
-* substance.strength.referenceStrength.strengthRatio.denominator =  $100000110633# ""
+* substance.strength.presentationRatio.numerator = 10.0 $100000110633# ""
+* substance.strength.presentationRatio.denominator = 1 $200000000014# ""
+* substance.strength.referenceStrength.substance.concept = $sms#100000085259 "amlodipine"
+* substance.strength.referenceStrength.strengthRatio.numerator = 10.0 $100000110633# ""
+* substance.strength.referenceStrength.strengthRatio.denominator = 1 $100000110633# ""
 
 
 Instance: LOC-1302-Aurobindo
@@ -119,13 +121,12 @@ Instance: Amlodipin-AB-tabl.-10-mg-PPD
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 
-* identifier[pcid].value = "BEL-BEL amlodipine besilate Aurobindo tablet 100 x 10mg/" //pcId ?
+* identifier[pcid].value = "BEL-BEL amlodipine besilate Aurobindo tablet 30 x 10mg/" //pcId ?
 * packageFor = Reference(Amlodipin-AB-tabl.-10-mg-MPD)
-* containedItemQuantity = 0 $200000000014#20053000 "Oral use"
-//  * description = "Tabletid on pakendatud PVC/PVDC/Al blistritesse (valged) või PVC/Al blistritesse (valged)."
+* containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
+* description = "Mock description"
 //  * extension.url = "http://ema.europa.eu/fhir/extension/language"
 //  * extension.valueCoding = $100000072057#100000072172 "Estonian"
 * marketingStatus.country = $100000000002#100000000337 "Kingdom of Belgium"
 * marketingStatus.status = $100000072052#100000072083 "Marketed" // status?
-
 

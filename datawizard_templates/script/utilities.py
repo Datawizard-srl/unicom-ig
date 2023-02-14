@@ -38,11 +38,11 @@ def get_substance(code):
 
 def get_routes_of_administration(code):
     codes = {
-        '20053000': {'code': '20053000', 'display': 'Oral use'},
-        '20003000': {'code': '20003000', 'display': 'Cutaneous use'},
-        '20045000': {'code': '20045000', 'display': 'Intravenous use'},
-        '20070000': {'code': '20070000', 'display': 'Transdermal use'},
-        '20061000': {'code': '20061000', 'display': 'Rectal use'}
+        '20053000': {'code': '100000073619', 'display': 'Oral use'},
+        '20003000': {'code': '100000073566', 'display': 'Cutaneous use'},
+        '20045000': {'code': '100000073611', 'display': 'Intravenous use'},
+        '20070000': {'code': '100000073637', 'display': 'Transdermal use'},
+        '20061000': {'code': '100000073628', 'display': 'Rectal use'}
     }
     return codes[code]
 
