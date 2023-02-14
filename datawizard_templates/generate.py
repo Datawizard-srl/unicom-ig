@@ -1,3 +1,20 @@
+#TODO:
+# mpid - how to generate
+# pcid - how to generate
+# ingredient name - it's right?
+# mpd domain and status is always "Human use" and "Current"
+# mpd combined doseform????
+# mpd legalStatusOfSupply??
+# !! mpd classification (to find in csv)
+# ra identifier and orgnization identifier are the same?
+# ra type is always "Marketing Authorisation"??
+# ra status is always "Valid - Renewed/Varied"??
+# ra statusDate???
+# apd doseform, combined doseform and mid doseform are the same??
+# ingredient role is always active?
+# ppd we miss the packaging
+# ppd marketingStatus is always "Marketed"??
+
 import argparse
 import os
 import pathlib
@@ -16,92 +33,103 @@ def validate_row(row):
 
 def main():
     for index, row in df.iterrows():
+        if index > 0: break
         print(f"row_{index=}", end=": ")
         validate_row(row)
 
-        if not row['pharmaceuticalProductUnitOfPresentation']\
-                or row['substanceName'].upper() == 'AMLODIPINE MESILATE MONOHYDRATE':
+        if not row['pharmaceuticalProductUnitOfPresentation'] or row['substanceName'].upper() == 'AMLODIPINE MESILATE MONOHYDRATE':
             # TODO if unit of presentation is null then concentration strength must be not null
             # TODO missing AMLODIPINE MESILATE MONOHYDRATE from sustance code system
             continue
         context = {
-            "instance_name": row['fullName'].strip(),
-
             "full_name": row['fullName'].strip().replace(" ", "-").replace("(", '').replace(")", ''),
+            "mpid": row["mpIdLabel"],  # TODO this is not the mpid
+            "country": get_country_info_by_ema(row['country']),
+            "language": get_language_info_by_ema(row['country']),
+            "pcId": row['pcId'],
 
+            # ADMINISTRABLE PRODUCT DEFINITION
+            "administrable_product_definition": {
+                "administrable_doseform": get_doseform(row['administrableDoseForm']),
+                "unit_of_presentation": get_unit_of_presentation(row['pharmaceuticalProductUnitOfPresentation']),
+                "route_of_administration": get_routes_of_administration(row['routesOfAdministration']),
+            },
+
+            # INGREDIENT
+            "ingredient": {
+                "substance": get_substance(row['substanceCode']),
+                "presentation_ratio": {
+                    "numerator": {
+                        "value": '',
+                        "code": '',
+                        "display": '',
+                    },
+                    "denominator": {
+                        "value": '',
+                        "code": '',
+                        "display": '',
+                    }
+                },
+                "reference_strength": {
+                    "numerator": {
+                        "value": '',
+                        "code": '',
+                        "display": '',
+                    },
+                    "denominator": {
+                        "value": '',
+                        "code": '',
+                        "display": '',
+                    },
+                },
+            },
+
+            # MANUFACTERED ITEM DEFINITION
+            "manufactured_item_definition": {
+                "manufactured_doseform": {
+                    **get_doseform(row['manufacturedDoseForm']),
+                    "unit_of_presentation": get_routes_of_administration(row['routesOfAdministration']),
+                },
+            },
+
+            # MEDICINAL PRODUCT DEFINITION
+            "medicinal_product_definition": {
+                "pharmaceutical_doseform": get_doseform(row['administrableDoseForm']),
+                "legal_status_of_supply": {
+                    "code": '',  # TODO ????
+                    "display": '',  # TODO ????
+                },
+            },
+
+            # PACKAGED PRODUCT DEFINITION
+            "packaged_product_definition": {
+                "unit_of_presentation": get_routes_of_administration(row['routesOfAdministration']),
+                "pack_size": 0,
+            },
+
+            # REGULATED AUTHORIZATION
+            "regulated_authorization": {
+                "authorization_holder": {
+                    "code": row['marketingAuthorizationHolder'],  # TODO not sure if this is the exact column
+                },
+                "organization": {
+                    "identifier": row['marketingAuthorizationHolder'],
+                    "name": row['marketingAuthorizationHolderLabel'],
+                },
+
+            },
+
+            # ORGANIZATION
             "organization": {
                 "identifier": row['marketingAuthorizationHolder'],
                 "name": row['marketingAuthorizationHolderLabel'],
-            },
-
-            "mpid": row["mpIdLabel"],  # TODO this is not the mpid
-
-            "pharmaceutical_doseform": get_doseform(row['administrableDoseForm']),
-
-            "legal_status_of_supply": {
-                "code": '',  # TODO ????
-                "display": '',  # TODO ????
-            },
-
-            "country": get_country_info_by_ema(row['country']),
-            "language": get_language_info_by_ema(row['country']),
-
-            "authorization_holder": {
-                "code": row['marketingAuthorizationHolder'],  # TODO not sure if this is the exact column
-            },
-
-            "administrable_doseform": get_doseform(row['administrableDoseForm']),
-
-            "unit_of_presentation": get_unit_of_presentation(row['pharmaceuticalProductUnitOfPresentation']),
-
-            "route_of_administration": get_routes_of_administration(row['routesOfAdministration']),
-
-            "manufactured_doseform": {
-                "code": row['manufacturedDoseForm'],
-                "display": get_doseform(row['manufacturedDoseForm']),
-                # "unit_of_presentation": {
-                #     "code": row['routesOfAdministration'],
-                #     "display": get_routes_of_administration(row['routesOfAdministration']),
-                # },
-                "unit_of_presentation": get_routes_of_administration(row['routesOfAdministration']),
-
-            },
-            "substance": {
-                "code": row['substanceCode'],
-                "display": get_substance_display_by_ema(row['substanceCode']),
-            },
-            "presentation_ratio": {
-                "numerator": {
-                    "value": '',
-                    "code": '',
-                    "display": '',
-                },
-                "denominator": {
-                    "value": '',
-                    "code": '',
-                    "display": '',
-                }
-            },
-            "reference_strength": {
-                "numerator": {
-                    "value": '',
-                    "code": '',
-                    "display": '',
-                },
-                "denominator": {
-                    "value": '',
-                    "code": '',
-                    "display": '',
-                },
-            },
-            "pack_size": 0,
-            "pcId": row['pcId']
+            }
         }
 
         output_str = template.render(**context)
 
-        name = context["instance_name"].replace("/", '').strip().replace(" ", "-")
-        print(f'Generating {name} (fullName={context["instance_name"]})...')
+        name = context["full_name"]
+        print(f'Generating {name}...')
         with open(args.output / f'{name}.fsh', 'wt') as output_file:
             output_file.write(output_str)
 

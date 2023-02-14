@@ -1,18 +1,18 @@
-Instance: "{{full_name}}-MPD"
+Instance: {{full_name}}-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #{{usage}}
 
 * identifier[mpid].value = "{{mpid}}"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Current"
-* combinedPharmaceuticalDoseForm = $200000000004#{{pharmaceutical_doseform.code}} "{{pharmaceutical_doseform.display}}"
-* legalStatusOfSupply = $100000072051#{{legal_status_of_supply.code}} "{{legal_status_of_supply.display}}"
+* combinedPharmaceuticalDoseForm = $200000000004#{{medicinal_product_definition.pharmaceutical_doseform.code}} "{{medicinal_product_definition.pharmaceutical_doseform.display}}"
+* legalStatusOfSupply = $100000072051#{{medicinal_product_definition.legal_status_of_supply.code}} "{{medicinal_product_definition.legal_status_of_supply.display}}"
 * classification[0] = $100000093533#100000095065 "amlodipine"
 * classification[+] = $who-atc#C08CA01 "amlodipine"
 * name.productName = "{{full_name}}"
 {% if name_parts %}
 {%- for part_key, part_value in name_parts.items() -%}
-* name.part[{{part_key}}].part = "{{part_value}}"
+* name.part[{{part_key}}].part = "{{medicinal_product_definition.part_value}}"
 {%- endfor -%}
 {% endif %}
 * name.usage.country = $100000000002#{{country.code}} "{{country.display}}"

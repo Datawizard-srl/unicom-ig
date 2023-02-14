@@ -6,13 +6,13 @@ Usage: #{{usage}}
 * for[+] = Reference({{full_name}}-MID)
 * for[+] = Reference({{full_name}}-APD)
 * role = $100000072050#100000072072 "Active"
-* substance.code.concept = $sms#{{substance.code}} "{{substance.display}}"
-{% if presentation_ratio -%}
-* substance.strength.presentationRatio.numerator = {{presentation_ratio.numerator.value}} $100000110633#{{presentation_ratio.numerator.code}} "{{presentation_ratio.numerator.display}}"
-* substance.strength.presentationRatio.denominator = {{presentation_ratio.denominator.value}} $200000000014#{{presentation_ratio.denominator.value}} "{{presentation_ratio.denominator.display}}"
+* substance.code.concept = $sms#{{ingredient.substance.code}} "{{ingredient.substance.display}}"
+{% if ingredient.presentation_ratio -%}
+* substance.strength.presentationRatio.numerator = {{ingredient.presentation_ratio.numerator.value}} $100000110633#{{ingredient.presentation_ratio.numerator.code}} "{{ingredient.presentation_ratio.numerator.display}}"
+* substance.strength.presentationRatio.denominator = {{ingredient.presentation_ratio.denominator.value}} $200000000014#{{ingredient.presentation_ratio.denominator.code}} "{{ingredient.presentation_ratio.denominator.display}}"
 {%- endif %}
-{% if reference_strength -%}
-* substance.strength.referenceStrength.substance.concept = $sms#{{substance.code}} "{{substance.display}}"
-* substance.strength.referenceStrength.strengthRatio.numerator = {{reference_strength.numerator.value}} $100000110633#{{reference_strength.numerator.code}} "{{reference_strength.numerator.display}}"
-* substance.strength.referenceStrength.strengthRatio.denominator = {{reference_strength.denominator.value}} $100000110633#{{reference_strength.denominator.code}} "{{reference_strength.denominator.display}}"
+{% if ingredient.reference_strength -%}
+* substance.strength.referenceStrength.substance.concept = $sms#{{ingredient.substance.code}} "{{ingredient.substance.display}}"
+* substance.strength.referenceStrength.strengthRatio.numerator = {{ingredient.reference_strength.numerator.value}} $100000110633#{{ingredient.reference_strength.numerator.code}} "{{ingredient.reference_strength.numerator.display}}"
+* substance.strength.referenceStrength.strengthRatio.denominator = {{ingredient.reference_strength.denominator.value}} $100000110633#{{ingredient.reference_strength.denominator.code}} "{{ingredient.reference_strength.denominator.display}}"
 {%- endif %}

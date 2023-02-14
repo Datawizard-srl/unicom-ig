@@ -21,7 +21,7 @@ def get_doseform(code):
     return code_mapping[code]
 
 
-def get_substance_display_by_ema(code):
+def get_substance(code):
     codes = {
         '100000090079': {'code': '100000090079', 'display': 'Amlodipine besilate'},
         '100000089370': {'code': '100000089370', 'display': 'AMLODIPINE MALEATE'},

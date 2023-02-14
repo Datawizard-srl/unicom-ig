@@ -1,4 +1,4 @@
-Instance: Amlodipin AB tabl. 10 mg
+Instance: Amlodipin-AB-tabl.-10-mg
 InstanceOf: Bundle
 Usage: #example
 
@@ -41,24 +41,24 @@ Usage: #example
 
 
 
-Instance: "Amlodipin-AB-tabl.-10-mg-MPD"
+Instance: Amlodipin-AB-tabl.-10-mg-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #inline
 
 * identifier[mpid].value = "BEL amlodipine besilate Aurobindo tablet 10mg/"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Current"
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-* legalStatusOfSupply = $100000072051# ""
 * classification[0] = $100000093533#100000095065 "amlodipine"
 * classification[+] = $who-atc#C08CA01 "amlodipine"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+* legalStatusOfSupply = $100000072051# ""
 * name.productName = "Amlodipin-AB-tabl.-10-mg"
 
 * name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
 * name.usage.language = $100000072057#100000072169 "Dutch"
 
 
-Instance: Agen-10mg-Tablet-EE-RA
+Instance: Amlodipin-AB-tabl.-10-mg-RA
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
 
@@ -71,7 +71,7 @@ Usage: #inline
 * holder = Reference(1302)
 
 
-Instance: "Amlodipin-AB-tabl.-10-mg-APD"
+Instance: Amlodipin-AB-tabl.-10-mg-APD
 InstanceOf: PPLAdministrableProductDefinition
 Usage: #inline
 * status = #active
@@ -119,7 +119,7 @@ Instance: Amlodipin-AB-tabl.-10-mg-PPD
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 
-* identifier[pcid].value = "BEL-BEL amlodipine besilate Aurobindo tablet 30 x 10mg/" //pcId ?
+* identifier[pcid].value = "BEL-BEL amlodipine besilate Aurobindo tablet 100 x 10mg/" //pcId ?
 * packageFor = Reference(Amlodipin-AB-tabl.-10-mg-MPD)
 * containedItemQuantity = 0 $200000000014#200000002152 "Tablet"
 //  * description = "Tabletid on pakendatud PVC/PVDC/Al blistritesse (valged) või PVC/Al blistritesse (valged)."

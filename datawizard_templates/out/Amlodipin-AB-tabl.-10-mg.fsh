@@ -1,4 +1,4 @@
-Instance: Amlodipin AB tabl. 10 mg
+Instance: Amlodipin-AB-tabl.-10-mg
 InstanceOf: Bundle
 Usage: #example
 
@@ -41,7 +41,7 @@ Usage: #example
 
 
 
-Instance: "Amlodipin-AB-tabl.-10-mg-MPD"
+Instance: Amlodipin-AB-tabl.-10-mg-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #inline
 
@@ -58,7 +58,7 @@ Usage: #inline
 * name.usage.language = $100000072057#100000072169 "Dutch"
 
 
-Instance: Agen-10mg-Tablet-EE-RA
+Instance: Amlodipin-AB-tabl.-10-mg-RA
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
 
@@ -71,7 +71,7 @@ Usage: #inline
 * holder = Reference(1302)
 
 
-Instance: "Amlodipin-AB-tabl.-10-mg-APD"
+Instance: Amlodipin-AB-tabl.-10-mg-APD
 InstanceOf: PPLAdministrableProductDefinition
 Usage: #inline
 * status = #active
@@ -86,7 +86,7 @@ Instance: Amlodipin-AB-tabl.-10-mg-MID
 InstanceOf: PPLManufacturedItemDefinition
 Usage: #inline
 * status = #active
-* manufacturedDoseForm = $200000000004#10219000 "{'code': '100000073664', 'display': 'Tablet'}"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 * unitOfPresentation = $200000000014#20053000 "Oral use"
 
 
@@ -98,15 +98,15 @@ Usage: #inline
 * for[+] = Reference(Amlodipin-AB-tabl.-10-mg-MID)
 * for[+] = Reference(Amlodipin-AB-tabl.-10-mg-APD)
 * role = $100000072050#100000072072 "Active"
-* substance.code.concept = $sms#100000090079 "{'code': '100000090079', 'display': 'Amlodipine besilate'}"
+* substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 * substance.strength.presentationRatio.numerator =  $100000110633# ""
 * substance.strength.presentationRatio.denominator =  $200000000014# ""
-* substance.strength.referenceStrength.substance.concept = $sms#100000090079 "{'code': '100000090079', 'display': 'Amlodipine besilate'}"
+* substance.strength.referenceStrength.substance.concept = $sms#100000090079 "Amlodipine besilate"
 * substance.strength.referenceStrength.strengthRatio.numerator =  $100000110633# ""
 * substance.strength.referenceStrength.strengthRatio.denominator =  $100000110633# ""
 
 
-Instance: LOC-100002580-Zentiva
+Instance: LOC-1302-Aurobindo
 InstanceOf: PPLOrganization
 Usage: #inline
 Description: "Marketing Authorisation Holder / Organisation"
@@ -119,9 +119,9 @@ Instance: Amlodipin-AB-tabl.-10-mg-PPD
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 
-* identifier[pcid].value = "BEL-BEL amlodipine besilate Aurobindo tablet 30 x 10mg/" //pcId ?
+* identifier[pcid].value = "BEL-BEL amlodipine besilate Aurobindo tablet 100 x 10mg/" //pcId ?
 * packageFor = Reference(Amlodipin-AB-tabl.-10-mg-MPD)
-* containedItemQuantity = 0 $200000000014#200000002152 "Tablet"
+* containedItemQuantity = 0 $200000000014#20053000 "Oral use"
 //  * description = "Tabletid on pakendatud PVC/PVDC/Al blistritesse (valged) või PVC/Al blistritesse (valged)."
 //  * extension.url = "http://ema.europa.eu/fhir/extension/language"
 //  * extension.valueCoding = $100000072057#100000072172 "Estonian"
