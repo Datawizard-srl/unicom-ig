@@ -1,19 +1,18 @@
 #TODO:
 # mpid - how to generate
 # pcid - how to generate
-# ingredient name - it's right?
-# mpd domain and status is always "Human use" and "Current"
+# ingredient name - it's right? ({{ingredient.substance.display}}-I)
 # mpd combined doseform????
 # mpd legalStatusOfSupply??
 # !! mpd classification (to find in csv)
-# ra identifier and orgnization identifier are the same?
-# ra type is always "Marketing Authorisation"??
-# ra status is always "Valid - Renewed/Varied"??
-# ra statusDate???
+# ra identifier and orgnization identifier are the same? NO!
+# ra type is always "Marketing Authorisation"?? YES!
+# ra status is always "Valid - Renewed/Varied"?? YES!
+# ra statusDate??? BOO!
 # apd doseform, combined doseform and mid doseform are the same??
 # ingredient role is always active?
-# ppd we miss the packaging
-# ppd marketingStatus is always "Marketed"??
+# ppd we miss the packaging (if not available "one box")
+# ppd marketingStatus is always "Marketed"?? YES!
 
 import argparse
 import os
@@ -22,6 +21,7 @@ from jinja2 import Environment, FileSystemLoader
 import pandas as pd
 import numpy as np
 
+from datawizard_templates.jinja_filters import add_custom_filters
 from script.utilities import *
 
 
@@ -32,13 +32,9 @@ def validate_row(row):
     ...
 
 
-def normalize_name(full_name):
-    from unidecode import unidecode
-    full_name = full_name.strip().replace(" ", "-").replace("(", '').replace(")", '').replace("/", '-').replace(",", "")
-    return unidecode(full_name)
-
 def main():
     for index, row in df.iterrows():
+        if index > 0 : break;
         print(f"row_{index=}", end=": ")
         validate_row(row)
 
@@ -46,8 +42,10 @@ def main():
             # TODO if unit of presentation is null then concentration strength must be not null
             # TODO missing AMLODIPINE MESILATE MONOHYDRATE from sustance code system
             continue
+
         context = {
-            "full_name": normalize_name(row['fullName']), #TODO: this is ID
+            # "full_name": normalize_name(row['fullName']),  # TODO: this is ID
+            "full_name": row['fullName'],  # TODO: this is ID
             "product_name": row['fullName'],
             "mpid": row["mpIdLabel"],  # TODO this is not the mpid
             "country": get_country_info_by_ema(row['country']),
@@ -129,7 +127,8 @@ def main():
                 },
                 "organization": {
                     "identifier": row['marketingAuthorizationHolder'],  # TODO not sure if this is the exact column
-                    "name": normalize_name(row['marketingAuthorizationHolderLabel']),  # TODO not sure if this is the exact column
+                    "name": row['marketingAuthorizationHolderLabel'],  # TODO not sure if this is the exact column
+                    #"name": normalize_name(row['marketingAuthorizationHolderLabel']),  # TODO not sure if this is the exact column
                 },
 
             },
@@ -137,7 +136,8 @@ def main():
             # ORGANIZATION
             "organization": {
                 "identifier": row['marketingAuthorizationHolder'],
-                "name": normalize_name(row['marketingAuthorizationHolderLabel']),
+                #"name": normalize_name(row['marketingAuthorizationHolderLabel']),
+                "name": row['marketingAuthorizationHolderLabel'],
             }
         }
 
@@ -157,6 +157,7 @@ if __name__ == '__main__':
 
     environment = Environment(loader=FileSystemLoader(os.path.join("./data_as_is")), extensions=['jinja2.ext.i18n'])
     environment.add_extension('jinja2.ext.debug')
+    add_custom_filters(environment)
 
     path = "data-as-is.jinja"
     template = environment.get_template(path)

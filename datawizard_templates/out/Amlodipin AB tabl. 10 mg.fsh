@@ -4,50 +4,50 @@ Usage: #example
 
 * type = #transaction
 
-* entry[0].resource = Amlodipin-AB-tabl.-10-mg-MPD
+* entry[0].resource = Amlodipin AB tabl. 10 mg-MPD
 * entry[=].request.method = #PUT
-* entry[=].request.url = "MedicinalProductDefinition/Amlodipin-AB-tabl.-10-mg-MPD"
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/MedicinalProductDefinition/Amlodipin-AB-tabl.-10-mg-MPD"
+* entry[=].request.url = "MedicinalProductDefinition/Amlodipin AB tabl. 10 mg-MPD"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/MedicinalProductDefinition/Amlodipin AB tabl. 10 mg-MPD"
 
-* entry[+].resource = Amlodipin-AB-tabl.-10-mg-RA
+* entry[+].resource = Amlodipin AB tabl. 10 mg-RA
 * entry[=].request.method = #PUT
-* entry[=].request.url = "RegulatedAuthorization/Amlodipin-AB-tabl.-10-mg-RA"
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Amlodipin-AB-tabl.-10-mg-RA"
+* entry[=].request.url = "RegulatedAuthorization/Amlodipin AB tabl. 10 mg-RA"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Amlodipin AB tabl. 10 mg-RA"
 
 * entry[+].resource = LOC-1302-Aurobindo
 * entry[=].request.method = #PUT
 * entry[=].request.url = "Organization/1302"
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/1302"
 
-* entry[+].resource = Amlodipin-AB-tabl.-10-mg-APD
+* entry[+].resource = Amlodipin AB tabl. 10 mg-APD
 * entry[=].request.method = #PUT
-* entry[=].request.url = "AdministrableProductDefinition/Amlodipin-AB-tabl.-10-mg-APD"
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Amlodipin-AB-tabl.-10-mg-APD"
+* entry[=].request.url = "AdministrableProductDefinition/Amlodipin AB tabl. 10 mg-APD"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/Amlodipin AB tabl. 10 mg-APD"
 
-* entry[+].resource = Amlodipin-AB-tabl.-10-mg-MID
+* entry[+].resource = Amlodipin AB tabl. 10 mg-MID
 * entry[=].request.method = #PUT
-* entry[=].request.url = "ManufacturedItemDefinition/Amlodipin-AB-tabl.-10-mg-MID"
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/ManufacturedItemDefinition/Amlodipin-AB-tabl.-10-mg-MID"
+* entry[=].request.url = "ManufacturedItemDefinition/Amlodipin AB tabl. 10 mg-MID"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/ManufacturedItemDefinition/Amlodipin AB tabl. 10 mg-MID"
 
-* entry[+].resource = Amlodipin-AB-tabl.-10-mg-I
+* entry[+].resource = Amlodipin AB tabl. 10 mg-I
 * entry[=].request.method = #PUT
-* entry[=].request.url = "Ingredient/Amlodipin-AB-tabl.-10-mg-I"
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Amlodipin-AB-tabl.-10-mg-I"
+* entry[=].request.url = "Ingredient/Amlodipin AB tabl. 10 mg-I"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/Amlodipin AB tabl. 10 mg-I"
 
-* entry[+].resource = Amlodipin-AB-tabl.-10-mg-PPD
+* entry[+].resource = Amlodipin AB tabl. 10 mg-PPD
 * entry[=].request.method = #PUT
-* entry[=].request.url = "PackagedProductDefinition/Amlodipin-AB-tabl.-10-mg-PPD"
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/PackagedProductDefinition/Amlodipin-AB-tabl.-10-mg-PPD"
+* entry[=].request.url = "PackagedProductDefinition/Amlodipin AB tabl. 10 mg-PPD"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/PackagedProductDefinition/Amlodipin AB tabl. 10 mg-PPD"
 
 
 
-Instance: Amlodipin-AB-tabl.-10-mg-MPD
+Instance: Amlodipin AB tabl. 10 mg-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #inline
 
 * identifier[mpid].value = "BEL amlodipine besilate Aurobindo tablet 10mg/"
 * domain = $100000000004#100000000012 "Human use"
-* status = $200000005003#200000005004 "Current"
+* status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * classification[0] = $100000093533#100000095065 "amlodipine"
@@ -60,12 +60,12 @@ Usage: #inline
 * name.usage.language = $100000072057#100000072169 "Dutch"
 
 
-Instance: Amlodipin-AB-tabl.-10-mg-RA
+Instance: Amlodipin AB tabl. 10 mg-RA
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
 
 * identifier.value = "1302"
-* subject = Reference(Amlodipin-AB-tabl.-10-mg-MPD)
+* subject = Reference(Amlodipin AB tabl. 10 mg-MPD)
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000337 "Kingdom of Belgium"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
@@ -73,18 +73,18 @@ Usage: #inline
 * holder = Reference(1302)
 
 
-Instance: Amlodipin-AB-tabl.-10-mg-APD
+Instance: Amlodipin AB tabl. 10 mg-APD
 InstanceOf: PPLAdministrableProductDefinition
 Usage: #inline
 * status = #active
-* formOf = Reference(Amlodipin-AB-tabl.-10-mg-MPD)
+* formOf = Reference(Amlodipin AB tabl. 10 mg-MPD)
 * administrableDoseForm = $200000000004#100000073664 "Tablet"
 * unitOfPresentation = $200000000014#200000002152 "Tablet"
-* producedFrom = Reference(Amlodipin-AB-tabl.-10-mg-MID)
+* producedFrom = Reference(Amlodipin AB tabl. 10 mg-MID)
 * routeOfAdministration.code = $100000073345#100000073619 "Oral use"
 
 
-Instance: Amlodipin-AB-tabl.-10-mg-MID
+Instance: Amlodipin AB tabl. 10 mg-MID
 InstanceOf: PPLManufacturedItemDefinition
 Usage: #inline
 * status = #active
@@ -92,13 +92,13 @@ Usage: #inline
 * unitOfPresentation = $200000000014#200000002152 "Tablet"
 
 
-Instance: Amlodipin-AB-tabl.-10-mg-I
+Instance: Amlodipin AB tabl. 10 mg-I
 InstanceOf: PPLIngredient
 Usage: #inline
 * status = #active
-* for[0] = Reference(Amlodipin-AB-tabl.-10-mg-MPD)
-* for[+] = Reference(Amlodipin-AB-tabl.-10-mg-MID)
-* for[+] = Reference(Amlodipin-AB-tabl.-10-mg-APD)
+* for[0] = Reference(Amlodipin AB tabl. 10 mg-MPD)
+* for[+] = Reference(Amlodipin AB tabl. 10 mg-MID)
+* for[+] = Reference(Amlodipin AB tabl. 10 mg-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 * substance.strength.presentationRatio.numerator = 10.0 $100000110633# ""
@@ -117,13 +117,13 @@ Description: "Marketing Authorisation Holder / Organisation"
 * name = "Aurobindo"
 
 
-Instance: Amlodipin-AB-tabl.-10-mg-PPD
+Instance: Amlodipin AB tabl. 10 mg-PPD
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 
-* identifier[pcid].value = "BEL-BEL amlodipine besilate Aurobindo tablet 30 x 10mg/" //pcId ?
-* packageFor = Reference(Amlodipin-AB-tabl.-10-mg-MPD)
-* containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
+* identifier[pcid].value = "BEL-BEL amlodipine besilate Aurobindo tablet 100 x 10mg/" //pcId ?
+* packageFor = Reference(Amlodipin AB tabl. 10 mg-MPD)
+* containedItemQuantity = 100 $200000000014#200000002152 "Tablet"
 * description = "Mock description"
 //  * extension.url = "http://ema.europa.eu/fhir/extension/language"
 //  * extension.valueCoding = $100000072057#100000072172 "Estonian"
