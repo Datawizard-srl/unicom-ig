@@ -14,7 +14,7 @@ Usage: #example
 * entry[=].request.url = "RegulatedAuthorization/AGGOVASK-CAPS-5MG-CAP-RA"
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/AGGOVASK-CAPS-5MG-CAP-RA"
 
-* entry[+].resource = LOC-None-PROTON PHARMA ΑΝΩΝΥΜΗ ΦΑΡΜΑΚΕΥΤΙΚΗ ΕΤΑΙΡΕΙΑ
+* entry[+].resource = LOC-PROTON-PHARMA-ANONUME-PhARMAKEUTIKE-ETAIREIA
 * entry[=].request.method = #PUT
 * entry[=].request.url = "Organization/None"
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/None"
@@ -52,7 +52,7 @@ Usage: #inline
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * classification[0] = $100000093533#100000095065 "amlodipine"
 * classification[+] = $who-atc#C08CA01 "amlodipine"
-* name.productName = "AGGOVASK-CAPS-5MG-CAP"
+* name.productName = "AGGOVASK CAPS 5MG/CAP"
 * name.part[invented].part = "invented part"
 * name.part[doseForm].part = "dose form"
 * name.part[strength].part = "strength"
@@ -108,13 +108,13 @@ Usage: #inline
 * substance.strength.referenceStrength.strengthRatio.denominator = 1 $100000110633# ""
 
 
-Instance: LOC-None-PROTON PHARMA ΑΝΩΝΥΜΗ ΦΑΡΜΑΚΕΥΤΙΚΗ ΕΤΑΙΡΕΙΑ
+Instance: LOC-PROTON-PHARMA-ANONUME-PhARMAKEUTIKE-ETAIREIA
 InstanceOf: PPLOrganization
 Usage: #inline
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "None"
-* name = "PROTON PHARMA ΑΝΩΝΥΜΗ ΦΑΡΜΑΚΕΥΤΙΚΗ ΕΤΑΙΡΕΙΑ"
+* name = "PROTON-PHARMA-ANONUME-PhARMAKEUTIKE-ETAIREIA"
 
 
 Instance: AGGOVASK-CAPS-5MG-CAP-PPD
@@ -123,7 +123,7 @@ Usage: #inline
 
 * identifier[pcid].value = "GRC-GRC amlodipine besilate PROTON PHARMA ΑΝΩΝΥΜΗ ΦΑΡΜΑΚΕΥΤΙΚΗ ΕΤΑΙΡΕΙΑ capsule, hard 14 x 5mg/" //pcId ?
 * packageFor = Reference(AGGOVASK-CAPS-5MG-CAP-MPD)
-* containedItemQuantity = <NA> $200000000014#200000002113 "Capsule"
+* containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
 * description = "Mock description"
 //  * extension.url = "http://ema.europa.eu/fhir/extension/language"
 //  * extension.valueCoding = $100000072057#100000072172 "Estonian"

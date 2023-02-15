@@ -14,7 +14,7 @@ Usage: #example
 * entry[=].request.url = "RegulatedAuthorization/AMLIBON-TAB-10MG-TAB-RA"
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/AMLIBON-TAB-10MG-TAB-RA"
 
-* entry[+].resource = LOC-None-SANDOZ GMBH, KUNDL, AUSTRIA
+* entry[+].resource = LOC-SANDOZ-GMBH-KUNDL-AUSTRIA
 * entry[=].request.method = #PUT
 * entry[=].request.url = "Organization/None"
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/None"
@@ -52,7 +52,7 @@ Usage: #inline
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * classification[0] = $100000093533#100000095065 "amlodipine"
 * classification[+] = $who-atc#C08CA01 "amlodipine"
-* name.productName = "AMLIBON-TAB-10MG-TAB"
+* name.productName = "AMLIBON TAB 10MG/TAB"
 * name.part[invented].part = "invented part"
 * name.part[doseForm].part = "dose form"
 * name.part[strength].part = "strength"
@@ -108,13 +108,13 @@ Usage: #inline
 * substance.strength.referenceStrength.strengthRatio.denominator = 1 $100000110633# ""
 
 
-Instance: LOC-None-SANDOZ GMBH, KUNDL, AUSTRIA
+Instance: LOC-SANDOZ-GMBH-KUNDL-AUSTRIA
 InstanceOf: PPLOrganization
 Usage: #inline
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "None"
-* name = "SANDOZ GMBH, KUNDL, AUSTRIA"
+* name = "SANDOZ-GMBH-KUNDL-AUSTRIA"
 
 
 Instance: AMLIBON-TAB-10MG-TAB-PPD
@@ -123,7 +123,7 @@ Usage: #inline
 
 * identifier[pcid].value = "GRC-GRC amlodipine besilate SANDOZ GMBH, KUNDL, AUSTRIA tablet 30 x 10mg/" //pcId ?
 * packageFor = Reference(AMLIBON-TAB-10MG-TAB-MPD)
-* containedItemQuantity = <NA> $200000000014#200000002152 "Tablet"
+* containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
 * description = "Mock description"
 //  * extension.url = "http://ema.europa.eu/fhir/extension/language"
 //  * extension.valueCoding = $100000072057#100000072172 "Estonian"

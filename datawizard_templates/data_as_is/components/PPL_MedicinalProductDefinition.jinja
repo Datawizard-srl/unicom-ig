@@ -9,7 +9,7 @@ Usage: #{{usage}}
 * legalStatusOfSupply = $100000072051#{{medicinal_product_definition.legal_status_of_supply.code}} "{{medicinal_product_definition.legal_status_of_supply.display}}"
 * classification[0] = $100000093533#100000095065 "amlodipine"
 * classification[+] = $who-atc#C08CA01 "amlodipine"
-* name.productName = "{{full_name}}"
+* name.productName = "{{product_name}}"
 {%- for part_key, part_value in medicinal_product_definition.name_parts.items() %}
 * name.part[{{part_key}}].part = "{{part_value}}"
 {%- endfor %}

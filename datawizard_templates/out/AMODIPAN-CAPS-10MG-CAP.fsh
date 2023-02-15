@@ -14,7 +14,7 @@ Usage: #example
 * entry[=].request.url = "RegulatedAuthorization/AMODIPAN-CAPS-10MG-CAP-RA"
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/AMODIPAN-CAPS-10MG-CAP-RA"
 
-* entry[+].resource = LOC-None-SANTA PHARMA A,E,
+* entry[+].resource = LOC-SANTA-PHARMA-AE
 * entry[=].request.method = #PUT
 * entry[=].request.url = "Organization/None"
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/None"
@@ -52,7 +52,7 @@ Usage: #inline
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * classification[0] = $100000093533#100000095065 "amlodipine"
 * classification[+] = $who-atc#C08CA01 "amlodipine"
-* name.productName = "AMODIPAN-CAPS-10MG-CAP"
+* name.productName = "AMODIPAN CAPS 10MG/CAP"
 * name.part[invented].part = "invented part"
 * name.part[doseForm].part = "dose form"
 * name.part[strength].part = "strength"
@@ -108,13 +108,13 @@ Usage: #inline
 * substance.strength.referenceStrength.strengthRatio.denominator = 1 $100000110633# ""
 
 
-Instance: LOC-None-SANTA PHARMA A,E,
+Instance: LOC-SANTA-PHARMA-AE
 InstanceOf: PPLOrganization
 Usage: #inline
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "None"
-* name = "SANTA PHARMA A,E,"
+* name = "SANTA-PHARMA-AE"
 
 
 Instance: AMODIPAN-CAPS-10MG-CAP-PPD
@@ -123,7 +123,7 @@ Usage: #inline
 
 * identifier[pcid].value = "GRC-GRC amlodipine besilate SANTA PHARMA A,E, capsule, hard 30 x 10mg/" //pcId ?
 * packageFor = Reference(AMODIPAN-CAPS-10MG-CAP-MPD)
-* containedItemQuantity = <NA> $200000000014#200000002113 "Capsule"
+* containedItemQuantity = 30 $200000000014#200000002113 "Capsule"
 * description = "Mock description"
 //  * extension.url = "http://ema.europa.eu/fhir/extension/language"
 //  * extension.valueCoding = $100000072057#100000072172 "Estonian"

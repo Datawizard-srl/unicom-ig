@@ -32,6 +32,11 @@ def validate_row(row):
     ...
 
 
+def normalize_name(full_name):
+    from unidecode import unidecode
+    full_name = full_name.strip().replace(" ", "-").replace("(", '').replace(")", '').replace("/", '-').replace(",", "")
+    return unidecode(full_name)
+
 def main():
     for index, row in df.iterrows():
         print(f"row_{index=}", end=": ")
@@ -42,7 +47,8 @@ def main():
             # TODO missing AMLODIPINE MESILATE MONOHYDRATE from sustance code system
             continue
         context = {
-            "full_name": row['fullName'].strip().replace(" ", "-").replace("(", '').replace(")", '').replace("/", '-'),
+            "full_name": normalize_name(row['fullName']), #TODO: this is ID
+            "product_name": row['fullName'],
             "mpid": row["mpIdLabel"],  # TODO this is not the mpid
             "country": get_country_info_by_ema(row['country']),
             "language": get_language_info_by_ema(row['country']),
@@ -112,7 +118,7 @@ def main():
             # PACKAGED PRODUCT DEFINITION
             "packaged_product_definition": {
                 "unit_of_presentation": get_unit_of_presentation(row['manufacturedItemUnitOfPresentation']),
-                "pack_size": row['packSize'],
+                "pack_size": row['packsize'], #TODO packSize
                 "description": "Mock description",
             },
 
@@ -123,7 +129,7 @@ def main():
                 },
                 "organization": {
                     "identifier": row['marketingAuthorizationHolder'],  # TODO not sure if this is the exact column
-                    "name": row['marketingAuthorizationHolderLabel'],  # TODO not sure if this is the exact column
+                    "name": normalize_name(row['marketingAuthorizationHolderLabel']),  # TODO not sure if this is the exact column
                 },
 
             },
@@ -131,7 +137,7 @@ def main():
             # ORGANIZATION
             "organization": {
                 "identifier": row['marketingAuthorizationHolder'],
-                "name": row['marketingAuthorizationHolderLabel'],
+                "name": normalize_name(row['marketingAuthorizationHolderLabel']),
             }
         }
 

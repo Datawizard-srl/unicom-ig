@@ -52,7 +52,7 @@ Usage: #inline
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * classification[0] = $100000093533#100000095065 "amlodipine"
 * classification[+] = $who-atc#C08CA01 "amlodipine"
-* name.productName = "simvastine-EG-filmomh.-tabl.-deelb.-40-mg"
+* name.productName = "simvastine EG filmomh. tabl. (deelb.) 40 mg"
 * name.part[invented].part = "invented part"
 * name.part[doseForm].part = "dose form"
 * name.part[strength].part = "strength"

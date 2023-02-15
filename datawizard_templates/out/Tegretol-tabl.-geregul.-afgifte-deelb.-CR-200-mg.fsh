@@ -14,7 +14,7 @@ Usage: #example
 * entry[=].request.url = "RegulatedAuthorization/Tegretol-tabl.-geregul.-afgifte-deelb.-CR-200-mg-RA"
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Tegretol-tabl.-geregul.-afgifte-deelb.-CR-200-mg-RA"
 
-* entry[+].resource = LOC-1355-Novartis Pharma
+* entry[+].resource = LOC-1355-Novartis-Pharma
 * entry[=].request.method = #PUT
 * entry[=].request.url = "Organization/1355"
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/1355"
@@ -52,7 +52,7 @@ Usage: #inline
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * classification[0] = $100000093533#100000095065 "amlodipine"
 * classification[+] = $who-atc#C08CA01 "amlodipine"
-* name.productName = "Tegretol-tabl.-geregul.-afgifte-deelb.-CR-200-mg"
+* name.productName = "Tegretol tabl. geregul. afgifte (deelb.) CR 200 mg"
 * name.part[invented].part = "invented part"
 * name.part[doseForm].part = "dose form"
 * name.part[strength].part = "strength"
@@ -108,13 +108,13 @@ Usage: #inline
 * substance.strength.referenceStrength.strengthRatio.denominator = 1 $100000110633# ""
 
 
-Instance: LOC-1355-Novartis Pharma
+Instance: LOC-1355-Novartis-Pharma
 InstanceOf: PPLOrganization
 Usage: #inline
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "1355"
-* name = "Novartis Pharma"
+* name = "Novartis-Pharma"
 
 
 Instance: Tegretol-tabl.-geregul.-afgifte-deelb.-CR-200-mg-PPD

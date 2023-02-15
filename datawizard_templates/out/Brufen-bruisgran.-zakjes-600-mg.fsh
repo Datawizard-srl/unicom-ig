@@ -14,7 +14,7 @@ Usage: #example
 * entry[=].request.url = "RegulatedAuthorization/Brufen-bruisgran.-zakjes-600-mg-RA"
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/Brufen-bruisgran.-zakjes-600-mg-RA"
 
-* entry[+].resource = LOC-1441-Mylan EPD
+* entry[+].resource = LOC-1441-Mylan-EPD
 * entry[=].request.method = #PUT
 * entry[=].request.url = "Organization/1441"
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/1441"
@@ -52,7 +52,7 @@ Usage: #inline
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * classification[0] = $100000093533#100000095065 "amlodipine"
 * classification[+] = $who-atc#C08CA01 "amlodipine"
-* name.productName = "Brufen-bruisgran.-zakjes-600-mg"
+* name.productName = "Brufen bruisgran. (zakjes) 600 mg"
 * name.part[invented].part = "invented part"
 * name.part[doseForm].part = "dose form"
 * name.part[strength].part = "strength"
@@ -108,13 +108,13 @@ Usage: #inline
 * substance.strength.referenceStrength.strengthRatio.denominator = 1 $100000110633# ""
 
 
-Instance: LOC-1441-Mylan EPD
+Instance: LOC-1441-Mylan-EPD
 InstanceOf: PPLOrganization
 Usage: #inline
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "1441"
-* name = "Mylan EPD"
+* name = "Mylan-EPD"
 
 
 Instance: Brufen-bruisgran.-zakjes-600-mg-PPD

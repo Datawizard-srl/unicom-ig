@@ -1,47 +1,47 @@
-Instance: PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP
+Instance: PIDOLEN-GENOSEMO-CAPS-10MG-CAP
 InstanceOf: Bundle
 Usage: #example
 
 * type = #transaction
 
-* entry[0].resource = PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-MPD
+* entry[0].resource = PIDOLEN-GENOSEMO-CAPS-10MG-CAP-MPD
 * entry[=].request.method = #PUT
-* entry[=].request.url = "MedicinalProductDefinition/PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-MPD"
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/MedicinalProductDefinition/PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-MPD"
+* entry[=].request.url = "MedicinalProductDefinition/PIDOLEN-GENOSEMO-CAPS-10MG-CAP-MPD"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/MedicinalProductDefinition/PIDOLEN-GENOSEMO-CAPS-10MG-CAP-MPD"
 
-* entry[+].resource = PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-RA
+* entry[+].resource = PIDOLEN-GENOSEMO-CAPS-10MG-CAP-RA
 * entry[=].request.method = #PUT
-* entry[=].request.url = "RegulatedAuthorization/PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-RA"
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-RA"
+* entry[=].request.url = "RegulatedAuthorization/PIDOLEN-GENOSEMO-CAPS-10MG-CAP-RA"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/PIDOLEN-GENOSEMO-CAPS-10MG-CAP-RA"
 
-* entry[+].resource = LOC-None-ΦΑΡΜΕΞ Α.Ε.
+* entry[+].resource = LOC-PhARMEKs-A.E.
 * entry[=].request.method = #PUT
 * entry[=].request.url = "Organization/None"
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Organization/None"
 
-* entry[+].resource = PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-APD
+* entry[+].resource = PIDOLEN-GENOSEMO-CAPS-10MG-CAP-APD
 * entry[=].request.method = #PUT
-* entry[=].request.url = "AdministrableProductDefinition/PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-APD"
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-APD"
+* entry[=].request.url = "AdministrableProductDefinition/PIDOLEN-GENOSEMO-CAPS-10MG-CAP-APD"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/AdministrableProductDefinition/PIDOLEN-GENOSEMO-CAPS-10MG-CAP-APD"
 
-* entry[+].resource = PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-MID
+* entry[+].resource = PIDOLEN-GENOSEMO-CAPS-10MG-CAP-MID
 * entry[=].request.method = #PUT
-* entry[=].request.url = "ManufacturedItemDefinition/PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-MID"
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/ManufacturedItemDefinition/PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-MID"
+* entry[=].request.url = "ManufacturedItemDefinition/PIDOLEN-GENOSEMO-CAPS-10MG-CAP-MID"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/ManufacturedItemDefinition/PIDOLEN-GENOSEMO-CAPS-10MG-CAP-MID"
 
-* entry[+].resource = PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-I
+* entry[+].resource = PIDOLEN-GENOSEMO-CAPS-10MG-CAP-I
 * entry[=].request.method = #PUT
-* entry[=].request.url = "Ingredient/PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-I"
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-I"
+* entry[=].request.url = "Ingredient/PIDOLEN-GENOSEMO-CAPS-10MG-CAP-I"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/Ingredient/PIDOLEN-GENOSEMO-CAPS-10MG-CAP-I"
 
-* entry[+].resource = PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-PPD
+* entry[+].resource = PIDOLEN-GENOSEMO-CAPS-10MG-CAP-PPD
 * entry[=].request.method = #PUT
-* entry[=].request.url = "PackagedProductDefinition/PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-PPD"
-* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/PackagedProductDefinition/PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-PPD"
+* entry[=].request.url = "PackagedProductDefinition/PIDOLEN-GENOSEMO-CAPS-10MG-CAP-PPD"
+* entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/PackagedProductDefinition/PIDOLEN-GENOSEMO-CAPS-10MG-CAP-PPD"
 
 
 
-Instance: PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-MPD
+Instance: PIDOLEN-GENOSEMO-CAPS-10MG-CAP-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #inline
 
@@ -52,7 +52,7 @@ Usage: #inline
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 * classification[0] = $100000093533#100000095065 "amlodipine"
 * classification[+] = $who-atc#C08CA01 "amlodipine"
-* name.productName = "PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP"
+* name.productName = "PIDOLEN (ΓΕΝΟΣΗΜΟ) CAPS 10MG/CAP"
 * name.part[invented].part = "invented part"
 * name.part[doseForm].part = "dose form"
 * name.part[strength].part = "strength"
@@ -60,12 +60,12 @@ Usage: #inline
 * name.usage.language = $100000072057#100000072181 "Greek"
 
 
-Instance: PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-RA
+Instance: PIDOLEN-GENOSEMO-CAPS-10MG-CAP-RA
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
 
 * identifier.value = "None"
-* subject = Reference(PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-MPD)
+* subject = Reference(PIDOLEN-GENOSEMO-CAPS-10MG-CAP-MPD)
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#100000000406 "Hellenic Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
@@ -73,18 +73,18 @@ Usage: #inline
 * holder = Reference(None)
 
 
-Instance: PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-APD
+Instance: PIDOLEN-GENOSEMO-CAPS-10MG-CAP-APD
 InstanceOf: PPLAdministrableProductDefinition
 Usage: #inline
 * status = #active
-* formOf = Reference(PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-MPD)
+* formOf = Reference(PIDOLEN-GENOSEMO-CAPS-10MG-CAP-MPD)
 * administrableDoseForm = $200000000004#100000073375 "Capsule, hard"
 * unitOfPresentation = $200000000014#200000002113 "Capsule"
-* producedFrom = Reference(PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-MID)
+* producedFrom = Reference(PIDOLEN-GENOSEMO-CAPS-10MG-CAP-MID)
 * routeOfAdministration.code = $100000073345#100000073619 "Oral use"
 
 
-Instance: PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-MID
+Instance: PIDOLEN-GENOSEMO-CAPS-10MG-CAP-MID
 InstanceOf: PPLManufacturedItemDefinition
 Usage: #inline
 * status = #active
@@ -92,13 +92,13 @@ Usage: #inline
 * unitOfPresentation = $200000000014#200000002113 "Capsule"
 
 
-Instance: PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-I
+Instance: PIDOLEN-GENOSEMO-CAPS-10MG-CAP-I
 InstanceOf: PPLIngredient
 Usage: #inline
 * status = #active
-* for[0] = Reference(PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-MPD)
-* for[+] = Reference(PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-MID)
-* for[+] = Reference(PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-APD)
+* for[0] = Reference(PIDOLEN-GENOSEMO-CAPS-10MG-CAP-MPD)
+* for[+] = Reference(PIDOLEN-GENOSEMO-CAPS-10MG-CAP-MID)
+* for[+] = Reference(PIDOLEN-GENOSEMO-CAPS-10MG-CAP-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 * substance.strength.presentationRatio.numerator = 10.0 $100000110633# ""
@@ -108,22 +108,22 @@ Usage: #inline
 * substance.strength.referenceStrength.strengthRatio.denominator = 1 $100000110633# ""
 
 
-Instance: LOC-None-ΦΑΡΜΕΞ Α.Ε.
+Instance: LOC-PhARMEKs-A.E.
 InstanceOf: PPLOrganization
 Usage: #inline
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "None"
-* name = "ΦΑΡΜΕΞ Α.Ε."
+* name = "PhARMEKs-A.E."
 
 
-Instance: PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-PPD
+Instance: PIDOLEN-GENOSEMO-CAPS-10MG-CAP-PPD
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 
 * identifier[pcid].value = "GRC-GRC amlodipine besilate ΦΑΡΜΕΞ Α.Ε. capsule, hard 30 x 10mg/" //pcId ?
-* packageFor = Reference(PIDOLEN-ΓΕΝΟΣΗΜΟ-CAPS-10MG-CAP-MPD)
-* containedItemQuantity = <NA> $200000000014#200000002113 "Capsule"
+* packageFor = Reference(PIDOLEN-GENOSEMO-CAPS-10MG-CAP-MPD)
+* containedItemQuantity = 30 $200000000014#200000002113 "Capsule"
 * description = "Mock description"
 //  * extension.url = "http://ema.europa.eu/fhir/extension/language"
 //  * extension.valueCoding = $100000072057#100000072172 "Estonian"

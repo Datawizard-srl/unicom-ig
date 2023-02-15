@@ -1,4 +1,4 @@
-Instance: LOC-{{organization.identifier}}-{{organization.name}}
+Instance: LOC-{% if organization.identifier %}{{organization.identifier}}-{% endif %}{{organization.name}}
 InstanceOf: PPLOrganization
 Usage: #{{usage}}
 Description: "Marketing Authorisation Holder / Organisation"
