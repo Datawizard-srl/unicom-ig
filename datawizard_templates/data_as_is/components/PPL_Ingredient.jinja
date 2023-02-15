@@ -1,10 +1,10 @@
-Instance: {{full_name}}-I
+Instance: {{ingredient.substance.display|normalize_name}}-I
 InstanceOf: PPLIngredient
 Usage: #{{usage}}
 * status = #active
-* for[0] = Reference({{full_name}}-MPD)
-* for[+] = Reference({{full_name}}-MID)
-* for[+] = Reference({{full_name}}-APD)
+* for[0] = Reference({{full_name|normalize_name}}-MPD)
+* for[+] = Reference({{full_name|normalize_name}}-MID)
+* for[+] = Reference({{full_name|normalize_name}}-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $sms#{{ingredient.substance.code}} "{{ingredient.substance.display}}"
 {% if ingredient.presentation_ratio -%}
