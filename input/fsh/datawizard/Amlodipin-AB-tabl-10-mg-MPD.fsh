@@ -1,3 +1,5 @@
+
+
 Instance: Amlodipin-AB-tabl-10-mg-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
@@ -15,3 +17,4 @@ Usage: #example
 * name.part[strength].part = "strength"
 * name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
 * name.usage.language = $100000072057#100000072169 "Dutch"
+

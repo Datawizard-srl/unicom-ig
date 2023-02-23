@@ -26,6 +26,11 @@ import numpy as np
 from datawizard_templates.jinja_filters import add_custom_filters, normalize_name
 from script.utilities import *
 
+instance_list = []
+
+def is_duplicate(instance_id, check_list):
+    return instance_id in check_list
+
 
 def validate_row(row):
     # pharmaceutical dose form must be spor
@@ -35,21 +40,39 @@ def validate_row(row):
 
 
 def render_component(component_file_name, output_filename=None, context=None):
-    environment = Environment(loader=FileSystemLoader(os.path.join("./data_as_is/components")), extensions=['jinja2.ext.i18n'])
-    environment.add_extension('jinja2.ext.debug')
 
-    add_custom_filters(environment)
+    if not is_duplicate(context['instance_id'], instance_list):
+        environment = Environment(loader=FileSystemLoader(os.path.join("./data_as_is/components")), extensions=['jinja2.ext.i18n'])
+        environment.add_extension('jinja2.ext.debug')
 
-    path = component_file_name
-    template = environment.get_template(path)
+        add_custom_filters(environment)
 
-    output_str = template.render(**context)
+        path = component_file_name
+        template = environment.get_template(path)
 
-    output_filename = output_filename or context["full_name"]
-    print(f'Generating {output_filename}...')
-    with open(args.output / f'{output_filename}.fsh', 'a') as output_file:
-        output_file.write(output_str)
+        output_str = template.render(**context)
 
+        output_filename = output_filename or context["full_name"]
+        print(f'Generating {output_filename}...')
+        with open(args.output / f'{output_filename}.fsh', 'a') as output_file:
+            output_file.write(output_str)
+
+        instance_list.append(context['instance_id'])
+
+
+def write_list_to_file(file_path, file_name, input_list):
+    full_folder_path = f"{file_path}"
+
+    if not os.path.exists(full_folder_path):
+        os.makedirs(full_folder_path)
+
+    full_file_path = f"{full_folder_path}/{file_name}"
+
+    with open(full_file_path, "w") as file:
+        for item in input_list:
+            file.write(f"{item}\n")
+
+    print(f"Lista scritta nel file {full_file_path}")
 
 def main():
     ADMINISTRABLE_PRODUCT_DEFINITION = "PPL_AdministrableProductDefinition.jinja"
@@ -83,11 +106,13 @@ def main():
         common_file_name = normalize_name(base_context["full_name"])
 
         # RENDER APD
+        instance_id = f'{common_file_name}-APD'
         render_component(
             ADMINISTRABLE_PRODUCT_DEFINITION,
-            output_filename=f'{common_file_name}-APD',
+            output_filename=instance_id,
             context={
                 **base_context,
+                "instance_id": instance_id,
                 "administrable_product_definition": {
                     "administrable_doseform": get_doseform(row['administrableDoseForm']),
                     "unit_of_presentation": get_unit_of_presentation(row['pharmaceuticalProductUnitOfPresentation']),
@@ -97,13 +122,15 @@ def main():
         )
 
         # RENDER INGREDIENT
+        instance_id = f'I-{normalize_name(get_substance(row["substanceCode"])["display"])}'
         ratio_type, ratio_numerator, ratio_denominator, reference_strength = get_ingredient_info(row)
         render_component(
             INGREDIENT,
             #output_filename=f'I-{normalize_name(get_substance(row["substanceCode"])["display"])}-{normalize_name(base_context["full_name"])}',
-            output_filename=f'I-{normalize_name(get_substance(row["substanceCode"])["display"])}',
+            output_filename=instance_id,
             context={
                 **base_context,
+                "instance_id": instance_id,
                 "ingredient": {
                     #"full_name": normalize_name(f"{row['substanceCode']} {base_context['full_name']}"),
                     "full_name": normalize_name(f"{row['substanceCode']}"),
@@ -121,11 +148,13 @@ def main():
         )
 
         # RENDER MANUFACTURED_ITEM_DEFINITION
+        instance_id = f'{common_file_name}-MID'
         render_component(
             MANUFACTURED_ITEM_DEFINITION,
-            output_filename=f'{common_file_name}-MID',
+            output_filename=instance_id,
             context={
                 **base_context,
+                "instance_id": instance_id,
                 "manufactured_item_definition": {
                     "manufactured_doseform": {
                         **get_doseform(row['manufacturedDoseForm']),
@@ -137,11 +166,13 @@ def main():
         )
 
         # RENDER MEDICINAL_PRODUCT_DEFINITION
+        instance_id = f'{common_file_name}-MPD'
         render_component(
             MEDICINAL_PRODUCT_DEFINITION,
-            output_filename=f'{common_file_name}-MPD',
+            output_filename=instance_id,
             context={
                 **base_context,
+                "instance_id": instance_id,
                 "medicinal_product_definition": {
                     "pharmaceutical_doseform": get_doseform(row['administrableDoseForm']),
                     "legal_status_of_supply": {
@@ -158,11 +189,13 @@ def main():
         )
 
         # RENDER PACKAGED_PRODUCT_DEFINITION
+        instance_id = f'{common_file_name}-PPD'
         render_component(
             PACKAGED_PRODUCT_DEFINITION,
-            output_filename=f'{common_file_name}-PPD',
+            output_filename=instance_id,
             context={
                 **base_context,
+                "instance_id": instance_id,
                 "packaged_product_definition": {
                     "unit_of_presentation": get_unit_of_presentation(row['manufacturedItemUnitOfPresentation']),
                     "pack_size": row['packSize'],  # TODO packSize
@@ -177,13 +210,15 @@ def main():
         )
 
         # RENDER REGULATED_AUTHORIZATION
+        instance_id = f'{common_file_name}-RA'
         organization_identifier = row['marketingAuthorizationHolder'] if row['marketingAuthorizationHolder'] else ''
         organization_name = row['marketingAuthorizationHolderLabel'] if row['marketingAuthorizationHolderLabel'] else ''
         render_component(
             REGULATED_AUTHORIZATION,
-            output_filename=f'{common_file_name}-RA',
+            output_filename=instance_id,
             context={
                 **base_context,
+                "instance_id": instance_id,
                 "regulated_authorization": {
                     "authorization_holder": {
                         "code": organization_identifier,  # TODO not sure if this is the exact column
@@ -198,12 +233,13 @@ def main():
         )
 
         # RENDER ORGANIZATION
-        organization_filename = f"LOC{f'-{organization_identifier}' if organization_identifier else ''}{f'-{organization_name}' if organization_name else ''}"
+        instance_id = normalize_name(f"LOC{f'-{organization_identifier}' if organization_identifier else ''}{f'-{organization_name}' if organization_name else ''}")
         render_component(
             ORGANIZATION,
-            output_filename=organization_filename,
+            output_filename=instance_id,
             context={
                 **base_context,
+                "instance_id": instance_id,
                 "organization": {
                     "identifier": organization_identifier,
                     "name": organization_name,
@@ -212,6 +248,8 @@ def main():
             }
 
         )
+
+    write_list_to_file(pathlib.Path('results'), 'results.txt', instance_list)
 
 
 if __name__ == '__main__':

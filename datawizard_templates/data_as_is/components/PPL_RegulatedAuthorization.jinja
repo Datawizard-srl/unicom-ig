@@ -1,4 +1,6 @@
-Instance: {{full_name|normalize_name}}-RA
+
+
+Instance: {{instance_id}}
 InstanceOf: PPLRegulatedAuthorization
 Usage: #{{usage}}
 
@@ -9,3 +11,5 @@ Usage: #{{usage}}
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
 * holder = Reference(LOC-{% if regulated_authorization.organization.identifier %}{{regulated_authorization.organization.identifier}}-{% endif %}{{regulated_authorization.organization.name|normalize_name}})
+
+

@@ -1,7 +1,10 @@
-Instance: LOC-{% if organization.identifier %}{{organization.identifier}}-{% endif %}{{organization.name|normalize_name}}
+
+
+Instance: {{instance_id}}
 InstanceOf: PPLOrganization
 Usage: #{{usage}}
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = "{{organization.identifier}}"
 * name = "{{organization.name}}"
+

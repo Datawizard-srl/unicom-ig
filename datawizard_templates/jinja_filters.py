@@ -1,3 +1,5 @@
+import re
+
 import jinja2
 from unidecode import unidecode
 
@@ -17,11 +19,5 @@ def add_custom_filters(environment: jinja2.Environment):
 
 @custom_filter
 def normalize_name(name):
-    nonBreakSpace = u'\xa0'
-    name = name.strip()
-    name = name.replace(" ", "-").replace("/", '-')
-    name = name.replace("(", '').replace(")", '').replace(",", "").replace('.', '')
-    name = name.replace("&", "and").replace(nonBreakSpace, '')
-
-    #full_name = name.strip().replace(" ", "-").replace("(", '').replace(")", '').replace("/", '-').replace(",", "")
-    return unidecode(name)
+    normalized = re.sub(r"\W+", r"-", name.strip())
+    return unidecode(normalized)[:60]

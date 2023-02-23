@@ -1,3 +1,5 @@
+
+
 Instance: Amlodipin-AB-tabl-10-mg-PPD
 InstanceOf: PPLPackagedProductDefinition
 Usage: #example
@@ -20,3 +22,5 @@ Usage: #example
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
 //* packaging.packaging.containedItem.item.reference = Reference(Amlodipin-AB-tabl-10-mg-MID)
 //* packaging.packaging.containedItem.amount.value = 30
+
+
