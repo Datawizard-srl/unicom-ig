@@ -1,0 +1,6 @@
+Instance: TEGRETOL-SYR-100MG-5ML-MID
+InstanceOf: PPLManufacturedItemDefinition
+Usage: #example
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073652 "Syrup"
+* unitOfPresentation = $200000000014#200000022814 "Other"

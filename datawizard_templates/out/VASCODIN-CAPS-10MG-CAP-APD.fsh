@@ -1,0 +1,17 @@
+Instance: VASCODIN-CAPS-10MG-CAP-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #example
+* status = #active
+* formOf = Reference(VASCODIN-CAPS-10MG-CAP-MPD)
+* administrableDoseForm = $200000000004#100000073375 "Capsule, hard"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+* producedFrom = Reference(VASCODIN-CAPS-10MG-CAP-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"Instance: VASCODIN-CAPS-10MG-CAP-APD
+InstanceOf: PPLAdministrableProductDefinition
+Usage: #example
+* status = #active
+* formOf = Reference(VASCODIN-CAPS-10MG-CAP-MPD)
+* administrableDoseForm = $200000000004#100000073375 "Capsule, hard"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+* producedFrom = Reference(VASCODIN-CAPS-10MG-CAP-MID)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"

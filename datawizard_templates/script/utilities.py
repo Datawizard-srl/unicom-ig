@@ -46,15 +46,19 @@ def get_routes_of_administration(code):
     }
     return codes[code]
 
+
 def get_unit_of_measurement(code):
+    code = code.strip().lower()
     codes = {
         'mg': {'code': '100000110655', 'display': 'milligram(s)'},
-        '': {'code': '100000110662', 'display':  'millilitre(s)'}
+        'ml': {'code': '100000110662', 'display':  'millilitre(s)'},
+        'g': {'code': '100000110654', 'display': "gram(s)"},
     }
     return codes[code]
 
 
 def get_unit_of_presentation(code):
+    code = code or ''
     codes = {
         '15054000': {'code': '200000002152', 'display': 'Tablet'},
         '15012000': {'code': '200000002113', 'display': 'Capsule'},
@@ -99,3 +103,41 @@ def get_language_info_by_ema(abbreviation):
         'code': selected_language[0],
         "display": selected_language[1],
     }
+
+
+def get_ingredient_info(row):
+    has_concentration = row['pharmaceuticalProductUnitOfPresentation'] in [None, '']
+    ratio_type = "concentrationRatio" if has_concentration else "presentationRatio"
+    if has_concentration:
+        ratio_numerator = {
+            "value": float(row['referenceStrengthConcentrationNumeratorValue']) or 1,
+            **get_unit_of_measurement(row['referenceStrengthConcentrationNumeratorLabel'])
+        }
+        ratio_denominator = {
+            "value": row['referenceStrengthConcentrationDenominatorValue'] or 1,
+            **get_unit_of_measurement(row['referenceStrengthConcentrationDenominatorLabel']),
+        }
+        reference_strength = {}
+    else:
+        ratio_numerator = {
+            "value": float(row['referenceStrengthPresentationNumeratorValue']) or 1,
+            **get_unit_of_measurement(row['referenceStrengthPresentationNumeratorLabel'])
+        }
+        ratio_denominator = {
+            "value": row['referenceStrengthPresentationDenominatorValue'] or 1,
+            **get_unit_of_presentation(row['referenceStrengthPresentationDenominatorUnit']),
+        }
+        reference_strength = {
+            "reference_strength": {
+                "numerator": {
+                    "value": row['referenceStrengthPresentationNumeratorValue'] or 1,
+                    **get_unit_of_measurement(row['referenceStrengthPresentationNumeratorLabel'])
+                },
+                "denominator": {
+                    "value": row['referenceStrengthPresentationDenominatorValue'] or 1,
+                    **get_unit_of_presentation(row['referenceStrengthPresentationDenominatorUnit']),
+
+                }
+            }
+        }
+    return ratio_type, ratio_numerator, ratio_denominator, reference_strength

@@ -17,6 +17,8 @@
 import argparse
 import os
 import pathlib
+import shutil
+
 from jinja2 import Environment, FileSystemLoader
 import pandas as pd
 import numpy as np
@@ -45,7 +47,7 @@ def render_component(component_file_name, output_filename=None, context=None):
 
     output_filename = output_filename or context["full_name"]
     print(f'Generating {output_filename}...')
-    with open(args.output / f'{output_filename}.fsh', 'wt') as output_file:
+    with open(args.output / f'{output_filename}.fsh', 'a') as output_file:
         output_file.write(output_str)
 
 
@@ -59,7 +61,7 @@ def main():
     ORGANIZATION = "PPL_Organization.jinja"
 
     for index, row in df.iterrows():
-        if index > 0 : break
+        #if index > 0 : break
 
         print(f"row_{index=}", end=": ")
         validate_row(row)
@@ -88,47 +90,32 @@ def main():
                 **base_context,
                 "administrable_product_definition": {
                     "administrable_doseform": get_doseform(row['administrableDoseForm']),
-                    "unit_of_presentation": get_unit_of_presentation(row['pharmaceuticalProductUnitOfPresentation'] or ''),
+                    "unit_of_presentation": get_unit_of_presentation(row['pharmaceuticalProductUnitOfPresentation']),
                     "route_of_administration": get_routes_of_administration(row['routesOfAdministration']),
                 }
             }
         )
 
         # RENDER INGREDIENT
+        ratio_type, ratio_numerator, ratio_denominator, reference_strength = get_ingredient_info(row)
         render_component(
             INGREDIENT,
-            output_filename=f'I-{normalize_name(get_substance(row["substanceCode"])["display"])}-{normalize_name(base_context["full_name"])}',
+            #output_filename=f'I-{normalize_name(get_substance(row["substanceCode"])["display"])}-{normalize_name(base_context["full_name"])}',
+            output_filename=f'I-{normalize_name(get_substance(row["substanceCode"])["display"])}',
             context={
                 **base_context,
                 "ingredient": {
+                    #"full_name": normalize_name(f"{row['substanceCode']} {base_context['full_name']}"),
+                    "full_name": normalize_name(f"{row['substanceCode']}"),
                     "substance": get_substance(row['substanceCode']),
                     "moiety": {'code': row['moietyCode'], 'display': row['moietyLabel']},
 
-                    "presentation_ratio": {
-                        "numerator": {
-                            "value": float(row['referenceStrengthPresentationNumeratorValue']) or 1,
-                            **get_unit_of_measurement(row['referenceStrengthPresentationNumeratorLabel'].strip().lower())
-                        },
-                        "denominator": {
-                            "value": row['referenceStrengthPresentationDenominatorValue'] or 1,
-                            **get_unit_of_presentation(row['referenceStrengthPresentationDenominatorUnit']),
-                        }
+                    "ratio": {
+                        "type": ratio_type,
+                        "numerator": ratio_numerator,
+                        "denominator": ratio_denominator,
                     },
-
-                    "reference_strength": {
-                        "numerator": {
-                            "value": row['referenceStrengthPresentationNumeratorValue'] or 1,
-                            **get_unit_of_measurement(row['referenceStrengthPresentationNumeratorLabel'].strip().lower())
-                        },
-                        "denominator": {
-                            "value": row['referenceStrengthPresentationDenominatorValue'] or 1,
-                            **get_unit_of_presentation(row['referenceStrengthPresentationDenominatorUnit']),
-
-                        }
-                    },
-                    "concentration": {
-
-                    }
+                    **reference_strength,
                 },
             }
         )
@@ -282,6 +269,7 @@ if __name__ == '__main__':
 
     df['country'] = df['country'].str.lower()
     # create output dir if doesn't exists
+    shutil.rmtree(args.output)
     pathlib.Path.mkdir(args.output, parents=True, exist_ok=True)
 
     main()
