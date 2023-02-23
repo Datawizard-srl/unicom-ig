@@ -7,5 +7,5 @@ Usage: #{{usage}}
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#{{country.code}} "{{country.display}}"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
-* statusDate = "2013-06-07"
-* holder = Reference({{regulated_authorization.organization.identifier}})
+//  * statusDate = "2013-06-07"
+* holder = Reference(LOC-{% if regulated_authorization.organization.identifier %}{{regulated_authorization.organization.identifier}}-{% endif %}{{regulated_authorization.organization.name|normalize_name}})

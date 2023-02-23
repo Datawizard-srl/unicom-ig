@@ -46,6 +46,13 @@ def get_routes_of_administration(code):
     }
     return codes[code]
 
+def get_unit_of_measurement(code):
+    codes = {
+        'mg': {'code': '100000110655', 'display': 'milligram(s)'},
+        '': {'code': '100000110662', 'display':  'millilitre(s)'}
+    }
+    return codes[code]
+
 
 def get_unit_of_presentation(code):
     codes = {
@@ -53,7 +60,8 @@ def get_unit_of_presentation(code):
         '15012000': {'code': '200000002113', 'display': 'Capsule'},
         '15045000': {'code': '200000002143', 'display': 'Sachet'},
         '15036000': {'code': '200000002134', 'display': 'Patch'},
-        '15051000': {'code': '200000002149', 'display': 'Suppository'}
+        '15051000': {'code': '200000002149', 'display': 'Suppository'},
+        '': {'code': '200000022814', 'display': 'Other'}
     }
     return codes[code]
 

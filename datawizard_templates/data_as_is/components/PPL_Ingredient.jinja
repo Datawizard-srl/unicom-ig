@@ -15,4 +15,6 @@ Usage: #{{usage}}
 * substance.strength.referenceStrength.substance.concept = $sms#{{ingredient.moiety.code}} "{{ingredient.moiety.display}}"
 * substance.strength.referenceStrength.strengthRatio.numerator = {{ingredient.reference_strength.numerator.value}} $100000110633#{{ingredient.reference_strength.numerator.code}} "{{ingredient.reference_strength.numerator.display}}"
 * substance.strength.referenceStrength.strengthRatio.denominator = {{ingredient.reference_strength.denominator.value}} $100000110633#{{ingredient.reference_strength.denominator.code}} "{{ingredient.reference_strength.denominator.display}}"
+{%- elif ingredient.concetration %}
+* substance.strength.referenceStrength.strengthRatio.numerator = {{ingredient.reference_strength.numerator.value}} $100000110633#{{ingredient.reference_strength.numerator.code}} "{{ingredient.reference_strength.numerator.display}}"
 {%- endif %}

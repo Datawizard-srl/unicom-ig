@@ -64,7 +64,7 @@ def main():
         print(f"row_{index=}", end=": ")
         validate_row(row)
 
-        if not row['pharmaceuticalProductUnitOfPresentation'] or row['substanceName'].upper() == 'AMLODIPINE MESILATE MONOHYDRATE':
+        if row['substanceName'].upper() == 'AMLODIPINE MESILATE MONOHYDRATE':
             # TODO if unit of presentation is null then concentration strength must be not null
             # TODO missing AMLODIPINE MESILATE MONOHYDRATE from sustance code system
             continue
@@ -88,7 +88,7 @@ def main():
                 **base_context,
                 "administrable_product_definition": {
                     "administrable_doseform": get_doseform(row['administrableDoseForm']),
-                    "unit_of_presentation": get_unit_of_presentation(row['pharmaceuticalProductUnitOfPresentation']),
+                    "unit_of_presentation": get_unit_of_presentation(row['pharmaceuticalProductUnitOfPresentation'] or ''),
                     "route_of_administration": get_routes_of_administration(row['routesOfAdministration']),
                 }
             }
@@ -97,7 +97,7 @@ def main():
         # RENDER INGREDIENT
         render_component(
             INGREDIENT,
-            output_filename=f'I-{normalize_name(get_substance(row["substanceCode"])["display"])}',
+            output_filename=f'I-{normalize_name(get_substance(row["substanceCode"])["display"])}-{normalize_name(base_context["full_name"])}',
             context={
                 **base_context,
                 "ingredient": {
@@ -106,33 +106,34 @@ def main():
 
                     "presentation_ratio": {
                         "numerator": {
-                            "value": float(row['referenceStrengthPresentationNumeratorValue']),
-                            "code": '',
-                            "display": '',
+                            "value": float(row['referenceStrengthPresentationNumeratorValue']) or 1,
+                            **get_unit_of_measurement(row['referenceStrengthPresentationNumeratorLabel'].strip().lower())
                         },
                         "denominator": {
                             "value": row['referenceStrengthPresentationDenominatorValue'] or 1,
-                            "code": '',
-                            "display": '',
+                            **get_unit_of_presentation(row['referenceStrengthPresentationDenominatorUnit']),
                         }
                     },
 
                     "reference_strength": {
                         "numerator": {
-                            "value": row['referenceStrengthPresentationNumeratorValue'],
-                            "code": '',
-                            "display": '',
+                            "value": row['referenceStrengthPresentationNumeratorValue'] or 1,
+                            **get_unit_of_measurement(row['referenceStrengthPresentationNumeratorLabel'].strip().lower())
                         },
                         "denominator": {
                             "value": row['referenceStrengthPresentationDenominatorValue'] or 1,
-                            "code": '',
-                            "display": '',
-                        },
+                            **get_unit_of_presentation(row['referenceStrengthPresentationDenominatorUnit']),
+
+                        }
                     },
+                    "concentration": {
+
+                    }
                 },
             }
         )
 
+        # RENDER MANUFACTURED_ITEM_DEFINITION
         render_component(
             MANUFACTURED_ITEM_DEFINITION,
             output_filename=f'{common_file_name}-MID',
@@ -148,6 +149,7 @@ def main():
             }
         )
 
+        # RENDER MEDICINAL_PRODUCT_DEFINITION
         render_component(
             MEDICINAL_PRODUCT_DEFINITION,
             output_filename=f'{common_file_name}-MPD',
@@ -168,6 +170,7 @@ def main():
             }
         )
 
+        # RENDER PACKAGED_PRODUCT_DEFINITION
         render_component(
             PACKAGED_PRODUCT_DEFINITION,
             output_filename=f'{common_file_name}-PPD',
@@ -175,12 +178,18 @@ def main():
                 **base_context,
                 "packaged_product_definition": {
                     "unit_of_presentation": get_unit_of_presentation(row['manufacturedItemUnitOfPresentation']),
-                    "pack_size": row['packsize'],  # TODO packSize
+                    "pack_size": row['packSize'],  # TODO packSize
                     "description": "Mock description",
+                    "packaging": {
+                        "type": 'Bottle' if row['manufacturedItemQuanty'] == 'syrup' else 'Box',
+                        "code": 200000002111 if row['manufacturedItemQuanty'] == 'syrup' else 100000073498, #TODO set code for bottle EDQM or SPOR?
+                        "quantity": 1 #if row['manufacturedItemQuanty'] == 'syrup' else row['manufacturedItemQuanty'],
+                    }
                 },
             }
         )
 
+        # RENDER REGULATED_AUTHORIZATION
         organization_identifier = row['marketingAuthorizationHolder'] if row['marketingAuthorizationHolder'] else ''
         organization_name = row['marketingAuthorizationHolderLabel'] if row['marketingAuthorizationHolderLabel'] else ''
         render_component(
@@ -201,6 +210,7 @@ def main():
             }
         )
 
+        # RENDER ORGANIZATION
         organization_filename = f"LOC{f'-{organization_identifier}' if organization_identifier else ''}{f'-{organization_name}' if organization_name else ''}"
         render_component(
             ORGANIZATION,
