@@ -1,9 +1,8 @@
 
 
-Instance: Amlodipin-AB-tabl-10-mg-MPD
+Instance: Amlodipin-AB-tabl-10-mg-0-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Amlodipin AB tabl. 10 mg"
 
 * identifier[mpid].value = "BEL amlodipine besilate Aurobindo tablet 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -21,10 +20,29 @@ Title: "Amlodipin AB tabl. 10 mg"
 
 
 
-Instance: Amlodipin-Sandoz-Impexeco-tabl-deelb-Besilaat-10-mg-MPD
+Instance: Amlodipin-AB-tabl-10-mg-1-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Amlodipin Sandoz (Impexeco) tabl. (deelb.) Besilaat 10 mg"
+
+* identifier[mpid].value = "BEL amlodipine besilate Aurobindo tablet 10mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Amlodipin AB tabl. 10 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Amlodipin-Sandoz-Impexeco-tabl-deelb-Besilaat-10-m-2-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL amlodipine besilate Impexeco tablet 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -42,10 +60,9 @@ Title: "Amlodipin Sandoz (Impexeco) tabl. (deelb.) Besilaat 10 mg"
 
 
 
-Instance: Amlodipin-Sandoz-tabl-deelb-Besilaat-10-mg-MPD
+Instance: Amlodipin-Sandoz-tabl-deelb-Besilaat-10-mg-3-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Amlodipin Sandoz tabl. (deelb.) Besilaat 10 mg"
 
 * identifier[mpid].value = "BEL amlodipine besilate Sandoz tablet 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -63,10 +80,49 @@ Title: "Amlodipin Sandoz tabl. (deelb.) Besilaat 10 mg"
 
 
 
-Instance: Amlodipine-EG-PIP-tabl-deelb-Besilate-10-mg-MPD
+Instance: Amlodipin-Sandoz-tabl-deelb-Besilaat-10-mg-4-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Amlodipine EG (PIP) tabl. (deelb.) Besilate 10 mg"
+
+* identifier[mpid].value = "BEL amlodipine besilate Sandoz tablet 10mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Amlodipin Sandoz tabl. (deelb.) Besilaat 10 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Amlodipin-Sandoz-tabl-deelb-Besilaat-10-mg-5-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
+
+* identifier[mpid].value = "BEL amlodipine besilate Sandoz tablet 10mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Amlodipin Sandoz tabl. (deelb.) Besilaat 10 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Amlodipine-EG-PIP-tabl-deelb-Besilate-10-mg-6-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL amlodipine besilate PI-Pharma tablet 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -84,10 +140,9 @@ Title: "Amlodipine EG (PIP) tabl. (deelb.) Besilate 10 mg"
 
 
 
-Instance: Amlodipine-EG-tabl-deelb-Besilate-10-mg-MPD
+Instance: Amlodipine-EG-tabl-deelb-Besilate-10-mg-7-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Amlodipine EG tabl. (deelb.) Besilate 10 mg"
 
 * identifier[mpid].value = "BEL amlodipine besilate EG tablet 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -105,10 +160,29 @@ Title: "Amlodipine EG tabl. (deelb.) Besilate 10 mg"
 
 
 
-Instance: Amlodipine-Mylan-tabl-deelb-Besilate-10-mg-MPD
+Instance: Amlodipine-EG-tabl-deelb-Besilate-10-mg-8-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Amlodipine Mylan tabl. (deelb.) Besilate 10 mg"
+
+* identifier[mpid].value = "BEL amlodipine besilate EG tablet 10mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Amlodipine EG tabl. (deelb.) Besilate 10 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Amlodipine-Mylan-tabl-deelb-Besilate-10-mg-9-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL amlodipine besilate Mylan tablet 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -126,10 +200,9 @@ Title: "Amlodipine Mylan tabl. (deelb.) Besilate 10 mg"
 
 
 
-Instance: Amlodipine-Teva-tabl-deelb-10-mg-MPD
+Instance: Amlodipine-Teva-tabl-deelb-10-mg-10-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Amlodipine Teva tabl. (deelb.) 10 mg"
 
 * identifier[mpid].value = "BEL amlodipine besilate Teva tablet 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -147,10 +220,29 @@ Title: "Amlodipine Teva tabl. (deelb.) 10 mg"
 
 
 
-Instance: Amlor-harde-caps-10-mg-MPD
+Instance: Amlodipine-Teva-tabl-deelb-10-mg-11-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Amlor harde caps. 10 mg"
+
+* identifier[mpid].value = "BEL amlodipine besilate Teva tablet 10mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Amlodipine Teva tabl. (deelb.) 10 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Amlor-harde-caps-10-mg-12-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL amlodipine besilate Upjohn capsule, hard 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -168,10 +260,49 @@ Title: "Amlor harde caps. 10 mg"
 
 
 
-Instance: Amlodipin-AB-tabl-5-mg-MPD
+Instance: Amlor-harde-caps-10-mg-13-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Amlodipin AB tabl. 5 mg"
+
+* identifier[mpid].value = "BEL amlodipine besilate Upjohn capsule, hard 10mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Amlor harde caps. 10 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Amlor-harde-caps-10-mg-14-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
+
+* identifier[mpid].value = "BEL amlodipine besilate Upjohn capsule, hard 10mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Amlor harde caps. 10 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Amlodipin-AB-tabl-5-mg-15-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL amlodipine besilate Aurobindo tablet 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -189,10 +320,29 @@ Title: "Amlodipin AB tabl. 5 mg"
 
 
 
-Instance: Amlodipin-Sandoz-tabl-deelb-Besilaat-5-mg-MPD
+Instance: Amlodipin-AB-tabl-5-mg-16-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Amlodipin Sandoz tabl. (deelb.) Besilaat 5 mg"
+
+* identifier[mpid].value = "BEL amlodipine besilate Aurobindo tablet 5mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Amlodipin AB tabl. 5 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Amlodipin-Sandoz-tabl-deelb-Besilaat-5-mg-17-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL amlodipine besilate Sandoz tablet 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -210,10 +360,69 @@ Title: "Amlodipin Sandoz tabl. (deelb.) Besilaat 5 mg"
 
 
 
-Instance: Amlodipine-EG-tabl-Besilate-5-mg-MPD
+Instance: Amlodipin-Sandoz-tabl-deelb-Besilaat-5-mg-18-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Amlodipine EG tabl. Besilate 5 mg"
+
+* identifier[mpid].value = "BEL amlodipine besilate Sandoz tablet 5mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Amlodipin Sandoz tabl. (deelb.) Besilaat 5 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Amlodipin-Sandoz-tabl-deelb-Besilaat-5-mg-19-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
+
+* identifier[mpid].value = "BEL amlodipine besilate Sandoz tablet 5mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Amlodipin Sandoz tabl. (deelb.) Besilaat 5 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Amlodipin-Sandoz-tabl-deelb-Besilaat-5-mg-20-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
+
+* identifier[mpid].value = "BEL amlodipine besilate Sandoz tablet 5mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Amlodipin Sandoz tabl. (deelb.) Besilaat 5 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Amlodipine-EG-tabl-Besilate-5-mg-21-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL amlodipine besilate EG tablet 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -231,10 +440,29 @@ Title: "Amlodipine EG tabl. Besilate 5 mg"
 
 
 
-Instance: Amlodipine-Mylan-tabl-deelb-Besilate-5-mg-MPD
+Instance: Amlodipine-EG-tabl-Besilate-5-mg-22-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Amlodipine Mylan tabl. (deelb.) Besilate 5 mg"
+
+* identifier[mpid].value = "BEL amlodipine besilate EG tablet 5mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Amlodipine EG tabl. Besilate 5 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Amlodipine-Mylan-tabl-deelb-Besilate-5-mg-23-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL amlodipine besilate Mylan tablet 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -252,10 +480,29 @@ Title: "Amlodipine Mylan tabl. (deelb.) Besilate 5 mg"
 
 
 
-Instance: Amlodipine-Teva-tabl-deelb-5-mg-MPD
+Instance: Amlodipine-Mylan-tabl-deelb-Besilate-5-mg-24-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Amlodipine Teva tabl. (deelb.) 5 mg"
+
+* identifier[mpid].value = "BEL amlodipine besilate Mylan tablet 5mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Amlodipine Mylan tabl. (deelb.) Besilate 5 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Amlodipine-Teva-tabl-deelb-5-mg-25-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL amlodipine besilate Teva tablet 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -273,10 +520,49 @@ Title: "Amlodipine Teva tabl. (deelb.) 5 mg"
 
 
 
-Instance: Amlor-harde-caps-5-mg-MPD
+Instance: Amlodipine-Teva-tabl-deelb-5-mg-26-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Amlor harde caps. 5 mg"
+
+* identifier[mpid].value = "BEL amlodipine besilate Teva tablet 5mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Amlodipine Teva tabl. (deelb.) 5 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Amlodipine-Teva-tabl-deelb-5-mg-27-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
+
+* identifier[mpid].value = "BEL amlodipine besilate Teva tablet 5mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Amlodipine Teva tabl. (deelb.) 5 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Amlor-harde-caps-5-mg-28-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL amlodipine besilate Upjohn capsule, hard 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -294,10 +580,69 @@ Title: "Amlor harde caps. 5 mg"
 
 
 
-Instance: Amlodipine-Belisate-Mylan-10-mg-MPD
+Instance: Amlor-harde-caps-5-mg-29-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Amlodipine Belisate Mylan 10 mg"
+
+* identifier[mpid].value = "BEL amlodipine besilate Upjohn capsule, hard 5mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Amlor harde caps. 5 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Amlor-harde-caps-5-mg-30-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
+
+* identifier[mpid].value = "BEL amlodipine besilate Upjohn capsule, hard 5mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Amlor harde caps. 5 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Amlor-harde-caps-5-mg-31-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
+
+* identifier[mpid].value = "BEL amlodipine besilate Upjohn capsule, hard 5mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Amlor harde caps. 5 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Amlodipine-Belisate-Mylan-10-mg-32-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL amlodipine besilate Mylan EPD tablet 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -315,10 +660,9 @@ Title: "Amlodipine Belisate Mylan 10 mg"
 
 
 
-Instance: Amlogal-Divule-omh-tabl-10-mg-MPD
+Instance: Amlogal-Divule-omh-tabl-10-mg-33-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Amlogal Divule omh. tabl. 10 mg"
 
 * identifier[mpid].value = "BEL amlodipine maleate SMB coated tablet 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -336,10 +680,29 @@ Title: "Amlogal Divule omh. tabl. 10 mg"
 
 
 
-Instance: Amlodipine-Krka-tabl-10-mg-MPD
+Instance: Amlogal-Divule-omh-tabl-10-mg-34-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Amlodipine Krka tabl. 10 mg"
+
+* identifier[mpid].value = "BEL amlodipine maleate SMB coated tablet 10mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Amlogal Divule omh. tabl. 10 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Amlodipine-Krka-tabl-10-mg-35-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL amlodipine maleate Krka tablet 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -357,10 +720,29 @@ Title: "Amlodipine Krka tabl. 10 mg"
 
 
 
-Instance: Amlodipine-Krka-tabl-5-mg-MPD
+Instance: Amlodipine-Krka-tabl-10-mg-36-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Amlodipine Krka tabl. 5 mg"
+
+* identifier[mpid].value = "BEL amlodipine maleate Krka tablet 10mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Amlodipine Krka tabl. 10 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Amlodipine-Krka-tabl-5-mg-37-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL amlodipine maleate Krka tablet 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -378,10 +760,49 @@ Title: "Amlodipine Krka tabl. 5 mg"
 
 
 
-Instance: Tegretol-tabl-geregul-afgifte-deelb-CR-200-mg-MPD
+Instance: Amlodipine-Krka-tabl-5-mg-38-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Tegretol tabl. geregul. afgifte (deelb.) CR 200 mg"
+
+* identifier[mpid].value = "BEL amlodipine maleate Krka tablet 5mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Amlodipine Krka tabl. 5 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Amlodipine-Krka-tabl-5-mg-39-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
+
+* identifier[mpid].value = "BEL amlodipine maleate Krka tablet 5mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Amlodipine Krka tabl. 5 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Tegretol-tabl-geregul-afgifte-deelb-CR-200-mg-40-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL carbamazepine Novartis Pharma prolonged-release tablet 200mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -399,10 +820,9 @@ Title: "Tegretol tabl. geregul. afgifte (deelb.) CR 200 mg"
 
 
 
-Instance: Tegretol-tabl-geregul-afgifte-deelb-CR-400-mg-MPD
+Instance: Tegretol-tabl-geregul-afgifte-deelb-CR-400-mg-41-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Tegretol tabl. geregul. afgifte (deelb.) CR 400 mg"
 
 * identifier[mpid].value = "BEL carbamazepine Novartis Pharma prolonged-release tablet 400mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -420,10 +840,9 @@ Title: "Tegretol tabl. geregul. afgifte (deelb.) CR 400 mg"
 
 
 
-Instance: Tegretol-siroop-susp-100-mg-5-ml-MPD
+Instance: Tegretol-siroop-susp-100-mg-5-ml-42-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Tegretol siroop susp. 100 mg / 5 ml"
 
 * identifier[mpid].value = "BEL carbamazepine Novartis Pharma syrup 100mg/5mL"
 * domain = $100000000004#100000000012 "Human use"
@@ -441,10 +860,9 @@ Title: "Tegretol siroop susp. 100 mg / 5 ml"
 
 
 
-Instance: Tegretol-tabl-deelb-200-mg-MPD
+Instance: Tegretol-tabl-deelb-200-mg-43-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Tegretol tabl. (deelb.) 200 mg"
 
 * identifier[mpid].value = "BEL carbamazepine Novartis Pharma tablet 200mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -462,10 +880,9 @@ Title: "Tegretol tabl. (deelb.) 200 mg"
 
 
 
-Instance: Extrapan-5-transderm-lok-gel-50-mg-1-g-MPD
+Instance: Extrapan-5-transderm-lok-gel-50-mg-1-g-44-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Extrapan 5 % transderm. lok. gel 50 mg / 1 g"
 
 * identifier[mpid].value = "BEL ibuprofen  Qualiphar transdermal gel 50mg/1g"
 * domain = $100000000004#100000000012 "Human use"
@@ -483,10 +900,9 @@ Title: "Extrapan 5 % transderm. lok. gel 50 mg / 1 g"
 
 
 
-Instance: Ibuprofen-Kela-5-transderm-lok-gel-50-mg-1-g-MPD
+Instance: Ibuprofen-Kela-5-transderm-lok-gel-50-mg-1-g-45-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Ibuprofen Kela 5 % transderm. lok. gel 50 mg / 1 g"
 
 * identifier[mpid].value = "BEL ibuprofen  Kela transdermal gel 50mg/1g"
 * domain = $100000000004#100000000012 "Human use"
@@ -504,10 +920,9 @@ Title: "Ibuprofen Kela 5 % transderm. lok. gel 50 mg / 1 g"
 
 
 
-Instance: Ibuprofen-Teva-5-transderm-lok-gel-50-mg-1-g-MPD
+Instance: Ibuprofen-Teva-5-transderm-lok-gel-50-mg-1-g-46-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Ibuprofen Teva 5 % transderm. lok. gel 50 mg / 1 g"
 
 * identifier[mpid].value = "BEL ibuprofen  Teva transdermal gel 50mg/1g"
 * domain = $100000000004#100000000012 "Human use"
@@ -525,10 +940,29 @@ Title: "Ibuprofen Teva 5 % transderm. lok. gel 50 mg / 1 g"
 
 
 
-Instance: Pedea-inf-oploss-i-v-amp-10-mg-2-ml-MPD
+Instance: Ibuprofen-Teva-5-transderm-lok-gel-50-mg-1-g-47-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Pedea inf. oploss. i.v. [amp.] 10 mg / 2 ml"
+
+* identifier[mpid].value = "BEL ibuprofen  Teva transdermal gel 50mg/1g"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000116134 "Transdermal gel"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Ibuprofen Teva 5 % transderm. lok. gel 50 mg / 1 g"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Pedea-inf-oploss-i-v-amp-10-mg-2-ml-48-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL ibuprofen  Recordati solution for infusion  10mg/2mL"
 * domain = $100000000004#100000000012 "Human use"
@@ -546,10 +980,9 @@ Title: "Pedea inf. oploss. i.v. [amp.] 10 mg / 2 ml"
 
 
 
-Instance: Ibuprofen-B-Braun-inf-oploss-i-v-flac-200-mg-50-ml-MPD
+Instance: Ibuprofen-B-Braun-inf-oploss-i-v-flac-200-mg-50-ml-49-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Ibuprofen B. Braun inf. oploss. i.v. [flac.] 200 mg / 50 ml"
 
 * identifier[mpid].value = "BEL ibuprofen  B. Braun solution for infusion  200mg/50mL"
 * domain = $100000000004#100000000012 "Human use"
@@ -567,10 +1000,9 @@ Title: "Ibuprofen B. Braun inf. oploss. i.v. [flac.] 200 mg / 50 ml"
 
 
 
-Instance: Ibuprofen-B-Braun-inf-oploss-i-v-flac-400-mg-100-ml-MPD
+Instance: Ibuprofen-B-Braun-inf-oploss-i-v-flac-400-mg-100-m-50-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Ibuprofen B. Braun inf. oploss. i.v. [flac.] 400 mg / 100 ml"
 
 * identifier[mpid].value = "BEL ibuprofen  B. Braun solution for infusion  400mg/100mL"
 * domain = $100000000004#100000000012 "Human use"
@@ -588,10 +1020,9 @@ Title: "Ibuprofen B. Braun inf. oploss. i.v. [flac.] 400 mg / 100 ml"
 
 
 
-Instance: Ibuprofen-B-Braun-inf-oploss-i-v-flac-600-mg-100-ml-MPD
+Instance: Ibuprofen-B-Braun-inf-oploss-i-v-flac-600-mg-100-m-51-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Ibuprofen B. Braun inf. oploss. i.v. [flac.] 600 mg / 100 ml"
 
 * identifier[mpid].value = "BEL ibuprofen  B. Braun solution for infusion  600mg/100mL"
 * domain = $100000000004#100000000012 "Human use"
@@ -609,10 +1040,9 @@ Title: "Ibuprofen B. Braun inf. oploss. i.v. [flac.] 600 mg / 100 ml"
 
 
 
-Instance: Brufen-tabl-verl-afgifte-Retard-800-mg-MPD
+Instance: Brufen-tabl-verl-afgifte-Retard-800-mg-52-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Brufen tabl. verl. afgifte Retard 800 mg"
 
 * identifier[mpid].value = "BEL ibuprofen  Mylan EPD prolonged-release tablet 800mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -630,10 +1060,29 @@ Title: "Brufen tabl. verl. afgifte Retard 800 mg"
 
 
 
-Instance: Ibuprofen-EG-tabl-verl-afgifte-800-mg-MPD
+Instance: Brufen-tabl-verl-afgifte-Retard-800-mg-53-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Ibuprofen EG tabl. verl. afgifte 800 mg"
+
+* identifier[mpid].value = "BEL ibuprofen  Mylan EPD prolonged-release tablet 800mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Brufen tabl. verl. afgifte Retard 800 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Ibuprofen-EG-tabl-verl-afgifte-800-mg-54-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL ibuprofen  EG prolonged-release tablet 800mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -651,10 +1100,29 @@ Title: "Ibuprofen EG tabl. verl. afgifte 800 mg"
 
 
 
-Instance: Nurofen-zachte-kauwcaps-Kinderen-100-mg-MPD
+Instance: Ibuprofen-EG-tabl-verl-afgifte-800-mg-55-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Nurofen zachte kauwcaps. Kinderen 100 mg"
+
+* identifier[mpid].value = "BEL ibuprofen  EG prolonged-release tablet 800mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Ibuprofen EG tabl. verl. afgifte 800 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Nurofen-zachte-kauwcaps-Kinderen-100-mg-56-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser chewable capsule, soft 100mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -672,10 +1140,9 @@ Title: "Nurofen zachte kauwcaps. Kinderen 100 mg"
 
 
 
-Instance: Algidrin-siroop-susp-100-mg-5-ml-MPD
+Instance: Algidrin-siroop-susp-100-mg-5-ml-57-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Algidrin siroop susp. 100 mg / 5 ml"
 
 * identifier[mpid].value = "BEL Ibuprofen lysine I.D. Phar syrup 100mg/5mL"
 * domain = $100000000004#100000000012 "Human use"
@@ -693,10 +1160,9 @@ Title: "Algidrin siroop susp. 100 mg / 5 ml"
 
 
 
-Instance: Nurofen-2-siroop-susp-zonder-suiker-Kinderen-100-mg-5-ml-MPD
+Instance: Nurofen-2-siroop-susp-zonder-suiker-Kinderen-100-m-58-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Nurofen 2 % siroop susp. (zonder suiker) Kinderen 100 mg / 5 ml"
 
 * identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser syrup 100mg/5mL"
 * domain = $100000000004#100000000012 "Human use"
@@ -714,10 +1180,9 @@ Title: "Nurofen 2 % siroop susp. (zonder suiker) Kinderen 100 mg / 5 ml"
 
 
 
-Instance: Nurofen-2-siroop-susp-zonder-suiker-Rood-Kinderen-100-mg-5--MPD
+Instance: Nurofen-2-siroop-susp-zonder-suiker-Rood-Kinderen--59-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Nurofen 2 % siroop susp. (zonder suiker) Rood Kinderen 100 mg / 5 ml"
 
 * identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser syrup 100mg/5mL"
 * domain = $100000000004#100000000012 "Human use"
@@ -735,10 +1200,9 @@ Title: "Nurofen 2 % siroop susp. (zonder suiker) Rood Kinderen 100 mg / 5 ml"
 
 
 
-Instance: Perdophen-2-siroop-susp-100-mg-5-ml-MPD
+Instance: Perdophen-2-siroop-susp-100-mg-5-ml-60-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Perdophen 2 % siroop susp. 100 mg / 5 ml"
 
 * identifier[mpid].value = "BEL ibuprofen  Johnson & Johnson Consumer syrup 100mg/5mL"
 * domain = $100000000004#100000000012 "Human use"
@@ -756,10 +1220,9 @@ Title: "Perdophen 2 % siroop susp. 100 mg / 5 ml"
 
 
 
-Instance: Ibuprofen-EG-omh-tabl-200-mg-MPD
+Instance: Ibuprofen-EG-omh-tabl-200-mg-61-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Ibuprofen EG omh. tabl. 200 mg"
 
 * identifier[mpid].value = "BEL ibuprofen  EG coated tablet 200mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -777,10 +1240,9 @@ Title: "Ibuprofen EG omh. tabl. 200 mg"
 
 
 
-Instance: Ibuprofen-Sandoz-filmomh-tabl-200-mg-MPD
+Instance: Ibuprofen-Sandoz-filmomh-tabl-200-mg-62-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Ibuprofen Sandoz filmomh. tabl. 200 mg"
 
 * identifier[mpid].value = "BEL ibuprofen  Sandoz prolonged-release tablet 200mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -798,10 +1260,9 @@ Title: "Ibuprofen Sandoz filmomh. tabl. 200 mg"
 
 
 
-Instance: Nurofen-omh-tabl-200-mg-MPD
+Instance: Nurofen-omh-tabl-200-mg-63-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Nurofen omh. tabl. 200 mg"
 
 * identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser coated tablet 200mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -819,10 +1280,29 @@ Title: "Nurofen omh. tabl. 200 mg"
 
 
 
-Instance: Nurofen-omh-tabl-Kinderen-200-mg-MPD
+Instance: Nurofen-omh-tabl-200-mg-64-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Nurofen omh. tabl. Kinderen 200 mg"
+
+* identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser coated tablet 200mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Nurofen omh. tabl. 200 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Nurofen-omh-tabl-Kinderen-200-mg-65-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser coated tablet 200mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -840,10 +1320,9 @@ Title: "Nurofen omh. tabl. Kinderen 200 mg"
 
 
 
-Instance: Spidifen-oploss-gran-zakjes-200-mg-MPD
+Instance: Spidifen-oploss-gran-zakjes-200-mg-66-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Spidifen oploss. (gran., zakjes) 200 mg"
 
 * identifier[mpid].value = "BEL ibuprofen arginine Zambon granules for oral solution 200mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -861,10 +1340,9 @@ Title: "Spidifen oploss. (gran., zakjes) 200 mg"
 
 
 
-Instance: Brufen-siroop-susp-200-mg-5-ml-MPD
+Instance: Brufen-siroop-susp-200-mg-5-ml-67-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Brufen siroop susp. 200 mg / 5 ml"
 
 * identifier[mpid].value = "BEL ibuprofen  Mylan EPD syrup 200mg/5mL"
 * domain = $100000000004#100000000012 "Human use"
@@ -882,10 +1360,9 @@ Title: "Brufen siroop susp. 200 mg / 5 ml"
 
 
 
-Instance: Ibuprofen-EG-siroop-susp-200-mg-5-ml-MPD
+Instance: Ibuprofen-EG-siroop-susp-200-mg-5-ml-68-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Ibuprofen EG siroop susp. 200 mg / 5 ml"
 
 * identifier[mpid].value = "BEL ibuprofen  EG syrup 200mg/5mL"
 * domain = $100000000004#100000000012 "Human use"
@@ -903,10 +1380,9 @@ Title: "Ibuprofen EG siroop susp. 200 mg / 5 ml"
 
 
 
-Instance: Nurofen-4-siroop-susp-zonder-suiker-Kinderen-200-mg-5-ml-MPD
+Instance: Nurofen-4-siroop-susp-zonder-suiker-Kinderen-200-m-69-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Nurofen 4 % siroop susp. (zonder suiker) Kinderen 200 mg / 5 ml"
 
 * identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser syrup 200mg/5mL"
 * domain = $100000000004#100000000012 "Human use"
@@ -924,10 +1400,9 @@ Title: "Nurofen 4 % siroop susp. (zonder suiker) Kinderen 200 mg / 5 ml"
 
 
 
-Instance: Nurofen-4-siroop-susp-zonder-suiker-Rood-Kinderen-200-mg-5--MPD
+Instance: Nurofen-4-siroop-susp-zonder-suiker-Rood-Kinderen--70-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Nurofen 4 % siroop susp. (zonder suiker) Rood Kinderen 200 mg / 5 ml"
 
 * identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser syrup 200mg/5mL"
 * domain = $100000000004#100000000012 "Human use"
@@ -945,10 +1420,9 @@ Title: "Nurofen 4 % siroop susp. (zonder suiker) Rood Kinderen 200 mg / 5 ml"
 
 
 
-Instance: Brufen-filmomh-tabl-400-mg-MPD
+Instance: Brufen-filmomh-tabl-400-mg-71-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Brufen filmomh. tabl. 400 mg"
 
 * identifier[mpid].value = "BEL ibuprofen  Mylan EPD film-coated tablet 400mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -966,10 +1440,49 @@ Title: "Brufen filmomh. tabl. 400 mg"
 
 
 
-Instance: Ibuprofen-EG-omh-tabl-deelb-400-mg-MPD
+Instance: Brufen-filmomh-tabl-400-mg-72-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Ibuprofen EG omh. tabl. (deelb.) 400 mg"
+
+* identifier[mpid].value = "BEL ibuprofen  Mylan EPD film-coated tablet 400mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Brufen filmomh. tabl. 400 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Brufen-filmomh-tabl-400-mg-73-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
+
+* identifier[mpid].value = "BEL ibuprofen  Mylan EPD film-coated tablet 400mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Brufen filmomh. tabl. 400 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Ibuprofen-EG-omh-tabl-deelb-400-mg-74-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL ibuprofen  EG coated tablet 400mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -987,10 +1500,29 @@ Title: "Ibuprofen EG omh. tabl. (deelb.) 400 mg"
 
 
 
-Instance: Ibuprofen-Sandoz-filmomh-tabl-deelb-400-mg-MPD
+Instance: Ibuprofen-EG-omh-tabl-deelb-400-mg-75-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Ibuprofen Sandoz filmomh. tabl. (deelb.) 400 mg"
+
+* identifier[mpid].value = "BEL ibuprofen  EG coated tablet 400mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Ibuprofen EG omh. tabl. (deelb.) 400 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Ibuprofen-Sandoz-filmomh-tabl-deelb-400-mg-76-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL ibuprofen  Sandoz film-coated tablet 400mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1008,10 +1540,29 @@ Title: "Ibuprofen Sandoz filmomh. tabl. (deelb.) 400 mg"
 
 
 
-Instance: Nurofen-PIP-zachte-caps-Fastcaps-400-mg-MPD
+Instance: Ibuprofen-Sandoz-filmomh-tabl-deelb-400-mg-77-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Nurofen (PIP) zachte caps. Fastcaps 400 mg"
+
+* identifier[mpid].value = "BEL ibuprofen  Sandoz film-coated tablet 400mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Ibuprofen Sandoz filmomh. tabl. (deelb.) 400 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Nurofen-PIP-zachte-caps-Fastcaps-400-mg-78-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL ibuprofen  PI-Pharma capsule, soft 400mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1029,10 +1580,29 @@ Title: "Nurofen (PIP) zachte caps. Fastcaps 400 mg"
 
 
 
-Instance: Nurofen-filmomh-tabl-Fasttabs-400-mg-MPD
+Instance: Nurofen-PIP-zachte-caps-Fastcaps-400-mg-79-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Nurofen filmomh. tabl. Fasttabs 400 mg"
+
+* identifier[mpid].value = "BEL ibuprofen  PI-Pharma capsule, soft 400mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Nurofen (PIP) zachte caps. Fastcaps 400 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Nurofen-filmomh-tabl-Fasttabs-400-mg-80-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL Ibuprofen lysine Reckitt Benckiser film-coated tablet 400mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1050,10 +1620,9 @@ Title: "Nurofen filmomh. tabl. Fasttabs 400 mg"
 
 
 
-Instance: Nurofen-omh-tabl-400-mg-MPD
+Instance: Nurofen-omh-tabl-400-mg-81-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Nurofen omh. tabl. 400 mg"
 
 * identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser coated tablet 400mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1071,10 +1640,9 @@ Title: "Nurofen omh. tabl. 400 mg"
 
 
 
-Instance: Nurofen-zachte-caps-Fastcaps-400-mg-MPD
+Instance: Nurofen-zachte-caps-Fastcaps-400-mg-82-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Nurofen zachte caps. Fastcaps 400 mg"
 
 * identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser capsule, soft 400mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1092,10 +1660,29 @@ Title: "Nurofen zachte caps. Fastcaps 400 mg"
 
 
 
-Instance: Perdofemina-filmomh-tabl-400-mg-MPD
+Instance: Nurofen-zachte-caps-Fastcaps-400-mg-83-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Perdofemina filmomh. tabl. 400 mg"
+
+* identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser capsule, soft 400mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Nurofen zachte caps. Fastcaps 400 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Perdofemina-filmomh-tabl-400-mg-84-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL Ibuprofen lysine Johnson & Johnson Consumer film-coated tablet 400mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1113,10 +1700,9 @@ Title: "Perdofemina filmomh. tabl. 400 mg"
 
 
 
-Instance: Spidifen-filmomh-tabl-deelb-400-mg-MPD
+Instance: Spidifen-filmomh-tabl-deelb-400-mg-85-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Spidifen filmomh. tabl. (deelb.) 400 mg"
 
 * identifier[mpid].value = "BEL Ibuprofen arginine Zambon film-coated tablet 400mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1134,10 +1720,9 @@ Title: "Spidifen filmomh. tabl. (deelb.) 400 mg"
 
 
 
-Instance: Brufen-bruisgran-zakjes-600-mg-MPD
+Instance: Brufen-bruisgran-zakjes-600-mg-86-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Brufen bruisgran. (zakjes) 600 mg"
 
 * identifier[mpid].value = "BEL ibuprofen  Mylan EPD Effervescent granules 600mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1155,10 +1740,9 @@ Title: "Brufen bruisgran. (zakjes) 600 mg"
 
 
 
-Instance: Brufen-filmomh-tabl-Forte-600-mg-MPD
+Instance: Brufen-filmomh-tabl-Forte-600-mg-87-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Brufen filmomh. tabl. Forte 600 mg"
 
 * identifier[mpid].value = "BEL ibuprofen  Mylan EPD film-coated tablet 600mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1176,10 +1760,29 @@ Title: "Brufen filmomh. tabl. Forte 600 mg"
 
 
 
-Instance: Ibuprofen-AB-filmomh-tabl-deelb-600-mg-MPD
+Instance: Brufen-filmomh-tabl-Forte-600-mg-88-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Ibuprofen AB filmomh. tabl. (deelb.) 600 mg"
+
+* identifier[mpid].value = "BEL ibuprofen  Mylan EPD film-coated tablet 600mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Brufen filmomh. tabl. Forte 600 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Ibuprofen-AB-filmomh-tabl-deelb-600-mg-89-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL ibuprofen  Aurobindo film-coated tablet 600mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1197,10 +1800,29 @@ Title: "Ibuprofen AB filmomh. tabl. (deelb.) 600 mg"
 
 
 
-Instance: Ibuprofen-EG-omh-tabl-deelb-600-mg-MPD
+Instance: Ibuprofen-AB-filmomh-tabl-deelb-600-mg-90-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Ibuprofen EG omh. tabl. (deelb.) 600 mg"
+
+* identifier[mpid].value = "BEL ibuprofen  Aurobindo film-coated tablet 600mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Ibuprofen AB filmomh. tabl. (deelb.) 600 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Ibuprofen-EG-omh-tabl-deelb-600-mg-91-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL ibuprofen  EG coated tablet 600mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1218,10 +1840,29 @@ Title: "Ibuprofen EG omh. tabl. (deelb.) 600 mg"
 
 
 
-Instance: Ibuprofen-Sandoz-filmomh-tabl-deelb-600-mg-MPD
+Instance: Ibuprofen-EG-omh-tabl-deelb-600-mg-92-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Ibuprofen Sandoz filmomh. tabl. (deelb.) 600 mg"
+
+* identifier[mpid].value = "BEL ibuprofen  EG coated tablet 600mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Ibuprofen EG omh. tabl. (deelb.) 600 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Ibuprofen-Sandoz-filmomh-tabl-deelb-600-mg-93-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL ibuprofen  Sandoz film-coated tablet 600mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1239,10 +1880,29 @@ Title: "Ibuprofen Sandoz filmomh. tabl. (deelb.) 600 mg"
 
 
 
-Instance: Ibuprofen-AB-filmomh-tabl-deelb-800-mg-MPD
+Instance: Ibuprofen-Sandoz-filmomh-tabl-deelb-600-mg-94-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Ibuprofen AB filmomh. tabl. (deelb.) 800 mg"
+
+* identifier[mpid].value = "BEL ibuprofen  Sandoz film-coated tablet 600mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Ibuprofen Sandoz filmomh. tabl. (deelb.) 600 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Ibuprofen-AB-filmomh-tabl-deelb-800-mg-95-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL ibuprofen  Aurobindo film-coated tablet 800mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1260,10 +1920,49 @@ Title: "Ibuprofen AB filmomh. tabl. (deelb.) 800 mg"
 
 
 
-Instance: Nurofen-Patch-transderm-lok-medic-pleister-200-mg-14-x-10-c-MPD
+Instance: Ibuprofen-AB-filmomh-tabl-deelb-800-mg-96-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Nurofen Patch transderm. lok. medic. pleister 200 mg (14 x 10 cm)"
+
+* identifier[mpid].value = "BEL ibuprofen  Aurobindo film-coated tablet 800mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Ibuprofen AB filmomh. tabl. (deelb.) 800 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Ibuprofen-AB-filmomh-tabl-deelb-800-mg-97-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
+
+* identifier[mpid].value = "BEL ibuprofen  Aurobindo film-coated tablet 800mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "Ibuprofen AB filmomh. tabl. (deelb.) 800 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Nurofen-Patch-transderm-lok-medic-pleister-200-mg--98-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser medicated plaster 200mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1281,10 +1980,9 @@ Title: "Nurofen Patch transderm. lok. medic. pleister 200 mg (14 x 10 cm)"
 
 
 
-Instance: Nurofen-zetpil-Kinderen-125-mg-MPD
+Instance: Nurofen-zetpil-Kinderen-125-mg-99-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Nurofen zetpil Kinderen 125 mg"
 
 * identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser suppository 125mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1302,10 +2000,9 @@ Title: "Nurofen zetpil Kinderen 125 mg"
 
 
 
-Instance: Nurofen-zetpil-Kinderen-60-mg-MPD
+Instance: Nurofen-zetpil-Kinderen-60-mg-100-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Nurofen zetpil Kinderen 60 mg"
 
 * identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser suppository 60mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1323,10 +2020,9 @@ Title: "Nurofen zetpil Kinderen 60 mg"
 
 
 
-Instance: Nurofen-200-Fastcaps-200-mg-zachte-caps-2-MPD
+Instance: Nurofen-200-Fastcaps-200-mg-zachte-caps-2-101-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Nurofen 200 Fastcaps 200 mg zachte caps. 2"
 
 * identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser capsule, soft 200mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1344,10 +2040,9 @@ Title: "Nurofen 200 Fastcaps 200 mg zachte caps. 2"
 
 
 
-Instance: Ibuprofen-AB-200-mg-filmomh-tabl-24-MPD
+Instance: Ibuprofen-AB-200-mg-filmomh-tabl-24-102-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Ibuprofen AB 200 mg filmomh. tabl. 24"
 
 * identifier[mpid].value = "BEL ibuprofen  Aurobindo film-coated tablet 200mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1365,10 +2060,9 @@ Title: "Ibuprofen AB 200 mg filmomh. tabl. 24"
 
 
 
-Instance: Ibuprofen-AB-400-mg-filmomh-tabl-24-MPD
+Instance: Ibuprofen-AB-400-mg-filmomh-tabl-24-103-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Ibuprofen AB 400 mg filmomh. tabl. 24"
 
 * identifier[mpid].value = "BEL ibuprofen  Aurobindo film-coated tablet 400mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1386,10 +2080,9 @@ Title: "Ibuprofen AB 400 mg filmomh. tabl. 24"
 
 
 
-Instance: Cholemed-filmomh-tabl-deelb-20-mg-MPD
+Instance: Cholemed-filmomh-tabl-deelb-20-mg-104-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Cholemed filmomh. tabl. (deelb.) 20 mg"
 
 * identifier[mpid].value = "BEL simvastatine Amophar film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1407,10 +2100,9 @@ Title: "Cholemed filmomh. tabl. (deelb.) 20 mg"
 
 
 
-Instance: simvastatine-AB-filmomh-tabl-20-mg-MPD
+Instance: simvastatine-AB-filmomh-tabl-20-mg-105-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "simvastatine AB filmomh. tabl. 20 mg"
 
 * identifier[mpid].value = "BEL simvastatine Aurobindo film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1428,10 +2120,29 @@ Title: "simvastatine AB filmomh. tabl. 20 mg"
 
 
 
-Instance: simvastatine-Sandoz-Impexeco-filmomh-tabl-deelb-20-mg-MPD
+Instance: simvastatine-AB-filmomh-tabl-20-mg-106-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "simvastatine Sandoz (Impexeco) filmomh. tabl. (deelb.) 20 mg"
+
+* identifier[mpid].value = "BEL simvastatine Aurobindo film-coated tablet 20mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "simvastatine AB filmomh. tabl. 20 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: simvastatine-Sandoz-Impexeco-filmomh-tabl-deelb-20-107-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL simvastatine Impexeco film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1449,10 +2160,9 @@ Title: "simvastatine Sandoz (Impexeco) filmomh. tabl. (deelb.) 20 mg"
 
 
 
-Instance: simvastatine-Sandoz-filmomh-tabl-deelb-20-mg-MPD
+Instance: simvastatine-Sandoz-filmomh-tabl-deelb-20-mg-108-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "simvastatine Sandoz filmomh. tabl. (deelb.) 20 mg"
 
 * identifier[mpid].value = "BEL simvastatine Sandoz film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1470,10 +2180,49 @@ Title: "simvastatine Sandoz filmomh. tabl. (deelb.) 20 mg"
 
 
 
-Instance: simvastine-EG-filmomh-tabl-deelb-20-mg-MPD
+Instance: simvastatine-Sandoz-filmomh-tabl-deelb-20-mg-109-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "simvastine EG filmomh. tabl. (deelb.) 20 mg"
+
+* identifier[mpid].value = "BEL simvastatine Sandoz film-coated tablet 20mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "simvastatine Sandoz filmomh. tabl. (deelb.) 20 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: simvastatine-Sandoz-filmomh-tabl-deelb-20-mg-110-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
+
+* identifier[mpid].value = "BEL simvastatine Sandoz film-coated tablet 20mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "simvastatine Sandoz filmomh. tabl. (deelb.) 20 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: simvastine-EG-filmomh-tabl-deelb-20-mg-111-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL simvastatine EG film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1491,10 +2240,49 @@ Title: "simvastine EG filmomh. tabl. (deelb.) 20 mg"
 
 
 
-Instance: simvastine-Mylan-filmomh-tabl-deelb-20-mg-MPD
+Instance: simvastine-EG-filmomh-tabl-deelb-20-mg-112-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "simvastine Mylan filmomh. tabl. (deelb.) 20 mg"
+
+* identifier[mpid].value = "BEL simvastatine EG film-coated tablet 20mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "simvastine EG filmomh. tabl. (deelb.) 20 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: simvastine-EG-filmomh-tabl-deelb-20-mg-113-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
+
+* identifier[mpid].value = "BEL simvastatine EG film-coated tablet 20mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "simvastine EG filmomh. tabl. (deelb.) 20 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: simvastine-Mylan-filmomh-tabl-deelb-20-mg-114-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL simvastatine Mylan film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1512,10 +2300,49 @@ Title: "simvastine Mylan filmomh. tabl. (deelb.) 20 mg"
 
 
 
-Instance: simvastine-Teva-filmomh-tabl-deelb-20-mg-MPD
+Instance: simvastine-Mylan-filmomh-tabl-deelb-20-mg-115-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "simvastine Teva filmomh. tabl. (deelb.) 20 mg"
+
+* identifier[mpid].value = "BEL simvastatine Mylan film-coated tablet 20mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "simvastine Mylan filmomh. tabl. (deelb.) 20 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: simvastine-Mylan-filmomh-tabl-deelb-20-mg-116-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
+
+* identifier[mpid].value = "BEL simvastatine Mylan film-coated tablet 20mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "simvastine Mylan filmomh. tabl. (deelb.) 20 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: simvastine-Teva-filmomh-tabl-deelb-20-mg-117-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL simvastatine Teva film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1533,10 +2360,29 @@ Title: "simvastine Teva filmomh. tabl. (deelb.) 20 mg"
 
 
 
-Instance: Zocor-filmomh-tabl-20-mg-MPD
+Instance: simvastine-Teva-filmomh-tabl-deelb-20-mg-118-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Zocor filmomh. tabl. 20 mg"
+
+* identifier[mpid].value = "BEL simvastatine Teva film-coated tablet 20mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "simvastine Teva filmomh. tabl. (deelb.) 20 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Zocor-filmomh-tabl-20-mg-119-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL simvastatine Organon film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1554,10 +2400,9 @@ Title: "Zocor filmomh. tabl. 20 mg"
 
 
 
-Instance: Cholemed-filmomh-tabl-deelb-40-mg-MPD
+Instance: Cholemed-filmomh-tabl-deelb-40-mg-120-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Cholemed filmomh. tabl. (deelb.) 40 mg"
 
 * identifier[mpid].value = "BEL simvastatine Amophar film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1575,10 +2420,9 @@ Title: "Cholemed filmomh. tabl. (deelb.) 40 mg"
 
 
 
-Instance: simvastatine-AB-filmomh-tabl-40-mg-MPD
+Instance: simvastatine-AB-filmomh-tabl-40-mg-121-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "simvastatine AB filmomh. tabl. 40 mg"
 
 * identifier[mpid].value = "BEL simvastatine Aurobindo film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1596,10 +2440,29 @@ Title: "simvastatine AB filmomh. tabl. 40 mg"
 
 
 
-Instance: simvastatine-Sandoz-Impexeco-filmomh-tabl-deelb-40-mg-MPD
+Instance: simvastatine-AB-filmomh-tabl-40-mg-122-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "simvastatine Sandoz (Impexeco) filmomh. tabl. (deelb.) 40 mg"
+
+* identifier[mpid].value = "BEL simvastatine Aurobindo film-coated tablet 40mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "simvastatine AB filmomh. tabl. 40 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: simvastatine-Sandoz-Impexeco-filmomh-tabl-deelb-40-123-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL simvastatine Impexeco film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1617,10 +2480,9 @@ Title: "simvastatine Sandoz (Impexeco) filmomh. tabl. (deelb.) 40 mg"
 
 
 
-Instance: simvastatine-Sandoz-filmomh-tabl-deelb-40-mg-MPD
+Instance: simvastatine-Sandoz-filmomh-tabl-deelb-40-mg-124-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "simvastatine Sandoz filmomh. tabl. (deelb.) 40 mg"
 
 * identifier[mpid].value = "BEL simvastatine Sandoz film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1638,10 +2500,49 @@ Title: "simvastatine Sandoz filmomh. tabl. (deelb.) 40 mg"
 
 
 
-Instance: simvastine-EG-PIP-filmomh-tabl-deelb-40-mg-MPD
+Instance: simvastatine-Sandoz-filmomh-tabl-deelb-40-mg-125-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "simvastine EG (PIP) filmomh. tabl. (deelb.) 40 mg"
+
+* identifier[mpid].value = "BEL simvastatine Sandoz film-coated tablet 40mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "simvastatine Sandoz filmomh. tabl. (deelb.) 40 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: simvastatine-Sandoz-filmomh-tabl-deelb-40-mg-126-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
+
+* identifier[mpid].value = "BEL simvastatine Sandoz film-coated tablet 40mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "simvastatine Sandoz filmomh. tabl. (deelb.) 40 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: simvastine-EG-PIP-filmomh-tabl-deelb-40-mg-127-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL simvastatine PI-Pharma film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1659,10 +2560,9 @@ Title: "simvastine EG (PIP) filmomh. tabl. (deelb.) 40 mg"
 
 
 
-Instance: simvastine-EG-filmomh-tabl-deelb-40-mg-MPD
+Instance: simvastine-EG-filmomh-tabl-deelb-40-mg-128-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "simvastine EG filmomh. tabl. (deelb.) 40 mg"
 
 * identifier[mpid].value = "BEL simvastatine EG film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1680,10 +2580,49 @@ Title: "simvastine EG filmomh. tabl. (deelb.) 40 mg"
 
 
 
-Instance: simvastine-Mylan-filmomh-tabl-deelb-40-mg-MPD
+Instance: simvastine-EG-filmomh-tabl-deelb-40-mg-129-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "simvastine Mylan filmomh. tabl. (deelb.) 40 mg"
+
+* identifier[mpid].value = "BEL simvastatine EG film-coated tablet 40mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "simvastine EG filmomh. tabl. (deelb.) 40 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: simvastine-EG-filmomh-tabl-deelb-40-mg-130-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
+
+* identifier[mpid].value = "BEL simvastatine EG film-coated tablet 40mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "simvastine EG filmomh. tabl. (deelb.) 40 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: simvastine-Mylan-filmomh-tabl-deelb-40-mg-131-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL simvastatine Mylan film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1701,10 +2640,49 @@ Title: "simvastine Mylan filmomh. tabl. (deelb.) 40 mg"
 
 
 
-Instance: simvastine-Teva-filmomh-tabl-deelb-40-mg-MPD
+Instance: simvastine-Mylan-filmomh-tabl-deelb-40-mg-132-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "simvastine Teva filmomh. tabl. (deelb.) 40 mg"
+
+* identifier[mpid].value = "BEL simvastatine Mylan film-coated tablet 40mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "simvastine Mylan filmomh. tabl. (deelb.) 40 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: simvastine-Mylan-filmomh-tabl-deelb-40-mg-133-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
+
+* identifier[mpid].value = "BEL simvastatine Mylan film-coated tablet 40mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "simvastine Mylan filmomh. tabl. (deelb.) 40 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: simvastine-Teva-filmomh-tabl-deelb-40-mg-134-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL simvastatine Teva film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1722,10 +2700,29 @@ Title: "simvastine Teva filmomh. tabl. (deelb.) 40 mg"
 
 
 
-Instance: Zocor-filmomh-tabl-40-mg-MPD
+Instance: simvastine-Teva-filmomh-tabl-deelb-40-mg-135-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "Zocor filmomh. tabl. 40 mg"
+
+* identifier[mpid].value = "BEL simvastatine Teva film-coated tablet 40mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "simvastine Teva filmomh. tabl. (deelb.) 40 mg"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000337 "Kingdom of Belgium"
+* name.usage.language = $100000072057#100000072169 "Dutch"
+
+
+
+Instance: Zocor-filmomh-tabl-40-mg-136-BEL-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "BEL simvastatine Organon film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1743,10 +2740,9 @@ Title: "Zocor filmomh. tabl. 40 mg"
 
 
 
-Instance: simvastatine-Sandoz-filmomh-tabl-deelb-80-mg-MPD
+Instance: simvastatine-Sandoz-filmomh-tabl-deelb-80-mg-137-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "simvastatine Sandoz filmomh. tabl. (deelb.) 80 mg"
 
 * identifier[mpid].value = "BEL simvastatine Sandoz film-coated tablet 80mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1764,10 +2760,9 @@ Title: "simvastatine Sandoz filmomh. tabl. (deelb.) 80 mg"
 
 
 
-Instance: simvastine-Teva-filmomh-tabl-deelb-80-mg-MPD
+Instance: simvastine-Teva-filmomh-tabl-deelb-80-mg-138-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "simvastine Teva filmomh. tabl. (deelb.) 80 mg"
 
 * identifier[mpid].value = "BEL simvastatine Teva film-coated tablet 80mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1785,10 +2780,9 @@ Title: "simvastine Teva filmomh. tabl. (deelb.) 80 mg"
 
 
 
-Instance: NORVALET-CAPS-5MG-CAP-MPD
+Instance: NORVALET-CAPS-5MG-CAP-139-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "NORVALET CAPS 5MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate INNOVIS HEALTH A.E. capsule, hard 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1806,10 +2800,9 @@ Title: "NORVALET CAPS 5MG/CAP"
 
 
 
-Instance: NORVALET-CAPS-10MG-CAP-MPD
+Instance: NORVALET-CAPS-10MG-CAP-140-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "NORVALET CAPS 10MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate INNOVIS HEALTH A.E. capsule, hard 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1827,10 +2820,9 @@ Title: "NORVALET CAPS 10MG/CAP"
 
 
 
-Instance: FLODIL-CAPS-5MG-CAP-MPD
+Instance: FLODIL-CAPS-5MG-CAP-141-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "FLODIL CAPS 5MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate ΜΙΝΕΡΒΑ ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. capsule, hard 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1848,10 +2840,9 @@ Title: "FLODIL CAPS 5MG/CAP"
 
 
 
-Instance: FLODIL-CAPS-10MG-CAP-MPD
+Instance: FLODIL-CAPS-10MG-CAP-142-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "FLODIL CAPS 10MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate ΜΙΝΕΡΒΑ ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. capsule, hard 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1869,10 +2860,9 @@ Title: "FLODIL CAPS 10MG/CAP"
 
 
 
-Instance: AMLODIN-CAPS-5MG-CAP-MPD
+Instance: AMLODIN-CAPS-5MG-CAP-143-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AMLODIN CAPS 5MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate BENNETT ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. capsule, hard 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1890,10 +2880,9 @@ Title: "AMLODIN CAPS 5MG/CAP"
 
 
 
-Instance: AMLODIN-CAPS-10MG-CAP-MPD
+Instance: AMLODIN-CAPS-10MG-CAP-144-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AMLODIN CAPS 10MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate BENNETT ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. capsule, hard 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1911,10 +2900,9 @@ Title: "AMLODIN CAPS 10MG/CAP"
 
 
 
-Instance: AMLIBON-TAB-5MG-TAB-MPD
+Instance: AMLIBON-TAB-5MG-TAB-145-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AMLIBON TAB 5MG/TAB"
 
 * identifier[mpid].value = "GRC amlodipine besilate SANDOZ GMBH, KUNDL, AUSTRIA tablet 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1932,10 +2920,9 @@ Title: "AMLIBON TAB 5MG/TAB"
 
 
 
-Instance: AMLIBON-TAB-10MG-TAB-MPD
+Instance: AMLIBON-TAB-10MG-TAB-146-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AMLIBON TAB 10MG/TAB"
 
 * identifier[mpid].value = "GRC amlodipine besilate SANDOZ GMBH, KUNDL, AUSTRIA tablet 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1953,10 +2940,9 @@ Title: "AMLIBON TAB 10MG/TAB"
 
 
 
-Instance: AMODIPAN-CAPS-10MG-CAP-MPD
+Instance: AMODIPAN-CAPS-10MG-CAP-147-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AMODIPAN CAPS 10MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate SANTA PHARMA A,E, capsule, hard 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1974,10 +2960,9 @@ Title: "AMODIPAN CAPS 10MG/CAP"
 
 
 
-Instance: AMODIPAN-CAPS-5MG-CAP-MPD
+Instance: AMODIPAN-CAPS-5MG-CAP-148-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AMODIPAN CAPS 5MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate SANTA PHARMA A,E, capsule, hard 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -1995,10 +2980,9 @@ Title: "AMODIPAN CAPS 5MG/CAP"
 
 
 
-Instance: PIDOLEN-GENOSEMO-CAPS-5MG-CAP-MPD
+Instance: PIDOLEN-GENOSEMO-CAPS-5MG-CAP-149-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "PIDOLEN (ΓΕΝΟΣΗΜΟ) CAPS 5MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate ΦΑΡΜΕΞ Α.Ε. capsule, hard 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2016,10 +3000,9 @@ Title: "PIDOLEN (ΓΕΝΟΣΗΜΟ) CAPS 5MG/CAP"
 
 
 
-Instance: PIDOLEN-GENOSEMO-CAPS-10MG-CAP-MPD
+Instance: PIDOLEN-GENOSEMO-CAPS-10MG-CAP-150-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "PIDOLEN (ΓΕΝΟΣΗΜΟ) CAPS 10MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate ΦΑΡΜΕΞ Α.Ε. capsule, hard 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2037,10 +3020,9 @@ Title: "PIDOLEN (ΓΕΝΟΣΗΜΟ) CAPS 10MG/CAP"
 
 
 
-Instance: AGGOVASK-CAPS-5MG-CAP-MPD
+Instance: AGGOVASK-CAPS-5MG-CAP-151-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AGGOVASK CAPS 5MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate PROTON PHARMA ΑΝΩΝΥΜΗ ΦΑΡΜΑΚΕΥΤΙΚΗ ΕΤΑΙΡΕΙΑ capsule, hard 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2058,10 +3040,9 @@ Title: "AGGOVASK CAPS 5MG/CAP"
 
 
 
-Instance: AGGOVASK-CAPS-10MG-CAP-BTx14-MPD
+Instance: AGGOVASK-CAPS-10MG-CAP-BTx14-152-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AGGOVASK CAPS 10MG/CAP BTx14"
 
 * identifier[mpid].value = "GRC amlodipine besilate PROTON PHARMA ΑΝΩΝΥΜΗ ΦΑΡΜΑΚΕΥΤΙΚΗ ΕΤΑΙΡΕΙΑ capsule, hard 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2079,10 +3060,9 @@ Title: "AGGOVASK CAPS 10MG/CAP BTx14"
 
 
 
-Instance: LODIPIN-CAPS-5MG-CAP-MPD
+Instance: LODIPIN-CAPS-5MG-CAP-153-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "LODIPIN CAPS 5MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate IASIS PHARMA capsule, hard 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2100,10 +3080,9 @@ Title: "LODIPIN CAPS 5MG/CAP"
 
 
 
-Instance: LODIPIN-CAPS-10MG-CAP-MPD
+Instance: LODIPIN-CAPS-10MG-CAP-154-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "LODIPIN CAPS 10MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate IASIS PHARMA capsule, hard 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2121,10 +3100,29 @@ Title: "LODIPIN CAPS 10MG/CAP"
 
 
 
-Instance: NORMODIN-TAB-5MG-TAB-MPD
+Instance: LODIPIN-CAPS-10MG-CAP-155-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "NORMODIN TAB 5MG/TAB"
+
+* identifier[mpid].value = "GRC amlodipine besilate IASIS PHARMA capsule, hard 10mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "LODIPIN CAPS 10MG/CAP"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: NORMODIN-TAB-5MG-TAB-156-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC amlodipine besilate GENEPHARM AE tablet 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2142,10 +3140,9 @@ Title: "NORMODIN TAB 5MG/TAB"
 
 
 
-Instance: NORMODIN-TAB-10MG-TAB-MPD
+Instance: NORMODIN-TAB-10MG-TAB-157-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "NORMODIN TAB 10MG/TAB"
 
 * identifier[mpid].value = "GRC amlodipine besilate GENEPHARM AE tablet 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2163,10 +3160,9 @@ Title: "NORMODIN TAB 10MG/TAB"
 
 
 
-Instance: AMLIBON-BES-TAB-5MG-TAB-MPD
+Instance: AMLIBON-BES-TAB-5MG-TAB-158-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AMLIBON BES TAB 5MG/TAB"
 
 * identifier[mpid].value = "GRC amlodipine besilate SANDOZ GMBH, KUNDL, AUSTRIA tablet 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2184,10 +3180,9 @@ Title: "AMLIBON BES TAB 5MG/TAB"
 
 
 
-Instance: AMLIBON-BES-TAB-10MG-TAB-MPD
+Instance: AMLIBON-BES-TAB-10MG-TAB-159-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AMLIBON BES TAB 10MG/TAB"
 
 * identifier[mpid].value = "GRC amlodipine besilate SANDOZ GMBH, KUNDL, AUSTRIA tablet 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2205,10 +3200,9 @@ Title: "AMLIBON BES TAB 10MG/TAB"
 
 
 
-Instance: BARUDEN-CAPS-10MG-CAP-MPD
+Instance: BARUDEN-CAPS-10MG-CAP-160-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "BARUDEN CAPS 10MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate ΑΝΦΑΡΜ ΕΛΛΑΣ Α.Ε. capsule, hard 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2226,10 +3220,29 @@ Title: "BARUDEN CAPS 10MG/CAP"
 
 
 
-Instance: NORDEX-MEDICAL-PHARMAQUALITY-TAB-MPD
+Instance: BARUDEN-CAPS-10MG-CAP-161-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "NORDEX/MEDICAL PHARMAQUALITY TAB"
+
+* identifier[mpid].value = "GRC amlodipine besilate ΑΝΦΑΡΜ ΕΛΛΑΣ Α.Ε. capsule, hard 10mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "BARUDEN CAPS 10MG/CAP"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: NORDEX-MEDICAL-PHARMAQUALITY-TAB-162-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC amlodipine besilate MEDICAL PHARMAQUALITY AE tablet 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2247,10 +3260,29 @@ Title: "NORDEX/MEDICAL PHARMAQUALITY TAB"
 
 
 
-Instance: AMLORETIN-CAPS-10MG-CAP-MPD
+Instance: NORDEX-MEDICAL-PHARMAQUALITY-TAB-163-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AMLORETIN CAPS 10MG/CAP"
+
+* identifier[mpid].value = "GRC amlodipine besilate MEDICAL PHARMAQUALITY AE tablet 10mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "NORDEX/MEDICAL PHARMAQUALITY TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: AMLORETIN-CAPS-10MG-CAP-164-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC amlodipine besilate NATURALIA A.E. capsule, hard 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2268,10 +3300,9 @@ Title: "AMLORETIN CAPS 10MG/CAP"
 
 
 
-Instance: AMLORETIN-CAPS-5MG-CAP-MPD
+Instance: AMLORETIN-CAPS-5MG-CAP-165-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AMLORETIN CAPS 5MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate NATURALIA A.E. capsule, hard 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2289,10 +3320,9 @@ Title: "AMLORETIN CAPS 5MG/CAP"
 
 
 
-Instance: NORVASC-CAPS-5MG-CAP-MPD
+Instance: NORVASC-CAPS-5MG-CAP-166-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "NORVASC CAPS 5MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate UPJOHN HELLAS Ε.Π.Ε. capsule, hard 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2310,10 +3340,9 @@ Title: "NORVASC CAPS 5MG/CAP"
 
 
 
-Instance: NORVASC-CAPS-10MG-CAP-MPD
+Instance: NORVASC-CAPS-10MG-CAP-167-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "NORVASC CAPS 10MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate UPJOHN HELLAS Ε.Π.Ε. capsule, hard 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2331,10 +3360,9 @@ Title: "NORVASC CAPS 10MG/CAP"
 
 
 
-Instance: ALDOSION-CAPS-5MG-CAP-MPD
+Instance: ALDOSION-CAPS-5MG-CAP-168-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "ALDOSION CAPS 5MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate ALAPIS ABEE capsule, hard 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2352,10 +3380,9 @@ Title: "ALDOSION CAPS 5MG/CAP"
 
 
 
-Instance: ALDOSION-CAPS-10MG-CAP-MPD
+Instance: ALDOSION-CAPS-10MG-CAP-169-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "ALDOSION CAPS 10MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate ALAPIS ABEE capsule, hard 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2373,10 +3400,9 @@ Title: "ALDOSION CAPS 10MG/CAP"
 
 
 
-Instance: AMLODIPINE-MALEATE-GENERICS-TAB-MPD
+Instance: AMLODIPINE-MALEATE-GENERICS-TAB-170-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AMLODIPINE MALEATE/GENERICS TAB"
 
 * identifier[mpid].value = "GRC amlodipine maleate GENERICS PHARMA HELLAS ΕΠΕ tablet 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2394,10 +3420,9 @@ Title: "AMLODIPINE MALEATE/GENERICS TAB"
 
 
 
-Instance: amlodipine-maleate-GENERICS-TAB-5MG-TAB-MPD
+Instance: amlodipine-maleate-GENERICS-TAB-5MG-TAB-171-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "amlodipine maleate/GENERICS TAB 5MG/TAB"
 
 * identifier[mpid].value = "GRC amlodipine maleate GENERICS PHARMA HELLAS ΕΠΕ tablet 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2415,10 +3440,9 @@ Title: "amlodipine maleate/GENERICS TAB 5MG/TAB"
 
 
 
-Instance: amlodipine-maleate-GENERICS-TAB-10MG-TAB-MPD
+Instance: amlodipine-maleate-GENERICS-TAB-10MG-TAB-172-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "amlodipine maleate/GENERICS TAB 10MG/TAB"
 
 * identifier[mpid].value = "GRC amlodipine maleate GENERICS PHARMA HELLAS ΕΠΕ tablet 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2436,10 +3460,29 @@ Title: "amlodipine maleate/GENERICS TAB 10MG/TAB"
 
 
 
-Instance: EVANGIO-CAPS-5MG-CAP-MPD
+Instance: amlodipine-maleate-GENERICS-TAB-10MG-TAB-173-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "EVANGIO CAPS 5MG/CAP"
+
+* identifier[mpid].value = "GRC amlodipine maleate GENERICS PHARMA HELLAS ΕΠΕ tablet 10mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "amlodipine maleate/GENERICS TAB 10MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: EVANGIO-CAPS-5MG-CAP-174-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC amlodipine besilate RAFARM A.E.B.E. capsule, hard 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2457,10 +3500,9 @@ Title: "EVANGIO CAPS 5MG/CAP"
 
 
 
-Instance: AMLOPRESS-CAPS-5MG-CAP-MPD
+Instance: AMLOPRESS-CAPS-5MG-CAP-175-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AMLOPRESS CAPS 5MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate FOS ΦΑΡΜΑΚΕΥΤΙΚΗ ΙΚΕ capsule, hard 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2478,10 +3520,9 @@ Title: "AMLOPRESS CAPS 5MG/CAP"
 
 
 
-Instance: AMLOPRESS-CAPS-10-MG-CAP-MPD
+Instance: AMLOPRESS-CAPS-10-MG-CAP-176-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AMLOPRESS CAPS 10 MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate FOS ΦΑΡΜΑΚΕΥΤΙΚΗ ΙΚΕ capsule, hard 10 mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2499,10 +3540,9 @@ Title: "AMLOPRESS CAPS 10 MG/CAP"
 
 
 
-Instance: AMLODIL-CAPS-10MG-CAP-MPD
+Instance: AMLODIL-CAPS-10MG-CAP-177-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AMLODIL CAPS 10MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate GAP A.E. capsule, hard 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2520,10 +3560,9 @@ Title: "AMLODIL CAPS 10MG/CAP"
 
 
 
-Instance: NORFAN-CAPS-5MG-CAP-MPD
+Instance: NORFAN-CAPS-5MG-CAP-178-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "NORFAN CAPS 5MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate VOCATE ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. capsule, hard 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2541,10 +3580,29 @@ Title: "NORFAN CAPS 5MG/CAP"
 
 
 
-Instance: NORFAN-CAPS-10MG-CAP-MPD
+Instance: NORFAN-CAPS-5MG-CAP-179-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "NORFAN CAPS 10MG/CAP"
+
+* identifier[mpid].value = "GRC amlodipine besilate VOCATE ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. capsule, hard 5mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "NORFAN CAPS 5MG/CAP"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: NORFAN-CAPS-10MG-CAP-180-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC amlodipine besilate VOCATE ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. capsule, hard 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2562,10 +3620,9 @@ Title: "NORFAN CAPS 10MG/CAP"
 
 
 
-Instance: AXYPLOT-CAPS-5MG-CAP-MPD
+Instance: AXYPLOT-CAPS-5MG-CAP-181-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AXYPLOT CAPS 5MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate IAMATICA MON. ΕΠΕ capsule, hard 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2583,10 +3640,9 @@ Title: "AXYPLOT CAPS 5MG/CAP"
 
 
 
-Instance: AXYPLOT-CAPS-10MG-CAP-MPD
+Instance: AXYPLOT-CAPS-10MG-CAP-182-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AXYPLOT CAPS 10MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate IAMATICA MON. ΕΠΕ capsule, hard 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2604,10 +3660,9 @@ Title: "AXYPLOT CAPS 10MG/CAP"
 
 
 
-Instance: AMLOSILAT-CAPS-5MG-CAP-MPD
+Instance: AMLOSILAT-CAPS-5MG-CAP-183-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AMLOSILAT CAPS 5MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate ALPHA GENERICS THERAPY  ΑΕΒΕΦ capsule, hard 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2625,10 +3680,29 @@ Title: "AMLOSILAT CAPS 5MG/CAP"
 
 
 
-Instance: AMLOSILAT-CAPS-10-MG-CAP-MPD
+Instance: AMLOSILAT-CAPS-5MG-CAP-184-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AMLOSILAT CAPS 10 MG/CAP"
+
+* identifier[mpid].value = "GRC amlodipine besilate ALPHA GENERICS THERAPY  ΑΕΒΕΦ capsule, hard 5mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "AMLOSILAT CAPS 5MG/CAP"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: AMLOSILAT-CAPS-10-MG-CAP-185-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC amlodipine besilate ALPHA GENERICS THERAPY  ΑΕΒΕΦ capsule, hard 10 mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2646,10 +3720,9 @@ Title: "AMLOSILAT CAPS 10 MG/CAP"
 
 
 
-Instance: DAFOR-CAPS-5MG-CAP-MPD
+Instance: DAFOR-CAPS-5MG-CAP-186-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "DAFOR CAPS 5MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate ΠΝΓ ΓΕΡΟΛΥΜΑΤΟΣ ΜΕΝΤΙΚΑΛ Α.Ε. capsule, hard 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2667,10 +3740,29 @@ Title: "DAFOR CAPS 5MG/CAP"
 
 
 
-Instance: DAFOR-CAPS-10MG-CAP-MPD
+Instance: DAFOR-CAPS-5MG-CAP-187-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "DAFOR CAPS 10MG/CAP"
+
+* identifier[mpid].value = "GRC amlodipine besilate ΠΝΓ ΓΕΡΟΛΥΜΑΤΟΣ ΜΕΝΤΙΚΑΛ Α.Ε. capsule, hard 5mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "DAFOR CAPS 5MG/CAP"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: DAFOR-CAPS-10MG-CAP-188-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC amlodipine besilate ΠΝΓ ΓΕΡΟΛΥΜΑΤΟΣ ΜΕΝΤΙΚΑΛ Α.Ε. capsule, hard 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2688,10 +3780,29 @@ Title: "DAFOR CAPS 10MG/CAP"
 
 
 
-Instance: VASCODIN-CAPS-5MG-CAP-MPD
+Instance: DAFOR-CAPS-10MG-CAP-189-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "VASCODIN CAPS 5MG/CAP"
+
+* identifier[mpid].value = "GRC amlodipine besilate ΠΝΓ ΓΕΡΟΛΥΜΑΤΟΣ ΜΕΝΤΙΚΑΛ Α.Ε. capsule, hard 10mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "DAFOR CAPS 10MG/CAP"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: VASCODIN-CAPS-5MG-CAP-190-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC amlodipine besilate HELP ΑΒΕΕ capsule, hard 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2709,10 +3820,29 @@ Title: "VASCODIN CAPS 5MG/CAP"
 
 
 
-Instance: VASCODIN-CAPS-10MG-CAP-MPD
+Instance: VASCODIN-CAPS-5MG-CAP-191-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "VASCODIN CAPS 10MG/CAP"
+
+* identifier[mpid].value = "GRC amlodipine besilate HELP ΑΒΕΕ capsule, hard 5mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "VASCODIN CAPS 5MG/CAP"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: VASCODIN-CAPS-10MG-CAP-192-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC amlodipine besilate HELP ΑΒΕΕ capsule, hard 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2730,10 +3860,29 @@ Title: "VASCODIN CAPS 10MG/CAP"
 
 
 
-Instance: AMLODIPINE-BESILATE-NORMA-CAPS-5MG-CAP-MPD
+Instance: VASCODIN-CAPS-10MG-CAP-193-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AMLODIPINE BESILATE/NORMA CAPS 5MG/CAP"
+
+* identifier[mpid].value = "GRC amlodipine besilate HELP ΑΒΕΕ capsule, hard 10mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "VASCODIN CAPS 10MG/CAP"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: AMLODIPINE-BESILATE-NORMA-CAPS-5MG-CAP-194-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC amlodipine besilate ΝΟΡΜΑ ΕΛΛΑΣ Α.Ε. capsule, hard 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2751,10 +3900,9 @@ Title: "AMLODIPINE BESILATE/NORMA CAPS 5MG/CAP"
 
 
 
-Instance: AMLODIPINE-BESILATE-NORMA-CAPS-10MG-CAP-MPD
+Instance: AMLODIPINE-BESILATE-NORMA-CAPS-10MG-CAP-195-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AMLODIPINE BESILATE/NORMA CAPS 10MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate ΝΟΡΜΑ ΕΛΛΑΣ Α.Ε. capsule, hard 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2772,10 +3920,29 @@ Title: "AMLODIPINE BESILATE/NORMA CAPS 10MG/CAP"
 
 
 
-Instance: EVANGIO-CAPS-10MG-MPD
+Instance: EVANGIO-CAPS-5MG-CAP-196-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "EVANGIO CAPS 10MG"
+
+* identifier[mpid].value = "GRC amlodipine besilate RAFARM A.E.B.E. capsule, hard 5mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "EVANGIO CAPS 5MG/CAP"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: EVANGIO-CAPS-10MG-197-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC amlodipine besilate RAFARM A.E.B.E. capsule, hard 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2793,10 +3960,29 @@ Title: "EVANGIO CAPS 10MG"
 
 
 
-Instance: AMLODIPINE-BESILATE-TEVA-TAB-MPD
+Instance: EVANGIO-CAPS-10MG-198-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AMLODIPINE BESILATE/TEVA TAB"
+
+* identifier[mpid].value = "GRC amlodipine besilate RAFARM A.E.B.E. capsule, hard 10mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "EVANGIO CAPS 10MG"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: AMLODIPINE-BESILATE-TEVA-TAB-199-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC amlodipine besilate TEVA PHARMA B.V., Haarlem, THE NETHERLANDS tablet 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2814,10 +4000,9 @@ Title: "AMLODIPINE BESILATE/TEVA TAB"
 
 
 
-Instance: AMLODIPINE-BESILATE-TEVA-TAB-5MG-TAB-MPD
+Instance: AMLODIPINE-BESILATE-TEVA-TAB-5MG-TAB-200-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AMLODIPINE BESILATE/TEVA TAB 5MG/TAB"
 
 * identifier[mpid].value = "GRC amlodipine besilate TEVA PHARMA B.V., Haarlem, THE NETHERLANDS tablet 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2835,10 +4020,9 @@ Title: "AMLODIPINE BESILATE/TEVA TAB 5MG/TAB"
 
 
 
-Instance: NOLVAC-TAB-10MG-TAB-MPD
+Instance: NOLVAC-TAB-10MG-TAB-201-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "NOLVAC TAB 10MG/TAB"
 
 * identifier[mpid].value = "GRC amlodipine maleate ΦΑΡΜΑΤΕΝ ΕΛΛΑΣ ΑΕΒΕ tablet 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2856,10 +4040,29 @@ Title: "NOLVAC TAB 10MG/TAB"
 
 
 
-Instance: ABESYL-CAPS-5MG-CAP-MPD
+Instance: NOLVAC-TAB-10MG-TAB-202-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "ABESYL CAPS 5MG/CAP"
+
+* identifier[mpid].value = "GRC amlodipine maleate INNOVIS PHARMA A.E.B.E tablet 10mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "NOLVAC TAB 10MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: ABESYL-CAPS-5MG-CAP-203-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC amlodipine besilate MEDOCHEMIE HELLAS AE capsule, hard 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2877,10 +4080,9 @@ Title: "ABESYL CAPS 5MG/CAP"
 
 
 
-Instance: ABESYL-CAPS-10MG-CAP-MPD
+Instance: ABESYL-CAPS-10MG-CAP-204-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "ABESYL CAPS 10MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate MEDOCHEMIE HELLAS AE capsule, hard 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2898,10 +4100,9 @@ Title: "ABESYL CAPS 10MG/CAP"
 
 
 
-Instance: ANGIORETIC-CAPS-5MG-CAP-MPD
+Instance: ANGIORETIC-CAPS-5MG-CAP-205-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "ANGIORETIC CAPS 5MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate MEDARTE ΦΑΡΜΑΚΕΥΤΙΚΗ ΑΒΕΕ capsule, hard 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2919,10 +4120,9 @@ Title: "ANGIORETIC CAPS 5MG/CAP"
 
 
 
-Instance: ANGIORETIC-CAPS-10MG-CAP-MPD
+Instance: ANGIORETIC-CAPS-10MG-CAP-206-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "ANGIORETIC CAPS 10MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate MEDARTE ΦΑΡΜΑΚΕΥΤΙΚΗ ΑΒΕΕ capsule, hard 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2940,10 +4140,9 @@ Title: "ANGIORETIC CAPS 10MG/CAP"
 
 
 
-Instance: PRECARDIN-CAPS-10MG-CAP-MPD
+Instance: PRECARDIN-CAPS-10MG-CAP-207-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "PRECARDIN CAPS 10MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate FARMEDIA AE capsule, hard 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2961,10 +4160,29 @@ Title: "PRECARDIN CAPS 10MG/CAP"
 
 
 
-Instance: AMLODIPINE-MYLAN-GENERICS-TAB-5MG-TAB-MPD
+Instance: PRECARDIN-CAPS-10MG-CAP-208-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AMLODIPINE/MYLAN GENERICS TAB 5MG/TAB"
+
+* identifier[mpid].value = "GRC amlodipine besilate FARMEDIA AE capsule, hard 10mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "PRECARDIN CAPS 10MG/CAP"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: AMLODIPINE-MYLAN-GENERICS-TAB-5MG-TAB-209-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC amlodipine besilate GENERICS PHARMA HELLAS ΕΠΕ tablet 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -2982,10 +4200,9 @@ Title: "AMLODIPINE/MYLAN GENERICS TAB 5MG/TAB"
 
 
 
-Instance: AMLODIPINE-MYLAN-GENERICS-TAB-10MG-TAB-MPD
+Instance: AMLODIPINE-MYLAN-GENERICS-TAB-10MG-TAB-210-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AMLODIPINE/MYLAN GENERICS TAB 10MG/TAB"
 
 * identifier[mpid].value = "GRC amlodipine besilate GENERICS PHARMA HELLAS ΕΠΕ tablet 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3003,10 +4220,9 @@ Title: "AMLODIPINE/MYLAN GENERICS TAB 10MG/TAB"
 
 
 
-Instance: ROVOXID-CAPS-5MG-CAP-MPD
+Instance: ROVOXID-CAPS-5MG-CAP-211-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "ROVOXID CAPS 5MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate BIAN A.E. capsule, hard 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3024,10 +4240,9 @@ Title: "ROVOXID CAPS 5MG/CAP"
 
 
 
-Instance: ROVOXID-CAPS-10MG-CAP-MPD
+Instance: ROVOXID-CAPS-10MG-CAP-212-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "ROVOXID CAPS 10MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate BIAN A.E. capsule, hard 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3045,10 +4260,9 @@ Title: "ROVOXID CAPS 10MG/CAP"
 
 
 
-Instance: RAMLET-CAPS-5MG-CAP-MPD
+Instance: RAMLET-CAPS-5MG-CAP-213-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "RAMLET CAPS 5MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate RAFARM A.E.B.E. capsule, hard 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3066,10 +4280,9 @@ Title: "RAMLET CAPS 5MG/CAP"
 
 
 
-Instance: RAMLET-CAPS-10MG-CAP-MPD
+Instance: RAMLET-CAPS-10MG-CAP-214-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "RAMLET CAPS 10MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate RAFARM A.E.B.E. capsule, hard 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3087,10 +4300,29 @@ Title: "RAMLET CAPS 10MG/CAP"
 
 
 
-Instance: NORVAGEN-TAB-10MG-TAB-MPD
+Instance: RAMLET-CAPS-10MG-CAP-215-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "NORVAGEN TAB 10MG/TAB"
+
+* identifier[mpid].value = "GRC amlodipine besilate RAFARM A.E.B.E. capsule, hard 10mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "RAMLET CAPS 10MG/CAP"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: NORVAGEN-TAB-10MG-TAB-218-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC amlodipine besilate STARGEN Ε.Π.Ε. tablet 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3108,10 +4340,9 @@ Title: "NORVAGEN TAB 10MG/TAB"
 
 
 
-Instance: AMILOPID-CAPS-5MG-CAP-MPD
+Instance: AMILOPID-CAPS-5MG-CAP-219-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AMILOPID CAPS 5MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate ΒΙΑΝΕΞ Α.Ε. capsule, hard 5mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3129,10 +4360,9 @@ Title: "AMILOPID CAPS 5MG/CAP"
 
 
 
-Instance: AMILOPID-CAPS-10MG-CAP-MPD
+Instance: AMILOPID-CAPS-10MG-CAP-220-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AMILOPID CAPS 10MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate ΒΙΑΝΕΞ Α.Ε. capsule, hard 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3150,10 +4380,9 @@ Title: "AMILOPID CAPS 10MG/CAP"
 
 
 
-Instance: AMLOPEN-CAPS-5MG-CAP-MPD
+Instance: AMLOPEN-CAPS-5MG-CAP-221-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AMLOPEN CAPS 5MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate ELPEN AE ΦΑΡΜΑΚΕΥΤΙΚΗ ΒΙΟΜΗΧΑΝΙΑ capsule, hard 5mg/5mL"
 * domain = $100000000004#100000000012 "Human use"
@@ -3171,10 +4400,9 @@ Title: "AMLOPEN CAPS 5MG/CAP"
 
 
 
-Instance: AMLOPEN-CAPS-10MG-CAP-MPD
+Instance: AMLOPEN-CAPS-10MG-CAP-222-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "AMLOPEN CAPS 10MG/CAP"
 
 * identifier[mpid].value = "GRC amlodipine besilate ELPEN AE ΦΑΡΜΑΚΕΥΤΙΚΗ ΒΙΟΜΗΧΑΝΙΑ capsule, hard 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3192,10 +4420,89 @@ Title: "AMLOPEN CAPS 10MG/CAP"
 
 
 
-Instance: TEGRETOL-TAB-200MG-TAB-MPD
+Instance: AMLORETIN-CAPS-5MG-CAP-223-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "TEGRETOL TAB 200MG/TAB"
+
+* identifier[mpid].value = "GRC amlodipine besilate NATURALIA A.E. capsule, hard 5mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "AMLORETIN CAPS 5MG/CAP"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: AMLORETIN-CAPS-10MG-CAP-224-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
+
+* identifier[mpid].value = "GRC amlodipine besilate NATURALIA A.E. capsule, hard 10mg/5mL"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "AMLORETIN CAPS 10MG/CAP"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: NORMODIN-TAB-5MG-TAB-225-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
+
+* identifier[mpid].value = "GRC amlodipine besilate GENEPHARM AE tablet 5mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "NORMODIN TAB 5MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: NORMODIN-TAB-10MG-TAB-226-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
+
+* identifier[mpid].value = "GRC amlodipine besilate GENEPHARM AE tablet 10mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "NORMODIN TAB 10MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: TEGRETOL-TAB-200MG-TAB-227-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC carbamazepine NOVARTIS (HELLAS) A.E.B.E. tablet 200mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3213,10 +4520,9 @@ Title: "TEGRETOL TAB 200MG/TAB"
 
 
 
-Instance: TEGRETOL-SYR-100MG-5ML-MPD
+Instance: TEGRETOL-SYR-100MG-5ML-228-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "TEGRETOL SYR 100MG/5ML"
 
 * identifier[mpid].value = "GRC carbamazepine NOVARTIS (HELLAS) A.E.B.E. syrup 100mg/5mL"
 * domain = $100000000004#100000000012 "Human use"
@@ -3234,10 +4540,9 @@ Title: "TEGRETOL SYR 100MG/5ML"
 
 
 
-Instance: TEGRETOL-CO-R-F-C-T-200MG-TAB-MPD
+Instance: TEGRETOL-CO-R-F-C-T-200MG-TAB-229-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "TEGRETOL CO.R.F.C.T 200MG/TAB"
 
 * identifier[mpid].value = "GRC carbamazepine NOVARTIS (HELLAS) A.E.B.E. prolonged-release tablet 200mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3255,10 +4560,9 @@ Title: "TEGRETOL CO.R.F.C.T 200MG/TAB"
 
 
 
-Instance: TEGRETOL-CO-R-F-C-T-400MG-TAB-MPD
+Instance: TEGRETOL-CO-R-F-C-T-400MG-TAB-230-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "TEGRETOL CO.R.F.C.T 400MG/TAB"
 
 * identifier[mpid].value = "GRC carbamazepine NOVARTIS (HELLAS) A.E.B.E. prolonged-release tablet 400mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3276,10 +4580,9 @@ Title: "TEGRETOL CO.R.F.C.T 400MG/TAB"
 
 
 
-Instance: NUROFEN-FOR-CHILDREN-oral-SUSP-100MG-5ML-MPD
+Instance: NUROFEN-FOR-CHILDREN-oral-SUSP-100MG-5ML-231-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "NUROFEN FOR CHILDREN  oral.SUSP 100MG/5ML"
 
 * identifier[mpid].value = "GRC ibuprofen RB HEALTHCARE HELLAS A.E. oral suspension 100mg/5mL"
 * domain = $100000000004#100000000012 "Human use"
@@ -3297,10 +4600,9 @@ Title: "NUROFEN FOR CHILDREN  oral.SUSP 100MG/5ML"
 
 
 
-Instance: BRUFEN-F-C-TAB-600MG-TAB-MPD
+Instance: BRUFEN-F-C-TAB-600MG-TAB-232-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "BRUFEN F.C.TAB 600MG/TAB"
 
 * identifier[mpid].value = "GRC ibuprofen BGP ΠΡΟΪΟΝΤΑ Μ.Ε.Π.Ε. film-coated tablet 600mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3318,10 +4620,9 @@ Title: "BRUFEN F.C.TAB 600MG/TAB"
 
 
 
-Instance: BRUFEN-C-TAB-200MG-TAB-MPD
+Instance: BRUFEN-C-TAB-200MG-TAB-233-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "BRUFEN C.TAB 200MG/TAB"
 
 * identifier[mpid].value = "GRC ibuprofen BGP ΠΡΟΪΟΝΤΑ Μ.Ε.Π.Ε. coated tablet 200mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3339,10 +4640,9 @@ Title: "BRUFEN C.TAB 200MG/TAB"
 
 
 
-Instance: BRUFEN-C-TAB-400MG-TAB-MPD
+Instance: BRUFEN-C-TAB-400MG-TAB-234-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "BRUFEN C.TAB 400MG/TAB"
 
 * identifier[mpid].value = "GRC ibuprofen BGP ΠΡΟΪΟΝΤΑ Μ.Ε.Π.Ε. coated tablet 400mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3360,10 +4660,9 @@ Title: "BRUFEN C.TAB 400MG/TAB"
 
 
 
-Instance: ADVIL-C-TAB-200MG-TAB-MPD
+Instance: ADVIL-C-TAB-200MG-TAB-235-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "ADVIL C.TAB 200MG/TAB"
 
 * identifier[mpid].value = "GRC ibuprofen PFIZER ΕΛΛΑΣ Α.Ε. coated tablet 200mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3381,10 +4680,9 @@ Title: "ADVIL C.TAB 200MG/TAB"
 
 
 
-Instance: NUROFEN-C-TAB-200MG-TAB-MPD
+Instance: NUROFEN-C-TAB-200MG-TAB-236-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "NUROFEN C.TAB 200MG/TAB"
 
 * identifier[mpid].value = "GRC ibuprofen ΡΕΚΙΤ ΜΠΕΝΚΙΖΕΡ ΕΛΛΑΣ ΧΗΜΙΚΑ ΑΒΕΕ coated tablet 200mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3402,10 +4700,9 @@ Title: "NUROFEN C.TAB 200MG/TAB"
 
 
 
-Instance: NUROFEN-SOFT-CAPS-200MG-CAP-MPD
+Instance: NUROFEN-SOFT-CAPS-200MG-CAP-237-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "NUROFEN SOFT.CAPS 200MG/CAP"
 
 * identifier[mpid].value = "GRC ibuprofen ΡΕΚΙΤ ΜΠΕΝΚΙΖΕΡ ΕΛΛΑΣ ΧΗΜΙΚΑ ΑΒΕΕ capsule, soft 200mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3423,10 +4720,9 @@ Title: "NUROFEN SOFT.CAPS 200MG/CAP"
 
 
 
-Instance: ALGOFREN-SYR-100MG-5ML-MPD
+Instance: ALGOFREN-SYR-100MG-5ML-238-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "ALGOFREN SYR 100MG/5ML"
 
 * identifier[mpid].value = "GRC ibuprofen INTERMED ABEE syrup 20mg/1mL"
 * domain = $100000000004#100000000012 "Human use"
@@ -3444,10 +4740,9 @@ Title: "ALGOFREN SYR 100MG/5ML"
 
 
 
-Instance: ALGOFREN-SUPP-500MG-SUP-MPD
+Instance: ALGOFREN-SUPP-500MG-SUP-239-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "ALGOFREN SUPP 500MG/SUP"
 
 * identifier[mpid].value = "GRC ibuprofen INTERMED ABEE suppository 500mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3465,10 +4760,9 @@ Title: "ALGOFREN SUPP 500MG/SUP"
 
 
 
-Instance: ALGOFREN-F-C-TAB-200MG-TAB-MPD
+Instance: ALGOFREN-F-C-TAB-200MG-TAB-240-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "ALGOFREN F.C.TAB 200MG/TAB"
 
 * identifier[mpid].value = "GRC ibuprofen INTERMED ABEE film-coated tablet 200mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3486,10 +4780,9 @@ Title: "ALGOFREN F.C.TAB 200MG/TAB"
 
 
 
-Instance: ALGOFREN-F-C-TAB-400MG-TAB-MPD
+Instance: ALGOFREN-F-C-TAB-400MG-TAB-241-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "ALGOFREN F.C.TAB 400MG/TAB"
 
 * identifier[mpid].value = "GRC ibuprofen INTERMED ABEE film-coated tablet 400mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3507,10 +4800,9 @@ Title: "ALGOFREN F.C.TAB 400MG/TAB"
 
 
 
-Instance: ALGOFREN-F-C-TAB-600MG-TAB-MPD
+Instance: ALGOFREN-F-C-TAB-600MG-TAB-242-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "ALGOFREN F.C.TAB 600MG/TAB"
 
 * identifier[mpid].value = "GRC ibuprofen INTERMED ABEE film-coated tablet 600mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3528,10 +4820,9 @@ Title: "ALGOFREN F.C.TAB 600MG/TAB"
 
 
 
-Instance: PEDEA-SOL-IV-INF-10MG-2ML-MPD
+Instance: PEDEA-SOL-IV-INF-10MG-2ML-243-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "PEDEA SOL.IV.INF 10MG/2ML"
 
 * identifier[mpid].value = "GRC ibuprofen sodium ΙΦΕΤ ΑΕ solution for infusion 10mg/2mL"
 * domain = $100000000004#100000000012 "Human use"
@@ -3549,10 +4840,9 @@ Title: "PEDEA SOL.IV.INF 10MG/2ML"
 
 
 
-Instance: NEOPROFEN-SOL-IV-INF-10MG-ML-MPD
+Instance: NEOPROFEN-SOL-IV-INF-10MG-ML-244-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "NEOPROFEN SOL.IV.INF. 10MG/ML"
 
 * identifier[mpid].value = "GRC ibuprofen lysine ΙΦΕΤ ΑΕ solution for infusion 20mg/2mL"
 * domain = $100000000004#100000000012 "Human use"
@@ -3570,10 +4860,9 @@ Title: "NEOPROFEN SOL.IV.INF. 10MG/ML"
 
 
 
-Instance: LIPOMIN-MEDICAL-PHARMAQUALITY-F-C-TAB-20MG-TAB-MPD
+Instance: LIPOMIN-MEDICAL-PHARMAQUALITY-F-C-TAB-20MG-TAB-245-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "LIPOMIN/MEDICAL PHARMAQUALITY F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin MEDICAL PHARMAQUALITY AE film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3591,10 +4880,9 @@ Title: "LIPOMIN/MEDICAL PHARMAQUALITY F.C.TAB 20MG/TAB"
 
 
 
-Instance: LIPOMIN-MEDICAL-PHARMAQUALITY-F-C-TAB-40MG-TAB-MPD
+Instance: LIPOMIN-MEDICAL-PHARMAQUALITY-F-C-TAB-40MG-TAB-246-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "LIPOMIN/MEDICAL PHARMAQUALITY F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin MEDICAL PHARMAQUALITY AE film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3612,10 +4900,9 @@ Title: "LIPOMIN/MEDICAL PHARMAQUALITY F.C.TAB 40MG/TAB"
 
 
 
-Instance: STATINUM-MEDICHROM-F-C-TAB-20MG-TAB-MPD
+Instance: STATINUM-MEDICHROM-F-C-TAB-20MG-TAB-247-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "STATINUM-MEDICHROM F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin MEDICHROM A.E. film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3633,10 +4920,9 @@ Title: "STATINUM-MEDICHROM F.C.TAB 20MG/TAB"
 
 
 
-Instance: STATINUM-MEDICHROM-F-C-TAB-40MG-TAB-MPD
+Instance: STATINUM-MEDICHROM-F-C-TAB-40MG-TAB-248-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "STATINUM-MEDICHROM F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin MEDICHROM A.E. film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3654,10 +4940,9 @@ Title: "STATINUM-MEDICHROM F.C.TAB 40MG/TAB"
 
 
 
-Instance: VERISTIN-F-C-TAB-40MG-TAB-MPD
+Instance: VERISTIN-F-C-TAB-40MG-TAB-249-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "VERISTIN F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin VIOFAR ΕΠΕ film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3675,10 +4960,9 @@ Title: "VERISTIN F.C.TAB 40MG/TAB"
 
 
 
-Instance: STAZOR-F-C-TAB-20MG-TAB-MPD
+Instance: STAZOR-F-C-TAB-20MG-TAB-250-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "STAZOR F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin ΑΔΗΦΑΡΜ Μ.Ε.Π.Ε. film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3696,10 +4980,9 @@ Title: "STAZOR F.C.TAB 20MG/TAB"
 
 
 
-Instance: STAZOR-F-C-TAB-40MG-TAB-MPD
+Instance: STAZOR-F-C-TAB-40MG-TAB-251-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "STAZOR F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin ΑΔΗΦΑΡΜ Μ.Ε.Π.Ε. film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3717,10 +5000,9 @@ Title: "STAZOR F.C.TAB 40MG/TAB"
 
 
 
-Instance: GLIPAL-F-C-TAB-40MG-TAB-MPD
+Instance: GLIPAL-F-C-TAB-40MG-TAB-252-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "GLIPAL F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin IASIS PHARMA film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3738,10 +5020,9 @@ Title: "GLIPAL F.C.TAB 40MG/TAB"
 
 
 
-Instance: SIMVAPROL-F-C-TAB-40MG-TAB-MPD
+Instance: SIMVAPROL-F-C-TAB-40MG-TAB-253-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "SIMVAPROL F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin NOVENDIA PHARMACEUTICALS ΕΠΕ film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3759,10 +5040,29 @@ Title: "SIMVAPROL F.C.TAB 40MG/TAB"
 
 
 
-Instance: SIMVALID-F-C-TAB-20MG-TAB-MPD
+Instance: SIMVAPROL-F-C-TAB-40MG-TAB-254-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "SIMVALID F.C.TAB 20MG/TAB"
+
+* identifier[mpid].value = "GRC Simvastatin NOVENDIA PHARMACEUTICALS ΕΠΕ film-coated tablet 40mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "SIMVAPROL F.C.TAB 40MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: SIMVALID-F-C-TAB-20MG-TAB-255-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC Simvastatin VIVAX PHARMACEUTICALS LTD, GREECE film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3780,10 +5080,49 @@ Title: "SIMVALID F.C.TAB 20MG/TAB"
 
 
 
-Instance: LOWCHOLID-F-C-TAB-10MG-TAB-MPD
+Instance: LIPOMIN-MEDICAL-PHARMAQUALITY-F-C-TAB-20MG-TAB-256-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "LOWCHOLID F.C.TAB 10MG/TAB"
+
+* identifier[mpid].value = "GRC Simvastatin MEDICAL PHARMAQUALITY AE film-coated tablet 20mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "LIPOMIN/MEDICAL PHARMAQUALITY F.C.TAB 20MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: LIPOMIN-MEDICAL-PHARMAQUALITY-F-C-TAB-40MG-TAB-257-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
+
+* identifier[mpid].value = "GRC Simvastatin MEDICAL PHARMAQUALITY AE film-coated tablet 40mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "LIPOMIN/MEDICAL PHARMAQUALITY F.C.TAB 40MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: LOWCHOLID-F-C-TAB-10MG-TAB-258-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC Simvastatin PLUS ΦΑΡΜΑΚΕΥΤΙΚΗ ΑΕ film-coated tablet 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3801,10 +5140,9 @@ Title: "LOWCHOLID F.C.TAB 10MG/TAB"
 
 
 
-Instance: SIMVATIN-F-C-TAB-40MG-TAB-MPD
+Instance: SIMVATIN-F-C-TAB-40MG-TAB-259-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "SIMVATIN F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin BIOSPRAY ABEE film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3822,10 +5160,49 @@ Title: "SIMVATIN F.C.TAB 40MG/TAB"
 
 
 
-Instance: SIVINAR-F-C-TAB-20MG-TAB-MPD
+Instance: SIMVATIN-F-C-TAB-40MG-TAB-260-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "SIVINAR F.C.TAB 20MG/TAB"
+
+* identifier[mpid].value = "GRC Simvastatin D.A.S.T. BIOTECH PHARM ΕΠΕ film-coated tablet 40mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "SIMVATIN F.C.TAB 40MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: SIMVATIN-F-C-TAB-40MG-TAB-261-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
+
+* identifier[mpid].value = "GRC Simvastatin BIOSPRAY ABEE film-coated tablet 40mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "SIMVATIN F.C.TAB 40MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: SIVINAR-F-C-TAB-20MG-TAB-262-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC Simvastatin ΑΝΦΑΡΜ ΕΛΛΑΣ Α.Ε. film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3843,10 +5220,9 @@ Title: "SIVINAR F.C.TAB 20MG/TAB"
 
 
 
-Instance: SIVINAR-F-C-TAB-40MG-TAB-MPD
+Instance: SIVINAR-F-C-TAB-40MG-TAB-263-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "SIVINAR F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin ΑΝΦΑΡΜ ΕΛΛΑΣ Α.Ε. film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3864,10 +5240,9 @@ Title: "SIVINAR F.C.TAB 40MG/TAB"
 
 
 
-Instance: REDUSTEROL-F-C-TAB-20MG-TAB-MPD
+Instance: REDUSTEROL-F-C-TAB-20MG-TAB-264-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "REDUSTEROL F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin ΦΟΙΝΙΞΦΑΡΜ ΕΠΕ film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3885,10 +5260,9 @@ Title: "REDUSTEROL F.C.TAB 20MG/TAB"
 
 
 
-Instance: REDUSTEROL-F-C-TAB-40MG-TAB-MPD
+Instance: REDUSTEROL-F-C-TAB-40MG-TAB-265-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "REDUSTEROL F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin ΦΟΙΝΙΞΦΑΡΜ ΕΠΕ film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3906,10 +5280,9 @@ Title: "REDUSTEROL F.C.TAB 40MG/TAB"
 
 
 
-Instance: LIPEXAL-F-C-TAB-40MG-TAB-MPD
+Instance: LIPEXAL-F-C-TAB-40MG-TAB-266-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "LIPEXAL F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin INNOVIS PHARMA A.E.B.E film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3927,10 +5300,9 @@ Title: "LIPEXAL F.C.TAB 40MG/TAB"
 
 
 
-Instance: LIPOREX-F-C-TAB-20MG-TAB-MPD
+Instance: LIPOREX-F-C-TAB-20MG-TAB-267-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "LIPOREX F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin GENEPHARM AE film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3948,10 +5320,9 @@ Title: "LIPOREX F.C.TAB 20MG/TAB"
 
 
 
-Instance: SIMVACOR-F-C-TAB-20MG-TAB-MPD
+Instance: SIMVACOR-F-C-TAB-20MG-TAB-268-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "SIMVACOR F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin ΚΛΕΒΑ ΑΦΒΕΕ film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3969,10 +5340,9 @@ Title: "SIMVACOR F.C.TAB 20MG/TAB"
 
 
 
-Instance: SIMVACOR-F-C-TAB-40MG-TAB-MPD
+Instance: SIMVACOR-F-C-TAB-40MG-TAB-269-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "SIMVACOR F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin ΚΛΕΒΑ ΑΦΒΕΕ film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -3990,10 +5360,9 @@ Title: "SIMVACOR F.C.TAB 40MG/TAB"
 
 
 
-Instance: PRAVOSTIN-F-C-TAB-20MG-TAB-MPD
+Instance: PRAVOSTIN-F-C-TAB-20MG-TAB-270-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "PRAVOSTIN F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin ΜΙΝΕΡΒΑ ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4011,10 +5380,9 @@ Title: "PRAVOSTIN F.C.TAB 20MG/TAB"
 
 
 
-Instance: PRAVOSTIN-F-C-TAB-40MG-TAB-MPD
+Instance: PRAVOSTIN-F-C-TAB-40MG-TAB-271-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "PRAVOSTIN F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin ΜΙΝΕΡΒΑ ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4032,10 +5400,9 @@ Title: "PRAVOSTIN F.C.TAB 40MG/TAB"
 
 
 
-Instance: EXTRASTATIN-F-C-TAB-20MG-TAB-MPD
+Instance: EXTRASTATIN-F-C-TAB-20MG-TAB-272-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "EXTRASTATIN F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin S.J.A. PHARM ΕΠΕ film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4053,10 +5420,9 @@ Title: "EXTRASTATIN F.C.TAB 20MG/TAB"
 
 
 
-Instance: EXTRASTATIN-F-C-TAB-40MG-TAB-MPD
+Instance: EXTRASTATIN-F-C-TAB-40MG-TAB-273-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "EXTRASTATIN F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin S.J.A. PHARM ΕΠΕ film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4074,10 +5440,9 @@ Title: "EXTRASTATIN F.C.TAB 40MG/TAB"
 
 
 
-Instance: SOTOVASTIN-F-C-TAB-40MG-TAB-MPD
+Instance: SOTOVASTIN-F-C-TAB-40MG-TAB-274-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "SOTOVASTIN F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin BROS Ε.Π.Ε. film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4095,10 +5460,9 @@ Title: "SOTOVASTIN F.C.TAB 40MG/TAB"
 
 
 
-Instance: KYMAZOL-F-C-TAB-20MG-TAB-MPD
+Instance: KYMAZOL-F-C-TAB-20MG-TAB-275-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "KYMAZOL F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin RAFARM A.E.B.E. film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4116,10 +5480,29 @@ Title: "KYMAZOL F.C.TAB 20MG/TAB"
 
 
 
-Instance: KYMAZOL-F-C-TAB-40MG-TAB-MPD
+Instance: KYMAZOL-F-C-TAB-20MG-TAB-276-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "KYMAZOL F.C.TAB 40MG/TAB"
+
+* identifier[mpid].value = "GRC Simvastatin RAFARM A.E.B.E. film-coated tablet 20mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "KYMAZOL F.C.TAB 20MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: KYMAZOL-F-C-TAB-40MG-TAB-277-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC Simvastatin RAFARM A.E.B.E. film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4137,10 +5520,9 @@ Title: "KYMAZOL F.C.TAB 40MG/TAB"
 
 
 
-Instance: NORMOTHERIN-F-C-TAB-20MG-TAB-MPD
+Instance: NORMOTHERIN-F-C-TAB-20MG-TAB-278-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "NORMOTHERIN F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin UNI-PHARMA ΚΛΕΩΝ ΤΣΕΤΗΣ ΦΑΡΜΑΚΕΥΤΙΚΑ ΕΡΓΑΣΤΗΡΙΑ ΑΒΕΕ film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4158,10 +5540,9 @@ Title: "NORMOTHERIN F.C.TAB 20MG/TAB"
 
 
 
-Instance: NORMOTHERIN-F-C-TAB-40MG-TAB-MPD
+Instance: NORMOTHERIN-F-C-TAB-40MG-TAB-279-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "NORMOTHERIN F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin UNI-PHARMA ΚΛΕΩΝ ΤΣΕΤΗΣ ΦΑΡΜΑΚΕΥΤΙΚΑ ΕΡΓΑΣΤΗΡΙΑ ΑΒΕΕ film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4179,10 +5560,29 @@ Title: "NORMOTHERIN F.C.TAB 40MG/TAB"
 
 
 
-Instance: LIPOREX-F-C-TAB-40MG-TAB-MPD
+Instance: LIPOREX-F-C-TAB-20MG-TAB-280-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "LIPOREX F.C.TAB 40MG/TAB"
+
+* identifier[mpid].value = "GRC Simvastatin GENEPHARM AE film-coated tablet 20mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "LIPOREX F.C.TAB 20MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: LIPOREX-F-C-TAB-40MG-TAB-281-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC Simvastatin GENEPHARM AE film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4200,10 +5600,29 @@ Title: "LIPOREX F.C.TAB 40MG/TAB"
 
 
 
-Instance: STATINAL-C-TAB-20MG-TAB-MPD
+Instance: LIPOREX-F-C-TAB-40MG-TAB-282-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "STATINAL C.TAB 20MG/TAB"
+
+* identifier[mpid].value = "GRC Simvastatin GENEPHARM AE film-coated tablet 40mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "LIPOREX F.C.TAB 40MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: STATINAL-C-TAB-20MG-TAB-283-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC Simvastatin ALET PHARMACEUTICALS ABEE coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4221,10 +5640,29 @@ Title: "STATINAL C.TAB 20MG/TAB"
 
 
 
-Instance: STATINAL-F-C-TAB-40MG-TAB-MPD
+Instance: STATINAL-C-TAB-20MG-TAB-284-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "STATINAL F.C.TAB 40MG/TAB"
+
+* identifier[mpid].value = "GRC Simvastatin TEVA GMBH, GERMANY coated tablet 20mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "STATINAL C.TAB 20MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: STATINAL-F-C-TAB-40MG-TAB-285-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC Simvastatin SPECIFAR ABEE film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4242,10 +5680,9 @@ Title: "STATINAL F.C.TAB 40MG/TAB"
 
 
 
-Instance: STASIVA-F-C-TAB-20MG-TAB-MPD
+Instance: STASIVA-F-C-TAB-20MG-TAB-286-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "STASIVA F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin ΦΑΡΜΑΝΕΛ ΦΑΡΜΑΚΕΥΤΙΚΗ Α,Ε, film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4263,10 +5700,49 @@ Title: "STASIVA F.C.TAB 20MG/TAB"
 
 
 
-Instance: STASIVA-F-C-TAB-40MG-TAB-MPD
+Instance: STASIVA-F-C-TAB-20MG-TAB-287-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "STASIVA F.C.TAB 40MG/TAB"
+
+* identifier[mpid].value = "GRC Simvastatin ΦΑΡΜΑΝΕΛ ΦΑΡΜΑΚΕΥΤΙΚΗ Α,Ε, film-coated tablet 20mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "STASIVA F.C.TAB 20MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: STASIVA-F-C-TAB-20MG-TAB-288-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
+
+* identifier[mpid].value = "GRC Simvastatin BIAN A.E. film-coated tablet 20mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "STASIVA F.C.TAB 20MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: STASIVA-F-C-TAB-40MG-TAB-289-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC Simvastatin BIAN A.E. film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4284,10 +5760,29 @@ Title: "STASIVA F.C.TAB 40MG/TAB"
 
 
 
-Instance: ZUROCID-F-C-TAB-20MG-TAB-MPD
+Instance: STASIVA-F-C-TAB-40MG-TAB-290-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "ZUROCID F.C.TAB 20MG/TAB"
+
+* identifier[mpid].value = "GRC Simvastatin ΦΑΡΜΑΝΕΛ ΦΑΡΜΑΚΕΥΤΙΚΗ Α,Ε, film-coated tablet 40mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "STASIVA F.C.TAB 40MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: ZUROCID-F-C-TAB-20MG-TAB-291-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC Simvastatin STARGEN Ε.Π.Ε. film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4305,10 +5800,9 @@ Title: "ZUROCID F.C.TAB 20MG/TAB"
 
 
 
-Instance: ZUROCID-F-C-TAB-40MG-TAB-MPD
+Instance: ZUROCID-F-C-TAB-40MG-TAB-292-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "ZUROCID F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin STARGEN Ε.Π.Ε. film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4326,10 +5820,29 @@ Title: "ZUROCID F.C.TAB 40MG/TAB"
 
 
 
-Instance: VASTATIN-F-C-TAB-40MG-TAB-MPD
+Instance: ZUROCID-F-C-TAB-40MG-TAB-293-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "VASTATIN F.C.TAB 40MG/TAB"
+
+* identifier[mpid].value = "GRC Simvastatin STARGEN Ε.Π.Ε. film-coated tablet 40mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "ZUROCID F.C.TAB 40MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: VASTATIN-F-C-TAB-40MG-TAB-294-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC Simvastatin VOCATE ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4347,10 +5860,9 @@ Title: "VASTATIN F.C.TAB 40MG/TAB"
 
 
 
-Instance: GOLDASTATIN-F-C-TAB-40MG-TAB-0--MPD
+Instance: GOLDASTATIN-F-C-TAB-40MG-TAB-0--295-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "GOLDASTATIN F.C.TAB 40MG/TAB 0)"
 
 * identifier[mpid].value = "GRC Simvastatin ΠΑΝΑΓΙΩΤΗΣ ΛΕΩΝ & ΣΙΑ Ε,Ε, film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4368,10 +5880,9 @@ Title: "GOLDASTATIN F.C.TAB 40MG/TAB 0)"
 
 
 
-Instance: GOLDASTATIN-F-C-TAB-40MG-TAB-MPD
+Instance: GOLDASTATIN-F-C-TAB-40MG-TAB-296-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "GOLDASTATIN F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin LINKER PHARMACEUTICALS ΠΑΝΑΓΙΩΤΗΣ ΛΕΩΝ & ΣΙΑ Ε.Ε. film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4389,10 +5900,9 @@ Title: "GOLDASTATIN F.C.TAB 40MG/TAB"
 
 
 
-Instance: LEPUR-F-C-TAB-20MG-TAB-MPD
+Instance: LEPUR-F-C-TAB-20MG-TAB-297-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "LEPUR F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin ELPEN AE ΦΑΡΜΑΚΕΥΤΙΚΗ ΒΙΟΜΗΧΑΝΙΑ film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4410,10 +5920,9 @@ Title: "LEPUR F.C.TAB 20MG/TAB"
 
 
 
-Instance: LEPUR-F-C-TAB-40MG-TAB-MPD
+Instance: LEPUR-F-C-TAB-40MG-TAB-298-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "LEPUR F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin ELPEN AE ΦΑΡΜΑΚΕΥΤΙΚΗ ΒΙΟΜΗΧΑΝΙΑ film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4431,10 +5940,9 @@ Title: "LEPUR F.C.TAB 40MG/TAB"
 
 
 
-Instance: PRIACIN-F-C-TAB-20MG-TAB-MPD
+Instance: PRIACIN-F-C-TAB-20MG-TAB-299-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "PRIACIN F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin MEDOCHEMIE HELLAS AE film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4452,10 +5960,9 @@ Title: "PRIACIN F.C.TAB 20MG/TAB"
 
 
 
-Instance: NEZATIN-F-C-TAB-40MG-TAB-MPD
+Instance: NEZATIN-F-C-TAB-40MG-TAB-300-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "NEZATIN  F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin ΓΡΑΜΜΕΝΙΔΗΣ ΑΘΑΝΑΣΙΟΣ ΤΟΥ ΔΗΜΗΤΡΙΟΥ film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4473,10 +5980,9 @@ Title: "NEZATIN  F.C.TAB 40MG/TAB"
 
 
 
-Instance: VERISTIN-F-C-TAB-20MG-TAB-MPD
+Instance: VERISTIN-F-C-TAB-20MG-TAB-301-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "VERISTIN F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin VIOFAR ΕΠΕ film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4494,10 +6000,9 @@ Title: "VERISTIN F.C.TAB 20MG/TAB"
 
 
 
-Instance: SIMVASTATIN-TEVA-F-C-TAB-MPD
+Instance: SIMVASTATIN-TEVA-F-C-TAB-302-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "SIMVASTATIN/TEVA F.C.TAB"
 
 * identifier[mpid].value = "GRC Simvastatin TEVA PHARMA B.V., Haarlem, THE NETHERLANDS film-coated tablet 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4515,10 +6020,9 @@ Title: "SIMVASTATIN/TEVA F.C.TAB"
 
 
 
-Instance: SIMVASTATIN-TEVA-F-C-TAB-20MG-TAB-MPD
+Instance: SIMVASTATIN-TEVA-F-C-TAB-20MG-TAB-303-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "SIMVASTATIN/TEVA  F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin TEVA PHARMA B.V., Haarlem, THE NETHERLANDS film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4536,10 +6040,9 @@ Title: "SIMVASTATIN/TEVA  F.C.TAB 20MG/TAB"
 
 
 
-Instance: SIMVASTATIN-TEVA-F-C-TAB-40MG-TAB-MPD
+Instance: SIMVASTATIN-TEVA-F-C-TAB-40MG-TAB-304-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "SIMVASTATIN/TEVA  F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin TEVA PHARMA B.V., Haarlem, THE NETHERLANDS film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4557,10 +6060,9 @@ Title: "SIMVASTATIN/TEVA  F.C.TAB 40MG/TAB"
 
 
 
-Instance: LIPOPRESS-F-C-TAB-20-MG-TAB-MPD
+Instance: LIPOPRESS-F-C-TAB-20-MG-TAB-305-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "LIPOPRESS F.C.TAB 20 MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin HEREMCO Μ.Ε.Π.Ε. film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4578,10 +6080,9 @@ Title: "LIPOPRESS F.C.TAB 20 MG/TAB"
 
 
 
-Instance: LIPOPRESS-F-C-TAB-40-MG-TAB-MPD
+Instance: LIPOPRESS-F-C-TAB-40-MG-TAB-306-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "LIPOPRESS F.C.TAB 40 MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin HEREMCO Μ.Ε.Π.Ε. film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4599,10 +6100,9 @@ Title: "LIPOPRESS F.C.TAB 40 MG/TAB"
 
 
 
-Instance: ANTICHOL-F-C-TAB-20MG-TAB-MPD
+Instance: ANTICHOL-F-C-TAB-20MG-TAB-307-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "ANTICHOL F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin HELP ΑΒΕΕ film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4620,10 +6120,29 @@ Title: "ANTICHOL F.C.TAB 20MG/TAB"
 
 
 
-Instance: ANTICHOL-F-C-TAB-40MG-TAB-MPD
+Instance: ANTICHOL-F-C-TAB-20MG-TAB-308-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "ANTICHOL F.C.TAB 40MG/TAB"
+
+* identifier[mpid].value = "GRC Simvastatin HELP ΑΒΕΕ film-coated tablet 20mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "ANTICHOL F.C.TAB 20MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: ANTICHOL-F-C-TAB-40MG-TAB-309-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC Simvastatin HELP ΑΒΕΕ film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4641,10 +6160,29 @@ Title: "ANTICHOL F.C.TAB 40MG/TAB"
 
 
 
-Instance: RAPTOR-F-C-TAB-20MG-TAB-MPD
+Instance: ANTICHOL-F-C-TAB-40MG-TAB-310-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "RAPTOR F.C.TAB 20MG/TAB"
+
+* identifier[mpid].value = "GRC Simvastatin HELP ΑΒΕΕ film-coated tablet 40mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "ANTICHOL F.C.TAB 40MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: RAPTOR-F-C-TAB-20MG-TAB-311-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC Simvastatin MEDITRINA ΕΠΕ film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4662,10 +6200,9 @@ Title: "RAPTOR F.C.TAB 20MG/TAB"
 
 
 
-Instance: RAPTOR-F-C-TAB-40MG-TAB-MPD
+Instance: RAPTOR-F-C-TAB-40MG-TAB-312-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "RAPTOR F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin MEDITRINA ΕΠΕ film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4683,10 +6220,9 @@ Title: "RAPTOR F.C.TAB 40MG/TAB"
 
 
 
-Instance: MEDISTATIN-RALDEX-F-C-TAB-40MG-TAB-MPD
+Instance: MEDISTATIN-RALDEX-F-C-TAB-40MG-TAB-313-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "MEDISTATIN-RALDEX F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin MEDICHROM A.E. film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4704,10 +6240,9 @@ Title: "MEDISTATIN-RALDEX F.C.TAB 40MG/TAB"
 
 
 
-Instance: LIPOZID-F-C-TAB-40MG-TAB-MPD
+Instance: LIPOZID-F-C-TAB-40MG-TAB-314-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "LIPOZID F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin INNOVACT A.E. film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4725,10 +6260,9 @@ Title: "LIPOZID F.C.TAB 40MG/TAB"
 
 
 
-Instance: VELKASTATIN-F-C-TAB-20MG-TAB-MPD
+Instance: VELKASTATIN-F-C-TAB-20MG-TAB-315-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "VELKASTATIN F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin ΒΕΛΚΑ ΕΛΛΑΣ ΑΕΒΕ film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4746,10 +6280,9 @@ Title: "VELKASTATIN F.C.TAB 20MG/TAB"
 
 
 
-Instance: VELKASTATIN-F-C-TAB-40MG-TAB-MPD
+Instance: VELKASTATIN-F-C-TAB-40MG-TAB-316-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "VELKASTATIN F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin ΒΕΛΚΑ ΕΛΛΑΣ ΑΕΒΕ film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4767,10 +6300,9 @@ Title: "VELKASTATIN F.C.TAB 40MG/TAB"
 
 
 
-Instance: BEVOSTATIN-F-C-TAB-20MG-TAB-MPD
+Instance: BEVOSTATIN-F-C-TAB-20MG-TAB-317-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "BEVOSTATIN F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin DESANT film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4788,10 +6320,9 @@ Title: "BEVOSTATIN F.C.TAB 20MG/TAB"
 
 
 
-Instance: BEVOSTATIN-F-C-TAB-40MG-TAB-MPD
+Instance: BEVOSTATIN-F-C-TAB-40MG-TAB-318-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "BEVOSTATIN F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin DESANT film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4809,10 +6340,9 @@ Title: "BEVOSTATIN F.C.TAB 40MG/TAB"
 
 
 
-Instance: PLACOL-SIMVASTATIN-F-C-TAB-20-MG-TAB-MPD
+Instance: PLACOL-SIMVASTATIN-F-C-TAB-20-MG-TAB-319-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "PLACOL SIMVASTATIN F.C.TAB 20 MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin BENNETT ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4830,10 +6360,9 @@ Title: "PLACOL SIMVASTATIN F.C.TAB 20 MG/TAB"
 
 
 
-Instance: PLACOL-SIMVASTATIN-F-C-TAB-40-MG-TAB-MPD
+Instance: PLACOL-SIMVASTATIN-F-C-TAB-40-MG-TAB-320-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "PLACOL  SIMVASTATIN F.C.TAB 40 MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin BENNETT ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4851,10 +6380,9 @@ Title: "PLACOL  SIMVASTATIN F.C.TAB 40 MG/TAB"
 
 
 
-Instance: SIMVALARK-F-C-TAB-40MG-TAB-MPD
+Instance: SIMVALARK-F-C-TAB-40MG-TAB-321-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "SIMVALARK F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin ΗΔΥΟΣΜΟΣ Η, & Ε, ΑΛΕΒΙΖΟΠΟΥΛΟΣ Ε.Ε. film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4872,10 +6400,9 @@ Title: "SIMVALARK F.C.TAB 40MG/TAB"
 
 
 
-Instance: IAMASTATIN-F-C-TAB-40MG-TAB-MPD
+Instance: IAMASTATIN-F-C-TAB-40MG-TAB-322-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "IAMASTATIN F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin IAMATICA MON. ΕΠΕ film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4893,10 +6420,29 @@ Title: "IAMASTATIN F.C.TAB 40MG/TAB"
 
 
 
-Instance: ANTICHOL-F-C-TAB-10MG-TAB-MPD
+Instance: IAMASTATIN-F-C-TAB-40MG-TAB-323-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "ANTICHOL F.C.TAB 10MG/TAB"
+
+* identifier[mpid].value = "GRC Simvastatin IAMATICA MON. ΕΠΕ film-coated tablet 40mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "IAMASTATIN F.C.TAB 40MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: ANTICHOL-F-C-TAB-10MG-TAB-324-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC Simvastatin HELP ΑΒΕΕ film-coated tablet 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4914,10 +6460,9 @@ Title: "ANTICHOL F.C.TAB 10MG/TAB"
 
 
 
-Instance: VERITRAT-F-C-TAB-40MG-TAB-MPD
+Instance: VERITRAT-F-C-TAB-40MG-TAB-325-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "VERITRAT F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin ΦΑΡΜΕΞ Α.Ε. film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4935,10 +6480,9 @@ Title: "VERITRAT F.C.TAB 40MG/TAB"
 
 
 
-Instance: LUSIMVA-F-C-TAB-40MG-TAB-MPD
+Instance: LUSIMVA-F-C-TAB-40MG-TAB-326-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "LUSIMVA F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin BALU AE film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4956,10 +6500,9 @@ Title: "LUSIMVA F.C.TAB 40MG/TAB"
 
 
 
-Instance: VASSOR-F-C-TAB-20MG-TAB-MPD
+Instance: VASSOR-F-C-TAB-20MG-TAB-327-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "VASSOR F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin ΠΝΓ ΓΕΡΟΛΥΜΑΤΟΣ ΜΕΝΤΙΚΑΛ Α.Ε. film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4977,10 +6520,29 @@ Title: "VASSOR F.C.TAB 20MG/TAB"
 
 
 
-Instance: VASSOR-F-C-TAB-40MG-TAB-MPD
+Instance: VASSOR-F-C-TAB-20MG-TAB-328-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "VASSOR F.C.TAB 40MG/TAB"
+
+* identifier[mpid].value = "GRC Simvastatin ΠΝΓ ΓΕΡΟΛΥΜΑΤΟΣ ΜΕΝΤΙΚΑΛ Α.Ε. film-coated tablet 20mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "VASSOR F.C.TAB 20MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: VASSOR-F-C-TAB-40MG-TAB-329-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC Simvastatin ΠΝΓ ΓΕΡΟΛΥΜΑΤΟΣ ΜΕΝΤΙΚΑΛ Α.Ε. film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -4998,10 +6560,49 @@ Title: "VASSOR F.C.TAB 40MG/TAB"
 
 
 
-Instance: STATIVER-F-C-TAB-40MG-TAB-MPD
+Instance: VASSOR-F-C-TAB-40MG-TAB-330-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "STATIVER F.C.TAB 40MG/TAB"
+
+* identifier[mpid].value = "GRC Simvastatin ΠΝΓ ΓΕΡΟΛΥΜΑΤΟΣ ΜΕΝΤΙΚΑΛ Α.Ε. film-coated tablet 40mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "VASSOR F.C.TAB 40MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: VASSOR-F-C-TAB-40MG-TAB-331-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
+
+* identifier[mpid].value = "GRC Simvastatin ΠΝΓ ΓΕΡΟΛΥΜΑΤΟΣ ΜΕΝΤΙΚΑΛ Α.Ε. film-coated tablet 40mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "VASSOR F.C.TAB 40MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: STATIVER-F-C-TAB-40MG-TAB-332-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC Simvastatin CROSS PHARMACEYTICALS P.C. film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5019,10 +6620,49 @@ Title: "STATIVER F.C.TAB 40MG/TAB"
 
 
 
-Instance: SIMVASTIL-F-C-TAB-20MG-TAB-MPD
+Instance: ANTICHOL-F-C-TAB-40MG-TAB-333-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "SIMVASTIL F.C.TAB 20MG/TAB"
+
+* identifier[mpid].value = "GRC Simvastatin HELP ΑΒΕΕ film-coated tablet 40mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "ANTICHOL F.C.TAB 40MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: ANTICHOL-F-C-TAB-20MG-TAB-334-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
+
+* identifier[mpid].value = "GRC Simvastatin HELP ΑΒΕΕ film-coated tablet 20mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "ANTICHOL F.C.TAB 20MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: SIMVASTIL-F-C-TAB-20MG-TAB-335-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC Simvastatin MEDARTE ΦΑΡΜΑΚΕΥΤΙΚΗ ΑΒΕΕ film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5040,10 +6680,9 @@ Title: "SIMVASTIL F.C.TAB 20MG/TAB"
 
 
 
-Instance: SIMVASTIL-F-C-TAB-40MG-TAB-MPD
+Instance: SIMVASTIL-F-C-TAB-40MG-TAB-336-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "SIMVASTIL F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin MEDARTE ΦΑΡΜΑΚΕΥΤΙΚΗ ΑΒΕΕ film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5061,10 +6700,9 @@ Title: "SIMVASTIL F.C.TAB 40MG/TAB"
 
 
 
-Instance: LOWCHOLID-F-C-TAB-20MG-TAB-MPD
+Instance: LOWCHOLID-F-C-TAB-20MG-TAB-337-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "LOWCHOLID F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin NATURALIA A.E. film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5082,10 +6720,9 @@ Title: "LOWCHOLID F.C.TAB 20MG/TAB"
 
 
 
-Instance: LOWCHOLID-F-C-TAB-40MG-TAB-MPD
+Instance: LOWCHOLID-F-C-TAB-40MG-TAB-338-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "LOWCHOLID F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin NATURALIA A.E. film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5103,10 +6740,9 @@ Title: "LOWCHOLID F.C.TAB 40MG/TAB"
 
 
 
-Instance: IPRAMID-F-C-TAB-20MG-TAB-MPD
+Instance: IPRAMID-F-C-TAB-20MG-TAB-339-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "IPRAMID F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin FARMEDIA AE film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5124,10 +6760,9 @@ Title: "IPRAMID F.C.TAB 20MG/TAB"
 
 
 
-Instance: IPRAMID-F-C-TAB-40MG-TAB-MPD
+Instance: IPRAMID-F-C-TAB-40MG-TAB-340-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "IPRAMID F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin VENIFAR LTD, CYPRUS film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5145,10 +6780,9 @@ Title: "IPRAMID F.C.TAB 40MG/TAB"
 
 
 
-Instance: SIMVALID-F-C-TAB-40MG-TAB-MPD
+Instance: SIMVALID-F-C-TAB-40MG-TAB-341-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "SIMVALID F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin VIVAX PHARMACEUTICALS LTD, GREECE film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5166,10 +6800,9 @@ Title: "SIMVALID F.C.TAB 40MG/TAB"
 
 
 
-Instance: STERYLIP-F-C-TAB-40MG-TAB-MPD
+Instance: STERYLIP-F-C-TAB-40MG-TAB-342-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "STERYLIP F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin PHAREL ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5187,10 +6820,9 @@ Title: "STERYLIP F.C.TAB 40MG/TAB"
 
 
 
-Instance: SIMVASTATIN-NORMA-F-C-TAB-20MG-TAB-MPD
+Instance: SIMVASTATIN-NORMA-F-C-TAB-20MG-TAB-343-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "SIMVASTATIN/NORMA F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin ΝΟΡΜΑ ΕΛΛΑΣ Α.Ε. film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5208,10 +6840,9 @@ Title: "SIMVASTATIN/NORMA F.C.TAB 20MG/TAB"
 
 
 
-Instance: SIMVASTATIN-NORMA-F-C-TAB-40MG-TAB-MPD
+Instance: SIMVASTATIN-NORMA-F-C-TAB-40MG-TAB-344-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "SIMVASTATIN/NORMA F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin ΝΟΡΜΑ ΕΛΛΑΣ Α.Ε. film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5229,10 +6860,9 @@ Title: "SIMVASTATIN/NORMA F.C.TAB 40MG/TAB"
 
 
 
-Instance: DOCTIVERINE-F-C-TAB-20MG-TAB-MPD
+Instance: DOCTIVERINE-F-C-TAB-20MG-TAB-345-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "DOCTIVERINE F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin DOCTUM ΦΑΡΜΑΚΕΥΤΙΚΗ Κ, ΓΙΟΚΑΡΗΣ & ΣΙΑ Α.Ε. film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5250,10 +6880,9 @@ Title: "DOCTIVERINE F.C.TAB 20MG/TAB"
 
 
 
-Instance: DOCTIVERINE-F-C-TAB-40MG-TAB-MPD
+Instance: DOCTIVERINE-F-C-TAB-40MG-TAB-346-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "DOCTIVERINE F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin DOCTUM ΦΑΡΜΑΚΕΥΤΙΚΗ Κ, ΓΙΟΚΑΡΗΣ & ΣΙΑ Α.Ε. film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5271,10 +6900,29 @@ Title: "DOCTIVERINE F.C.TAB 40MG/TAB"
 
 
 
-Instance: PRELON-F-C-TAB-20MG-TAB-MPD
+Instance: PRIACIN-F-C-TAB-20MG-TAB-347-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "PRELON F.C.TAB 20MG/TAB"
+
+* identifier[mpid].value = "GRC Simvastatin MEDOCHEMIE HELLAS AE film-coated tablet 20mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "PRIACIN F.C.TAB 20MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: PRELON-F-C-TAB-20MG-TAB-348-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC Simvastatin ΦΑΡΑΝ ΑΒΕΕ ΠΑΡΑΓΩΓΗΣ ΚΑΙ ΕΜΠΟΡΙΑΣ ΦΑΡΜΑΚΩΝ film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5292,10 +6940,9 @@ Title: "PRELON F.C.TAB 20MG/TAB"
 
 
 
-Instance: PRELON-F-C-TAB-40MG-TAB-MPD
+Instance: PRELON-F-C-TAB-40MG-TAB-349-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "PRELON F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin ANGELINI PHARMA HELLAS ABEE film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5313,10 +6960,9 @@ Title: "PRELON F.C.TAB 40MG/TAB"
 
 
 
-Instance: SIMVASTEROL-F-C-TAB-40MG-TAB-MPD
+Instance: SIMVASTEROL-F-C-TAB-40MG-TAB-350-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "SIMVASTEROL F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin LIBYTEC A.E. film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5334,10 +6980,29 @@ Title: "SIMVASTEROL F.C.TAB 40MG/TAB"
 
 
 
-Instance: ZOCOR-F-C-TAB-20MG-TAB-MPD
+Instance: LIPEXAL-F-C-TAB-40MG-TAB-351-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "ZOCOR F.C.TAB 20MG/TAB"
+
+* identifier[mpid].value = "GRC Simvastatin ΦΑΡΜΑΤΕΝ ΕΛΛΑΣ ΑΕΒΕ film-coated tablet 40mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "LIPEXAL F.C.TAB 40MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: ZOCOR-F-C-TAB-20MG-TAB-352-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC Simvastatin ΒΙΑΝΕΞ Α.Ε. film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5355,10 +7020,9 @@ Title: "ZOCOR F.C.TAB 20MG/TAB"
 
 
 
-Instance: ZOCOR-F-C-TAB-40MG-TAB-MPD
+Instance: ZOCOR-F-C-TAB-40MG-TAB-353-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "ZOCOR F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin ΒΙΑΝΕΞ Α.Ε. film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5376,10 +7040,9 @@ Title: "ZOCOR F.C.TAB 40MG/TAB"
 
 
 
-Instance: PRIZELIP-F-C-TAB-40MG-TAB-MPD
+Instance: PRIZELIP-F-C-TAB-40MG-TAB-354-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "PRIZELIP F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin ΦΕΡΑΚΟΝ Ι.Κ.Ε. film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5397,10 +7060,9 @@ Title: "PRIZELIP F.C.TAB 40MG/TAB"
 
 
 
-Instance: ARSTATIN-F-C-TAB-20MG-TAB-MPD
+Instance: ARSTATIN-F-C-TAB-20MG-TAB-355-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "ARSTATIN F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin DOC PHARMA AE film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5418,10 +7080,9 @@ Title: "ARSTATIN F.C.TAB 20MG/TAB"
 
 
 
-Instance: ARSTATIN-F-C-TAB-40MG-TAB-MPD
+Instance: ARSTATIN-F-C-TAB-40MG-TAB-356-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "ARSTATIN F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin DOC PHARMA AE film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5439,10 +7100,9 @@ Title: "ARSTATIN F.C.TAB 40MG/TAB"
 
 
 
-Instance: TREMITAL-F-C-TAB-40MG-TAB-MPD
+Instance: TREMITAL-F-C-TAB-40MG-TAB-357-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "TREMITAL F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin BIORESPOND Ε.Π.Ε. film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5460,10 +7120,29 @@ Title: "TREMITAL F.C.TAB 40MG/TAB"
 
 
 
-Instance: RAVOSTAN-F-C-TAB-20MG-TAB-MPD
+Instance: NEZATIN-F-C-TAB-40MG-TAB-358-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "RAVOSTAN F.C.TAB 20MG/TAB"
+
+* identifier[mpid].value = "GRC Simvastatin HEREMCO Μ.Ε.Π.Ε. film-coated tablet 40mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "NEZATIN F.C.TAB 40MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: RAVOSTAN-F-C-TAB-20MG-TAB-359-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC Simvastatin PLA PHARMACEUTICALS A.E. film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5481,10 +7160,9 @@ Title: "RAVOSTAN F.C.TAB 20MG/TAB"
 
 
 
-Instance: RAVOSTAN-F-C-TAB-40MG-TAB-MPD
+Instance: RAVOSTAN-F-C-TAB-40MG-TAB-360-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "RAVOSTAN F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin PLA PHARMACEUTICALS A.E. film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5502,10 +7180,9 @@ Title: "RAVOSTAN F.C.TAB 40MG/TAB"
 
 
 
-Instance: LIP-DOWN-F-C-TAB-20MG-TAB-MPD
+Instance: LIP-DOWN-F-C-TAB-20MG-TAB-361-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "LIP-DOWN F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin Α, ΧΑΤΖΗΑΝΤΩΝΟΓΛΟΥ-VELTIPHARM ΕΠΕ film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5523,10 +7200,9 @@ Title: "LIP-DOWN F.C.TAB 20MG/TAB"
 
 
 
-Instance: LIP-DOWN-F-C-TAB-40-MG-TAB-MPD
+Instance: LIP-DOWN-F-C-TAB-40-MG-TAB-362-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "LIP-DOWN F.C.TAB 40 MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin PHARMAZAC AE film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5544,10 +7220,9 @@ Title: "LIP-DOWN F.C.TAB 40 MG/TAB"
 
 
 
-Instance: NITASTIN-F-C-TAB-20MG-TAB-MPD
+Instance: NITASTIN-F-C-TAB-20MG-TAB-363-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "NITASTIN F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin PHARMAZAC AE film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5565,10 +7240,9 @@ Title: "NITASTIN F.C.TAB 20MG/TAB"
 
 
 
-Instance: NITASTIN-F-C-TAB-40MG-TAB-MPD
+Instance: NITASTIN-F-C-TAB-40MG-TAB-364-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "NITASTIN F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin PHARMAZAC AE film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5586,10 +7260,9 @@ Title: "NITASTIN F.C.TAB 40MG/TAB"
 
 
 
-Instance: ZOCOR-F-C-TAB-10MG-TAB-MPD
+Instance: ZOCOR-F-C-TAB-10MG-TAB-365-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "ZOCOR F.C.TAB 10MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin ΒΙΑΝΕΞ Α.Ε. film-coated tablet 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5607,10 +7280,9 @@ Title: "ZOCOR F.C.TAB 10MG/TAB"
 
 
 
-Instance: SIMVASTATIN-GENERICS-F-C-TAB-10MG-TAB-MPD
+Instance: SIMVASTATIN-GENERICS-F-C-TAB-10MG-TAB-366-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "SIMVASTATIN/GENERICS F.C.TAB 10MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin GENERICS PHARMA HELLAS ΕΠΕ film-coated tablet 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5628,10 +7300,9 @@ Title: "SIMVASTATIN/GENERICS F.C.TAB 10MG/TAB"
 
 
 
-Instance: SIMVASTATIN-GENERICS-F-C-TAB-20MG-TAB-MPD
+Instance: SIMVASTATIN-GENERICS-F-C-TAB-20MG-TAB-367-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "SIMVASTATIN/GENERICS F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin GENERICS PHARMA HELLAS ΕΠΕ film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5649,10 +7320,9 @@ Title: "SIMVASTATIN/GENERICS F.C.TAB 20MG/TAB"
 
 
 
-Instance: SIMVASTATIN-GENERICS-F-C-TAB-40MG-TAB-MPD
+Instance: SIMVASTATIN-GENERICS-F-C-TAB-40MG-TAB-368-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "SIMVASTATIN/GENERICS F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin GENERICS PHARMA HELLAS ΕΠΕ film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5670,10 +7340,9 @@ Title: "SIMVASTATIN/GENERICS F.C.TAB 40MG/TAB"
 
 
 
-Instance: STATOSAN-F-C-TAB-20MG-TAB-MPD
+Instance: STATOSAN-F-C-TAB-20MG-TAB-369-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "STATOSAN F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin PHARMAXIA HELLAS E.E. film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5691,10 +7360,9 @@ Title: "STATOSAN F.C.TAB 20MG/TAB"
 
 
 
-Instance: PRIACIN-F-C-TAB-10MG-TAB-MPD
+Instance: PRIACIN-F-C-TAB-10MG-TAB-370-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "PRIACIN F.C.TAB 10MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin MEDOCHEMIE HELLAS AE film-coated tablet 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5712,10 +7380,9 @@ Title: "PRIACIN F.C.TAB 10MG/TAB"
 
 
 
-Instance: PRIACIN-F-C-TAB-40MG-TAB-MPD
+Instance: PRIACIN-F-C-TAB-40MG-TAB-371-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "PRIACIN F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin MEDOCHEMIE HELLAS AE film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5733,10 +7400,9 @@ Title: "PRIACIN F.C.TAB 40MG/TAB"
 
 
 
-Instance: FLUITIN-F-C-TAB-40MG-TAB-MPD
+Instance: FLUITIN-F-C-TAB-40MG-TAB-372-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "FLUITIN F.C.TAB 40MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin PHARMALINK film-coated tablet 40mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5754,10 +7420,9 @@ Title: "FLUITIN F.C.TAB 40MG/TAB"
 
 
 
-Instance: VASTATIN-F-C-TAB-20MG-TAB-MPD
+Instance: VASTATIN-F-C-TAB-20MG-TAB-373-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "VASTATIN F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin VOCATE ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5775,10 +7440,29 @@ Title: "VASTATIN F.C.TAB 20MG/TAB"
 
 
 
-Instance: SIMVASTATIN-MYLAN-F-C-TAB-10MG-TAB-MPD
+Instance: VERISTIN-F-C-TAB-20MG-TAB-374-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "SIMVASTATIN/MYLAN F.C.TAB 10MG/TAB"
+
+* identifier[mpid].value = "GRC Simvastatin VIOFAR ΕΠΕ film-coated tablet 20mg/"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "VERISTIN F.C.TAB 20MG/TAB"
+* name.part[invented].part = "invented part"
+* name.part[doseForm].part = "dose form"
+* name.part[strength].part = "strength"
+* name.usage.country = $100000000002#100000000406 "Hellenic Republic"
+* name.usage.language = $100000072057#100000072181 "Greek"
+
+
+
+Instance: SIMVASTATIN-MYLAN-F-C-TAB-10MG-TAB-375-GRC-MPD
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #example
 
 * identifier[mpid].value = "GRC Simvastatin MYLAN S.A.S., SAINT PRIEST, FRANCE film-coated tablet 10mg/"
 * domain = $100000000004#100000000012 "Human use"
@@ -5796,10 +7480,9 @@ Title: "SIMVASTATIN/MYLAN F.C.TAB 10MG/TAB"
 
 
 
-Instance: SIMVASTATIN-MYLAN-F-C-TAB-20MG-TAB-MPD
+Instance: SIMVASTATIN-MYLAN-F-C-TAB-20MG-TAB-376-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
-Title: "SIMVASTATIN/MYLAN F.C.TAB 20MG/TAB"
 
 * identifier[mpid].value = "GRC Simvastatin MYLAN S.A.S., SAINT PRIEST, FRANCE film-coated tablet 20mg/"
 * domain = $100000000004#100000000012 "Human use"

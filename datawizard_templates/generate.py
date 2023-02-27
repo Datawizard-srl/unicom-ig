@@ -74,6 +74,7 @@ def write_list_to_file(file_path, file_name, input_list):
 
     print(f"Lista scritta nel file {full_file_path}")
 
+
 def main():
     ADMINISTRABLE_PRODUCT_DEFINITION = "PPL_AdministrableProductDefinition.jinja"
     INGREDIENT = "PPL_Ingredient.jinja"
@@ -105,15 +106,24 @@ def main():
 
         common_file_name = normalize_name(base_context["full_name"])
 
+        mpd_id = f'{common_file_name}-{index}-{base_context["country"]["abbreviation"]}-MPD'  #TODO: index? country?
+        apd_id = f'{common_file_name}-{index}-{base_context["country"]["abbreviation"]}-APD'
+        mid_id = f'{common_file_name}-{index}-{base_context["country"]["abbreviation"]}-MID'
+        ppd_id = f'{common_file_name}-{index}-{base_context["country"]["abbreviation"]}-PPD'
+        ra_id = f'{common_file_name}-{index}-{base_context["country"]["abbreviation"]}-RA'
+        ingredient_id = f'I-{base_context["country"]["abbreviation"]}-{index}-{common_file_name}' #TODO: substance name
+        organization_id = row['marketingAuthorizationHolder'] if row['marketingAuthorizationHolder'] else ''
+
+
         # RENDER APD
-        instance_id = f'{common_file_name}-APD'
         render_component(
             ADMINISTRABLE_PRODUCT_DEFINITION,
             output_filename="AdministrableProductDefinition",
             context={
                 **base_context,
-                "instance_id": instance_id,
-                "reference_form": f"{common_file_name}-MPD",
+                "instance_id": apd_id,
+                "reference_form": mpd_id,
+                "producedFrom": mid_id,
                 "administrable_product_definition": {
                     "administrable_doseform": get_doseform(row['administrableDoseForm']),
                     "unit_of_presentation": get_unit_of_presentation(row['pharmaceuticalProductUnitOfPresentation']),
@@ -124,7 +134,6 @@ def main():
 
         # RENDER INGREDIENT
         # instance_id = f'I-{normalize_name(get_substance(row["substanceCode"])["display"])}'
-        instance_id = f'I-{common_file_name}'
         ratio_type, ratio_numerator, ratio_denominator, reference_strength = get_ingredient_info(row)
         render_component(
             INGREDIENT,
@@ -132,11 +141,11 @@ def main():
             output_filename="Ingredient",
             context={
                 **base_context,
-                "instance_id": instance_id,
+                "instance_id": ingredient_id,
                 "references": {
-                    "mpd": f"{common_file_name}-MPD",
-                    "mid": f"{common_file_name}-MID",
-                    "apd": f"{common_file_name}-APD"
+                    "mpd": mpd_id,
+                    "mid": mid_id,
+                    "apd": apd_id
                 },
                 "ingredient": {
                     #"full_name": normalize_name(f"{row['substanceCode']} {base_context['full_name']}"),
@@ -155,13 +164,12 @@ def main():
         )
 
         # RENDER MANUFACTURED_ITEM_DEFINITION
-        instance_id = f'{common_file_name}-MID'
         render_component(
             MANUFACTURED_ITEM_DEFINITION,
             output_filename="ManufacturedItemDefinition",
             context={
                 **base_context,
-                "instance_id": instance_id,
+                "instance_id": mid_id,
                 "manufactured_item_definition": {
                     "manufactured_doseform": {
                         **get_doseform(row['manufacturedDoseForm']),
@@ -173,13 +181,12 @@ def main():
         )
 
         # RENDER MEDICINAL_PRODUCT_DEFINITION
-        instance_id = f'{common_file_name}-MPD'
         render_component(
             MEDICINAL_PRODUCT_DEFINITION,
             output_filename="MedicinalProductDefinition",
             context={
                 **base_context,
-                "instance_id": instance_id,
+                "instance_id": mpd_id,
                 "medicinal_product_definition": {
                     "pharmaceutical_doseform": get_doseform(row['administrableDoseForm']),
                     "legal_status_of_supply": {
@@ -196,14 +203,13 @@ def main():
         )
 
         # RENDER PACKAGED_PRODUCT_DEFINITION
-        instance_id = f'{common_file_name}-PPD'
         render_component(
             PACKAGED_PRODUCT_DEFINITION,
             output_filename="PackagedProductDefinition",
             context={
                 **base_context,
-                "instance_id": instance_id,
-                "reference_package": f"{common_file_name}-MPD",
+                "instance_id": ppd_id,
+                "reference_package": mpd_id,
                 "packaged_product_definition": {
                     "unit_of_presentation": get_unit_of_presentation(row['manufacturedItemUnitOfPresentation']),
                     "pack_size": row['packSize'],  # TODO packSize
@@ -218,9 +224,8 @@ def main():
         )
 
         # RENDER ORGANIZATION
-        organization_identifier = row['marketingAuthorizationHolder'] if row['marketingAuthorizationHolder'] else ''
         organization_name = row['marketingAuthorizationHolderLabel'] if row['marketingAuthorizationHolderLabel'] else ''
-        organization_instance_id = normalize_name(f"LOC{f'-{organization_identifier}' if organization_identifier else ''}{f'-{organization_name}' if organization_name else ''}")
+        organization_instance_id = normalize_name(f"LOC{f'-{organization_id}' if organization_id else ''}{f'-{organization_name}' if organization_name else ''}")
         render_component(
             ORGANIZATION,
             output_filename="Organization",
@@ -228,7 +233,7 @@ def main():
                 **base_context,
                 "instance_id": organization_instance_id,
                 "organization": {
-                    "identifier": organization_identifier,
+                    "identifier": organization_id,
                     "name": organization_name,
                 }
 
@@ -237,21 +242,20 @@ def main():
         )
 
         # RENDER REGULATED_AUTHORIZATION
-        instance_id = f'{common_file_name}-RA'
         render_component(
             REGULATED_AUTHORIZATION,
             output_filename="RegulatedAuthorization",
             context={
                 **base_context,
-                "instance_id": instance_id,
-                "reference_subject": f"{common_file_name}-MPD",
+                "instance_id": ra_id,
+                "reference_subject": mpd_id,
                 "reference_holder": organization_instance_id,
                 "regulated_authorization": {
                     "authorization_holder": {
-                        "code": organization_identifier,  # TODO not sure if this is the exact column
+                        "code": organization_id,  # TODO not sure if this is the exact column
                     },
                     "organization": {
-                        "identifier": organization_identifier,  # TODO not sure if this is the exact column
+                        "identifier": organization_id,  # TODO not sure if this is the exact column
                         "name": organization_name,  # TODO not sure if this is the exact column
                         # "name": normalize_name(row['marketingAuthorizationHolderLabel']),  # TODO not sure if this is the exact column
                     },

@@ -1161,7 +1161,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 * name = "BROS Ε.Π.Ε."
 
 
-Instance: LOC-UNI-PHARMA-KLEON-TSETES-PhARMAKEUTIKA-ERGASTERIA-ABEE
+Instance: LOC-UNI-PHARMA-KLEON-TSETES-PhARMAKEUTIKA-ERGASTER
 InstanceOf: PPLOrganization
 Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
@@ -1215,7 +1215,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 * name = "ΠΑΝΑΓΙΩΤΗΣ ΛΕΩΝ & ΣΙΑ Ε,Ε,"
 
 
-Instance: LOC-LINKER-PHARMACEUTICALS-PANAGIOTES-LEON-SIA-E-E-
+Instance: LOC-LINKER-PHARMACEUTICALS-PANAGIOTES-LEON-SIA-E-E
 InstanceOf: PPLOrganization
 Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
