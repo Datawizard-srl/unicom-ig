@@ -5,7 +5,7 @@ InstanceOf: PPLPackagedProductDefinition
 Usage: #{{usage}}
 
 * identifier[pcid].value = "{{country.abbreviation}}-{{pcId|normalize_name}}" //pcId ?
-* packageFor = Reference({{full_name|normalize_name}}-MPD)
+* packageFor = Reference({{reference_package}}) //TODO: reference sbagliata?
 * containedItemQuantity = {{packaged_product_definition.pack_size}} $200000000014#{{packaged_product_definition.unit_of_presentation.code}} "{{packaged_product_definition.unit_of_presentation.display}}"
 * description = "{{packaged_product_definition.description}}"
 //  * extension.url = "http://ema.europa.eu/fhir/extension/language"

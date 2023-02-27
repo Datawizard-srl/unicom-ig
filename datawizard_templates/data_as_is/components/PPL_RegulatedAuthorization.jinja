@@ -5,11 +5,12 @@ InstanceOf: PPLRegulatedAuthorization
 Usage: #{{usage}}
 
 * identifier.value = "{{regulated_authorization.authorization_holder.code}}"
-* subject = Reference({{full_name|normalize_name}}-MPD)
+* subject = Reference({{reference_subject}})
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region = $100000000002#{{country.code}} "{{country.display}}"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-* holder = Reference(LOC-{% if regulated_authorization.organization.identifier %}{{regulated_authorization.organization.identifier}}-{% endif %}{{regulated_authorization.organization.name|normalize_name}})
+//TODO: reference organization
+* holder = Reference({{reference_holder}})
 
 
