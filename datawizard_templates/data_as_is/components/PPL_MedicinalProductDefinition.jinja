@@ -4,7 +4,7 @@ Instance: {{instance_id}}
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #{{usage}}
 
-* identifier[mpid].value = "{{mpid}}"
+* identifier[mpid].value = "{{instance_id}}"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#{{medicinal_product_definition.pharmaceutical_doseform.code}} "{{medicinal_product_definition.pharmaceutical_doseform.display}}"

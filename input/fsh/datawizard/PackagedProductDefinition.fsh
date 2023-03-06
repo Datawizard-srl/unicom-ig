@@ -20,8 +20,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipin-AB-tabl-10-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipin-AB-tabl-10-mg-0-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -46,8 +46,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipin-AB-tabl-10-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipin-AB-tabl-10-mg-1-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -72,8 +72,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipin-Sandoz-Impexeco-tabl-deelb-Besilaat-10-m-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipin-Sandoz-Impexeco-tabl-deelb-Besilaat-10-m-2-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -98,8 +98,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipin-Sandoz-tabl-deelb-Besilaat-10-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipin-Sandoz-tabl-deelb-Besilaat-10-mg-3-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -124,8 +124,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipin-Sandoz-tabl-deelb-Besilaat-10-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipin-Sandoz-tabl-deelb-Besilaat-10-mg-4-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -150,8 +150,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipin-Sandoz-tabl-deelb-Besilaat-10-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipin-Sandoz-tabl-deelb-Besilaat-10-mg-5-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -176,8 +176,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-EG-PIP-tabl-deelb-Besilate-10-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-EG-PIP-tabl-deelb-Besilate-10-mg-6-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -202,8 +202,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-EG-tabl-deelb-Besilate-10-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-EG-tabl-deelb-Besilate-10-mg-7-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -228,8 +228,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-EG-tabl-deelb-Besilate-10-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-EG-tabl-deelb-Besilate-10-mg-8-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -254,8 +254,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-Mylan-tabl-deelb-Besilate-10-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-Mylan-tabl-deelb-Besilate-10-mg-9-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -280,8 +280,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-Teva-tabl-deelb-10-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-Teva-tabl-deelb-10-mg-10-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -306,8 +306,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-Teva-tabl-deelb-10-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-Teva-tabl-deelb-10-mg-11-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -332,8 +332,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlor-harde-caps-10-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlor-harde-caps-10-mg-12-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -358,8 +358,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlor-harde-caps-10-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlor-harde-caps-10-mg-13-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -384,8 +384,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlor-harde-caps-10-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlor-harde-caps-10-mg-14-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -410,8 +410,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipin-AB-tabl-5-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipin-AB-tabl-5-mg-15-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -436,8 +436,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipin-AB-tabl-5-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipin-AB-tabl-5-mg-16-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 98
 
 
 
@@ -462,8 +462,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipin-Sandoz-tabl-deelb-Besilaat-5-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipin-Sandoz-tabl-deelb-Besilaat-5-mg-17-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -488,8 +488,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipin-Sandoz-tabl-deelb-Besilaat-5-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipin-Sandoz-tabl-deelb-Besilaat-5-mg-18-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -514,8 +514,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipin-Sandoz-tabl-deelb-Besilaat-5-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipin-Sandoz-tabl-deelb-Besilaat-5-mg-19-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -540,8 +540,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipin-Sandoz-tabl-deelb-Besilaat-5-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipin-Sandoz-tabl-deelb-Besilaat-5-mg-20-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 60
 
 
 
@@ -566,8 +566,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-EG-tabl-Besilate-5-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-EG-tabl-Besilate-5-mg-21-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -592,8 +592,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-EG-tabl-Besilate-5-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-EG-tabl-Besilate-5-mg-22-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 98
 
 
 
@@ -618,8 +618,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-Mylan-tabl-deelb-Besilate-5-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-Mylan-tabl-deelb-Besilate-5-mg-23-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -644,8 +644,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-Mylan-tabl-deelb-Besilate-5-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-Mylan-tabl-deelb-Besilate-5-mg-24-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -670,8 +670,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-Teva-tabl-deelb-5-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-Teva-tabl-deelb-5-mg-25-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -696,8 +696,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-Teva-tabl-deelb-5-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-Teva-tabl-deelb-5-mg-26-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 56
 
 
 
@@ -722,8 +722,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-Teva-tabl-deelb-5-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-Teva-tabl-deelb-5-mg-27-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 98
 
 
 
@@ -748,8 +748,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlor-harde-caps-5-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlor-harde-caps-5-mg-28-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -774,8 +774,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlor-harde-caps-5-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlor-harde-caps-5-mg-29-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -800,8 +800,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlor-harde-caps-5-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlor-harde-caps-5-mg-30-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 56
 
 
 
@@ -826,8 +826,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlor-harde-caps-5-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlor-harde-caps-5-mg-31-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 98
 
 
 
@@ -852,8 +852,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-Belisate-Mylan-10-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-Belisate-Mylan-10-mg-32-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -878,8 +878,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlogal-Divule-omh-tabl-10-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlogal-Divule-omh-tabl-10-mg-33-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -904,8 +904,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlogal-Divule-omh-tabl-10-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlogal-Divule-omh-tabl-10-mg-34-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 98
 
 
 
@@ -930,8 +930,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-Krka-tabl-10-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-Krka-tabl-10-mg-35-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -956,8 +956,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-Krka-tabl-10-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-Krka-tabl-10-mg-36-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -982,8 +982,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-Krka-tabl-5-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-Krka-tabl-5-mg-37-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -1008,8 +1008,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-Krka-tabl-5-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-Krka-tabl-5-mg-38-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 56
 
 
 
@@ -1034,8 +1034,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-Krka-tabl-5-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Amlodipine-Krka-tabl-5-mg-39-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 98
 
 
 
@@ -1060,8 +1060,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Tegretol-tabl-geregul-afgifte-deelb-CR-200-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Tegretol-tabl-geregul-afgifte-deelb-CR-200-mg-40-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 50
 
 
 
@@ -1086,8 +1086,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Tegretol-tabl-geregul-afgifte-deelb-CR-400-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Tegretol-tabl-geregul-afgifte-deelb-CR-400-mg-41-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 50
 
 
 
@@ -1112,8 +1112,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Tegretol-siroop-susp-100-mg-5-ml-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Tegretol-siroop-susp-100-mg-5-ml-42-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 250
 
 
 
@@ -1138,8 +1138,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Tegretol-tabl-deelb-200-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Tegretol-tabl-deelb-200-mg-43-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 50
 
 
 
@@ -1164,8 +1164,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Extrapan-5-transderm-lok-gel-50-mg-1-g-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Extrapan-5-transderm-lok-gel-50-mg-1-g-44-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 50
 
 
 
@@ -1190,8 +1190,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-Kela-5-transderm-lok-gel-50-mg-1-g-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-Kela-5-transderm-lok-gel-50-mg-1-g-45-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 50
 
 
 
@@ -1216,8 +1216,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-Teva-5-transderm-lok-gel-50-mg-1-g-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-Teva-5-transderm-lok-gel-50-mg-1-g-46-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 120
 
 
 
@@ -1242,8 +1242,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-Teva-5-transderm-lok-gel-50-mg-1-g-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-Teva-5-transderm-lok-gel-50-mg-1-g-47-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 50
 
 
 
@@ -1268,8 +1268,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Pedea-inf-oploss-i-v-amp-10-mg-2-ml-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Pedea-inf-oploss-i-v-amp-10-mg-2-ml-48-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 4
 
 
 
@@ -1294,8 +1294,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-B-Braun-inf-oploss-i-v-flac-200-mg-50-ml-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-B-Braun-inf-oploss-i-v-flac-200-mg-50-ml-49-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 10
 
 
 
@@ -1320,8 +1320,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-B-Braun-inf-oploss-i-v-flac-400-mg-100-m-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-B-Braun-inf-oploss-i-v-flac-400-mg-100-m-50-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 10
 
 
 
@@ -1346,8 +1346,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-B-Braun-inf-oploss-i-v-flac-600-mg-100-m-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-B-Braun-inf-oploss-i-v-flac-600-mg-100-m-51-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 10
 
 
 
@@ -1372,8 +1372,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Brufen-tabl-verl-afgifte-Retard-800-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Brufen-tabl-verl-afgifte-Retard-800-mg-52-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -1398,8 +1398,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Brufen-tabl-verl-afgifte-Retard-800-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Brufen-tabl-verl-afgifte-Retard-800-mg-53-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 60
 
 
 
@@ -1424,8 +1424,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-EG-tabl-verl-afgifte-800-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-EG-tabl-verl-afgifte-800-mg-54-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -1450,8 +1450,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-EG-tabl-verl-afgifte-800-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-EG-tabl-verl-afgifte-800-mg-55-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 60
 
 
 
@@ -1476,8 +1476,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Nurofen-zachte-kauwcaps-Kinderen-100-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Nurofen-zachte-kauwcaps-Kinderen-100-mg-56-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 24
 
 
 
@@ -1502,8 +1502,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Algidrin-siroop-susp-100-mg-5-ml-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Algidrin-siroop-susp-100-mg-5-ml-57-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 200
 
 
 
@@ -1528,8 +1528,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Nurofen-2-siroop-susp-zonder-suiker-Kinderen-100-m-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Nurofen-2-siroop-susp-zonder-suiker-Kinderen-100-m-58-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 200
 
 
 
@@ -1554,8 +1554,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Nurofen-2-siroop-susp-zonder-suiker-Rood-Kinderen--MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Nurofen-2-siroop-susp-zonder-suiker-Rood-Kinderen--59-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 200
 
 
 
@@ -1580,8 +1580,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Perdophen-2-siroop-susp-100-mg-5-ml-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Perdophen-2-siroop-susp-100-mg-5-ml-60-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -1606,8 +1606,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-EG-omh-tabl-200-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-EG-omh-tabl-200-mg-61-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -1632,8 +1632,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-Sandoz-filmomh-tabl-200-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-Sandoz-filmomh-tabl-200-mg-62-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -1658,8 +1658,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Nurofen-omh-tabl-200-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Nurofen-omh-tabl-200-mg-63-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -1684,8 +1684,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Nurofen-omh-tabl-200-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Nurofen-omh-tabl-200-mg-64-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 48
 
 
 
@@ -1710,8 +1710,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Nurofen-omh-tabl-Kinderen-200-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Nurofen-omh-tabl-Kinderen-200-mg-65-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 24
 
 
 
@@ -1736,8 +1736,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Spidifen-oploss-gran-zakjes-200-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Spidifen-oploss-gran-zakjes-200-mg-66-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 24
 
 
 
@@ -1762,8 +1762,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Brufen-siroop-susp-200-mg-5-ml-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Brufen-siroop-susp-200-mg-5-ml-67-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 200
 
 
 
@@ -1788,8 +1788,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-EG-siroop-susp-200-mg-5-ml-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-EG-siroop-susp-200-mg-5-ml-68-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -1814,8 +1814,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Nurofen-4-siroop-susp-zonder-suiker-Kinderen-200-m-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Nurofen-4-siroop-susp-zonder-suiker-Kinderen-200-m-69-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 150
 
 
 
@@ -1840,8 +1840,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Nurofen-4-siroop-susp-zonder-suiker-Rood-Kinderen--MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Nurofen-4-siroop-susp-zonder-suiker-Rood-Kinderen--70-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 150
 
 
 
@@ -1866,8 +1866,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Brufen-filmomh-tabl-400-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Brufen-filmomh-tabl-400-mg-71-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -1892,8 +1892,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Brufen-filmomh-tabl-400-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Brufen-filmomh-tabl-400-mg-72-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 20
 
 
 
@@ -1918,8 +1918,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Brufen-filmomh-tabl-400-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Brufen-filmomh-tabl-400-mg-73-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -1944,8 +1944,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-EG-omh-tabl-deelb-400-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-EG-omh-tabl-deelb-400-mg-74-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -1970,8 +1970,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-EG-omh-tabl-deelb-400-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-EG-omh-tabl-deelb-400-mg-75-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -1996,8 +1996,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-Sandoz-filmomh-tabl-deelb-400-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-Sandoz-filmomh-tabl-deelb-400-mg-76-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -2022,8 +2022,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-Sandoz-filmomh-tabl-deelb-400-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-Sandoz-filmomh-tabl-deelb-400-mg-77-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -2048,8 +2048,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Nurofen-PIP-zachte-caps-Fastcaps-400-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Nurofen-PIP-zachte-caps-Fastcaps-400-mg-78-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 20
 
 
 
@@ -2074,8 +2074,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Nurofen-PIP-zachte-caps-Fastcaps-400-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Nurofen-PIP-zachte-caps-Fastcaps-400-mg-79-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -2100,8 +2100,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Nurofen-filmomh-tabl-Fasttabs-400-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Nurofen-filmomh-tabl-Fasttabs-400-mg-80-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 24
 
 
 
@@ -2126,8 +2126,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Nurofen-omh-tabl-400-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Nurofen-omh-tabl-400-mg-81-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -2152,8 +2152,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Nurofen-zachte-caps-Fastcaps-400-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Nurofen-zachte-caps-Fastcaps-400-mg-82-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 20
 
 
 
@@ -2178,8 +2178,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Nurofen-zachte-caps-Fastcaps-400-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Nurofen-zachte-caps-Fastcaps-400-mg-83-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -2204,8 +2204,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Perdofemina-filmomh-tabl-400-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Perdofemina-filmomh-tabl-400-mg-84-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -2230,8 +2230,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Spidifen-filmomh-tabl-deelb-400-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Spidifen-filmomh-tabl-deelb-400-mg-85-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -2256,8 +2256,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Brufen-bruisgran-zakjes-600-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Brufen-bruisgran-zakjes-600-mg-86-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 20
 
 
 
@@ -2282,8 +2282,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Brufen-filmomh-tabl-Forte-600-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Brufen-filmomh-tabl-Forte-600-mg-87-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -2308,8 +2308,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Brufen-filmomh-tabl-Forte-600-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Brufen-filmomh-tabl-Forte-600-mg-88-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 60
 
 
 
@@ -2334,8 +2334,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-AB-filmomh-tabl-deelb-600-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-AB-filmomh-tabl-deelb-600-mg-89-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -2360,8 +2360,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-AB-filmomh-tabl-deelb-600-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-AB-filmomh-tabl-deelb-600-mg-90-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 60
 
 
 
@@ -2386,8 +2386,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-EG-omh-tabl-deelb-600-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-EG-omh-tabl-deelb-600-mg-91-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -2412,8 +2412,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-EG-omh-tabl-deelb-600-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-EG-omh-tabl-deelb-600-mg-92-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 50
 
 
 
@@ -2438,8 +2438,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-Sandoz-filmomh-tabl-deelb-600-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-Sandoz-filmomh-tabl-deelb-600-mg-93-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -2464,8 +2464,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-Sandoz-filmomh-tabl-deelb-600-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-Sandoz-filmomh-tabl-deelb-600-mg-94-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 50
 
 
 
@@ -2490,8 +2490,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-AB-filmomh-tabl-deelb-800-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-AB-filmomh-tabl-deelb-800-mg-95-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -2516,8 +2516,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-AB-filmomh-tabl-deelb-800-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-AB-filmomh-tabl-deelb-800-mg-96-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -2542,8 +2542,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-AB-filmomh-tabl-deelb-800-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-AB-filmomh-tabl-deelb-800-mg-97-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 60
 
 
 
@@ -2568,8 +2568,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Nurofen-Patch-transderm-lok-medic-pleister-200-mg--MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Nurofen-Patch-transderm-lok-medic-pleister-200-mg--98-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 4
 
 
 
@@ -2594,8 +2594,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Nurofen-zetpil-Kinderen-125-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Nurofen-zetpil-Kinderen-125-mg-99-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 10
 
 
 
@@ -2620,8 +2620,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Nurofen-zetpil-Kinderen-60-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Nurofen-zetpil-Kinderen-60-mg-100-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 10
 
 
 
@@ -2646,8 +2646,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Nurofen-200-Fastcaps-200-mg-zachte-caps-2-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Nurofen-200-Fastcaps-200-mg-zachte-caps-2-101-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 2
 
 
 
@@ -2672,8 +2672,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-AB-200-mg-filmomh-tabl-24-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-AB-200-mg-filmomh-tabl-24-102-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 24
 
 
 
@@ -2698,8 +2698,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-AB-400-mg-filmomh-tabl-24-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Ibuprofen-AB-400-mg-filmomh-tabl-24-103-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 24
 
 
 
@@ -2724,8 +2724,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Cholemed-filmomh-tabl-deelb-20-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Cholemed-filmomh-tabl-deelb-20-mg-104-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 84
 
 
 
@@ -2750,8 +2750,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastatine-AB-filmomh-tabl-20-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastatine-AB-filmomh-tabl-20-mg-105-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -2776,8 +2776,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastatine-AB-filmomh-tabl-20-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastatine-AB-filmomh-tabl-20-mg-106-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -2802,8 +2802,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastatine-Sandoz-Impexeco-filmomh-tabl-deelb-20-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastatine-Sandoz-Impexeco-filmomh-tabl-deelb-20-107-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -2828,8 +2828,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastatine-Sandoz-filmomh-tabl-deelb-20-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastatine-Sandoz-filmomh-tabl-deelb-20-mg-108-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -2854,8 +2854,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastatine-Sandoz-filmomh-tabl-deelb-20-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastatine-Sandoz-filmomh-tabl-deelb-20-mg-109-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -2880,8 +2880,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastatine-Sandoz-filmomh-tabl-deelb-20-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastatine-Sandoz-filmomh-tabl-deelb-20-mg-110-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -2906,8 +2906,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastine-EG-filmomh-tabl-deelb-20-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastine-EG-filmomh-tabl-deelb-20-mg-111-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -2932,8 +2932,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastine-EG-filmomh-tabl-deelb-20-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastine-EG-filmomh-tabl-deelb-20-mg-112-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -2958,8 +2958,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastine-EG-filmomh-tabl-deelb-20-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastine-EG-filmomh-tabl-deelb-20-mg-113-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -2984,8 +2984,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastine-Mylan-filmomh-tabl-deelb-20-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastine-Mylan-filmomh-tabl-deelb-20-mg-114-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 250
 
 
 
@@ -3010,8 +3010,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastine-Mylan-filmomh-tabl-deelb-20-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastine-Mylan-filmomh-tabl-deelb-20-mg-115-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -3036,8 +3036,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastine-Mylan-filmomh-tabl-deelb-20-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastine-Mylan-filmomh-tabl-deelb-20-mg-116-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 84
 
 
 
@@ -3062,8 +3062,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastine-Teva-filmomh-tabl-deelb-20-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastine-Teva-filmomh-tabl-deelb-20-mg-117-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -3088,8 +3088,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastine-Teva-filmomh-tabl-deelb-20-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastine-Teva-filmomh-tabl-deelb-20-mg-118-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -3114,8 +3114,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Zocor-filmomh-tabl-20-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Zocor-filmomh-tabl-20-mg-119-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 84
 
 
 
@@ -3140,8 +3140,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Cholemed-filmomh-tabl-deelb-40-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Cholemed-filmomh-tabl-deelb-40-mg-120-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 98
 
 
 
@@ -3166,8 +3166,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastatine-AB-filmomh-tabl-40-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastatine-AB-filmomh-tabl-40-mg-121-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -3192,8 +3192,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastatine-AB-filmomh-tabl-40-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastatine-AB-filmomh-tabl-40-mg-122-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -3218,8 +3218,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastatine-Sandoz-Impexeco-filmomh-tabl-deelb-40-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastatine-Sandoz-Impexeco-filmomh-tabl-deelb-40-123-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -3244,8 +3244,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastatine-Sandoz-filmomh-tabl-deelb-40-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastatine-Sandoz-filmomh-tabl-deelb-40-mg-124-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -3270,8 +3270,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastatine-Sandoz-filmomh-tabl-deelb-40-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastatine-Sandoz-filmomh-tabl-deelb-40-mg-125-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -3296,8 +3296,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastatine-Sandoz-filmomh-tabl-deelb-40-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastatine-Sandoz-filmomh-tabl-deelb-40-mg-126-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -3322,8 +3322,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastine-EG-PIP-filmomh-tabl-deelb-40-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastine-EG-PIP-filmomh-tabl-deelb-40-mg-127-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 98
 
 
 
@@ -3348,8 +3348,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastine-EG-filmomh-tabl-deelb-40-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastine-EG-filmomh-tabl-deelb-40-mg-128-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -3374,8 +3374,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastine-EG-filmomh-tabl-deelb-40-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastine-EG-filmomh-tabl-deelb-40-mg-129-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -3400,8 +3400,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastine-EG-filmomh-tabl-deelb-40-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastine-EG-filmomh-tabl-deelb-40-mg-130-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -3426,8 +3426,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastine-Mylan-filmomh-tabl-deelb-40-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastine-Mylan-filmomh-tabl-deelb-40-mg-131-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 250
 
 
 
@@ -3452,8 +3452,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastine-Mylan-filmomh-tabl-deelb-40-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastine-Mylan-filmomh-tabl-deelb-40-mg-132-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 56
 
 
 
@@ -3478,8 +3478,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastine-Mylan-filmomh-tabl-deelb-40-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastine-Mylan-filmomh-tabl-deelb-40-mg-133-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 98
 
 
 
@@ -3504,8 +3504,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastine-Teva-filmomh-tabl-deelb-40-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastine-Teva-filmomh-tabl-deelb-40-mg-134-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -3530,8 +3530,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastine-Teva-filmomh-tabl-deelb-40-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastine-Teva-filmomh-tabl-deelb-40-mg-135-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -3556,8 +3556,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(Zocor-filmomh-tabl-40-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(Zocor-filmomh-tabl-40-mg-136-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 98
 
 
 
@@ -3582,8 +3582,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastatine-Sandoz-filmomh-tabl-deelb-80-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastatine-Sandoz-filmomh-tabl-deelb-80-mg-137-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -3608,8 +3608,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(simvastine-Teva-filmomh-tabl-deelb-80-mg-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(simvastine-Teva-filmomh-tabl-deelb-80-mg-138-BEL-MID)
+* packaging.packaging.containedItem.amount.value = 100
 
 
 
@@ -3634,8 +3634,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(NORVALET-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(NORVALET-CAPS-5MG-CAP-139-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -3660,8 +3660,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(NORVALET-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(NORVALET-CAPS-10MG-CAP-140-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -3686,8 +3686,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(FLODIL-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(FLODIL-CAPS-5MG-CAP-141-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -3712,8 +3712,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(FLODIL-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(FLODIL-CAPS-10MG-CAP-142-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -3738,8 +3738,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMLODIN-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMLODIN-CAPS-5MG-CAP-143-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -3764,8 +3764,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMLODIN-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMLODIN-CAPS-10MG-CAP-144-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -3790,8 +3790,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMLIBON-TAB-5MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMLIBON-TAB-5MG-TAB-145-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 20
 
 
 
@@ -3816,8 +3816,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMLIBON-TAB-10MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMLIBON-TAB-10MG-TAB-146-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -3842,8 +3842,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMODIPAN-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMODIPAN-CAPS-10MG-CAP-147-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -3868,8 +3868,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMODIPAN-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMODIPAN-CAPS-5MG-CAP-148-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -3894,8 +3894,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(PIDOLEN-GENOSEMO-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(PIDOLEN-GENOSEMO-CAPS-5MG-CAP-149-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -3920,8 +3920,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(PIDOLEN-GENOSEMO-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(PIDOLEN-GENOSEMO-CAPS-10MG-CAP-150-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -3946,8 +3946,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AGGOVASK-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AGGOVASK-CAPS-5MG-CAP-151-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 14
 
 
 
@@ -3972,8 +3972,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AGGOVASK-CAPS-10MG-CAP-BTx14-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AGGOVASK-CAPS-10MG-CAP-BTx14-152-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 14
 
 
 
@@ -3998,8 +3998,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(LODIPIN-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(LODIPIN-CAPS-5MG-CAP-153-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -4024,8 +4024,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(LODIPIN-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(LODIPIN-CAPS-10MG-CAP-154-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 14
 
 
 
@@ -4050,8 +4050,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(LODIPIN-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(LODIPIN-CAPS-10MG-CAP-155-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -4076,8 +4076,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(NORMODIN-TAB-5MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(NORMODIN-TAB-5MG-TAB-156-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 14
 
 
 
@@ -4102,8 +4102,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(NORMODIN-TAB-10MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(NORMODIN-TAB-10MG-TAB-157-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 14
 
 
 
@@ -4128,8 +4128,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMLIBON-BES-TAB-5MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMLIBON-BES-TAB-5MG-TAB-158-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -4154,8 +4154,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMLIBON-BES-TAB-10MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMLIBON-BES-TAB-10MG-TAB-159-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -4180,8 +4180,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(BARUDEN-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(BARUDEN-CAPS-10MG-CAP-160-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 14
 
 
 
@@ -4206,8 +4206,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(BARUDEN-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(BARUDEN-CAPS-10MG-CAP-161-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -4232,8 +4232,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(NORDEX-MEDICAL-PHARMAQUALITY-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(NORDEX-MEDICAL-PHARMAQUALITY-TAB-162-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 14
 
 
 
@@ -4258,8 +4258,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(NORDEX-MEDICAL-PHARMAQUALITY-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(NORDEX-MEDICAL-PHARMAQUALITY-TAB-163-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 14
 
 
 
@@ -4284,8 +4284,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMLORETIN-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMLORETIN-CAPS-10MG-CAP-164-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -4310,8 +4310,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMLORETIN-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMLORETIN-CAPS-5MG-CAP-165-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -4336,8 +4336,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(NORVASC-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(NORVASC-CAPS-5MG-CAP-166-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 14
 
 
 
@@ -4362,8 +4362,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(NORVASC-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(NORVASC-CAPS-10MG-CAP-167-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 14
 
 
 
@@ -4388,8 +4388,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ALDOSION-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ALDOSION-CAPS-5MG-CAP-168-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -4414,8 +4414,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ALDOSION-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ALDOSION-CAPS-10MG-CAP-169-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -4440,8 +4440,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMLODIPINE-MALEATE-GENERICS-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMLODIPINE-MALEATE-GENERICS-TAB-170-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 14
 
 
 
@@ -4466,8 +4466,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(amlodipine-maleate-GENERICS-TAB-5MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(amlodipine-maleate-GENERICS-TAB-5MG-TAB-171-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -4492,8 +4492,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(amlodipine-maleate-GENERICS-TAB-10MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(amlodipine-maleate-GENERICS-TAB-10MG-TAB-172-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 14
 
 
 
@@ -4518,8 +4518,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(amlodipine-maleate-GENERICS-TAB-10MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(amlodipine-maleate-GENERICS-TAB-10MG-TAB-173-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -4544,8 +4544,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(EVANGIO-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(EVANGIO-CAPS-5MG-CAP-174-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 14
 
 
 
@@ -4570,8 +4570,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMLOPRESS-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMLOPRESS-CAPS-5MG-CAP-175-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -4596,8 +4596,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMLOPRESS-CAPS-10-MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMLOPRESS-CAPS-10-MG-CAP-176-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -4622,8 +4622,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMLODIL-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMLODIL-CAPS-10MG-CAP-177-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 14
 
 
 
@@ -4648,8 +4648,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(NORFAN-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(NORFAN-CAPS-5MG-CAP-178-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -4674,8 +4674,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(NORFAN-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(NORFAN-CAPS-5MG-CAP-179-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -4700,8 +4700,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(NORFAN-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(NORFAN-CAPS-10MG-CAP-180-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -4726,8 +4726,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AXYPLOT-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AXYPLOT-CAPS-5MG-CAP-181-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -4752,8 +4752,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AXYPLOT-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AXYPLOT-CAPS-10MG-CAP-182-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -4778,8 +4778,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMLOSILAT-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMLOSILAT-CAPS-5MG-CAP-183-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -4804,8 +4804,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMLOSILAT-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMLOSILAT-CAPS-5MG-CAP-184-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -4830,8 +4830,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMLOSILAT-CAPS-10-MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMLOSILAT-CAPS-10-MG-CAP-185-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -4856,8 +4856,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(DAFOR-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(DAFOR-CAPS-5MG-CAP-186-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 14
 
 
 
@@ -4882,8 +4882,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(DAFOR-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(DAFOR-CAPS-5MG-CAP-187-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -4908,8 +4908,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(DAFOR-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(DAFOR-CAPS-10MG-CAP-188-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 14
 
 
 
@@ -4934,8 +4934,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(DAFOR-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(DAFOR-CAPS-10MG-CAP-189-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -4960,8 +4960,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(VASCODIN-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(VASCODIN-CAPS-5MG-CAP-190-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 14
 
 
 
@@ -4986,8 +4986,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(VASCODIN-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(VASCODIN-CAPS-5MG-CAP-191-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -5012,8 +5012,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(VASCODIN-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(VASCODIN-CAPS-10MG-CAP-192-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 14
 
 
 
@@ -5038,8 +5038,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(VASCODIN-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(VASCODIN-CAPS-10MG-CAP-193-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -5064,8 +5064,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMLODIPINE-BESILATE-NORMA-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMLODIPINE-BESILATE-NORMA-CAPS-5MG-CAP-194-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -5090,8 +5090,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMLODIPINE-BESILATE-NORMA-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMLODIPINE-BESILATE-NORMA-CAPS-10MG-CAP-195-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -5116,8 +5116,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(EVANGIO-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(EVANGIO-CAPS-5MG-CAP-196-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -5142,8 +5142,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(EVANGIO-CAPS-10MG-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(EVANGIO-CAPS-10MG-197-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 14
 
 
 
@@ -5168,8 +5168,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(EVANGIO-CAPS-10MG-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(EVANGIO-CAPS-10MG-198-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -5194,8 +5194,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMLODIPINE-BESILATE-TEVA-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMLODIPINE-BESILATE-TEVA-TAB-199-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -5220,8 +5220,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMLODIPINE-BESILATE-TEVA-TAB-5MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMLODIPINE-BESILATE-TEVA-TAB-5MG-TAB-200-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -5246,8 +5246,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(NOLVAC-TAB-10MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(NOLVAC-TAB-10MG-TAB-201-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -5272,8 +5272,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(NOLVAC-TAB-10MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(NOLVAC-TAB-10MG-TAB-202-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -5298,8 +5298,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ABESYL-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ABESYL-CAPS-5MG-CAP-203-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -5324,8 +5324,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ABESYL-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ABESYL-CAPS-10MG-CAP-204-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -5350,8 +5350,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ANGIORETIC-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ANGIORETIC-CAPS-5MG-CAP-205-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -5376,8 +5376,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ANGIORETIC-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ANGIORETIC-CAPS-10MG-CAP-206-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -5402,8 +5402,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(PRECARDIN-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(PRECARDIN-CAPS-10MG-CAP-207-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 14
 
 
 
@@ -5428,8 +5428,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(PRECARDIN-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(PRECARDIN-CAPS-10MG-CAP-208-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -5454,8 +5454,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMLODIPINE-MYLAN-GENERICS-TAB-5MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMLODIPINE-MYLAN-GENERICS-TAB-5MG-TAB-209-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -5480,8 +5480,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMLODIPINE-MYLAN-GENERICS-TAB-10MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMLODIPINE-MYLAN-GENERICS-TAB-10MG-TAB-210-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -5506,8 +5506,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ROVOXID-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ROVOXID-CAPS-5MG-CAP-211-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -5532,8 +5532,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ROVOXID-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ROVOXID-CAPS-10MG-CAP-212-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -5558,8 +5558,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(RAMLET-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(RAMLET-CAPS-5MG-CAP-213-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -5584,8 +5584,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(RAMLET-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(RAMLET-CAPS-10MG-CAP-214-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 14
 
 
 
@@ -5610,8 +5610,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(RAMLET-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(RAMLET-CAPS-10MG-CAP-215-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -5636,8 +5636,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(NORVAGEN-TAB-10MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(NORVAGEN-TAB-10MG-TAB-218-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -5662,8 +5662,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMILOPID-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMILOPID-CAPS-5MG-CAP-219-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -5688,8 +5688,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMILOPID-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMILOPID-CAPS-10MG-CAP-220-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -5714,8 +5714,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMLOPEN-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMLOPEN-CAPS-5MG-CAP-221-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -5740,8 +5740,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMLOPEN-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMLOPEN-CAPS-10MG-CAP-222-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -5766,8 +5766,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMLORETIN-CAPS-5MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMLORETIN-CAPS-5MG-CAP-223-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 14
 
 
 
@@ -5792,8 +5792,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(AMLORETIN-CAPS-10MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(AMLORETIN-CAPS-10MG-CAP-224-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 14
 
 
 
@@ -5818,8 +5818,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(NORMODIN-TAB-5MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(NORMODIN-TAB-5MG-TAB-225-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -5844,8 +5844,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(NORMODIN-TAB-10MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(NORMODIN-TAB-10MG-TAB-226-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -5870,8 +5870,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(TEGRETOL-TAB-200MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(TEGRETOL-TAB-200MG-TAB-227-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 50
 
 
 
@@ -5896,8 +5896,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(TEGRETOL-SYR-100MG-5ML-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(TEGRETOL-SYR-100MG-5ML-228-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 250
 
 
 
@@ -5922,8 +5922,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(TEGRETOL-CO-R-F-C-T-200MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(TEGRETOL-CO-R-F-C-T-200MG-TAB-229-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 50
 
 
 
@@ -5948,8 +5948,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(TEGRETOL-CO-R-F-C-T-400MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(TEGRETOL-CO-R-F-C-T-400MG-TAB-230-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -5974,8 +5974,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(NUROFEN-FOR-CHILDREN-oral-SUSP-100MG-5ML-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(NUROFEN-FOR-CHILDREN-oral-SUSP-100MG-5ML-231-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 150
 
 
 
@@ -6000,8 +6000,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(BRUFEN-F-C-TAB-600MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(BRUFEN-F-C-TAB-600MG-TAB-232-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 24
 
 
 
@@ -6026,8 +6026,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(BRUFEN-C-TAB-200MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(BRUFEN-C-TAB-200MG-TAB-233-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -6052,8 +6052,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(BRUFEN-C-TAB-400MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(BRUFEN-C-TAB-400MG-TAB-234-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 24
 
 
 
@@ -6078,8 +6078,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ADVIL-C-TAB-200MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ADVIL-C-TAB-200MG-TAB-235-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 20
 
 
 
@@ -6104,8 +6104,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(NUROFEN-C-TAB-200MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(NUROFEN-C-TAB-200MG-TAB-236-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 24
 
 
 
@@ -6130,8 +6130,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(NUROFEN-SOFT-CAPS-200MG-CAP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(NUROFEN-SOFT-CAPS-200MG-CAP-237-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 16
 
 
 
@@ -6156,8 +6156,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ALGOFREN-SYR-100MG-5ML-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ALGOFREN-SYR-100MG-5ML-238-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 150
 
 
 
@@ -6182,8 +6182,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ALGOFREN-SUPP-500MG-SUP-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ALGOFREN-SUPP-500MG-SUP-239-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 12
 
 
 
@@ -6208,8 +6208,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ALGOFREN-F-C-TAB-200MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ALGOFREN-F-C-TAB-200MG-TAB-240-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 20
 
 
 
@@ -6234,8 +6234,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ALGOFREN-F-C-TAB-400MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ALGOFREN-F-C-TAB-400MG-TAB-241-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 20
 
 
 
@@ -6260,8 +6260,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ALGOFREN-F-C-TAB-600MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ALGOFREN-F-C-TAB-600MG-TAB-242-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 20
 
 
 
@@ -6286,8 +6286,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(PEDEA-SOL-IV-INF-10MG-2ML-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(PEDEA-SOL-IV-INF-10MG-2ML-243-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 4
 
 
 
@@ -6312,8 +6312,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(NEOPROFEN-SOL-IV-INF-10MG-ML-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(NEOPROFEN-SOL-IV-INF-10MG-ML-244-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 3
 
 
 
@@ -6338,8 +6338,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(LIPOMIN-MEDICAL-PHARMAQUALITY-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(LIPOMIN-MEDICAL-PHARMAQUALITY-F-C-TAB-20MG-TAB-245-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -6364,8 +6364,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(LIPOMIN-MEDICAL-PHARMAQUALITY-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(LIPOMIN-MEDICAL-PHARMAQUALITY-F-C-TAB-40MG-TAB-246-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -6390,8 +6390,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(STATINUM-MEDICHROM-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(STATINUM-MEDICHROM-F-C-TAB-20MG-TAB-247-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -6416,8 +6416,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(STATINUM-MEDICHROM-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(STATINUM-MEDICHROM-F-C-TAB-40MG-TAB-248-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -6442,8 +6442,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(VERISTIN-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(VERISTIN-F-C-TAB-40MG-TAB-249-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -6468,8 +6468,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(STAZOR-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(STAZOR-F-C-TAB-20MG-TAB-250-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -6494,8 +6494,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(STAZOR-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(STAZOR-F-C-TAB-40MG-TAB-251-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -6520,8 +6520,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(GLIPAL-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(GLIPAL-F-C-TAB-40MG-TAB-252-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -6546,8 +6546,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(SIMVAPROL-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(SIMVAPROL-F-C-TAB-40MG-TAB-253-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -6572,8 +6572,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(SIMVAPROL-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(SIMVAPROL-F-C-TAB-40MG-TAB-254-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 50
 
 
 
@@ -6598,8 +6598,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(SIMVALID-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(SIMVALID-F-C-TAB-20MG-TAB-255-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -6624,8 +6624,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(LIPOMIN-MEDICAL-PHARMAQUALITY-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(LIPOMIN-MEDICAL-PHARMAQUALITY-F-C-TAB-20MG-TAB-256-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 10
 
 
 
@@ -6650,8 +6650,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(LIPOMIN-MEDICAL-PHARMAQUALITY-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(LIPOMIN-MEDICAL-PHARMAQUALITY-F-C-TAB-40MG-TAB-257-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 10
 
 
 
@@ -6676,8 +6676,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(LOWCHOLID-F-C-TAB-10MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(LOWCHOLID-F-C-TAB-10MG-TAB-258-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -6702,8 +6702,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(SIMVATIN-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(SIMVATIN-F-C-TAB-40MG-TAB-259-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 10
 
 
 
@@ -6728,8 +6728,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(SIMVATIN-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(SIMVATIN-F-C-TAB-40MG-TAB-260-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -6754,8 +6754,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(SIMVATIN-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(SIMVATIN-F-C-TAB-40MG-TAB-261-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 60
 
 
 
@@ -6780,8 +6780,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(SIVINAR-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(SIVINAR-F-C-TAB-20MG-TAB-262-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -6806,8 +6806,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(SIVINAR-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(SIVINAR-F-C-TAB-40MG-TAB-263-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -6832,8 +6832,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(REDUSTEROL-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(REDUSTEROL-F-C-TAB-20MG-TAB-264-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -6858,8 +6858,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(REDUSTEROL-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(REDUSTEROL-F-C-TAB-40MG-TAB-265-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -6884,8 +6884,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(LIPEXAL-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(LIPEXAL-F-C-TAB-40MG-TAB-266-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -6910,8 +6910,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(LIPOREX-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(LIPOREX-F-C-TAB-20MG-TAB-267-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -6936,8 +6936,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(SIMVACOR-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(SIMVACOR-F-C-TAB-20MG-TAB-268-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -6962,8 +6962,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(SIMVACOR-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(SIMVACOR-F-C-TAB-40MG-TAB-269-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -6988,8 +6988,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(PRAVOSTIN-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(PRAVOSTIN-F-C-TAB-20MG-TAB-270-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -7014,8 +7014,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(PRAVOSTIN-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(PRAVOSTIN-F-C-TAB-40MG-TAB-271-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -7040,8 +7040,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(EXTRASTATIN-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(EXTRASTATIN-F-C-TAB-20MG-TAB-272-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -7066,8 +7066,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(EXTRASTATIN-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(EXTRASTATIN-F-C-TAB-40MG-TAB-273-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -7092,8 +7092,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(SOTOVASTIN-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(SOTOVASTIN-F-C-TAB-40MG-TAB-274-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -7118,8 +7118,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(KYMAZOL-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(KYMAZOL-F-C-TAB-20MG-TAB-275-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 10
 
 
 
@@ -7144,8 +7144,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(KYMAZOL-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(KYMAZOL-F-C-TAB-20MG-TAB-276-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -7170,8 +7170,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(KYMAZOL-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(KYMAZOL-F-C-TAB-40MG-TAB-277-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -7196,8 +7196,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(NORMOTHERIN-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(NORMOTHERIN-F-C-TAB-20MG-TAB-278-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -7222,8 +7222,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(NORMOTHERIN-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(NORMOTHERIN-F-C-TAB-40MG-TAB-279-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -7248,8 +7248,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(LIPOREX-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(LIPOREX-F-C-TAB-20MG-TAB-280-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -7274,8 +7274,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(LIPOREX-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(LIPOREX-F-C-TAB-40MG-TAB-281-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 10
 
 
 
@@ -7300,8 +7300,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(LIPOREX-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(LIPOREX-F-C-TAB-40MG-TAB-282-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -7326,8 +7326,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(STATINAL-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(STATINAL-C-TAB-20MG-TAB-283-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 10
 
 
 
@@ -7352,8 +7352,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(STATINAL-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(STATINAL-C-TAB-20MG-TAB-284-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -7378,8 +7378,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(STATINAL-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(STATINAL-F-C-TAB-40MG-TAB-285-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -7404,8 +7404,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(STASIVA-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(STASIVA-F-C-TAB-20MG-TAB-286-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 10
 
 
 
@@ -7430,8 +7430,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(STASIVA-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(STASIVA-F-C-TAB-20MG-TAB-287-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -7456,8 +7456,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(STASIVA-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(STASIVA-F-C-TAB-20MG-TAB-288-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 60
 
 
 
@@ -7482,8 +7482,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(STASIVA-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(STASIVA-F-C-TAB-40MG-TAB-289-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -7508,8 +7508,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(STASIVA-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(STASIVA-F-C-TAB-40MG-TAB-290-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 60
 
 
 
@@ -7534,8 +7534,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ZUROCID-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ZUROCID-F-C-TAB-20MG-TAB-291-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 10
 
 
 
@@ -7560,8 +7560,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ZUROCID-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ZUROCID-F-C-TAB-40MG-TAB-292-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 10
 
 
 
@@ -7586,8 +7586,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ZUROCID-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ZUROCID-F-C-TAB-40MG-TAB-293-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -7612,8 +7612,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(VASTATIN-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(VASTATIN-F-C-TAB-40MG-TAB-294-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -7638,8 +7638,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(GOLDASTATIN-F-C-TAB-40MG-TAB-0--MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(GOLDASTATIN-F-C-TAB-40MG-TAB-0--295-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 20
 
 
 
@@ -7664,8 +7664,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(GOLDASTATIN-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(GOLDASTATIN-F-C-TAB-40MG-TAB-296-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -7690,8 +7690,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(LEPUR-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(LEPUR-F-C-TAB-20MG-TAB-297-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -7716,8 +7716,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(LEPUR-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(LEPUR-F-C-TAB-40MG-TAB-298-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -7742,8 +7742,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(PRIACIN-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(PRIACIN-F-C-TAB-20MG-TAB-299-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -7768,8 +7768,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(NEZATIN-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(NEZATIN-F-C-TAB-40MG-TAB-300-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -7794,8 +7794,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(VERISTIN-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(VERISTIN-F-C-TAB-20MG-TAB-301-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 28
 
 
 
@@ -7820,8 +7820,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(SIMVASTATIN-TEVA-F-C-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(SIMVASTATIN-TEVA-F-C-TAB-302-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -7846,8 +7846,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(SIMVASTATIN-TEVA-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(SIMVASTATIN-TEVA-F-C-TAB-20MG-TAB-303-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -7872,8 +7872,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(SIMVASTATIN-TEVA-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(SIMVASTATIN-TEVA-F-C-TAB-40MG-TAB-304-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -7898,8 +7898,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(LIPOPRESS-F-C-TAB-20-MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(LIPOPRESS-F-C-TAB-20-MG-TAB-305-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -7924,8 +7924,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(LIPOPRESS-F-C-TAB-40-MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(LIPOPRESS-F-C-TAB-40-MG-TAB-306-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -7950,8 +7950,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ANTICHOL-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ANTICHOL-F-C-TAB-20MG-TAB-307-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -7976,8 +7976,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ANTICHOL-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ANTICHOL-F-C-TAB-20MG-TAB-308-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 60
 
 
 
@@ -8002,8 +8002,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ANTICHOL-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ANTICHOL-F-C-TAB-40MG-TAB-309-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8028,8 +8028,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ANTICHOL-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ANTICHOL-F-C-TAB-40MG-TAB-310-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 60
 
 
 
@@ -8054,8 +8054,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(RAPTOR-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(RAPTOR-F-C-TAB-20MG-TAB-311-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8080,8 +8080,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(RAPTOR-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(RAPTOR-F-C-TAB-40MG-TAB-312-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8106,8 +8106,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(MEDISTATIN-RALDEX-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(MEDISTATIN-RALDEX-F-C-TAB-40MG-TAB-313-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8132,8 +8132,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(LIPOZID-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(LIPOZID-F-C-TAB-40MG-TAB-314-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8158,8 +8158,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(VELKASTATIN-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(VELKASTATIN-F-C-TAB-20MG-TAB-315-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8184,8 +8184,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(VELKASTATIN-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(VELKASTATIN-F-C-TAB-40MG-TAB-316-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8210,8 +8210,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(BEVOSTATIN-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(BEVOSTATIN-F-C-TAB-20MG-TAB-317-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8236,8 +8236,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(BEVOSTATIN-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(BEVOSTATIN-F-C-TAB-40MG-TAB-318-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8262,8 +8262,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(PLACOL-SIMVASTATIN-F-C-TAB-20-MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(PLACOL-SIMVASTATIN-F-C-TAB-20-MG-TAB-319-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8288,8 +8288,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(PLACOL-SIMVASTATIN-F-C-TAB-40-MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(PLACOL-SIMVASTATIN-F-C-TAB-40-MG-TAB-320-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8314,8 +8314,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(SIMVALARK-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(SIMVALARK-F-C-TAB-40MG-TAB-321-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8340,8 +8340,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(IAMASTATIN-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(IAMASTATIN-F-C-TAB-40MG-TAB-322-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 10
 
 
 
@@ -8366,8 +8366,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(IAMASTATIN-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(IAMASTATIN-F-C-TAB-40MG-TAB-323-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8392,8 +8392,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ANTICHOL-F-C-TAB-10MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ANTICHOL-F-C-TAB-10MG-TAB-324-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 10
 
 
 
@@ -8418,8 +8418,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(VERITRAT-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(VERITRAT-F-C-TAB-40MG-TAB-325-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8444,8 +8444,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(LUSIMVA-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(LUSIMVA-F-C-TAB-40MG-TAB-326-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8470,8 +8470,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(VASSOR-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(VASSOR-F-C-TAB-20MG-TAB-327-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 10
 
 
 
@@ -8496,8 +8496,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(VASSOR-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(VASSOR-F-C-TAB-20MG-TAB-328-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8522,8 +8522,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(VASSOR-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(VASSOR-F-C-TAB-40MG-TAB-329-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 10
 
 
 
@@ -8548,8 +8548,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(VASSOR-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(VASSOR-F-C-TAB-40MG-TAB-330-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8574,8 +8574,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(VASSOR-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(VASSOR-F-C-TAB-40MG-TAB-331-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 60
 
 
 
@@ -8600,8 +8600,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(STATIVER-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(STATIVER-F-C-TAB-40MG-TAB-332-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8626,8 +8626,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ANTICHOL-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ANTICHOL-F-C-TAB-40MG-TAB-333-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 10
 
 
 
@@ -8652,8 +8652,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ANTICHOL-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ANTICHOL-F-C-TAB-20MG-TAB-334-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 10
 
 
 
@@ -8678,8 +8678,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(SIMVASTIL-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(SIMVASTIL-F-C-TAB-20MG-TAB-335-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8704,8 +8704,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(SIMVASTIL-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(SIMVASTIL-F-C-TAB-40MG-TAB-336-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8730,8 +8730,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(LOWCHOLID-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(LOWCHOLID-F-C-TAB-20MG-TAB-337-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8756,8 +8756,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(LOWCHOLID-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(LOWCHOLID-F-C-TAB-40MG-TAB-338-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8782,8 +8782,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(IPRAMID-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(IPRAMID-F-C-TAB-20MG-TAB-339-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8808,8 +8808,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(IPRAMID-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(IPRAMID-F-C-TAB-40MG-TAB-340-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8834,8 +8834,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(SIMVALID-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(SIMVALID-F-C-TAB-40MG-TAB-341-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8860,8 +8860,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(STERYLIP-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(STERYLIP-F-C-TAB-40MG-TAB-342-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8886,8 +8886,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(SIMVASTATIN-NORMA-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(SIMVASTATIN-NORMA-F-C-TAB-20MG-TAB-343-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8912,8 +8912,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(SIMVASTATIN-NORMA-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(SIMVASTATIN-NORMA-F-C-TAB-40MG-TAB-344-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8938,8 +8938,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(DOCTIVERINE-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(DOCTIVERINE-F-C-TAB-20MG-TAB-345-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8964,8 +8964,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(DOCTIVERINE-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(DOCTIVERINE-F-C-TAB-40MG-TAB-346-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -8990,8 +8990,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(PRIACIN-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(PRIACIN-F-C-TAB-20MG-TAB-347-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 60
 
 
 
@@ -9016,8 +9016,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(PRELON-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(PRELON-F-C-TAB-20MG-TAB-348-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -9042,8 +9042,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(PRELON-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(PRELON-F-C-TAB-40MG-TAB-349-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -9068,8 +9068,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(SIMVASTEROL-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(SIMVASTEROL-F-C-TAB-40MG-TAB-350-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -9094,8 +9094,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(LIPEXAL-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(LIPEXAL-F-C-TAB-40MG-TAB-351-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 60
 
 
 
@@ -9120,8 +9120,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ZOCOR-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ZOCOR-F-C-TAB-20MG-TAB-352-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 10
 
 
 
@@ -9146,8 +9146,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ZOCOR-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ZOCOR-F-C-TAB-40MG-TAB-353-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 10
 
 
 
@@ -9172,8 +9172,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(PRIZELIP-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(PRIZELIP-F-C-TAB-40MG-TAB-354-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -9198,8 +9198,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ARSTATIN-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ARSTATIN-F-C-TAB-20MG-TAB-355-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -9224,8 +9224,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ARSTATIN-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ARSTATIN-F-C-TAB-40MG-TAB-356-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -9250,8 +9250,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(TREMITAL-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(TREMITAL-F-C-TAB-40MG-TAB-357-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -9276,8 +9276,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(NEZATIN-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(NEZATIN-F-C-TAB-40MG-TAB-358-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 20
 
 
 
@@ -9302,8 +9302,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(RAVOSTAN-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(RAVOSTAN-F-C-TAB-20MG-TAB-359-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -9328,8 +9328,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(RAVOSTAN-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(RAVOSTAN-F-C-TAB-40MG-TAB-360-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -9354,8 +9354,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(LIP-DOWN-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(LIP-DOWN-F-C-TAB-20MG-TAB-361-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -9380,8 +9380,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(LIP-DOWN-F-C-TAB-40-MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(LIP-DOWN-F-C-TAB-40-MG-TAB-362-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -9406,8 +9406,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(NITASTIN-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(NITASTIN-F-C-TAB-20MG-TAB-363-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -9432,8 +9432,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(NITASTIN-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(NITASTIN-F-C-TAB-40MG-TAB-364-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -9458,8 +9458,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(ZOCOR-F-C-TAB-10MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(ZOCOR-F-C-TAB-10MG-TAB-365-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 10
 
 
 
@@ -9484,8 +9484,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(SIMVASTATIN-GENERICS-F-C-TAB-10MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(SIMVASTATIN-GENERICS-F-C-TAB-10MG-TAB-366-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -9510,8 +9510,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(SIMVASTATIN-GENERICS-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(SIMVASTATIN-GENERICS-F-C-TAB-20MG-TAB-367-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -9536,8 +9536,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(SIMVASTATIN-GENERICS-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(SIMVASTATIN-GENERICS-F-C-TAB-40MG-TAB-368-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -9562,8 +9562,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(STATOSAN-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(STATOSAN-F-C-TAB-20MG-TAB-369-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -9588,8 +9588,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(PRIACIN-F-C-TAB-10MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(PRIACIN-F-C-TAB-10MG-TAB-370-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -9614,8 +9614,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(PRIACIN-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(PRIACIN-F-C-TAB-40MG-TAB-371-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -9640,8 +9640,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(FLUITIN-F-C-TAB-40MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(FLUITIN-F-C-TAB-40MG-TAB-372-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -9666,8 +9666,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(VASTATIN-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(VASTATIN-F-C-TAB-20MG-TAB-373-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -9692,8 +9692,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(VERISTIN-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(VERISTIN-F-C-TAB-20MG-TAB-374-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -9718,8 +9718,8 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(SIMVASTATIN-MYLAN-F-C-TAB-10MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(SIMVASTATIN-MYLAN-F-C-TAB-10MG-TAB-375-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 
 
@@ -9744,7 +9744,7 @@ Usage: #example
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-//* packaging.packaging.containedItem.item.reference = Reference(SIMVASTATIN-MYLAN-F-C-TAB-20MG-TAB-MID)
-//* packaging.packaging.containedItem.amount.value = 30
+* packaging.packaging.containedItem.item.reference = Reference(SIMVASTATIN-MYLAN-F-C-TAB-20MG-TAB-376-GRC-MID)
+* packaging.packaging.containedItem.amount.value = 30
 
 

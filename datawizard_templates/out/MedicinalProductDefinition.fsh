@@ -4,7 +4,7 @@ Instance: Amlodipin-AB-tabl-10-mg-0-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate Aurobindo tablet 10mg/"
+* identifier[mpid].value = "Amlodipin-AB-tabl-10-mg-0-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -24,7 +24,7 @@ Instance: Amlodipin-AB-tabl-10-mg-1-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate Aurobindo tablet 10mg/"
+* identifier[mpid].value = "Amlodipin-AB-tabl-10-mg-1-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -44,7 +44,7 @@ Instance: Amlodipin-Sandoz-Impexeco-tabl-deelb-Besilaat-10-m-2-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate Impexeco tablet 10mg/"
+* identifier[mpid].value = "Amlodipin-Sandoz-Impexeco-tabl-deelb-Besilaat-10-m-2-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -64,7 +64,7 @@ Instance: Amlodipin-Sandoz-tabl-deelb-Besilaat-10-mg-3-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate Sandoz tablet 10mg/"
+* identifier[mpid].value = "Amlodipin-Sandoz-tabl-deelb-Besilaat-10-mg-3-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -84,7 +84,7 @@ Instance: Amlodipin-Sandoz-tabl-deelb-Besilaat-10-mg-4-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate Sandoz tablet 10mg/"
+* identifier[mpid].value = "Amlodipin-Sandoz-tabl-deelb-Besilaat-10-mg-4-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -104,7 +104,7 @@ Instance: Amlodipin-Sandoz-tabl-deelb-Besilaat-10-mg-5-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate Sandoz tablet 10mg/"
+* identifier[mpid].value = "Amlodipin-Sandoz-tabl-deelb-Besilaat-10-mg-5-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -124,7 +124,7 @@ Instance: Amlodipine-EG-PIP-tabl-deelb-Besilate-10-mg-6-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate PI-Pharma tablet 10mg/"
+* identifier[mpid].value = "Amlodipine-EG-PIP-tabl-deelb-Besilate-10-mg-6-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -144,7 +144,7 @@ Instance: Amlodipine-EG-tabl-deelb-Besilate-10-mg-7-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate EG tablet 10mg/"
+* identifier[mpid].value = "Amlodipine-EG-tabl-deelb-Besilate-10-mg-7-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -164,7 +164,7 @@ Instance: Amlodipine-EG-tabl-deelb-Besilate-10-mg-8-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate EG tablet 10mg/"
+* identifier[mpid].value = "Amlodipine-EG-tabl-deelb-Besilate-10-mg-8-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -184,7 +184,7 @@ Instance: Amlodipine-Mylan-tabl-deelb-Besilate-10-mg-9-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate Mylan tablet 10mg/"
+* identifier[mpid].value = "Amlodipine-Mylan-tabl-deelb-Besilate-10-mg-9-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -204,7 +204,7 @@ Instance: Amlodipine-Teva-tabl-deelb-10-mg-10-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate Teva tablet 10mg/"
+* identifier[mpid].value = "Amlodipine-Teva-tabl-deelb-10-mg-10-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -224,7 +224,7 @@ Instance: Amlodipine-Teva-tabl-deelb-10-mg-11-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate Teva tablet 10mg/"
+* identifier[mpid].value = "Amlodipine-Teva-tabl-deelb-10-mg-11-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -244,7 +244,7 @@ Instance: Amlor-harde-caps-10-mg-12-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate Upjohn capsule, hard 10mg/"
+* identifier[mpid].value = "Amlor-harde-caps-10-mg-12-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -264,7 +264,7 @@ Instance: Amlor-harde-caps-10-mg-13-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate Upjohn capsule, hard 10mg/"
+* identifier[mpid].value = "Amlor-harde-caps-10-mg-13-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -284,7 +284,7 @@ Instance: Amlor-harde-caps-10-mg-14-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate Upjohn capsule, hard 10mg/"
+* identifier[mpid].value = "Amlor-harde-caps-10-mg-14-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -304,7 +304,7 @@ Instance: Amlodipin-AB-tabl-5-mg-15-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate Aurobindo tablet 5mg/"
+* identifier[mpid].value = "Amlodipin-AB-tabl-5-mg-15-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -324,7 +324,7 @@ Instance: Amlodipin-AB-tabl-5-mg-16-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate Aurobindo tablet 5mg/"
+* identifier[mpid].value = "Amlodipin-AB-tabl-5-mg-16-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -344,7 +344,7 @@ Instance: Amlodipin-Sandoz-tabl-deelb-Besilaat-5-mg-17-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate Sandoz tablet 5mg/"
+* identifier[mpid].value = "Amlodipin-Sandoz-tabl-deelb-Besilaat-5-mg-17-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -364,7 +364,7 @@ Instance: Amlodipin-Sandoz-tabl-deelb-Besilaat-5-mg-18-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate Sandoz tablet 5mg/"
+* identifier[mpid].value = "Amlodipin-Sandoz-tabl-deelb-Besilaat-5-mg-18-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -384,7 +384,7 @@ Instance: Amlodipin-Sandoz-tabl-deelb-Besilaat-5-mg-19-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate Sandoz tablet 5mg/"
+* identifier[mpid].value = "Amlodipin-Sandoz-tabl-deelb-Besilaat-5-mg-19-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -404,7 +404,7 @@ Instance: Amlodipin-Sandoz-tabl-deelb-Besilaat-5-mg-20-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate Sandoz tablet 5mg/"
+* identifier[mpid].value = "Amlodipin-Sandoz-tabl-deelb-Besilaat-5-mg-20-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -424,7 +424,7 @@ Instance: Amlodipine-EG-tabl-Besilate-5-mg-21-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate EG tablet 5mg/"
+* identifier[mpid].value = "Amlodipine-EG-tabl-Besilate-5-mg-21-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -444,7 +444,7 @@ Instance: Amlodipine-EG-tabl-Besilate-5-mg-22-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate EG tablet 5mg/"
+* identifier[mpid].value = "Amlodipine-EG-tabl-Besilate-5-mg-22-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -464,7 +464,7 @@ Instance: Amlodipine-Mylan-tabl-deelb-Besilate-5-mg-23-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate Mylan tablet 5mg/"
+* identifier[mpid].value = "Amlodipine-Mylan-tabl-deelb-Besilate-5-mg-23-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -484,7 +484,7 @@ Instance: Amlodipine-Mylan-tabl-deelb-Besilate-5-mg-24-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate Mylan tablet 5mg/"
+* identifier[mpid].value = "Amlodipine-Mylan-tabl-deelb-Besilate-5-mg-24-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -504,7 +504,7 @@ Instance: Amlodipine-Teva-tabl-deelb-5-mg-25-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate Teva tablet 5mg/"
+* identifier[mpid].value = "Amlodipine-Teva-tabl-deelb-5-mg-25-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -524,7 +524,7 @@ Instance: Amlodipine-Teva-tabl-deelb-5-mg-26-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate Teva tablet 5mg/"
+* identifier[mpid].value = "Amlodipine-Teva-tabl-deelb-5-mg-26-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -544,7 +544,7 @@ Instance: Amlodipine-Teva-tabl-deelb-5-mg-27-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate Teva tablet 5mg/"
+* identifier[mpid].value = "Amlodipine-Teva-tabl-deelb-5-mg-27-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -564,7 +564,7 @@ Instance: Amlor-harde-caps-5-mg-28-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate Upjohn capsule, hard 5mg/"
+* identifier[mpid].value = "Amlor-harde-caps-5-mg-28-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -584,7 +584,7 @@ Instance: Amlor-harde-caps-5-mg-29-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate Upjohn capsule, hard 5mg/"
+* identifier[mpid].value = "Amlor-harde-caps-5-mg-29-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -604,7 +604,7 @@ Instance: Amlor-harde-caps-5-mg-30-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate Upjohn capsule, hard 5mg/"
+* identifier[mpid].value = "Amlor-harde-caps-5-mg-30-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -624,7 +624,7 @@ Instance: Amlor-harde-caps-5-mg-31-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate Upjohn capsule, hard 5mg/"
+* identifier[mpid].value = "Amlor-harde-caps-5-mg-31-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -644,7 +644,7 @@ Instance: Amlodipine-Belisate-Mylan-10-mg-32-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine besilate Mylan EPD tablet 5mg/"
+* identifier[mpid].value = "Amlodipine-Belisate-Mylan-10-mg-32-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -664,7 +664,7 @@ Instance: Amlogal-Divule-omh-tabl-10-mg-33-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine maleate SMB coated tablet 10mg/"
+* identifier[mpid].value = "Amlogal-Divule-omh-tabl-10-mg-33-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
@@ -684,7 +684,7 @@ Instance: Amlogal-Divule-omh-tabl-10-mg-34-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine maleate SMB coated tablet 10mg/"
+* identifier[mpid].value = "Amlogal-Divule-omh-tabl-10-mg-34-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
@@ -704,7 +704,7 @@ Instance: Amlodipine-Krka-tabl-10-mg-35-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine maleate Krka tablet 10mg/"
+* identifier[mpid].value = "Amlodipine-Krka-tabl-10-mg-35-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -724,7 +724,7 @@ Instance: Amlodipine-Krka-tabl-10-mg-36-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine maleate Krka tablet 10mg/"
+* identifier[mpid].value = "Amlodipine-Krka-tabl-10-mg-36-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -744,7 +744,7 @@ Instance: Amlodipine-Krka-tabl-5-mg-37-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine maleate Krka tablet 5mg/"
+* identifier[mpid].value = "Amlodipine-Krka-tabl-5-mg-37-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -764,7 +764,7 @@ Instance: Amlodipine-Krka-tabl-5-mg-38-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine maleate Krka tablet 5mg/"
+* identifier[mpid].value = "Amlodipine-Krka-tabl-5-mg-38-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -784,7 +784,7 @@ Instance: Amlodipine-Krka-tabl-5-mg-39-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL amlodipine maleate Krka tablet 5mg/"
+* identifier[mpid].value = "Amlodipine-Krka-tabl-5-mg-39-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -804,7 +804,7 @@ Instance: Tegretol-tabl-geregul-afgifte-deelb-CR-200-mg-40-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL carbamazepine Novartis Pharma prolonged-release tablet 200mg/"
+* identifier[mpid].value = "Tegretol-tabl-geregul-afgifte-deelb-CR-200-mg-40-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
@@ -824,7 +824,7 @@ Instance: Tegretol-tabl-geregul-afgifte-deelb-CR-400-mg-41-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL carbamazepine Novartis Pharma prolonged-release tablet 400mg/"
+* identifier[mpid].value = "Tegretol-tabl-geregul-afgifte-deelb-CR-400-mg-41-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
@@ -844,7 +844,7 @@ Instance: Tegretol-siroop-susp-100-mg-5-ml-42-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL carbamazepine Novartis Pharma syrup 100mg/5mL"
+* identifier[mpid].value = "Tegretol-siroop-susp-100-mg-5-ml-42-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Syrup"
@@ -864,7 +864,7 @@ Instance: Tegretol-tabl-deelb-200-mg-43-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL carbamazepine Novartis Pharma tablet 200mg/"
+* identifier[mpid].value = "Tegretol-tabl-deelb-200-mg-43-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -884,7 +884,7 @@ Instance: Extrapan-5-transderm-lok-gel-50-mg-1-g-44-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Qualiphar transdermal gel 50mg/1g"
+* identifier[mpid].value = "Extrapan-5-transderm-lok-gel-50-mg-1-g-44-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000116134 "Transdermal gel"
@@ -904,7 +904,7 @@ Instance: Ibuprofen-Kela-5-transderm-lok-gel-50-mg-1-g-45-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Kela transdermal gel 50mg/1g"
+* identifier[mpid].value = "Ibuprofen-Kela-5-transderm-lok-gel-50-mg-1-g-45-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000116134 "Transdermal gel"
@@ -924,7 +924,7 @@ Instance: Ibuprofen-Teva-5-transderm-lok-gel-50-mg-1-g-46-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Teva transdermal gel 50mg/1g"
+* identifier[mpid].value = "Ibuprofen-Teva-5-transderm-lok-gel-50-mg-1-g-46-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000116134 "Transdermal gel"
@@ -944,7 +944,7 @@ Instance: Ibuprofen-Teva-5-transderm-lok-gel-50-mg-1-g-47-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Teva transdermal gel 50mg/1g"
+* identifier[mpid].value = "Ibuprofen-Teva-5-transderm-lok-gel-50-mg-1-g-47-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000116134 "Transdermal gel"
@@ -964,7 +964,7 @@ Instance: Pedea-inf-oploss-i-v-amp-10-mg-2-ml-48-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Recordati solution for infusion  10mg/2mL"
+* identifier[mpid].value = "Pedea-inf-oploss-i-v-amp-10-mg-2-ml-48-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solution for infusion"
@@ -984,7 +984,7 @@ Instance: Ibuprofen-B-Braun-inf-oploss-i-v-flac-200-mg-50-ml-49-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  B. Braun solution for infusion  200mg/50mL"
+* identifier[mpid].value = "Ibuprofen-B-Braun-inf-oploss-i-v-flac-200-mg-50-ml-49-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solution for infusion"
@@ -1004,7 +1004,7 @@ Instance: Ibuprofen-B-Braun-inf-oploss-i-v-flac-400-mg-100-m-50-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  B. Braun solution for infusion  400mg/100mL"
+* identifier[mpid].value = "Ibuprofen-B-Braun-inf-oploss-i-v-flac-400-mg-100-m-50-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solution for infusion"
@@ -1024,7 +1024,7 @@ Instance: Ibuprofen-B-Braun-inf-oploss-i-v-flac-600-mg-100-m-51-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  B. Braun solution for infusion  600mg/100mL"
+* identifier[mpid].value = "Ibuprofen-B-Braun-inf-oploss-i-v-flac-600-mg-100-m-51-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solution for infusion"
@@ -1044,7 +1044,7 @@ Instance: Brufen-tabl-verl-afgifte-Retard-800-mg-52-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Mylan EPD prolonged-release tablet 800mg/"
+* identifier[mpid].value = "Brufen-tabl-verl-afgifte-Retard-800-mg-52-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
@@ -1064,7 +1064,7 @@ Instance: Brufen-tabl-verl-afgifte-Retard-800-mg-53-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Mylan EPD prolonged-release tablet 800mg/"
+* identifier[mpid].value = "Brufen-tabl-verl-afgifte-Retard-800-mg-53-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
@@ -1084,7 +1084,7 @@ Instance: Ibuprofen-EG-tabl-verl-afgifte-800-mg-54-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  EG prolonged-release tablet 800mg/"
+* identifier[mpid].value = "Ibuprofen-EG-tabl-verl-afgifte-800-mg-54-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
@@ -1104,7 +1104,7 @@ Instance: Ibuprofen-EG-tabl-verl-afgifte-800-mg-55-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  EG prolonged-release tablet 800mg/"
+* identifier[mpid].value = "Ibuprofen-EG-tabl-verl-afgifte-800-mg-55-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
@@ -1124,7 +1124,7 @@ Instance: Nurofen-zachte-kauwcaps-Kinderen-100-mg-56-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser chewable capsule, soft 100mg/"
+* identifier[mpid].value = "Nurofen-zachte-kauwcaps-Kinderen-100-mg-56-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073377 "Chewable capsule, soft"
@@ -1144,7 +1144,7 @@ Instance: Algidrin-siroop-susp-100-mg-5-ml-57-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL Ibuprofen lysine I.D. Phar syrup 100mg/5mL"
+* identifier[mpid].value = "Algidrin-siroop-susp-100-mg-5-ml-57-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Syrup"
@@ -1164,7 +1164,7 @@ Instance: Nurofen-2-siroop-susp-zonder-suiker-Kinderen-100-m-58-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser syrup 100mg/5mL"
+* identifier[mpid].value = "Nurofen-2-siroop-susp-zonder-suiker-Kinderen-100-m-58-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Syrup"
@@ -1184,7 +1184,7 @@ Instance: Nurofen-2-siroop-susp-zonder-suiker-Rood-Kinderen--59-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser syrup 100mg/5mL"
+* identifier[mpid].value = "Nurofen-2-siroop-susp-zonder-suiker-Rood-Kinderen--59-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Syrup"
@@ -1204,7 +1204,7 @@ Instance: Perdophen-2-siroop-susp-100-mg-5-ml-60-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Johnson & Johnson Consumer syrup 100mg/5mL"
+* identifier[mpid].value = "Perdophen-2-siroop-susp-100-mg-5-ml-60-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Syrup"
@@ -1224,7 +1224,7 @@ Instance: Ibuprofen-EG-omh-tabl-200-mg-61-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  EG coated tablet 200mg/"
+* identifier[mpid].value = "Ibuprofen-EG-omh-tabl-200-mg-61-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
@@ -1244,7 +1244,7 @@ Instance: Ibuprofen-Sandoz-filmomh-tabl-200-mg-62-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Sandoz prolonged-release tablet 200mg/"
+* identifier[mpid].value = "Ibuprofen-Sandoz-filmomh-tabl-200-mg-62-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
@@ -1264,7 +1264,7 @@ Instance: Nurofen-omh-tabl-200-mg-63-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser coated tablet 200mg/"
+* identifier[mpid].value = "Nurofen-omh-tabl-200-mg-63-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
@@ -1284,7 +1284,7 @@ Instance: Nurofen-omh-tabl-200-mg-64-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser coated tablet 200mg/"
+* identifier[mpid].value = "Nurofen-omh-tabl-200-mg-64-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
@@ -1304,7 +1304,7 @@ Instance: Nurofen-omh-tabl-Kinderen-200-mg-65-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser coated tablet 200mg/"
+* identifier[mpid].value = "Nurofen-omh-tabl-Kinderen-200-mg-65-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
@@ -1324,7 +1324,7 @@ Instance: Spidifen-oploss-gran-zakjes-200-mg-66-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen arginine Zambon granules for oral solution 200mg/"
+* identifier[mpid].value = "Spidifen-oploss-gran-zakjes-200-mg-66-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granules for oral solution"
@@ -1344,7 +1344,7 @@ Instance: Brufen-siroop-susp-200-mg-5-ml-67-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Mylan EPD syrup 200mg/5mL"
+* identifier[mpid].value = "Brufen-siroop-susp-200-mg-5-ml-67-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Syrup"
@@ -1364,7 +1364,7 @@ Instance: Ibuprofen-EG-siroop-susp-200-mg-5-ml-68-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  EG syrup 200mg/5mL"
+* identifier[mpid].value = "Ibuprofen-EG-siroop-susp-200-mg-5-ml-68-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Syrup"
@@ -1384,7 +1384,7 @@ Instance: Nurofen-4-siroop-susp-zonder-suiker-Kinderen-200-m-69-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser syrup 200mg/5mL"
+* identifier[mpid].value = "Nurofen-4-siroop-susp-zonder-suiker-Kinderen-200-m-69-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Syrup"
@@ -1404,7 +1404,7 @@ Instance: Nurofen-4-siroop-susp-zonder-suiker-Rood-Kinderen--70-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser syrup 200mg/5mL"
+* identifier[mpid].value = "Nurofen-4-siroop-susp-zonder-suiker-Rood-Kinderen--70-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Syrup"
@@ -1424,7 +1424,7 @@ Instance: Brufen-filmomh-tabl-400-mg-71-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Mylan EPD film-coated tablet 400mg/"
+* identifier[mpid].value = "Brufen-filmomh-tabl-400-mg-71-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -1444,7 +1444,7 @@ Instance: Brufen-filmomh-tabl-400-mg-72-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Mylan EPD film-coated tablet 400mg/"
+* identifier[mpid].value = "Brufen-filmomh-tabl-400-mg-72-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -1464,7 +1464,7 @@ Instance: Brufen-filmomh-tabl-400-mg-73-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Mylan EPD film-coated tablet 400mg/"
+* identifier[mpid].value = "Brufen-filmomh-tabl-400-mg-73-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -1484,7 +1484,7 @@ Instance: Ibuprofen-EG-omh-tabl-deelb-400-mg-74-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  EG coated tablet 400mg/"
+* identifier[mpid].value = "Ibuprofen-EG-omh-tabl-deelb-400-mg-74-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
@@ -1504,7 +1504,7 @@ Instance: Ibuprofen-EG-omh-tabl-deelb-400-mg-75-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  EG coated tablet 400mg/"
+* identifier[mpid].value = "Ibuprofen-EG-omh-tabl-deelb-400-mg-75-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
@@ -1524,7 +1524,7 @@ Instance: Ibuprofen-Sandoz-filmomh-tabl-deelb-400-mg-76-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Sandoz film-coated tablet 400mg/"
+* identifier[mpid].value = "Ibuprofen-Sandoz-filmomh-tabl-deelb-400-mg-76-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -1544,7 +1544,7 @@ Instance: Ibuprofen-Sandoz-filmomh-tabl-deelb-400-mg-77-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Sandoz film-coated tablet 400mg/"
+* identifier[mpid].value = "Ibuprofen-Sandoz-filmomh-tabl-deelb-400-mg-77-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -1564,7 +1564,7 @@ Instance: Nurofen-PIP-zachte-caps-Fastcaps-400-mg-78-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  PI-Pharma capsule, soft 400mg/"
+* identifier[mpid].value = "Nurofen-PIP-zachte-caps-Fastcaps-400-mg-78-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
@@ -1584,7 +1584,7 @@ Instance: Nurofen-PIP-zachte-caps-Fastcaps-400-mg-79-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  PI-Pharma capsule, soft 400mg/"
+* identifier[mpid].value = "Nurofen-PIP-zachte-caps-Fastcaps-400-mg-79-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
@@ -1604,7 +1604,7 @@ Instance: Nurofen-filmomh-tabl-Fasttabs-400-mg-80-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL Ibuprofen lysine Reckitt Benckiser film-coated tablet 400mg/"
+* identifier[mpid].value = "Nurofen-filmomh-tabl-Fasttabs-400-mg-80-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -1624,7 +1624,7 @@ Instance: Nurofen-omh-tabl-400-mg-81-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser coated tablet 400mg/"
+* identifier[mpid].value = "Nurofen-omh-tabl-400-mg-81-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
@@ -1644,7 +1644,7 @@ Instance: Nurofen-zachte-caps-Fastcaps-400-mg-82-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser capsule, soft 400mg/"
+* identifier[mpid].value = "Nurofen-zachte-caps-Fastcaps-400-mg-82-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
@@ -1664,7 +1664,7 @@ Instance: Nurofen-zachte-caps-Fastcaps-400-mg-83-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser capsule, soft 400mg/"
+* identifier[mpid].value = "Nurofen-zachte-caps-Fastcaps-400-mg-83-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
@@ -1684,7 +1684,7 @@ Instance: Perdofemina-filmomh-tabl-400-mg-84-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL Ibuprofen lysine Johnson & Johnson Consumer film-coated tablet 400mg/"
+* identifier[mpid].value = "Perdofemina-filmomh-tabl-400-mg-84-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -1704,7 +1704,7 @@ Instance: Spidifen-filmomh-tabl-deelb-400-mg-85-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL Ibuprofen arginine Zambon film-coated tablet 400mg/"
+* identifier[mpid].value = "Spidifen-filmomh-tabl-deelb-400-mg-85-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -1724,7 +1724,7 @@ Instance: Brufen-bruisgran-zakjes-600-mg-86-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Mylan EPD Effervescent granules 600mg/"
+* identifier[mpid].value = "Brufen-bruisgran-zakjes-600-mg-86-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Effervescent granules"
@@ -1744,7 +1744,7 @@ Instance: Brufen-filmomh-tabl-Forte-600-mg-87-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Mylan EPD film-coated tablet 600mg/"
+* identifier[mpid].value = "Brufen-filmomh-tabl-Forte-600-mg-87-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -1764,7 +1764,7 @@ Instance: Brufen-filmomh-tabl-Forte-600-mg-88-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Mylan EPD film-coated tablet 600mg/"
+* identifier[mpid].value = "Brufen-filmomh-tabl-Forte-600-mg-88-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -1784,7 +1784,7 @@ Instance: Ibuprofen-AB-filmomh-tabl-deelb-600-mg-89-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Aurobindo film-coated tablet 600mg/"
+* identifier[mpid].value = "Ibuprofen-AB-filmomh-tabl-deelb-600-mg-89-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -1804,7 +1804,7 @@ Instance: Ibuprofen-AB-filmomh-tabl-deelb-600-mg-90-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Aurobindo film-coated tablet 600mg/"
+* identifier[mpid].value = "Ibuprofen-AB-filmomh-tabl-deelb-600-mg-90-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -1824,7 +1824,7 @@ Instance: Ibuprofen-EG-omh-tabl-deelb-600-mg-91-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  EG coated tablet 600mg/"
+* identifier[mpid].value = "Ibuprofen-EG-omh-tabl-deelb-600-mg-91-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
@@ -1844,7 +1844,7 @@ Instance: Ibuprofen-EG-omh-tabl-deelb-600-mg-92-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  EG coated tablet 600mg/"
+* identifier[mpid].value = "Ibuprofen-EG-omh-tabl-deelb-600-mg-92-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
@@ -1864,7 +1864,7 @@ Instance: Ibuprofen-Sandoz-filmomh-tabl-deelb-600-mg-93-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Sandoz film-coated tablet 600mg/"
+* identifier[mpid].value = "Ibuprofen-Sandoz-filmomh-tabl-deelb-600-mg-93-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -1884,7 +1884,7 @@ Instance: Ibuprofen-Sandoz-filmomh-tabl-deelb-600-mg-94-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Sandoz film-coated tablet 600mg/"
+* identifier[mpid].value = "Ibuprofen-Sandoz-filmomh-tabl-deelb-600-mg-94-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -1904,7 +1904,7 @@ Instance: Ibuprofen-AB-filmomh-tabl-deelb-800-mg-95-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Aurobindo film-coated tablet 800mg/"
+* identifier[mpid].value = "Ibuprofen-AB-filmomh-tabl-deelb-800-mg-95-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -1924,7 +1924,7 @@ Instance: Ibuprofen-AB-filmomh-tabl-deelb-800-mg-96-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Aurobindo film-coated tablet 800mg/"
+* identifier[mpid].value = "Ibuprofen-AB-filmomh-tabl-deelb-800-mg-96-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -1944,7 +1944,7 @@ Instance: Ibuprofen-AB-filmomh-tabl-deelb-800-mg-97-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Aurobindo film-coated tablet 800mg/"
+* identifier[mpid].value = "Ibuprofen-AB-filmomh-tabl-deelb-800-mg-97-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -1964,7 +1964,7 @@ Instance: Nurofen-Patch-transderm-lok-medic-pleister-200-mg--98-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser medicated plaster 200mg/"
+* identifier[mpid].value = "Nurofen-Patch-transderm-lok-medic-pleister-200-mg--98-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Medicated plaster"
@@ -1984,7 +1984,7 @@ Instance: Nurofen-zetpil-Kinderen-125-mg-99-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser suppository 125mg/"
+* identifier[mpid].value = "Nurofen-zetpil-Kinderen-125-mg-99-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
@@ -2004,7 +2004,7 @@ Instance: Nurofen-zetpil-Kinderen-60-mg-100-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser suppository 60mg/"
+* identifier[mpid].value = "Nurofen-zetpil-Kinderen-60-mg-100-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
@@ -2024,7 +2024,7 @@ Instance: Nurofen-200-Fastcaps-200-mg-zachte-caps-2-101-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Reckitt Benckiser capsule, soft 200mg/"
+* identifier[mpid].value = "Nurofen-200-Fastcaps-200-mg-zachte-caps-2-101-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
@@ -2044,7 +2044,7 @@ Instance: Ibuprofen-AB-200-mg-filmomh-tabl-24-102-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Aurobindo film-coated tablet 200mg/"
+* identifier[mpid].value = "Ibuprofen-AB-200-mg-filmomh-tabl-24-102-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2064,7 +2064,7 @@ Instance: Ibuprofen-AB-400-mg-filmomh-tabl-24-103-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL ibuprofen  Aurobindo film-coated tablet 400mg/"
+* identifier[mpid].value = "Ibuprofen-AB-400-mg-filmomh-tabl-24-103-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2084,7 +2084,7 @@ Instance: Cholemed-filmomh-tabl-deelb-20-mg-104-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine Amophar film-coated tablet 20mg/"
+* identifier[mpid].value = "Cholemed-filmomh-tabl-deelb-20-mg-104-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2104,7 +2104,7 @@ Instance: simvastatine-AB-filmomh-tabl-20-mg-105-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine Aurobindo film-coated tablet 20mg/"
+* identifier[mpid].value = "simvastatine-AB-filmomh-tabl-20-mg-105-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2124,7 +2124,7 @@ Instance: simvastatine-AB-filmomh-tabl-20-mg-106-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine Aurobindo film-coated tablet 20mg/"
+* identifier[mpid].value = "simvastatine-AB-filmomh-tabl-20-mg-106-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2144,7 +2144,7 @@ Instance: simvastatine-Sandoz-Impexeco-filmomh-tabl-deelb-20-107-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine Impexeco film-coated tablet 20mg/"
+* identifier[mpid].value = "simvastatine-Sandoz-Impexeco-filmomh-tabl-deelb-20-107-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2164,7 +2164,7 @@ Instance: simvastatine-Sandoz-filmomh-tabl-deelb-20-mg-108-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine Sandoz film-coated tablet 20mg/"
+* identifier[mpid].value = "simvastatine-Sandoz-filmomh-tabl-deelb-20-mg-108-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2184,7 +2184,7 @@ Instance: simvastatine-Sandoz-filmomh-tabl-deelb-20-mg-109-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine Sandoz film-coated tablet 20mg/"
+* identifier[mpid].value = "simvastatine-Sandoz-filmomh-tabl-deelb-20-mg-109-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2204,7 +2204,7 @@ Instance: simvastatine-Sandoz-filmomh-tabl-deelb-20-mg-110-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine Sandoz film-coated tablet 20mg/"
+* identifier[mpid].value = "simvastatine-Sandoz-filmomh-tabl-deelb-20-mg-110-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2224,7 +2224,7 @@ Instance: simvastine-EG-filmomh-tabl-deelb-20-mg-111-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine EG film-coated tablet 20mg/"
+* identifier[mpid].value = "simvastine-EG-filmomh-tabl-deelb-20-mg-111-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2244,7 +2244,7 @@ Instance: simvastine-EG-filmomh-tabl-deelb-20-mg-112-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine EG film-coated tablet 20mg/"
+* identifier[mpid].value = "simvastine-EG-filmomh-tabl-deelb-20-mg-112-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2264,7 +2264,7 @@ Instance: simvastine-EG-filmomh-tabl-deelb-20-mg-113-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine EG film-coated tablet 20mg/"
+* identifier[mpid].value = "simvastine-EG-filmomh-tabl-deelb-20-mg-113-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2284,7 +2284,7 @@ Instance: simvastine-Mylan-filmomh-tabl-deelb-20-mg-114-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine Mylan film-coated tablet 20mg/"
+* identifier[mpid].value = "simvastine-Mylan-filmomh-tabl-deelb-20-mg-114-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2304,7 +2304,7 @@ Instance: simvastine-Mylan-filmomh-tabl-deelb-20-mg-115-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine Mylan film-coated tablet 20mg/"
+* identifier[mpid].value = "simvastine-Mylan-filmomh-tabl-deelb-20-mg-115-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2324,7 +2324,7 @@ Instance: simvastine-Mylan-filmomh-tabl-deelb-20-mg-116-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine Mylan film-coated tablet 20mg/"
+* identifier[mpid].value = "simvastine-Mylan-filmomh-tabl-deelb-20-mg-116-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2344,7 +2344,7 @@ Instance: simvastine-Teva-filmomh-tabl-deelb-20-mg-117-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine Teva film-coated tablet 20mg/"
+* identifier[mpid].value = "simvastine-Teva-filmomh-tabl-deelb-20-mg-117-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2364,7 +2364,7 @@ Instance: simvastine-Teva-filmomh-tabl-deelb-20-mg-118-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine Teva film-coated tablet 20mg/"
+* identifier[mpid].value = "simvastine-Teva-filmomh-tabl-deelb-20-mg-118-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2384,7 +2384,7 @@ Instance: Zocor-filmomh-tabl-20-mg-119-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine Organon film-coated tablet 20mg/"
+* identifier[mpid].value = "Zocor-filmomh-tabl-20-mg-119-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2404,7 +2404,7 @@ Instance: Cholemed-filmomh-tabl-deelb-40-mg-120-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine Amophar film-coated tablet 40mg/"
+* identifier[mpid].value = "Cholemed-filmomh-tabl-deelb-40-mg-120-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2424,7 +2424,7 @@ Instance: simvastatine-AB-filmomh-tabl-40-mg-121-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine Aurobindo film-coated tablet 40mg/"
+* identifier[mpid].value = "simvastatine-AB-filmomh-tabl-40-mg-121-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2444,7 +2444,7 @@ Instance: simvastatine-AB-filmomh-tabl-40-mg-122-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine Aurobindo film-coated tablet 40mg/"
+* identifier[mpid].value = "simvastatine-AB-filmomh-tabl-40-mg-122-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2464,7 +2464,7 @@ Instance: simvastatine-Sandoz-Impexeco-filmomh-tabl-deelb-40-123-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine Impexeco film-coated tablet 40mg/"
+* identifier[mpid].value = "simvastatine-Sandoz-Impexeco-filmomh-tabl-deelb-40-123-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2484,7 +2484,7 @@ Instance: simvastatine-Sandoz-filmomh-tabl-deelb-40-mg-124-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine Sandoz film-coated tablet 40mg/"
+* identifier[mpid].value = "simvastatine-Sandoz-filmomh-tabl-deelb-40-mg-124-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2504,7 +2504,7 @@ Instance: simvastatine-Sandoz-filmomh-tabl-deelb-40-mg-125-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine Sandoz film-coated tablet 40mg/"
+* identifier[mpid].value = "simvastatine-Sandoz-filmomh-tabl-deelb-40-mg-125-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2524,7 +2524,7 @@ Instance: simvastatine-Sandoz-filmomh-tabl-deelb-40-mg-126-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine Sandoz film-coated tablet 40mg/"
+* identifier[mpid].value = "simvastatine-Sandoz-filmomh-tabl-deelb-40-mg-126-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2544,7 +2544,7 @@ Instance: simvastine-EG-PIP-filmomh-tabl-deelb-40-mg-127-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine PI-Pharma film-coated tablet 40mg/"
+* identifier[mpid].value = "simvastine-EG-PIP-filmomh-tabl-deelb-40-mg-127-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2564,7 +2564,7 @@ Instance: simvastine-EG-filmomh-tabl-deelb-40-mg-128-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine EG film-coated tablet 40mg/"
+* identifier[mpid].value = "simvastine-EG-filmomh-tabl-deelb-40-mg-128-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2584,7 +2584,7 @@ Instance: simvastine-EG-filmomh-tabl-deelb-40-mg-129-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine EG film-coated tablet 40mg/"
+* identifier[mpid].value = "simvastine-EG-filmomh-tabl-deelb-40-mg-129-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2604,7 +2604,7 @@ Instance: simvastine-EG-filmomh-tabl-deelb-40-mg-130-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine EG film-coated tablet 40mg/"
+* identifier[mpid].value = "simvastine-EG-filmomh-tabl-deelb-40-mg-130-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2624,7 +2624,7 @@ Instance: simvastine-Mylan-filmomh-tabl-deelb-40-mg-131-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine Mylan film-coated tablet 40mg/"
+* identifier[mpid].value = "simvastine-Mylan-filmomh-tabl-deelb-40-mg-131-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2644,7 +2644,7 @@ Instance: simvastine-Mylan-filmomh-tabl-deelb-40-mg-132-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine Mylan film-coated tablet 40mg/"
+* identifier[mpid].value = "simvastine-Mylan-filmomh-tabl-deelb-40-mg-132-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2664,7 +2664,7 @@ Instance: simvastine-Mylan-filmomh-tabl-deelb-40-mg-133-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine Mylan film-coated tablet 40mg/"
+* identifier[mpid].value = "simvastine-Mylan-filmomh-tabl-deelb-40-mg-133-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2684,7 +2684,7 @@ Instance: simvastine-Teva-filmomh-tabl-deelb-40-mg-134-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine Teva film-coated tablet 40mg/"
+* identifier[mpid].value = "simvastine-Teva-filmomh-tabl-deelb-40-mg-134-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2704,7 +2704,7 @@ Instance: simvastine-Teva-filmomh-tabl-deelb-40-mg-135-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine Teva film-coated tablet 40mg/"
+* identifier[mpid].value = "simvastine-Teva-filmomh-tabl-deelb-40-mg-135-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2724,7 +2724,7 @@ Instance: Zocor-filmomh-tabl-40-mg-136-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine Organon film-coated tablet 40mg/"
+* identifier[mpid].value = "Zocor-filmomh-tabl-40-mg-136-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2744,7 +2744,7 @@ Instance: simvastatine-Sandoz-filmomh-tabl-deelb-80-mg-137-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine Sandoz film-coated tablet 80mg/"
+* identifier[mpid].value = "simvastatine-Sandoz-filmomh-tabl-deelb-80-mg-137-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2764,7 +2764,7 @@ Instance: simvastine-Teva-filmomh-tabl-deelb-80-mg-138-BEL-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "BEL simvastatine Teva film-coated tablet 80mg/"
+* identifier[mpid].value = "simvastine-Teva-filmomh-tabl-deelb-80-mg-138-BEL-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -2784,7 +2784,7 @@ Instance: NORVALET-CAPS-5MG-CAP-139-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate INNOVIS HEALTH A.E. capsule, hard 5mg/"
+* identifier[mpid].value = "NORVALET-CAPS-5MG-CAP-139-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -2804,7 +2804,7 @@ Instance: NORVALET-CAPS-10MG-CAP-140-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate INNOVIS HEALTH A.E. capsule, hard 10mg/"
+* identifier[mpid].value = "NORVALET-CAPS-10MG-CAP-140-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -2824,7 +2824,7 @@ Instance: FLODIL-CAPS-5MG-CAP-141-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate ΜΙΝΕΡΒΑ ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. capsule, hard 5mg/"
+* identifier[mpid].value = "FLODIL-CAPS-5MG-CAP-141-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -2844,7 +2844,7 @@ Instance: FLODIL-CAPS-10MG-CAP-142-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate ΜΙΝΕΡΒΑ ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. capsule, hard 10mg/"
+* identifier[mpid].value = "FLODIL-CAPS-10MG-CAP-142-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -2864,7 +2864,7 @@ Instance: AMLODIN-CAPS-5MG-CAP-143-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate BENNETT ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. capsule, hard 5mg/"
+* identifier[mpid].value = "AMLODIN-CAPS-5MG-CAP-143-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -2884,7 +2884,7 @@ Instance: AMLODIN-CAPS-10MG-CAP-144-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate BENNETT ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. capsule, hard 10mg/"
+* identifier[mpid].value = "AMLODIN-CAPS-10MG-CAP-144-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -2904,7 +2904,7 @@ Instance: AMLIBON-TAB-5MG-TAB-145-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate SANDOZ GMBH, KUNDL, AUSTRIA tablet 5mg/"
+* identifier[mpid].value = "AMLIBON-TAB-5MG-TAB-145-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -2924,7 +2924,7 @@ Instance: AMLIBON-TAB-10MG-TAB-146-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate SANDOZ GMBH, KUNDL, AUSTRIA tablet 10mg/"
+* identifier[mpid].value = "AMLIBON-TAB-10MG-TAB-146-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -2944,7 +2944,7 @@ Instance: AMODIPAN-CAPS-10MG-CAP-147-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate SANTA PHARMA A,E, capsule, hard 10mg/"
+* identifier[mpid].value = "AMODIPAN-CAPS-10MG-CAP-147-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -2964,7 +2964,7 @@ Instance: AMODIPAN-CAPS-5MG-CAP-148-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate SANTA PHARMA A,E, capsule, hard 5mg/"
+* identifier[mpid].value = "AMODIPAN-CAPS-5MG-CAP-148-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -2984,7 +2984,7 @@ Instance: PIDOLEN-GENOSEMO-CAPS-5MG-CAP-149-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate ΦΑΡΜΕΞ Α.Ε. capsule, hard 5mg/"
+* identifier[mpid].value = "PIDOLEN-GENOSEMO-CAPS-5MG-CAP-149-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3004,7 +3004,7 @@ Instance: PIDOLEN-GENOSEMO-CAPS-10MG-CAP-150-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate ΦΑΡΜΕΞ Α.Ε. capsule, hard 10mg/"
+* identifier[mpid].value = "PIDOLEN-GENOSEMO-CAPS-10MG-CAP-150-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3024,7 +3024,7 @@ Instance: AGGOVASK-CAPS-5MG-CAP-151-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate PROTON PHARMA ΑΝΩΝΥΜΗ ΦΑΡΜΑΚΕΥΤΙΚΗ ΕΤΑΙΡΕΙΑ capsule, hard 5mg/"
+* identifier[mpid].value = "AGGOVASK-CAPS-5MG-CAP-151-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3044,7 +3044,7 @@ Instance: AGGOVASK-CAPS-10MG-CAP-BTx14-152-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate PROTON PHARMA ΑΝΩΝΥΜΗ ΦΑΡΜΑΚΕΥΤΙΚΗ ΕΤΑΙΡΕΙΑ capsule, hard 10mg/"
+* identifier[mpid].value = "AGGOVASK-CAPS-10MG-CAP-BTx14-152-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3064,7 +3064,7 @@ Instance: LODIPIN-CAPS-5MG-CAP-153-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate IASIS PHARMA capsule, hard 5mg/"
+* identifier[mpid].value = "LODIPIN-CAPS-5MG-CAP-153-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3084,7 +3084,7 @@ Instance: LODIPIN-CAPS-10MG-CAP-154-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate IASIS PHARMA capsule, hard 10mg/"
+* identifier[mpid].value = "LODIPIN-CAPS-10MG-CAP-154-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3104,7 +3104,7 @@ Instance: LODIPIN-CAPS-10MG-CAP-155-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate IASIS PHARMA capsule, hard 10mg/"
+* identifier[mpid].value = "LODIPIN-CAPS-10MG-CAP-155-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3124,7 +3124,7 @@ Instance: NORMODIN-TAB-5MG-TAB-156-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate GENEPHARM AE tablet 5mg/"
+* identifier[mpid].value = "NORMODIN-TAB-5MG-TAB-156-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -3144,7 +3144,7 @@ Instance: NORMODIN-TAB-10MG-TAB-157-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate GENEPHARM AE tablet 10mg/"
+* identifier[mpid].value = "NORMODIN-TAB-10MG-TAB-157-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -3164,7 +3164,7 @@ Instance: AMLIBON-BES-TAB-5MG-TAB-158-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate SANDOZ GMBH, KUNDL, AUSTRIA tablet 5mg/"
+* identifier[mpid].value = "AMLIBON-BES-TAB-5MG-TAB-158-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -3184,7 +3184,7 @@ Instance: AMLIBON-BES-TAB-10MG-TAB-159-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate SANDOZ GMBH, KUNDL, AUSTRIA tablet 10mg/"
+* identifier[mpid].value = "AMLIBON-BES-TAB-10MG-TAB-159-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -3204,7 +3204,7 @@ Instance: BARUDEN-CAPS-10MG-CAP-160-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate ΑΝΦΑΡΜ ΕΛΛΑΣ Α.Ε. capsule, hard 10mg/"
+* identifier[mpid].value = "BARUDEN-CAPS-10MG-CAP-160-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3224,7 +3224,7 @@ Instance: BARUDEN-CAPS-10MG-CAP-161-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate ΑΝΦΑΡΜ ΕΛΛΑΣ Α.Ε. capsule, hard 10mg/"
+* identifier[mpid].value = "BARUDEN-CAPS-10MG-CAP-161-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3244,7 +3244,7 @@ Instance: NORDEX-MEDICAL-PHARMAQUALITY-TAB-162-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate MEDICAL PHARMAQUALITY AE tablet 5mg/"
+* identifier[mpid].value = "NORDEX-MEDICAL-PHARMAQUALITY-TAB-162-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -3264,7 +3264,7 @@ Instance: NORDEX-MEDICAL-PHARMAQUALITY-TAB-163-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate MEDICAL PHARMAQUALITY AE tablet 10mg/"
+* identifier[mpid].value = "NORDEX-MEDICAL-PHARMAQUALITY-TAB-163-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -3284,7 +3284,7 @@ Instance: AMLORETIN-CAPS-10MG-CAP-164-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate NATURALIA A.E. capsule, hard 10mg/"
+* identifier[mpid].value = "AMLORETIN-CAPS-10MG-CAP-164-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3304,7 +3304,7 @@ Instance: AMLORETIN-CAPS-5MG-CAP-165-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate NATURALIA A.E. capsule, hard 5mg/"
+* identifier[mpid].value = "AMLORETIN-CAPS-5MG-CAP-165-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3324,7 +3324,7 @@ Instance: NORVASC-CAPS-5MG-CAP-166-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate UPJOHN HELLAS Ε.Π.Ε. capsule, hard 5mg/"
+* identifier[mpid].value = "NORVASC-CAPS-5MG-CAP-166-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3344,7 +3344,7 @@ Instance: NORVASC-CAPS-10MG-CAP-167-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate UPJOHN HELLAS Ε.Π.Ε. capsule, hard 10mg/"
+* identifier[mpid].value = "NORVASC-CAPS-10MG-CAP-167-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3364,7 +3364,7 @@ Instance: ALDOSION-CAPS-5MG-CAP-168-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate ALAPIS ABEE capsule, hard 5mg/"
+* identifier[mpid].value = "ALDOSION-CAPS-5MG-CAP-168-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3384,7 +3384,7 @@ Instance: ALDOSION-CAPS-10MG-CAP-169-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate ALAPIS ABEE capsule, hard 10mg/"
+* identifier[mpid].value = "ALDOSION-CAPS-10MG-CAP-169-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3404,7 +3404,7 @@ Instance: AMLODIPINE-MALEATE-GENERICS-TAB-170-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine maleate GENERICS PHARMA HELLAS ΕΠΕ tablet 5mg/"
+* identifier[mpid].value = "AMLODIPINE-MALEATE-GENERICS-TAB-170-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -3424,7 +3424,7 @@ Instance: amlodipine-maleate-GENERICS-TAB-5MG-TAB-171-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine maleate GENERICS PHARMA HELLAS ΕΠΕ tablet 5mg/"
+* identifier[mpid].value = "amlodipine-maleate-GENERICS-TAB-5MG-TAB-171-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -3444,7 +3444,7 @@ Instance: amlodipine-maleate-GENERICS-TAB-10MG-TAB-172-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine maleate GENERICS PHARMA HELLAS ΕΠΕ tablet 10mg/"
+* identifier[mpid].value = "amlodipine-maleate-GENERICS-TAB-10MG-TAB-172-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -3464,7 +3464,7 @@ Instance: amlodipine-maleate-GENERICS-TAB-10MG-TAB-173-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine maleate GENERICS PHARMA HELLAS ΕΠΕ tablet 10mg/"
+* identifier[mpid].value = "amlodipine-maleate-GENERICS-TAB-10MG-TAB-173-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -3484,7 +3484,7 @@ Instance: EVANGIO-CAPS-5MG-CAP-174-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate RAFARM A.E.B.E. capsule, hard 5mg/"
+* identifier[mpid].value = "EVANGIO-CAPS-5MG-CAP-174-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3504,7 +3504,7 @@ Instance: AMLOPRESS-CAPS-5MG-CAP-175-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate FOS ΦΑΡΜΑΚΕΥΤΙΚΗ ΙΚΕ capsule, hard 5mg/"
+* identifier[mpid].value = "AMLOPRESS-CAPS-5MG-CAP-175-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3524,7 +3524,7 @@ Instance: AMLOPRESS-CAPS-10-MG-CAP-176-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate FOS ΦΑΡΜΑΚΕΥΤΙΚΗ ΙΚΕ capsule, hard 10 mg/"
+* identifier[mpid].value = "AMLOPRESS-CAPS-10-MG-CAP-176-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3544,7 +3544,7 @@ Instance: AMLODIL-CAPS-10MG-CAP-177-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate GAP A.E. capsule, hard 10mg/"
+* identifier[mpid].value = "AMLODIL-CAPS-10MG-CAP-177-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3564,7 +3564,7 @@ Instance: NORFAN-CAPS-5MG-CAP-178-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate VOCATE ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. capsule, hard 5mg/"
+* identifier[mpid].value = "NORFAN-CAPS-5MG-CAP-178-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3584,7 +3584,7 @@ Instance: NORFAN-CAPS-5MG-CAP-179-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate VOCATE ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. capsule, hard 5mg/"
+* identifier[mpid].value = "NORFAN-CAPS-5MG-CAP-179-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3604,7 +3604,7 @@ Instance: NORFAN-CAPS-10MG-CAP-180-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate VOCATE ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. capsule, hard 10mg/"
+* identifier[mpid].value = "NORFAN-CAPS-10MG-CAP-180-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3624,7 +3624,7 @@ Instance: AXYPLOT-CAPS-5MG-CAP-181-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate IAMATICA MON. ΕΠΕ capsule, hard 5mg/"
+* identifier[mpid].value = "AXYPLOT-CAPS-5MG-CAP-181-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3644,7 +3644,7 @@ Instance: AXYPLOT-CAPS-10MG-CAP-182-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate IAMATICA MON. ΕΠΕ capsule, hard 10mg/"
+* identifier[mpid].value = "AXYPLOT-CAPS-10MG-CAP-182-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3664,7 +3664,7 @@ Instance: AMLOSILAT-CAPS-5MG-CAP-183-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate ALPHA GENERICS THERAPY  ΑΕΒΕΦ capsule, hard 5mg/"
+* identifier[mpid].value = "AMLOSILAT-CAPS-5MG-CAP-183-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3684,7 +3684,7 @@ Instance: AMLOSILAT-CAPS-5MG-CAP-184-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate ALPHA GENERICS THERAPY  ΑΕΒΕΦ capsule, hard 5mg/"
+* identifier[mpid].value = "AMLOSILAT-CAPS-5MG-CAP-184-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3704,7 +3704,7 @@ Instance: AMLOSILAT-CAPS-10-MG-CAP-185-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate ALPHA GENERICS THERAPY  ΑΕΒΕΦ capsule, hard 10 mg/"
+* identifier[mpid].value = "AMLOSILAT-CAPS-10-MG-CAP-185-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3724,7 +3724,7 @@ Instance: DAFOR-CAPS-5MG-CAP-186-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate ΠΝΓ ΓΕΡΟΛΥΜΑΤΟΣ ΜΕΝΤΙΚΑΛ Α.Ε. capsule, hard 5mg/"
+* identifier[mpid].value = "DAFOR-CAPS-5MG-CAP-186-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3744,7 +3744,7 @@ Instance: DAFOR-CAPS-5MG-CAP-187-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate ΠΝΓ ΓΕΡΟΛΥΜΑΤΟΣ ΜΕΝΤΙΚΑΛ Α.Ε. capsule, hard 5mg/"
+* identifier[mpid].value = "DAFOR-CAPS-5MG-CAP-187-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3764,7 +3764,7 @@ Instance: DAFOR-CAPS-10MG-CAP-188-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate ΠΝΓ ΓΕΡΟΛΥΜΑΤΟΣ ΜΕΝΤΙΚΑΛ Α.Ε. capsule, hard 10mg/"
+* identifier[mpid].value = "DAFOR-CAPS-10MG-CAP-188-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3784,7 +3784,7 @@ Instance: DAFOR-CAPS-10MG-CAP-189-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate ΠΝΓ ΓΕΡΟΛΥΜΑΤΟΣ ΜΕΝΤΙΚΑΛ Α.Ε. capsule, hard 10mg/"
+* identifier[mpid].value = "DAFOR-CAPS-10MG-CAP-189-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3804,7 +3804,7 @@ Instance: VASCODIN-CAPS-5MG-CAP-190-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate HELP ΑΒΕΕ capsule, hard 5mg/"
+* identifier[mpid].value = "VASCODIN-CAPS-5MG-CAP-190-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3824,7 +3824,7 @@ Instance: VASCODIN-CAPS-5MG-CAP-191-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate HELP ΑΒΕΕ capsule, hard 5mg/"
+* identifier[mpid].value = "VASCODIN-CAPS-5MG-CAP-191-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3844,7 +3844,7 @@ Instance: VASCODIN-CAPS-10MG-CAP-192-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate HELP ΑΒΕΕ capsule, hard 10mg/"
+* identifier[mpid].value = "VASCODIN-CAPS-10MG-CAP-192-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3864,7 +3864,7 @@ Instance: VASCODIN-CAPS-10MG-CAP-193-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate HELP ΑΒΕΕ capsule, hard 10mg/"
+* identifier[mpid].value = "VASCODIN-CAPS-10MG-CAP-193-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3884,7 +3884,7 @@ Instance: AMLODIPINE-BESILATE-NORMA-CAPS-5MG-CAP-194-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate ΝΟΡΜΑ ΕΛΛΑΣ Α.Ε. capsule, hard 5mg/"
+* identifier[mpid].value = "AMLODIPINE-BESILATE-NORMA-CAPS-5MG-CAP-194-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3904,7 +3904,7 @@ Instance: AMLODIPINE-BESILATE-NORMA-CAPS-10MG-CAP-195-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate ΝΟΡΜΑ ΕΛΛΑΣ Α.Ε. capsule, hard 10mg/"
+* identifier[mpid].value = "AMLODIPINE-BESILATE-NORMA-CAPS-10MG-CAP-195-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3924,7 +3924,7 @@ Instance: EVANGIO-CAPS-5MG-CAP-196-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate RAFARM A.E.B.E. capsule, hard 5mg/"
+* identifier[mpid].value = "EVANGIO-CAPS-5MG-CAP-196-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3944,7 +3944,7 @@ Instance: EVANGIO-CAPS-10MG-197-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate RAFARM A.E.B.E. capsule, hard 10mg/"
+* identifier[mpid].value = "EVANGIO-CAPS-10MG-197-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3964,7 +3964,7 @@ Instance: EVANGIO-CAPS-10MG-198-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate RAFARM A.E.B.E. capsule, hard 10mg/"
+* identifier[mpid].value = "EVANGIO-CAPS-10MG-198-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -3984,7 +3984,7 @@ Instance: AMLODIPINE-BESILATE-TEVA-TAB-199-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate TEVA PHARMA B.V., Haarlem, THE NETHERLANDS tablet 10mg/"
+* identifier[mpid].value = "AMLODIPINE-BESILATE-TEVA-TAB-199-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -4004,7 +4004,7 @@ Instance: AMLODIPINE-BESILATE-TEVA-TAB-5MG-TAB-200-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate TEVA PHARMA B.V., Haarlem, THE NETHERLANDS tablet 5mg/"
+* identifier[mpid].value = "AMLODIPINE-BESILATE-TEVA-TAB-5MG-TAB-200-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -4024,7 +4024,7 @@ Instance: NOLVAC-TAB-10MG-TAB-201-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine maleate ΦΑΡΜΑΤΕΝ ΕΛΛΑΣ ΑΕΒΕ tablet 10mg/"
+* identifier[mpid].value = "NOLVAC-TAB-10MG-TAB-201-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -4044,7 +4044,7 @@ Instance: NOLVAC-TAB-10MG-TAB-202-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine maleate INNOVIS PHARMA A.E.B.E tablet 10mg/"
+* identifier[mpid].value = "NOLVAC-TAB-10MG-TAB-202-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -4064,7 +4064,7 @@ Instance: ABESYL-CAPS-5MG-CAP-203-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate MEDOCHEMIE HELLAS AE capsule, hard 5mg/"
+* identifier[mpid].value = "ABESYL-CAPS-5MG-CAP-203-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -4084,7 +4084,7 @@ Instance: ABESYL-CAPS-10MG-CAP-204-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate MEDOCHEMIE HELLAS AE capsule, hard 10mg/"
+* identifier[mpid].value = "ABESYL-CAPS-10MG-CAP-204-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -4104,7 +4104,7 @@ Instance: ANGIORETIC-CAPS-5MG-CAP-205-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate MEDARTE ΦΑΡΜΑΚΕΥΤΙΚΗ ΑΒΕΕ capsule, hard 5mg/"
+* identifier[mpid].value = "ANGIORETIC-CAPS-5MG-CAP-205-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -4124,7 +4124,7 @@ Instance: ANGIORETIC-CAPS-10MG-CAP-206-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate MEDARTE ΦΑΡΜΑΚΕΥΤΙΚΗ ΑΒΕΕ capsule, hard 10mg/"
+* identifier[mpid].value = "ANGIORETIC-CAPS-10MG-CAP-206-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -4144,7 +4144,7 @@ Instance: PRECARDIN-CAPS-10MG-CAP-207-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate FARMEDIA AE capsule, hard 10mg/"
+* identifier[mpid].value = "PRECARDIN-CAPS-10MG-CAP-207-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -4164,7 +4164,7 @@ Instance: PRECARDIN-CAPS-10MG-CAP-208-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate FARMEDIA AE capsule, hard 10mg/"
+* identifier[mpid].value = "PRECARDIN-CAPS-10MG-CAP-208-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -4184,7 +4184,7 @@ Instance: AMLODIPINE-MYLAN-GENERICS-TAB-5MG-TAB-209-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate GENERICS PHARMA HELLAS ΕΠΕ tablet 5mg/"
+* identifier[mpid].value = "AMLODIPINE-MYLAN-GENERICS-TAB-5MG-TAB-209-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -4204,7 +4204,7 @@ Instance: AMLODIPINE-MYLAN-GENERICS-TAB-10MG-TAB-210-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate GENERICS PHARMA HELLAS ΕΠΕ tablet 10mg/"
+* identifier[mpid].value = "AMLODIPINE-MYLAN-GENERICS-TAB-10MG-TAB-210-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -4224,7 +4224,7 @@ Instance: ROVOXID-CAPS-5MG-CAP-211-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate BIAN A.E. capsule, hard 5mg/"
+* identifier[mpid].value = "ROVOXID-CAPS-5MG-CAP-211-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -4244,7 +4244,7 @@ Instance: ROVOXID-CAPS-10MG-CAP-212-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate BIAN A.E. capsule, hard 10mg/"
+* identifier[mpid].value = "ROVOXID-CAPS-10MG-CAP-212-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -4264,7 +4264,7 @@ Instance: RAMLET-CAPS-5MG-CAP-213-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate RAFARM A.E.B.E. capsule, hard 5mg/"
+* identifier[mpid].value = "RAMLET-CAPS-5MG-CAP-213-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -4284,7 +4284,7 @@ Instance: RAMLET-CAPS-10MG-CAP-214-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate RAFARM A.E.B.E. capsule, hard 10mg/"
+* identifier[mpid].value = "RAMLET-CAPS-10MG-CAP-214-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -4304,7 +4304,7 @@ Instance: RAMLET-CAPS-10MG-CAP-215-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate RAFARM A.E.B.E. capsule, hard 10mg/"
+* identifier[mpid].value = "RAMLET-CAPS-10MG-CAP-215-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -4324,7 +4324,7 @@ Instance: NORVAGEN-TAB-10MG-TAB-218-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate STARGEN Ε.Π.Ε. tablet 10mg/"
+* identifier[mpid].value = "NORVAGEN-TAB-10MG-TAB-218-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -4344,7 +4344,7 @@ Instance: AMILOPID-CAPS-5MG-CAP-219-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate ΒΙΑΝΕΞ Α.Ε. capsule, hard 5mg/"
+* identifier[mpid].value = "AMILOPID-CAPS-5MG-CAP-219-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -4364,7 +4364,7 @@ Instance: AMILOPID-CAPS-10MG-CAP-220-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate ΒΙΑΝΕΞ Α.Ε. capsule, hard 10mg/"
+* identifier[mpid].value = "AMILOPID-CAPS-10MG-CAP-220-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -4384,7 +4384,7 @@ Instance: AMLOPEN-CAPS-5MG-CAP-221-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate ELPEN AE ΦΑΡΜΑΚΕΥΤΙΚΗ ΒΙΟΜΗΧΑΝΙΑ capsule, hard 5mg/5mL"
+* identifier[mpid].value = "AMLOPEN-CAPS-5MG-CAP-221-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -4404,7 +4404,7 @@ Instance: AMLOPEN-CAPS-10MG-CAP-222-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate ELPEN AE ΦΑΡΜΑΚΕΥΤΙΚΗ ΒΙΟΜΗΧΑΝΙΑ capsule, hard 10mg/"
+* identifier[mpid].value = "AMLOPEN-CAPS-10MG-CAP-222-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -4424,7 +4424,7 @@ Instance: AMLORETIN-CAPS-5MG-CAP-223-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate NATURALIA A.E. capsule, hard 5mg/"
+* identifier[mpid].value = "AMLORETIN-CAPS-5MG-CAP-223-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -4444,7 +4444,7 @@ Instance: AMLORETIN-CAPS-10MG-CAP-224-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate NATURALIA A.E. capsule, hard 10mg/5mL"
+* identifier[mpid].value = "AMLORETIN-CAPS-10MG-CAP-224-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
@@ -4464,7 +4464,7 @@ Instance: NORMODIN-TAB-5MG-TAB-225-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate GENEPHARM AE tablet 5mg/"
+* identifier[mpid].value = "NORMODIN-TAB-5MG-TAB-225-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -4484,7 +4484,7 @@ Instance: NORMODIN-TAB-10MG-TAB-226-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC amlodipine besilate GENEPHARM AE tablet 10mg/"
+* identifier[mpid].value = "NORMODIN-TAB-10MG-TAB-226-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -4504,7 +4504,7 @@ Instance: TEGRETOL-TAB-200MG-TAB-227-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC carbamazepine NOVARTIS (HELLAS) A.E.B.E. tablet 200mg/"
+* identifier[mpid].value = "TEGRETOL-TAB-200MG-TAB-227-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
@@ -4524,7 +4524,7 @@ Instance: TEGRETOL-SYR-100MG-5ML-228-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC carbamazepine NOVARTIS (HELLAS) A.E.B.E. syrup 100mg/5mL"
+* identifier[mpid].value = "TEGRETOL-SYR-100MG-5ML-228-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Syrup"
@@ -4544,7 +4544,7 @@ Instance: TEGRETOL-CO-R-F-C-T-200MG-TAB-229-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC carbamazepine NOVARTIS (HELLAS) A.E.B.E. prolonged-release tablet 200mg/"
+* identifier[mpid].value = "TEGRETOL-CO-R-F-C-T-200MG-TAB-229-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
@@ -4564,7 +4564,7 @@ Instance: TEGRETOL-CO-R-F-C-T-400MG-TAB-230-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC carbamazepine NOVARTIS (HELLAS) A.E.B.E. prolonged-release tablet 400mg/"
+* identifier[mpid].value = "TEGRETOL-CO-R-F-C-T-400MG-TAB-230-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
@@ -4584,7 +4584,7 @@ Instance: NUROFEN-FOR-CHILDREN-oral-SUSP-100MG-5ML-231-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC ibuprofen RB HEALTHCARE HELLAS A.E. oral suspension 100mg/5mL"
+* identifier[mpid].value = "NUROFEN-FOR-CHILDREN-oral-SUSP-100MG-5ML-231-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
@@ -4604,7 +4604,7 @@ Instance: BRUFEN-F-C-TAB-600MG-TAB-232-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC ibuprofen BGP ΠΡΟΪΟΝΤΑ Μ.Ε.Π.Ε. film-coated tablet 600mg/"
+* identifier[mpid].value = "BRUFEN-F-C-TAB-600MG-TAB-232-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -4624,7 +4624,7 @@ Instance: BRUFEN-C-TAB-200MG-TAB-233-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC ibuprofen BGP ΠΡΟΪΟΝΤΑ Μ.Ε.Π.Ε. coated tablet 200mg/"
+* identifier[mpid].value = "BRUFEN-C-TAB-200MG-TAB-233-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
@@ -4644,7 +4644,7 @@ Instance: BRUFEN-C-TAB-400MG-TAB-234-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC ibuprofen BGP ΠΡΟΪΟΝΤΑ Μ.Ε.Π.Ε. coated tablet 400mg/"
+* identifier[mpid].value = "BRUFEN-C-TAB-400MG-TAB-234-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
@@ -4664,7 +4664,7 @@ Instance: ADVIL-C-TAB-200MG-TAB-235-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC ibuprofen PFIZER ΕΛΛΑΣ Α.Ε. coated tablet 200mg/"
+* identifier[mpid].value = "ADVIL-C-TAB-200MG-TAB-235-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
@@ -4684,7 +4684,7 @@ Instance: NUROFEN-C-TAB-200MG-TAB-236-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC ibuprofen ΡΕΚΙΤ ΜΠΕΝΚΙΖΕΡ ΕΛΛΑΣ ΧΗΜΙΚΑ ΑΒΕΕ coated tablet 200mg/"
+* identifier[mpid].value = "NUROFEN-C-TAB-200MG-TAB-236-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
@@ -4704,7 +4704,7 @@ Instance: NUROFEN-SOFT-CAPS-200MG-CAP-237-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC ibuprofen ΡΕΚΙΤ ΜΠΕΝΚΙΖΕΡ ΕΛΛΑΣ ΧΗΜΙΚΑ ΑΒΕΕ capsule, soft 200mg/"
+* identifier[mpid].value = "NUROFEN-SOFT-CAPS-200MG-CAP-237-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
@@ -4724,7 +4724,7 @@ Instance: ALGOFREN-SYR-100MG-5ML-238-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC ibuprofen INTERMED ABEE syrup 20mg/1mL"
+* identifier[mpid].value = "ALGOFREN-SYR-100MG-5ML-238-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Syrup"
@@ -4744,7 +4744,7 @@ Instance: ALGOFREN-SUPP-500MG-SUP-239-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC ibuprofen INTERMED ABEE suppository 500mg/"
+* identifier[mpid].value = "ALGOFREN-SUPP-500MG-SUP-239-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
@@ -4764,7 +4764,7 @@ Instance: ALGOFREN-F-C-TAB-200MG-TAB-240-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC ibuprofen INTERMED ABEE film-coated tablet 200mg/"
+* identifier[mpid].value = "ALGOFREN-F-C-TAB-200MG-TAB-240-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -4784,7 +4784,7 @@ Instance: ALGOFREN-F-C-TAB-400MG-TAB-241-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC ibuprofen INTERMED ABEE film-coated tablet 400mg/"
+* identifier[mpid].value = "ALGOFREN-F-C-TAB-400MG-TAB-241-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -4804,7 +4804,7 @@ Instance: ALGOFREN-F-C-TAB-600MG-TAB-242-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC ibuprofen INTERMED ABEE film-coated tablet 600mg/"
+* identifier[mpid].value = "ALGOFREN-F-C-TAB-600MG-TAB-242-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -4824,7 +4824,7 @@ Instance: PEDEA-SOL-IV-INF-10MG-2ML-243-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC ibuprofen sodium ΙΦΕΤ ΑΕ solution for infusion 10mg/2mL"
+* identifier[mpid].value = "PEDEA-SOL-IV-INF-10MG-2ML-243-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solution for infusion"
@@ -4844,7 +4844,7 @@ Instance: NEOPROFEN-SOL-IV-INF-10MG-ML-244-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC ibuprofen lysine ΙΦΕΤ ΑΕ solution for infusion 20mg/2mL"
+* identifier[mpid].value = "NEOPROFEN-SOL-IV-INF-10MG-ML-244-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solution for infusion"
@@ -4864,7 +4864,7 @@ Instance: LIPOMIN-MEDICAL-PHARMAQUALITY-F-C-TAB-20MG-TAB-245-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin MEDICAL PHARMAQUALITY AE film-coated tablet 20mg/"
+* identifier[mpid].value = "LIPOMIN-MEDICAL-PHARMAQUALITY-F-C-TAB-20MG-TAB-245-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -4884,7 +4884,7 @@ Instance: LIPOMIN-MEDICAL-PHARMAQUALITY-F-C-TAB-40MG-TAB-246-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin MEDICAL PHARMAQUALITY AE film-coated tablet 40mg/"
+* identifier[mpid].value = "LIPOMIN-MEDICAL-PHARMAQUALITY-F-C-TAB-40MG-TAB-246-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -4904,7 +4904,7 @@ Instance: STATINUM-MEDICHROM-F-C-TAB-20MG-TAB-247-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin MEDICHROM A.E. film-coated tablet 20mg/"
+* identifier[mpid].value = "STATINUM-MEDICHROM-F-C-TAB-20MG-TAB-247-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -4924,7 +4924,7 @@ Instance: STATINUM-MEDICHROM-F-C-TAB-40MG-TAB-248-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin MEDICHROM A.E. film-coated tablet 40mg/"
+* identifier[mpid].value = "STATINUM-MEDICHROM-F-C-TAB-40MG-TAB-248-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -4944,7 +4944,7 @@ Instance: VERISTIN-F-C-TAB-40MG-TAB-249-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin VIOFAR ΕΠΕ film-coated tablet 40mg/"
+* identifier[mpid].value = "VERISTIN-F-C-TAB-40MG-TAB-249-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -4964,7 +4964,7 @@ Instance: STAZOR-F-C-TAB-20MG-TAB-250-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΑΔΗΦΑΡΜ Μ.Ε.Π.Ε. film-coated tablet 20mg/"
+* identifier[mpid].value = "STAZOR-F-C-TAB-20MG-TAB-250-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -4984,7 +4984,7 @@ Instance: STAZOR-F-C-TAB-40MG-TAB-251-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΑΔΗΦΑΡΜ Μ.Ε.Π.Ε. film-coated tablet 40mg/"
+* identifier[mpid].value = "STAZOR-F-C-TAB-40MG-TAB-251-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5004,7 +5004,7 @@ Instance: GLIPAL-F-C-TAB-40MG-TAB-252-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin IASIS PHARMA film-coated tablet 40mg/"
+* identifier[mpid].value = "GLIPAL-F-C-TAB-40MG-TAB-252-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5024,7 +5024,7 @@ Instance: SIMVAPROL-F-C-TAB-40MG-TAB-253-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin NOVENDIA PHARMACEUTICALS ΕΠΕ film-coated tablet 40mg/"
+* identifier[mpid].value = "SIMVAPROL-F-C-TAB-40MG-TAB-253-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5044,7 +5044,7 @@ Instance: SIMVAPROL-F-C-TAB-40MG-TAB-254-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin NOVENDIA PHARMACEUTICALS ΕΠΕ film-coated tablet 40mg/"
+* identifier[mpid].value = "SIMVAPROL-F-C-TAB-40MG-TAB-254-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5064,7 +5064,7 @@ Instance: SIMVALID-F-C-TAB-20MG-TAB-255-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin VIVAX PHARMACEUTICALS LTD, GREECE film-coated tablet 20mg/"
+* identifier[mpid].value = "SIMVALID-F-C-TAB-20MG-TAB-255-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5084,7 +5084,7 @@ Instance: LIPOMIN-MEDICAL-PHARMAQUALITY-F-C-TAB-20MG-TAB-256-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin MEDICAL PHARMAQUALITY AE film-coated tablet 20mg/"
+* identifier[mpid].value = "LIPOMIN-MEDICAL-PHARMAQUALITY-F-C-TAB-20MG-TAB-256-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5104,7 +5104,7 @@ Instance: LIPOMIN-MEDICAL-PHARMAQUALITY-F-C-TAB-40MG-TAB-257-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin MEDICAL PHARMAQUALITY AE film-coated tablet 40mg/"
+* identifier[mpid].value = "LIPOMIN-MEDICAL-PHARMAQUALITY-F-C-TAB-40MG-TAB-257-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5124,7 +5124,7 @@ Instance: LOWCHOLID-F-C-TAB-10MG-TAB-258-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin PLUS ΦΑΡΜΑΚΕΥΤΙΚΗ ΑΕ film-coated tablet 10mg/"
+* identifier[mpid].value = "LOWCHOLID-F-C-TAB-10MG-TAB-258-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5144,7 +5144,7 @@ Instance: SIMVATIN-F-C-TAB-40MG-TAB-259-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin BIOSPRAY ABEE film-coated tablet 40mg/"
+* identifier[mpid].value = "SIMVATIN-F-C-TAB-40MG-TAB-259-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5164,7 +5164,7 @@ Instance: SIMVATIN-F-C-TAB-40MG-TAB-260-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin D.A.S.T. BIOTECH PHARM ΕΠΕ film-coated tablet 40mg/"
+* identifier[mpid].value = "SIMVATIN-F-C-TAB-40MG-TAB-260-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5184,7 +5184,7 @@ Instance: SIMVATIN-F-C-TAB-40MG-TAB-261-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin BIOSPRAY ABEE film-coated tablet 40mg/"
+* identifier[mpid].value = "SIMVATIN-F-C-TAB-40MG-TAB-261-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5204,7 +5204,7 @@ Instance: SIVINAR-F-C-TAB-20MG-TAB-262-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΑΝΦΑΡΜ ΕΛΛΑΣ Α.Ε. film-coated tablet 20mg/"
+* identifier[mpid].value = "SIVINAR-F-C-TAB-20MG-TAB-262-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5224,7 +5224,7 @@ Instance: SIVINAR-F-C-TAB-40MG-TAB-263-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΑΝΦΑΡΜ ΕΛΛΑΣ Α.Ε. film-coated tablet 40mg/"
+* identifier[mpid].value = "SIVINAR-F-C-TAB-40MG-TAB-263-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5244,7 +5244,7 @@ Instance: REDUSTEROL-F-C-TAB-20MG-TAB-264-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΦΟΙΝΙΞΦΑΡΜ ΕΠΕ film-coated tablet 20mg/"
+* identifier[mpid].value = "REDUSTEROL-F-C-TAB-20MG-TAB-264-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5264,7 +5264,7 @@ Instance: REDUSTEROL-F-C-TAB-40MG-TAB-265-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΦΟΙΝΙΞΦΑΡΜ ΕΠΕ film-coated tablet 40mg/"
+* identifier[mpid].value = "REDUSTEROL-F-C-TAB-40MG-TAB-265-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5284,7 +5284,7 @@ Instance: LIPEXAL-F-C-TAB-40MG-TAB-266-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin INNOVIS PHARMA A.E.B.E film-coated tablet 40mg/"
+* identifier[mpid].value = "LIPEXAL-F-C-TAB-40MG-TAB-266-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5304,7 +5304,7 @@ Instance: LIPOREX-F-C-TAB-20MG-TAB-267-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin GENEPHARM AE film-coated tablet 20mg/"
+* identifier[mpid].value = "LIPOREX-F-C-TAB-20MG-TAB-267-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5324,7 +5324,7 @@ Instance: SIMVACOR-F-C-TAB-20MG-TAB-268-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΚΛΕΒΑ ΑΦΒΕΕ film-coated tablet 20mg/"
+* identifier[mpid].value = "SIMVACOR-F-C-TAB-20MG-TAB-268-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5344,7 +5344,7 @@ Instance: SIMVACOR-F-C-TAB-40MG-TAB-269-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΚΛΕΒΑ ΑΦΒΕΕ film-coated tablet 40mg/"
+* identifier[mpid].value = "SIMVACOR-F-C-TAB-40MG-TAB-269-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5364,7 +5364,7 @@ Instance: PRAVOSTIN-F-C-TAB-20MG-TAB-270-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΜΙΝΕΡΒΑ ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. film-coated tablet 20mg/"
+* identifier[mpid].value = "PRAVOSTIN-F-C-TAB-20MG-TAB-270-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5384,7 +5384,7 @@ Instance: PRAVOSTIN-F-C-TAB-40MG-TAB-271-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΜΙΝΕΡΒΑ ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. film-coated tablet 40mg/"
+* identifier[mpid].value = "PRAVOSTIN-F-C-TAB-40MG-TAB-271-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5404,7 +5404,7 @@ Instance: EXTRASTATIN-F-C-TAB-20MG-TAB-272-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin S.J.A. PHARM ΕΠΕ film-coated tablet 20mg/"
+* identifier[mpid].value = "EXTRASTATIN-F-C-TAB-20MG-TAB-272-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5424,7 +5424,7 @@ Instance: EXTRASTATIN-F-C-TAB-40MG-TAB-273-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin S.J.A. PHARM ΕΠΕ film-coated tablet 40mg/"
+* identifier[mpid].value = "EXTRASTATIN-F-C-TAB-40MG-TAB-273-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5444,7 +5444,7 @@ Instance: SOTOVASTIN-F-C-TAB-40MG-TAB-274-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin BROS Ε.Π.Ε. film-coated tablet 40mg/"
+* identifier[mpid].value = "SOTOVASTIN-F-C-TAB-40MG-TAB-274-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5464,7 +5464,7 @@ Instance: KYMAZOL-F-C-TAB-20MG-TAB-275-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin RAFARM A.E.B.E. film-coated tablet 20mg/"
+* identifier[mpid].value = "KYMAZOL-F-C-TAB-20MG-TAB-275-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5484,7 +5484,7 @@ Instance: KYMAZOL-F-C-TAB-20MG-TAB-276-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin RAFARM A.E.B.E. film-coated tablet 20mg/"
+* identifier[mpid].value = "KYMAZOL-F-C-TAB-20MG-TAB-276-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5504,7 +5504,7 @@ Instance: KYMAZOL-F-C-TAB-40MG-TAB-277-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin RAFARM A.E.B.E. film-coated tablet 40mg/"
+* identifier[mpid].value = "KYMAZOL-F-C-TAB-40MG-TAB-277-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5524,7 +5524,7 @@ Instance: NORMOTHERIN-F-C-TAB-20MG-TAB-278-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin UNI-PHARMA ΚΛΕΩΝ ΤΣΕΤΗΣ ΦΑΡΜΑΚΕΥΤΙΚΑ ΕΡΓΑΣΤΗΡΙΑ ΑΒΕΕ film-coated tablet 20mg/"
+* identifier[mpid].value = "NORMOTHERIN-F-C-TAB-20MG-TAB-278-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5544,7 +5544,7 @@ Instance: NORMOTHERIN-F-C-TAB-40MG-TAB-279-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin UNI-PHARMA ΚΛΕΩΝ ΤΣΕΤΗΣ ΦΑΡΜΑΚΕΥΤΙΚΑ ΕΡΓΑΣΤΗΡΙΑ ΑΒΕΕ film-coated tablet 40mg/"
+* identifier[mpid].value = "NORMOTHERIN-F-C-TAB-40MG-TAB-279-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5564,7 +5564,7 @@ Instance: LIPOREX-F-C-TAB-20MG-TAB-280-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin GENEPHARM AE film-coated tablet 20mg/"
+* identifier[mpid].value = "LIPOREX-F-C-TAB-20MG-TAB-280-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5584,7 +5584,7 @@ Instance: LIPOREX-F-C-TAB-40MG-TAB-281-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin GENEPHARM AE film-coated tablet 40mg/"
+* identifier[mpid].value = "LIPOREX-F-C-TAB-40MG-TAB-281-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5604,7 +5604,7 @@ Instance: LIPOREX-F-C-TAB-40MG-TAB-282-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin GENEPHARM AE film-coated tablet 40mg/"
+* identifier[mpid].value = "LIPOREX-F-C-TAB-40MG-TAB-282-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5624,7 +5624,7 @@ Instance: STATINAL-C-TAB-20MG-TAB-283-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ALET PHARMACEUTICALS ABEE coated tablet 20mg/"
+* identifier[mpid].value = "STATINAL-C-TAB-20MG-TAB-283-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
@@ -5644,7 +5644,7 @@ Instance: STATINAL-C-TAB-20MG-TAB-284-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin TEVA GMBH, GERMANY coated tablet 20mg/"
+* identifier[mpid].value = "STATINAL-C-TAB-20MG-TAB-284-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
@@ -5664,7 +5664,7 @@ Instance: STATINAL-F-C-TAB-40MG-TAB-285-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin SPECIFAR ABEE film-coated tablet 40mg/"
+* identifier[mpid].value = "STATINAL-F-C-TAB-40MG-TAB-285-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5684,7 +5684,7 @@ Instance: STASIVA-F-C-TAB-20MG-TAB-286-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΦΑΡΜΑΝΕΛ ΦΑΡΜΑΚΕΥΤΙΚΗ Α,Ε, film-coated tablet 20mg/"
+* identifier[mpid].value = "STASIVA-F-C-TAB-20MG-TAB-286-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5704,7 +5704,7 @@ Instance: STASIVA-F-C-TAB-20MG-TAB-287-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΦΑΡΜΑΝΕΛ ΦΑΡΜΑΚΕΥΤΙΚΗ Α,Ε, film-coated tablet 20mg/"
+* identifier[mpid].value = "STASIVA-F-C-TAB-20MG-TAB-287-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5724,7 +5724,7 @@ Instance: STASIVA-F-C-TAB-20MG-TAB-288-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin BIAN A.E. film-coated tablet 20mg/"
+* identifier[mpid].value = "STASIVA-F-C-TAB-20MG-TAB-288-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5744,7 +5744,7 @@ Instance: STASIVA-F-C-TAB-40MG-TAB-289-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin BIAN A.E. film-coated tablet 40mg/"
+* identifier[mpid].value = "STASIVA-F-C-TAB-40MG-TAB-289-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5764,7 +5764,7 @@ Instance: STASIVA-F-C-TAB-40MG-TAB-290-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΦΑΡΜΑΝΕΛ ΦΑΡΜΑΚΕΥΤΙΚΗ Α,Ε, film-coated tablet 40mg/"
+* identifier[mpid].value = "STASIVA-F-C-TAB-40MG-TAB-290-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5784,7 +5784,7 @@ Instance: ZUROCID-F-C-TAB-20MG-TAB-291-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin STARGEN Ε.Π.Ε. film-coated tablet 20mg/"
+* identifier[mpid].value = "ZUROCID-F-C-TAB-20MG-TAB-291-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5804,7 +5804,7 @@ Instance: ZUROCID-F-C-TAB-40MG-TAB-292-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin STARGEN Ε.Π.Ε. film-coated tablet 40mg/"
+* identifier[mpid].value = "ZUROCID-F-C-TAB-40MG-TAB-292-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5824,7 +5824,7 @@ Instance: ZUROCID-F-C-TAB-40MG-TAB-293-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin STARGEN Ε.Π.Ε. film-coated tablet 40mg/"
+* identifier[mpid].value = "ZUROCID-F-C-TAB-40MG-TAB-293-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5844,7 +5844,7 @@ Instance: VASTATIN-F-C-TAB-40MG-TAB-294-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin VOCATE ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. film-coated tablet 40mg/"
+* identifier[mpid].value = "VASTATIN-F-C-TAB-40MG-TAB-294-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5864,7 +5864,7 @@ Instance: GOLDASTATIN-F-C-TAB-40MG-TAB-0--295-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΠΑΝΑΓΙΩΤΗΣ ΛΕΩΝ & ΣΙΑ Ε,Ε, film-coated tablet 40mg/"
+* identifier[mpid].value = "GOLDASTATIN-F-C-TAB-40MG-TAB-0--295-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5884,7 +5884,7 @@ Instance: GOLDASTATIN-F-C-TAB-40MG-TAB-296-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin LINKER PHARMACEUTICALS ΠΑΝΑΓΙΩΤΗΣ ΛΕΩΝ & ΣΙΑ Ε.Ε. film-coated tablet 40mg/"
+* identifier[mpid].value = "GOLDASTATIN-F-C-TAB-40MG-TAB-296-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5904,7 +5904,7 @@ Instance: LEPUR-F-C-TAB-20MG-TAB-297-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ELPEN AE ΦΑΡΜΑΚΕΥΤΙΚΗ ΒΙΟΜΗΧΑΝΙΑ film-coated tablet 20mg/"
+* identifier[mpid].value = "LEPUR-F-C-TAB-20MG-TAB-297-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5924,7 +5924,7 @@ Instance: LEPUR-F-C-TAB-40MG-TAB-298-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ELPEN AE ΦΑΡΜΑΚΕΥΤΙΚΗ ΒΙΟΜΗΧΑΝΙΑ film-coated tablet 40mg/"
+* identifier[mpid].value = "LEPUR-F-C-TAB-40MG-TAB-298-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5944,7 +5944,7 @@ Instance: PRIACIN-F-C-TAB-20MG-TAB-299-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin MEDOCHEMIE HELLAS AE film-coated tablet 20mg/"
+* identifier[mpid].value = "PRIACIN-F-C-TAB-20MG-TAB-299-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5964,7 +5964,7 @@ Instance: NEZATIN-F-C-TAB-40MG-TAB-300-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΓΡΑΜΜΕΝΙΔΗΣ ΑΘΑΝΑΣΙΟΣ ΤΟΥ ΔΗΜΗΤΡΙΟΥ film-coated tablet 40mg/"
+* identifier[mpid].value = "NEZATIN-F-C-TAB-40MG-TAB-300-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -5984,7 +5984,7 @@ Instance: VERISTIN-F-C-TAB-20MG-TAB-301-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin VIOFAR ΕΠΕ film-coated tablet 20mg/"
+* identifier[mpid].value = "VERISTIN-F-C-TAB-20MG-TAB-301-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6004,7 +6004,7 @@ Instance: SIMVASTATIN-TEVA-F-C-TAB-302-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin TEVA PHARMA B.V., Haarlem, THE NETHERLANDS film-coated tablet 10mg/"
+* identifier[mpid].value = "SIMVASTATIN-TEVA-F-C-TAB-302-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6024,7 +6024,7 @@ Instance: SIMVASTATIN-TEVA-F-C-TAB-20MG-TAB-303-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin TEVA PHARMA B.V., Haarlem, THE NETHERLANDS film-coated tablet 20mg/"
+* identifier[mpid].value = "SIMVASTATIN-TEVA-F-C-TAB-20MG-TAB-303-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6044,7 +6044,7 @@ Instance: SIMVASTATIN-TEVA-F-C-TAB-40MG-TAB-304-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin TEVA PHARMA B.V., Haarlem, THE NETHERLANDS film-coated tablet 40mg/"
+* identifier[mpid].value = "SIMVASTATIN-TEVA-F-C-TAB-40MG-TAB-304-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6064,7 +6064,7 @@ Instance: LIPOPRESS-F-C-TAB-20-MG-TAB-305-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin HEREMCO Μ.Ε.Π.Ε. film-coated tablet 20mg/"
+* identifier[mpid].value = "LIPOPRESS-F-C-TAB-20-MG-TAB-305-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6084,7 +6084,7 @@ Instance: LIPOPRESS-F-C-TAB-40-MG-TAB-306-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin HEREMCO Μ.Ε.Π.Ε. film-coated tablet 40mg/"
+* identifier[mpid].value = "LIPOPRESS-F-C-TAB-40-MG-TAB-306-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6104,7 +6104,7 @@ Instance: ANTICHOL-F-C-TAB-20MG-TAB-307-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin HELP ΑΒΕΕ film-coated tablet 20mg/"
+* identifier[mpid].value = "ANTICHOL-F-C-TAB-20MG-TAB-307-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6124,7 +6124,7 @@ Instance: ANTICHOL-F-C-TAB-20MG-TAB-308-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin HELP ΑΒΕΕ film-coated tablet 20mg/"
+* identifier[mpid].value = "ANTICHOL-F-C-TAB-20MG-TAB-308-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6144,7 +6144,7 @@ Instance: ANTICHOL-F-C-TAB-40MG-TAB-309-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin HELP ΑΒΕΕ film-coated tablet 40mg/"
+* identifier[mpid].value = "ANTICHOL-F-C-TAB-40MG-TAB-309-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6164,7 +6164,7 @@ Instance: ANTICHOL-F-C-TAB-40MG-TAB-310-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin HELP ΑΒΕΕ film-coated tablet 40mg/"
+* identifier[mpid].value = "ANTICHOL-F-C-TAB-40MG-TAB-310-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6184,7 +6184,7 @@ Instance: RAPTOR-F-C-TAB-20MG-TAB-311-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin MEDITRINA ΕΠΕ film-coated tablet 20mg/"
+* identifier[mpid].value = "RAPTOR-F-C-TAB-20MG-TAB-311-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6204,7 +6204,7 @@ Instance: RAPTOR-F-C-TAB-40MG-TAB-312-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin MEDITRINA ΕΠΕ film-coated tablet 40mg/"
+* identifier[mpid].value = "RAPTOR-F-C-TAB-40MG-TAB-312-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6224,7 +6224,7 @@ Instance: MEDISTATIN-RALDEX-F-C-TAB-40MG-TAB-313-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin MEDICHROM A.E. film-coated tablet 40mg/"
+* identifier[mpid].value = "MEDISTATIN-RALDEX-F-C-TAB-40MG-TAB-313-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6244,7 +6244,7 @@ Instance: LIPOZID-F-C-TAB-40MG-TAB-314-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin INNOVACT A.E. film-coated tablet 40mg/"
+* identifier[mpid].value = "LIPOZID-F-C-TAB-40MG-TAB-314-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6264,7 +6264,7 @@ Instance: VELKASTATIN-F-C-TAB-20MG-TAB-315-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΒΕΛΚΑ ΕΛΛΑΣ ΑΕΒΕ film-coated tablet 20mg/"
+* identifier[mpid].value = "VELKASTATIN-F-C-TAB-20MG-TAB-315-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6284,7 +6284,7 @@ Instance: VELKASTATIN-F-C-TAB-40MG-TAB-316-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΒΕΛΚΑ ΕΛΛΑΣ ΑΕΒΕ film-coated tablet 40mg/"
+* identifier[mpid].value = "VELKASTATIN-F-C-TAB-40MG-TAB-316-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6304,7 +6304,7 @@ Instance: BEVOSTATIN-F-C-TAB-20MG-TAB-317-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin DESANT film-coated tablet 20mg/"
+* identifier[mpid].value = "BEVOSTATIN-F-C-TAB-20MG-TAB-317-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6324,7 +6324,7 @@ Instance: BEVOSTATIN-F-C-TAB-40MG-TAB-318-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin DESANT film-coated tablet 40mg/"
+* identifier[mpid].value = "BEVOSTATIN-F-C-TAB-40MG-TAB-318-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6344,7 +6344,7 @@ Instance: PLACOL-SIMVASTATIN-F-C-TAB-20-MG-TAB-319-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin BENNETT ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. film-coated tablet 20mg/"
+* identifier[mpid].value = "PLACOL-SIMVASTATIN-F-C-TAB-20-MG-TAB-319-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6364,7 +6364,7 @@ Instance: PLACOL-SIMVASTATIN-F-C-TAB-40-MG-TAB-320-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin BENNETT ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. film-coated tablet 40mg/"
+* identifier[mpid].value = "PLACOL-SIMVASTATIN-F-C-TAB-40-MG-TAB-320-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6384,7 +6384,7 @@ Instance: SIMVALARK-F-C-TAB-40MG-TAB-321-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΗΔΥΟΣΜΟΣ Η, & Ε, ΑΛΕΒΙΖΟΠΟΥΛΟΣ Ε.Ε. film-coated tablet 40mg/"
+* identifier[mpid].value = "SIMVALARK-F-C-TAB-40MG-TAB-321-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6404,7 +6404,7 @@ Instance: IAMASTATIN-F-C-TAB-40MG-TAB-322-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin IAMATICA MON. ΕΠΕ film-coated tablet 40mg/"
+* identifier[mpid].value = "IAMASTATIN-F-C-TAB-40MG-TAB-322-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6424,7 +6424,7 @@ Instance: IAMASTATIN-F-C-TAB-40MG-TAB-323-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin IAMATICA MON. ΕΠΕ film-coated tablet 40mg/"
+* identifier[mpid].value = "IAMASTATIN-F-C-TAB-40MG-TAB-323-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6444,7 +6444,7 @@ Instance: ANTICHOL-F-C-TAB-10MG-TAB-324-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin HELP ΑΒΕΕ film-coated tablet 10mg/"
+* identifier[mpid].value = "ANTICHOL-F-C-TAB-10MG-TAB-324-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6464,7 +6464,7 @@ Instance: VERITRAT-F-C-TAB-40MG-TAB-325-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΦΑΡΜΕΞ Α.Ε. film-coated tablet 40mg/"
+* identifier[mpid].value = "VERITRAT-F-C-TAB-40MG-TAB-325-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6484,7 +6484,7 @@ Instance: LUSIMVA-F-C-TAB-40MG-TAB-326-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin BALU AE film-coated tablet 40mg/"
+* identifier[mpid].value = "LUSIMVA-F-C-TAB-40MG-TAB-326-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6504,7 +6504,7 @@ Instance: VASSOR-F-C-TAB-20MG-TAB-327-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΠΝΓ ΓΕΡΟΛΥΜΑΤΟΣ ΜΕΝΤΙΚΑΛ Α.Ε. film-coated tablet 20mg/"
+* identifier[mpid].value = "VASSOR-F-C-TAB-20MG-TAB-327-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6524,7 +6524,7 @@ Instance: VASSOR-F-C-TAB-20MG-TAB-328-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΠΝΓ ΓΕΡΟΛΥΜΑΤΟΣ ΜΕΝΤΙΚΑΛ Α.Ε. film-coated tablet 20mg/"
+* identifier[mpid].value = "VASSOR-F-C-TAB-20MG-TAB-328-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6544,7 +6544,7 @@ Instance: VASSOR-F-C-TAB-40MG-TAB-329-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΠΝΓ ΓΕΡΟΛΥΜΑΤΟΣ ΜΕΝΤΙΚΑΛ Α.Ε. film-coated tablet 40mg/"
+* identifier[mpid].value = "VASSOR-F-C-TAB-40MG-TAB-329-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6564,7 +6564,7 @@ Instance: VASSOR-F-C-TAB-40MG-TAB-330-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΠΝΓ ΓΕΡΟΛΥΜΑΤΟΣ ΜΕΝΤΙΚΑΛ Α.Ε. film-coated tablet 40mg/"
+* identifier[mpid].value = "VASSOR-F-C-TAB-40MG-TAB-330-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6584,7 +6584,7 @@ Instance: VASSOR-F-C-TAB-40MG-TAB-331-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΠΝΓ ΓΕΡΟΛΥΜΑΤΟΣ ΜΕΝΤΙΚΑΛ Α.Ε. film-coated tablet 40mg/"
+* identifier[mpid].value = "VASSOR-F-C-TAB-40MG-TAB-331-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6604,7 +6604,7 @@ Instance: STATIVER-F-C-TAB-40MG-TAB-332-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin CROSS PHARMACEYTICALS P.C. film-coated tablet 40mg/"
+* identifier[mpid].value = "STATIVER-F-C-TAB-40MG-TAB-332-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6624,7 +6624,7 @@ Instance: ANTICHOL-F-C-TAB-40MG-TAB-333-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin HELP ΑΒΕΕ film-coated tablet 40mg/"
+* identifier[mpid].value = "ANTICHOL-F-C-TAB-40MG-TAB-333-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6644,7 +6644,7 @@ Instance: ANTICHOL-F-C-TAB-20MG-TAB-334-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin HELP ΑΒΕΕ film-coated tablet 20mg/"
+* identifier[mpid].value = "ANTICHOL-F-C-TAB-20MG-TAB-334-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6664,7 +6664,7 @@ Instance: SIMVASTIL-F-C-TAB-20MG-TAB-335-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin MEDARTE ΦΑΡΜΑΚΕΥΤΙΚΗ ΑΒΕΕ film-coated tablet 20mg/"
+* identifier[mpid].value = "SIMVASTIL-F-C-TAB-20MG-TAB-335-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6684,7 +6684,7 @@ Instance: SIMVASTIL-F-C-TAB-40MG-TAB-336-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin MEDARTE ΦΑΡΜΑΚΕΥΤΙΚΗ ΑΒΕΕ film-coated tablet 40mg/"
+* identifier[mpid].value = "SIMVASTIL-F-C-TAB-40MG-TAB-336-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6704,7 +6704,7 @@ Instance: LOWCHOLID-F-C-TAB-20MG-TAB-337-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin NATURALIA A.E. film-coated tablet 20mg/"
+* identifier[mpid].value = "LOWCHOLID-F-C-TAB-20MG-TAB-337-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6724,7 +6724,7 @@ Instance: LOWCHOLID-F-C-TAB-40MG-TAB-338-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin NATURALIA A.E. film-coated tablet 40mg/"
+* identifier[mpid].value = "LOWCHOLID-F-C-TAB-40MG-TAB-338-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6744,7 +6744,7 @@ Instance: IPRAMID-F-C-TAB-20MG-TAB-339-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin FARMEDIA AE film-coated tablet 20mg/"
+* identifier[mpid].value = "IPRAMID-F-C-TAB-20MG-TAB-339-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6764,7 +6764,7 @@ Instance: IPRAMID-F-C-TAB-40MG-TAB-340-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin VENIFAR LTD, CYPRUS film-coated tablet 40mg/"
+* identifier[mpid].value = "IPRAMID-F-C-TAB-40MG-TAB-340-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6784,7 +6784,7 @@ Instance: SIMVALID-F-C-TAB-40MG-TAB-341-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin VIVAX PHARMACEUTICALS LTD, GREECE film-coated tablet 40mg/"
+* identifier[mpid].value = "SIMVALID-F-C-TAB-40MG-TAB-341-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6804,7 +6804,7 @@ Instance: STERYLIP-F-C-TAB-40MG-TAB-342-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin PHAREL ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ film-coated tablet 40mg/"
+* identifier[mpid].value = "STERYLIP-F-C-TAB-40MG-TAB-342-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6824,7 +6824,7 @@ Instance: SIMVASTATIN-NORMA-F-C-TAB-20MG-TAB-343-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΝΟΡΜΑ ΕΛΛΑΣ Α.Ε. film-coated tablet 20mg/"
+* identifier[mpid].value = "SIMVASTATIN-NORMA-F-C-TAB-20MG-TAB-343-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6844,7 +6844,7 @@ Instance: SIMVASTATIN-NORMA-F-C-TAB-40MG-TAB-344-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΝΟΡΜΑ ΕΛΛΑΣ Α.Ε. film-coated tablet 40mg/"
+* identifier[mpid].value = "SIMVASTATIN-NORMA-F-C-TAB-40MG-TAB-344-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6864,7 +6864,7 @@ Instance: DOCTIVERINE-F-C-TAB-20MG-TAB-345-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin DOCTUM ΦΑΡΜΑΚΕΥΤΙΚΗ Κ, ΓΙΟΚΑΡΗΣ & ΣΙΑ Α.Ε. film-coated tablet 20mg/"
+* identifier[mpid].value = "DOCTIVERINE-F-C-TAB-20MG-TAB-345-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6884,7 +6884,7 @@ Instance: DOCTIVERINE-F-C-TAB-40MG-TAB-346-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin DOCTUM ΦΑΡΜΑΚΕΥΤΙΚΗ Κ, ΓΙΟΚΑΡΗΣ & ΣΙΑ Α.Ε. film-coated tablet 40mg/"
+* identifier[mpid].value = "DOCTIVERINE-F-C-TAB-40MG-TAB-346-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6904,7 +6904,7 @@ Instance: PRIACIN-F-C-TAB-20MG-TAB-347-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin MEDOCHEMIE HELLAS AE film-coated tablet 20mg/"
+* identifier[mpid].value = "PRIACIN-F-C-TAB-20MG-TAB-347-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6924,7 +6924,7 @@ Instance: PRELON-F-C-TAB-20MG-TAB-348-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΦΑΡΑΝ ΑΒΕΕ ΠΑΡΑΓΩΓΗΣ ΚΑΙ ΕΜΠΟΡΙΑΣ ΦΑΡΜΑΚΩΝ film-coated tablet 20mg/"
+* identifier[mpid].value = "PRELON-F-C-TAB-20MG-TAB-348-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6944,7 +6944,7 @@ Instance: PRELON-F-C-TAB-40MG-TAB-349-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ANGELINI PHARMA HELLAS ABEE film-coated tablet 40mg/"
+* identifier[mpid].value = "PRELON-F-C-TAB-40MG-TAB-349-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6964,7 +6964,7 @@ Instance: SIMVASTEROL-F-C-TAB-40MG-TAB-350-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin LIBYTEC A.E. film-coated tablet 40mg/"
+* identifier[mpid].value = "SIMVASTEROL-F-C-TAB-40MG-TAB-350-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -6984,7 +6984,7 @@ Instance: LIPEXAL-F-C-TAB-40MG-TAB-351-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΦΑΡΜΑΤΕΝ ΕΛΛΑΣ ΑΕΒΕ film-coated tablet 40mg/"
+* identifier[mpid].value = "LIPEXAL-F-C-TAB-40MG-TAB-351-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -7004,7 +7004,7 @@ Instance: ZOCOR-F-C-TAB-20MG-TAB-352-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΒΙΑΝΕΞ Α.Ε. film-coated tablet 20mg/"
+* identifier[mpid].value = "ZOCOR-F-C-TAB-20MG-TAB-352-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -7024,7 +7024,7 @@ Instance: ZOCOR-F-C-TAB-40MG-TAB-353-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΒΙΑΝΕΞ Α.Ε. film-coated tablet 40mg/"
+* identifier[mpid].value = "ZOCOR-F-C-TAB-40MG-TAB-353-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -7044,7 +7044,7 @@ Instance: PRIZELIP-F-C-TAB-40MG-TAB-354-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΦΕΡΑΚΟΝ Ι.Κ.Ε. film-coated tablet 40mg/"
+* identifier[mpid].value = "PRIZELIP-F-C-TAB-40MG-TAB-354-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -7064,7 +7064,7 @@ Instance: ARSTATIN-F-C-TAB-20MG-TAB-355-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin DOC PHARMA AE film-coated tablet 20mg/"
+* identifier[mpid].value = "ARSTATIN-F-C-TAB-20MG-TAB-355-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -7084,7 +7084,7 @@ Instance: ARSTATIN-F-C-TAB-40MG-TAB-356-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin DOC PHARMA AE film-coated tablet 40mg/"
+* identifier[mpid].value = "ARSTATIN-F-C-TAB-40MG-TAB-356-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -7104,7 +7104,7 @@ Instance: TREMITAL-F-C-TAB-40MG-TAB-357-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin BIORESPOND Ε.Π.Ε. film-coated tablet 40mg/"
+* identifier[mpid].value = "TREMITAL-F-C-TAB-40MG-TAB-357-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -7124,7 +7124,7 @@ Instance: NEZATIN-F-C-TAB-40MG-TAB-358-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin HEREMCO Μ.Ε.Π.Ε. film-coated tablet 40mg/"
+* identifier[mpid].value = "NEZATIN-F-C-TAB-40MG-TAB-358-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -7144,7 +7144,7 @@ Instance: RAVOSTAN-F-C-TAB-20MG-TAB-359-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin PLA PHARMACEUTICALS A.E. film-coated tablet 20mg/"
+* identifier[mpid].value = "RAVOSTAN-F-C-TAB-20MG-TAB-359-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -7164,7 +7164,7 @@ Instance: RAVOSTAN-F-C-TAB-40MG-TAB-360-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin PLA PHARMACEUTICALS A.E. film-coated tablet 40mg/"
+* identifier[mpid].value = "RAVOSTAN-F-C-TAB-40MG-TAB-360-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -7184,7 +7184,7 @@ Instance: LIP-DOWN-F-C-TAB-20MG-TAB-361-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin Α, ΧΑΤΖΗΑΝΤΩΝΟΓΛΟΥ-VELTIPHARM ΕΠΕ film-coated tablet 20mg/"
+* identifier[mpid].value = "LIP-DOWN-F-C-TAB-20MG-TAB-361-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -7204,7 +7204,7 @@ Instance: LIP-DOWN-F-C-TAB-40-MG-TAB-362-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin PHARMAZAC AE film-coated tablet 40mg/"
+* identifier[mpid].value = "LIP-DOWN-F-C-TAB-40-MG-TAB-362-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -7224,7 +7224,7 @@ Instance: NITASTIN-F-C-TAB-20MG-TAB-363-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin PHARMAZAC AE film-coated tablet 20mg/"
+* identifier[mpid].value = "NITASTIN-F-C-TAB-20MG-TAB-363-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -7244,7 +7244,7 @@ Instance: NITASTIN-F-C-TAB-40MG-TAB-364-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin PHARMAZAC AE film-coated tablet 40mg/"
+* identifier[mpid].value = "NITASTIN-F-C-TAB-40MG-TAB-364-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -7264,7 +7264,7 @@ Instance: ZOCOR-F-C-TAB-10MG-TAB-365-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin ΒΙΑΝΕΞ Α.Ε. film-coated tablet 10mg/"
+* identifier[mpid].value = "ZOCOR-F-C-TAB-10MG-TAB-365-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -7284,7 +7284,7 @@ Instance: SIMVASTATIN-GENERICS-F-C-TAB-10MG-TAB-366-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin GENERICS PHARMA HELLAS ΕΠΕ film-coated tablet 10mg/"
+* identifier[mpid].value = "SIMVASTATIN-GENERICS-F-C-TAB-10MG-TAB-366-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -7304,7 +7304,7 @@ Instance: SIMVASTATIN-GENERICS-F-C-TAB-20MG-TAB-367-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin GENERICS PHARMA HELLAS ΕΠΕ film-coated tablet 20mg/"
+* identifier[mpid].value = "SIMVASTATIN-GENERICS-F-C-TAB-20MG-TAB-367-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -7324,7 +7324,7 @@ Instance: SIMVASTATIN-GENERICS-F-C-TAB-40MG-TAB-368-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin GENERICS PHARMA HELLAS ΕΠΕ film-coated tablet 40mg/"
+* identifier[mpid].value = "SIMVASTATIN-GENERICS-F-C-TAB-40MG-TAB-368-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -7344,7 +7344,7 @@ Instance: STATOSAN-F-C-TAB-20MG-TAB-369-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin PHARMAXIA HELLAS E.E. film-coated tablet 20mg/"
+* identifier[mpid].value = "STATOSAN-F-C-TAB-20MG-TAB-369-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -7364,7 +7364,7 @@ Instance: PRIACIN-F-C-TAB-10MG-TAB-370-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin MEDOCHEMIE HELLAS AE film-coated tablet 10mg/"
+* identifier[mpid].value = "PRIACIN-F-C-TAB-10MG-TAB-370-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -7384,7 +7384,7 @@ Instance: PRIACIN-F-C-TAB-40MG-TAB-371-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin MEDOCHEMIE HELLAS AE film-coated tablet 40mg/"
+* identifier[mpid].value = "PRIACIN-F-C-TAB-40MG-TAB-371-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -7404,7 +7404,7 @@ Instance: FLUITIN-F-C-TAB-40MG-TAB-372-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin PHARMALINK film-coated tablet 40mg/"
+* identifier[mpid].value = "FLUITIN-F-C-TAB-40MG-TAB-372-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -7424,7 +7424,7 @@ Instance: VASTATIN-F-C-TAB-20MG-TAB-373-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin VOCATE ΦΑΡΜΑΚΕΥΤΙΚΗ Α.Ε. film-coated tablet 20mg/"
+* identifier[mpid].value = "VASTATIN-F-C-TAB-20MG-TAB-373-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -7444,7 +7444,7 @@ Instance: VERISTIN-F-C-TAB-20MG-TAB-374-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin VIOFAR ΕΠΕ film-coated tablet 20mg/"
+* identifier[mpid].value = "VERISTIN-F-C-TAB-20MG-TAB-374-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -7464,7 +7464,7 @@ Instance: SIMVASTATIN-MYLAN-F-C-TAB-10MG-TAB-375-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin MYLAN S.A.S., SAINT PRIEST, FRANCE film-coated tablet 10mg/"
+* identifier[mpid].value = "SIMVASTATIN-MYLAN-F-C-TAB-10MG-TAB-375-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
@@ -7484,7 +7484,7 @@ Instance: SIMVASTATIN-MYLAN-F-C-TAB-20MG-TAB-376-GRC-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #example
 
-* identifier[mpid].value = "GRC Simvastatin MYLAN S.A.S., SAINT PRIEST, FRANCE film-coated tablet 20mg/"
+* identifier[mpid].value = "SIMVASTATIN-MYLAN-F-C-TAB-20MG-TAB-376-GRC-MPD"
 * domain = $100000000004#100000000012 "Human use"
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"

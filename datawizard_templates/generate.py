@@ -210,6 +210,7 @@ def main():
                 **base_context,
                 "instance_id": ppd_id,
                 "reference_package": mpd_id,
+                "reference_containedItem": mid_id,
                 "packaged_product_definition": {
                     "unit_of_presentation": get_unit_of_presentation(row['manufacturedItemUnitOfPresentation']),
                     "pack_size": row['packSize'],  # TODO packSize

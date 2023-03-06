@@ -1,0 +1,32 @@
+{
+  "resourceType": "SearchParameter",
+  "id": "country",
+  "url": "http://unicom-project.eu/fhir/SearchParameter/country",
+  "version": "0.1.0",
+  "name": "country",
+  "status": "active",
+  "date": "2023-03-04T00:00:00+00:00",
+  "publisher": "UNICOM",
+  "contact": [
+    {
+      "name": "UNICOM",
+      "telecom": [
+        {
+          "system": "url",
+          "value": "http://unicom-project.eu"
+        }
+      ]
+    }
+  ],
+  "description": "Search for MedicinalProductDefinition by country",
+  "code": "country",
+  "base": ["MedicinalProductDefinition"],
+  "type": "token",
+  "expression": "MedicinalProductDefinition.name.usage.country.coding.code",
+  "xpathUsage": "normal",
+  "target": [
+    {
+      "type": "Country"
+    }
+  ]
+}
