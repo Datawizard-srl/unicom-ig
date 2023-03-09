@@ -1,4 +1,11 @@
 
+def _get_by_code(codes, code):
+    try:
+        return next(x for _, x in codes.items() if x['code'].lower() == code)
+    except StopIteration:
+        return None
+
+
 def get_doseform(code):
     code_mapping = {
         '10219000': {'code': '100000073664', 'display': 'Tablet'},
@@ -18,7 +25,7 @@ def get_doseform(code):
         '10227000': {'code': '100000073683', 'display': 'Prolonged-release tablet'},
         '10106000': {'code': '100000073362', 'display': 'Oral suspension'}
     }
-    return code_mapping[code]
+    return _get_by_code(code_mapping, code) or code_mapping[code]
 
 
 def get_substance(code):
@@ -33,7 +40,7 @@ def get_substance(code):
         #'100000089571': {'code': None, 'display': None},  # TODO missing AMLODIPINE MESILATE MONOHYDRATE from sustance code system
         '100000085009': {'code': '100000085009', 'display': 'Ibuprofen sodium'}
     }
-    return codes[code]
+    return _get_by_code(codes, code) or codes[code]
 
 
 def get_routes_of_administration(code):
@@ -44,7 +51,7 @@ def get_routes_of_administration(code):
         '20070000': {'code': '100000073637', 'display': 'Transdermal use'},
         '20061000': {'code': '100000073628', 'display': 'Rectal use'}
     }
-    return codes[code]
+    return _get_by_code(codes, code) or codes[code]
 
 
 def get_unit_of_measurement(code):
@@ -54,7 +61,7 @@ def get_unit_of_measurement(code):
         'ml': {'code': '100000110662', 'display':  'millilitre(s)'},
         'g': {'code': '100000110654', 'display': "gram(s)"},
     }
-    return codes[code]
+    return _get_by_code(codes, code) or codes[code]
 
 
 def get_unit_of_presentation(code):
@@ -67,7 +74,20 @@ def get_unit_of_presentation(code):
         '15051000': {'code': '200000002149', 'display': 'Suppository'},
         '': {'code': '200000022814', 'display': 'Other'}
     }
-    return codes[code]
+    return _get_by_code(codes, code) or codes[code]
+
+
+def get_unit_of_presentation_code_by_display(display):
+    codes = {
+        '15054000': {'code': '200000002152', 'display': 'Tablet'},
+        '15012000': {'code': '200000002113', 'display': 'Capsule'},
+        '15045000': {'code': '200000002143', 'display': 'Sachet'},
+        '15036000': {'code': '200000002134', 'display': 'Patch'},
+        '15051000': {'code': '200000002149', 'display': 'Suppository'},
+        '': {'code': '200000022814', 'display': 'Other'}
+    }
+
+    return next(x for _, x in codes.items() if x['display'].lower() == display.lower())
 
 
 def get_country_info_by_ema(abbreviation):

@@ -28,6 +28,7 @@ from script.utilities import *
 
 instance_list = []
 
+
 def is_duplicate(instance_id, check_list):
     return instance_id in check_list
 
@@ -113,7 +114,6 @@ def main():
         ra_id = f'{common_file_name}-{index}-{base_context["country"]["abbreviation"]}-RA'
         ingredient_id = f'I-{base_context["country"]["abbreviation"]}-{index}-{common_file_name}' #TODO: substance name
         organization_id = row['marketingAuthorizationHolder'] if row['marketingAuthorizationHolder'] else ''
-
 
         # RENDER APD
         render_component(
@@ -216,9 +216,9 @@ def main():
                     "pack_size": row['packSize'],  # TODO packSize
                     "description": "Mock description",
                     "packaging": {
-                        "type": 'Bottle' if row['manufacturedItemQuanty'] == 'syrup' else 'Box',
-                        "code": 200000002111 if row['manufacturedItemQuanty'] == 'syrup' else 100000073498, #TODO set code for bottle EDQM or SPOR?
-                        "quantity": 1 #if row['manufacturedItemQuanty'] == 'syrup' else row['manufacturedItemQuanty'],
+                        "type": 'Bottle' if row['manufacturedDoseFormLabel'].lower() == 'syrup' else 'Box',
+                        "code": 200000002111 if row['manufacturedDoseFormLabel'].lower() == 'syrup' else 100000073498, #TODO set code for bottle EDQM or SPOR?
+                        "quantity": 1 #if row['manufacturedDoseFormLabel'].lower() == 'syrup' else row['manufacturedItemQuanty'],
                     }
                 },
             }
@@ -264,7 +264,6 @@ def main():
             }
         )
 
-
     write_list_to_file(pathlib.Path('results'), 'results.txt', instance_list)
 
 
@@ -308,22 +307,17 @@ if __name__ == '__main__':
 
     df = df.astype(dtype={
         'packSize': 'Int64',
-        'packageItemQuantity': 'Int64',
-        'manufacturedItemQuantity': float,
         'referenceStrengthConcentrationNumeratorValue': float,
         'referenceStrengthConcentrationDenominatorValue': float,
         'referenceStrengthPresentationNumeratorValue': float,
         'referenceStrengthPresentationDenominatorValue': float,
-        'strengthConcentrationNumeratorValue': float,
-        'strengthConcentrationDenominatorValue': float,
-        'strengthPresentationNumeratorValue': float,
-        'strengthPresentationDenominatorValue': float,
     })
     df = df.replace(np.nan, None)
 
     df['country'] = df['country'].str.lower()
     # create output dir if doesn't exists
-    shutil.rmtree(args.output)
+    if os.path.isdir(args.output):
+        shutil.rmtree(args.output)
     pathlib.Path.mkdir(args.output, parents=True, exist_ok=True)
 
     main()
