@@ -1104,7 +1104,7 @@ Usage: #example
 //  * extension.valueCoding = $100000072057#100000072172 "Estonian"
 * marketingStatus.country = $100000000002#100000000337 "Kingdom of Belgium"
 * marketingStatus.status = $100000072052#100000072083 "Marketed" // status?
-* packaging.type = $100000073346#100000073498 "Box"
+* packaging.type = $100000073346#200000002111 "Bottle"
 * packaging.quantity = 1
 //* packaging.material = $200000003199#200000003529 "Cardboard"
 //* packaging.packaging.type = $100000073346#100000073496 "Blister"
@@ -1494,7 +1494,7 @@ Usage: #example
 //  * extension.valueCoding = $100000072057#100000072172 "Estonian"
 * marketingStatus.country = $100000000002#100000000337 "Kingdom of Belgium"
 * marketingStatus.status = $100000072052#100000072083 "Marketed" // status?
-* packaging.type = $100000073346#100000073498 "Box"
+* packaging.type = $100000073346#200000002111 "Bottle"
 * packaging.quantity = 1
 //* packaging.material = $200000003199#200000003529 "Cardboard"
 //* packaging.packaging.type = $100000073346#100000073496 "Blister"
@@ -1520,7 +1520,7 @@ Usage: #example
 //  * extension.valueCoding = $100000072057#100000072172 "Estonian"
 * marketingStatus.country = $100000000002#100000000337 "Kingdom of Belgium"
 * marketingStatus.status = $100000072052#100000072083 "Marketed" // status?
-* packaging.type = $100000073346#100000073498 "Box"
+* packaging.type = $100000073346#200000002111 "Bottle"
 * packaging.quantity = 1
 //* packaging.material = $200000003199#200000003529 "Cardboard"
 //* packaging.packaging.type = $100000073346#100000073496 "Blister"
@@ -1546,7 +1546,7 @@ Usage: #example
 //  * extension.valueCoding = $100000072057#100000072172 "Estonian"
 * marketingStatus.country = $100000000002#100000000337 "Kingdom of Belgium"
 * marketingStatus.status = $100000072052#100000072083 "Marketed" // status?
-* packaging.type = $100000073346#100000073498 "Box"
+* packaging.type = $100000073346#200000002111 "Bottle"
 * packaging.quantity = 1
 //* packaging.material = $200000003199#200000003529 "Cardboard"
 //* packaging.packaging.type = $100000073346#100000073496 "Blister"
@@ -1572,7 +1572,7 @@ Usage: #example
 //  * extension.valueCoding = $100000072057#100000072172 "Estonian"
 * marketingStatus.country = $100000000002#100000000337 "Kingdom of Belgium"
 * marketingStatus.status = $100000072052#100000072083 "Marketed" // status?
-* packaging.type = $100000073346#100000073498 "Box"
+* packaging.type = $100000073346#200000002111 "Bottle"
 * packaging.quantity = 1
 //* packaging.material = $200000003199#200000003529 "Cardboard"
 //* packaging.packaging.type = $100000073346#100000073496 "Blister"
@@ -1754,7 +1754,7 @@ Usage: #example
 //  * extension.valueCoding = $100000072057#100000072172 "Estonian"
 * marketingStatus.country = $100000000002#100000000337 "Kingdom of Belgium"
 * marketingStatus.status = $100000072052#100000072083 "Marketed" // status?
-* packaging.type = $100000073346#100000073498 "Box"
+* packaging.type = $100000073346#200000002111 "Bottle"
 * packaging.quantity = 1
 //* packaging.material = $200000003199#200000003529 "Cardboard"
 //* packaging.packaging.type = $100000073346#100000073496 "Blister"
@@ -1780,7 +1780,7 @@ Usage: #example
 //  * extension.valueCoding = $100000072057#100000072172 "Estonian"
 * marketingStatus.country = $100000000002#100000000337 "Kingdom of Belgium"
 * marketingStatus.status = $100000072052#100000072083 "Marketed" // status?
-* packaging.type = $100000073346#100000073498 "Box"
+* packaging.type = $100000073346#200000002111 "Bottle"
 * packaging.quantity = 1
 //* packaging.material = $200000003199#200000003529 "Cardboard"
 //* packaging.packaging.type = $100000073346#100000073496 "Blister"
@@ -1806,7 +1806,7 @@ Usage: #example
 //  * extension.valueCoding = $100000072057#100000072172 "Estonian"
 * marketingStatus.country = $100000000002#100000000337 "Kingdom of Belgium"
 * marketingStatus.status = $100000072052#100000072083 "Marketed" // status?
-* packaging.type = $100000073346#100000073498 "Box"
+* packaging.type = $100000073346#200000002111 "Bottle"
 * packaging.quantity = 1
 //* packaging.material = $200000003199#200000003529 "Cardboard"
 //* packaging.packaging.type = $100000073346#100000073496 "Blister"
@@ -1832,7 +1832,7 @@ Usage: #example
 //  * extension.valueCoding = $100000072057#100000072172 "Estonian"
 * marketingStatus.country = $100000000002#100000000337 "Kingdom of Belgium"
 * marketingStatus.status = $100000072052#100000072083 "Marketed" // status?
-* packaging.type = $100000073346#100000073498 "Box"
+* packaging.type = $100000073346#200000002111 "Bottle"
 * packaging.quantity = 1
 //* packaging.material = $200000003199#200000003529 "Cardboard"
 //* packaging.packaging.type = $100000073346#100000073496 "Blister"
@@ -5888,7 +5888,7 @@ Usage: #example
 //  * extension.valueCoding = $100000072057#100000072172 "Estonian"
 * marketingStatus.country = $100000000002#100000000406 "Hellenic Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed" // status?
-* packaging.type = $100000073346#100000073498 "Box"
+* packaging.type = $100000073346#200000002111 "Bottle"
 * packaging.quantity = 1
 //* packaging.material = $200000003199#200000003529 "Cardboard"
 //* packaging.packaging.type = $100000073346#100000073496 "Blister"
@@ -6148,7 +6148,7 @@ Usage: #example
 //  * extension.valueCoding = $100000072057#100000072172 "Estonian"
 * marketingStatus.country = $100000000002#100000000406 "Hellenic Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed" // status?
-* packaging.type = $100000073346#100000073498 "Box"
+* packaging.type = $100000073346#200000002111 "Bottle"
 * packaging.quantity = 1
 //* packaging.material = $200000003199#200000003529 "Cardboard"
 //* packaging.packaging.type = $100000073346#100000073496 "Blister"
