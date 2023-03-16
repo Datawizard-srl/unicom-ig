@@ -107,12 +107,12 @@ def main():
 
         common_file_name = normalize_name(base_context["full_name"])
 
-        mpd_id = f'{common_file_name}-{index}-{base_context["country"]["abbreviation"]}-MPD'  #TODO: index? country?
+        mpd_id = f'{common_file_name}-{index}-{base_context["country"]["abbreviation"]}-MPD'  # TODO: index? country?
         apd_id = f'{common_file_name}-{index}-{base_context["country"]["abbreviation"]}-APD'
         mid_id = f'{common_file_name}-{index}-{base_context["country"]["abbreviation"]}-MID'
         ppd_id = f'{common_file_name}-{index}-{base_context["country"]["abbreviation"]}-PPD'
         ra_id = f'{common_file_name}-{index}-{base_context["country"]["abbreviation"]}-RA'
-        ingredient_id = f'I-{base_context["country"]["abbreviation"]}-{index}-{common_file_name}' #TODO: substance name
+        ingredient_id = f'I-{base_context["country"]["abbreviation"]}-{index}-{common_file_name}'  # TODO: substance name
         organization_id = row['marketingAuthorizationHolder'] if row['marketingAuthorizationHolder'] else ''
 
         # RENDER APD

@@ -24,10 +24,11 @@ def get_doseform(code):
         '11013000': {'code': '100000073843', 'display': 'Suppository'},
         '10227000': {'code': '100000073683', 'display': 'Prolonged-release tablet'},
         '10106000': {'code': '100000073362', 'display': 'Oral suspension'},
+        '13007000': {'code': '100000174002', 'display': "Effervescent granules for oral suspension"},
 
         # combined
-        '50029200': {'code': '100000136323', 'display': "Granules for oral solution in sachet"},
-        '13007000': {'code': '100000074048', 'display': "Suspension and effervescent granules for oral suspension"},
+        '50029200': {'code': '100000125742', 'display': "Granules for oral suspension in sachet"},
+        '11201000': {'code': '100000073863', 'display': "Solution for injection"},
     }
     return _get_by_code(code_mapping, code) or code_mapping[code]
 
@@ -76,6 +77,7 @@ def get_unit_of_presentation(code):
         '15045000': {'code': '200000002143', 'display': 'Sachet'},
         '15036000': {'code': '200000002134', 'display': 'Patch'},
         '15051000': {'code': '200000002149', 'display': 'Suppository'},
+        '15060000': {'code': '200000002158', 'display': 'Vial'},
         '': {'code': '200000022814', 'display': 'Other'}
     }
     return _get_by_code(codes, code) or codes[code]
