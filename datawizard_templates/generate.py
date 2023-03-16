@@ -217,8 +217,8 @@ def main():
                     "description": "Mock description",
                     "packaging": {
                         "type": 'Bottle' if row['manufacturedDoseFormLabel'].lower() == 'syrup' else 'Box',
-                        "code": 200000002111 if row['manufacturedDoseFormLabel'].lower() == 'syrup' else 100000073498,  # TODO set code for bottle EDQM or SPOR?
-                        "quantity": 1  # if row['manufacturedDoseFormLabel'].lower() == 'syrup' else row['manufacturedItemQuanty'],
+                        "code": 100000073497 if row['manufacturedDoseFormLabel'].lower() == 'syrup' else 100000073498,
+                        "quantity": 1 #if row['manufacturedDoseFormLabel'].lower() == 'syrup' else row['manufacturedItemQuanty'],
                     }
                 },
             }
