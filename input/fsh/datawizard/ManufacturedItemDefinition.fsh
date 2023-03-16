@@ -994,7 +994,7 @@ Instance: BRUFEN-granules-for-oral-suspension-in-sachet-600m-99-ITA-MID
 InstanceOf: PPLManufacturedItemDefinition
 Usage: #example
 * status = #active
-* manufacturedDoseForm = $200000000004#100000136323 "Granules for oral solution in sachet"
+* manufacturedDoseForm = $200000000004#100000073650 "Granules for oral suspension"
 * unitOfPresentation = $200000000014#200000002143 "Sachet"
 
 
@@ -1104,7 +1104,7 @@ Instance: IBUPROFENE-EG-STADA-Effervescent-granules-for-oral-110-ITA-MID
 InstanceOf: PPLManufacturedItemDefinition
 Usage: #example
 * status = #active
-* manufacturedDoseForm = $200000000004#100000074048 "Suspension and effervescent granules for oral suspension"
+* manufacturedDoseForm = $200000000004#100000174002 "Effervescent granules for oral suspension"
 * unitOfPresentation = $200000000014#200000002143 "Sachet"
 
 

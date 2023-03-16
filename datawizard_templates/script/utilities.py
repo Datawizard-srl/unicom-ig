@@ -27,7 +27,7 @@ def get_doseform(code):
         '13007000': {'code': '100000174002', 'display': "Effervescent granules for oral suspension"},
 
         # combined
-        '50029200': {'code': '100000125742', 'display': "Granules for oral suspension in sachet"},
+        '50029200': {'code': '100000073650', 'display': "Granules for oral suspension"},
         '11201000': {'code': '100000073863', 'display': "Solution for injection"},
     }
     return _get_by_code(code_mapping, code) or code_mapping[code]

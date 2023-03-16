@@ -1193,7 +1193,7 @@ InstanceOf: PPLAdministrableProductDefinition
 Usage: #example
 * status = #active
 * formOf = Reference(BRUFEN-granules-for-oral-suspension-in-sachet-600m-99-ITA-MPD)
-* administrableDoseForm = $200000000004#100000136323 "Granules for oral solution in sachet"
+* administrableDoseForm = $200000000004#100000073650 "Granules for oral suspension"
 * unitOfPresentation = $200000000014#200000002143 "Sachet"
 * producedFrom = Reference(BRUFEN-granules-for-oral-suspension-in-sachet-600m-99-ITA-MID)
 * routeOfAdministration.code = $100000073345#100000073619 "Oral use"
@@ -1325,7 +1325,7 @@ InstanceOf: PPLAdministrableProductDefinition
 Usage: #example
 * status = #active
 * formOf = Reference(IBUPROFENE-EG-STADA-Effervescent-granules-for-oral-110-ITA-MPD)
-* administrableDoseForm = $200000000004#100000074048 "Suspension and effervescent granules for oral suspension"
+* administrableDoseForm = $200000000004#100000174002 "Effervescent granules for oral suspension"
 * unitOfPresentation = $200000000014#200000002143 "Sachet"
 * producedFrom = Reference(IBUPROFENE-EG-STADA-Effervescent-granules-for-oral-110-ITA-MID)
 * routeOfAdministration.code = $100000073345#100000073619 "Oral use"
