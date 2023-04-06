@@ -1,11 +1,11 @@
 
 
-Instance: {{instance_id}}
+Instance: {{packaged_product_definition.instance_id}}
 InstanceOf: PPLPackagedProductDefinition
 Usage: #{{usage}}
 
-* identifier[pcid].value = "{{country.abbreviation}}-{{pcId|normalize_name}}" //pcId ?
-* packageFor = Reference({{reference_package}}) //TODO: reference sbagliata?
+* identifier[pcid].value = "{{country.abbreviation}}-{{pcId|normalize_name}}"
+* packageFor = Reference({{packaged_product_definition.reference_package}})
 * containedItemQuantity = {{packaged_product_definition.pack_size}} $200000000014#{{packaged_product_definition.unit_of_presentation.code}} "{{packaged_product_definition.unit_of_presentation.display}}"
 * description = "{{packaged_product_definition.description}}"
 //  * extension.url = "http://ema.europa.eu/fhir/extension/language"
@@ -21,7 +21,7 @@ Usage: #{{usage}}
 //* packaging.packaging.material[0] = $200000003199#200000003222 "PolyVinyl Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003225 "PolyVinylidene Chloride"
 //* packaging.packaging.material[+] = $200000003199#200000003200 "Aluminium"
-* packaging.packaging.containedItem.item.reference = Reference({{reference_containedItem}})
+* packaging.packaging.containedItem.item.reference = Reference({{packaged_product_definition.reference_containedItem}})
 * packaging.packaging.containedItem.amount.value = {{packaged_product_definition.pack_size}}
 {%- endif %}
 

@@ -10,7 +10,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-AGIPS-FARMACEUTICI-Srl)
 
 
@@ -25,7 +24,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-EPIFARMA-Srl)
 
 
@@ -40,7 +38,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ABC-FARMACEUTICI-SpA)
 
 
@@ -55,7 +52,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ACCORD-HEALTHCARE-SLU)
 
 
@@ -70,7 +66,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ALMUS-Srl)
 
 
@@ -85,7 +80,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-LABORATORI-ALTER-Srl)
 
 
@@ -100,7 +94,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ARISTO-PHARMA-GMBH)
 
 
@@ -115,7 +108,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-AUROBINDO-PHARMA-ITALIA-Srl)
 
 
@@ -130,7 +122,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-DOC-GENERICI-Srl)
 
 
@@ -145,7 +136,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-EG-SpA)
 
 
@@ -160,7 +150,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-EPIFARMA-Srl)
 
 
@@ -175,7 +164,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-FG-Srl)
 
 
@@ -190,7 +178,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-S-F-GROUP-Srl)
 
 
@@ -205,7 +192,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-HEXAL-AG)
 
 
@@ -220,7 +206,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-KRKA-D-D-NOVO-MESTO)
 
 
@@ -235,7 +220,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-MYLAN-SpA)
 
 
@@ -250,7 +234,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-PENSA-PHARMA-SpA)
 
 
@@ -265,7 +248,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ERREKAPPA-EUROTERAPICI-SpA)
 
 
@@ -280,7 +262,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-SANDOZ-SpA)
 
 
@@ -295,7 +276,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-PHARMEG-Srl)
 
 
@@ -310,7 +290,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-TECNIGEN-Srl)
 
 
@@ -325,7 +304,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-TEVA-ITALIA-Srl)
 
 
@@ -340,7 +318,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ZENTIVA-ITALIA-Srl)
 
 
@@ -355,7 +332,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-POLIFARMA-SpA)
 
 
@@ -370,7 +346,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-VIATRIS-PHARMA-Srl)
 
 
@@ -385,7 +360,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-S-F-GROUP-Srl)
 
 
@@ -400,7 +374,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-SO-SE-PHARM-Srl)
 
 
@@ -415,7 +388,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-S-R-FARMACEUTICI-SpA)
 
 
@@ -430,7 +402,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-S-F-GROUP-Srl)
 
 
@@ -445,7 +416,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-FARMAROC-Srl)
 
 
@@ -460,7 +430,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-FARMA-1000-Srl)
 
 
@@ -475,7 +444,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-PRICETAG-SpA)
 
 
@@ -490,7 +458,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-PRICETAG-SpA)
 
 
@@ -505,7 +472,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-GMM-FARMA-Srl)
 
 
@@ -520,7 +486,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-PFIZER-ITALIA-Srl)
 
 
@@ -535,7 +500,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-BB-FARMA-Srl)
 
 
@@ -550,7 +514,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-BB-FARMA-Srl)
 
 
@@ -565,7 +528,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-FARMACEUTICI-DAMOR-SpA)
 
 
@@ -580,7 +542,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-AGIPS-FARMACEUTICI-Srl)
 
 
@@ -595,7 +556,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-EPIFARMA-Srl)
 
 
@@ -610,7 +570,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ABC-FARMACEUTICI-SpA)
 
 
@@ -625,7 +584,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ACCORD-HEALTHCARE-SLU)
 
 
@@ -640,7 +598,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ALMUS-Srl)
 
 
@@ -655,7 +612,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-LABORATORI-ALTER-Srl)
 
 
@@ -670,7 +626,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ARISTO-PHARMA-GMBH)
 
 
@@ -685,7 +640,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-AUROBINDO-PHARMA-ITALIA-Srl)
 
 
@@ -700,7 +654,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-DOC-GENERICI-Srl)
 
 
@@ -715,7 +668,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-EG-SpA)
 
 
@@ -730,7 +682,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-S-F-GROUP-Srl)
 
 
@@ -745,7 +696,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-HEXAL-AG)
 
 
@@ -760,7 +710,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-KRKA-D-D-NOVO-MESTO)
 
 
@@ -775,7 +724,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-MYLAN-SpA)
 
 
@@ -790,7 +738,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-PENSA-PHARMA-SpA)
 
 
@@ -805,7 +752,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-SANDOZ-SpA)
 
 
@@ -820,7 +766,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-PHARMEG-Srl)
 
 
@@ -835,7 +780,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-TECNIGEN-Srl)
 
 
@@ -850,7 +794,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-TEVA-ITALIA-Srl)
 
 
@@ -865,7 +808,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ZENTIVA-ITALIA-Srl)
 
 
@@ -880,7 +822,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-POLIFARMA-SpA)
 
 
@@ -895,7 +836,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-VIATRIS-PHARMA-Srl)
 
 
@@ -910,7 +850,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-S-F-GROUP-Srl)
 
 
@@ -925,7 +864,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-SO-SE-PHARM-Srl)
 
 
@@ -940,7 +878,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-S-R-FARMACEUTICI-SpA)
 
 
@@ -955,7 +892,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-S-F-GROUP-Srl)
 
 
@@ -970,7 +906,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-PRICETAG-SpA)
 
 
@@ -985,7 +920,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-PRICETAG-SpA)
 
 
@@ -1000,7 +934,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-GMM-FARMA-Srl)
 
 
@@ -1015,7 +948,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-PFIZER-ITALIA-Srl)
 
 
@@ -1030,7 +962,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-FARMACEUTICI-DAMOR-SpA)
 
 
@@ -1045,7 +976,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-LABORATORI-ALTER-Srl)
 
 
@@ -1060,7 +990,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-AUROBINDO-PHARMA-ITALIA-Srl)
 
 
@@ -1075,7 +1004,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-DOC-GENERICI-Srl)
 
 
@@ -1090,7 +1018,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-EG-SpA)
 
 
@@ -1105,7 +1032,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-HEXAL-AG)
 
 
@@ -1120,7 +1046,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-KRKA-D-D-NOVO-MESTO)
 
 
@@ -1135,7 +1060,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-MYLAN-SpA)
 
 
@@ -1150,7 +1074,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-SANDOZ-SpA)
 
 
@@ -1165,7 +1088,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-TEVA-ITALIA-Srl)
 
 
@@ -1180,7 +1102,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ZENTIVA-ITALIA-Srl)
 
 
@@ -1195,7 +1116,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-MYLAN-SpA)
 
 
@@ -1210,7 +1130,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-NOVARTIS-FARMA-SpA)
 
 
@@ -1225,7 +1144,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-NOVARTIS-FARMA-SpA)
 
 
@@ -1240,7 +1158,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-EG-SpA)
 
 
@@ -1255,7 +1172,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-NOVARTIS-FARMA-SpA)
 
 
@@ -1270,7 +1186,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-EG-SpA)
 
 
@@ -1285,7 +1200,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-NOVARTIS-FARMA-SpA)
 
 
@@ -1300,7 +1214,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-NOVARTIS-FARMA-SpA)
 
 
@@ -1315,7 +1228,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-MYLAN-ITALIA-Srl)
 
 
@@ -1330,7 +1242,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-PROGRAMMI-SANIT-INTEGRATI-Srl)
 
 
@@ -1345,7 +1256,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-FARMA-1000-Srl)
 
 
@@ -1360,7 +1270,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-AUROBINDO-PHARMA-ITALIA-Srl)
 
 
@@ -1375,7 +1284,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-DOC-GENERICI-Srl)
 
 
@@ -1390,7 +1298,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-SO-SE-PHARM-Srl)
 
 
@@ -1405,7 +1312,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-MYLAN-ITALIA-Srl)
 
 
@@ -1420,7 +1326,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-FARMA-1000-Srl)
 
 
@@ -1435,7 +1340,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-MEDIFARM-Srl)
 
 
@@ -1450,7 +1354,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-GMM-FARMA-Srl)
 
 
@@ -1465,7 +1368,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-FARMAVOX-Srl)
 
 
@@ -1480,7 +1382,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-FARMAROC-Srl)
 
 
@@ -1495,7 +1396,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-MYLAN-ITALIA-Srl)
 
 
@@ -1510,7 +1410,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-EPIFARMA-Srl)
 
 
@@ -1525,7 +1424,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-IPSO-PHARMA-Srl)
 
 
@@ -1540,7 +1438,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ABC-FARMACEUTICI-SpA)
 
 
@@ -1555,7 +1452,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-LABORATORI-ALTER-Srl)
 
 
@@ -1570,7 +1466,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ANGELINI-SpA)
 
 
@@ -1585,7 +1480,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ARISTO-PHARMA-GMBH)
 
 
@@ -1600,7 +1494,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-AUROBINDO-PHARMA-ITALIA-Srl)
 
 
@@ -1615,7 +1508,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-DOC-GENERICI-Srl)
 
 
@@ -1630,7 +1522,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-DOC-GENERICI-Srl)
 
 
@@ -1645,7 +1536,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-EG-SpA)
 
 
@@ -1660,7 +1550,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-EG-SpA)
 
 
@@ -1675,7 +1564,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-FG-Srl)
 
 
@@ -1690,7 +1578,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-PHARMEG-Srl)
 
 
@@ -1705,7 +1592,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-TEVA-ITALIA-Srl)
 
 
@@ -1720,7 +1606,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ZAMBON-ITALIA-Srl)
 
 
@@ -1735,7 +1620,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ZAMBON-ITALIA-Srl)
 
 
@@ -1750,7 +1634,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-MYLAN-ITALIA-Srl)
 
 
@@ -1765,7 +1648,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-S-F-GROUP-Srl)
 
 
@@ -1780,7 +1662,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-S-F-GROUP-Srl)
 
 
@@ -1795,7 +1676,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-MYLAN-SpA)
 
 
@@ -1810,7 +1690,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-EG-SpA)
 
 
@@ -1825,7 +1704,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-DOC-GENERICI-Srl)
 
 
@@ -1840,7 +1718,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-NEOPHARMED-GENTILI-SpA)
 
 
@@ -1855,7 +1732,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-NEOPHARMED-GENTILI-SpA)
 
 
@@ -1870,7 +1746,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ALFASIGMA-SpA)
 
 
@@ -1885,7 +1760,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-NEOPHARMED-GENTILI-SpA)
 
 
@@ -1900,7 +1774,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-MYLAN-SpA)
 
 
@@ -1915,7 +1788,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-DOC-GENERICI-Srl)
 
 
@@ -1930,7 +1802,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-NEOPHARMED-GENTILI-SpA)
 
 
@@ -1945,7 +1816,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-NEOPHARMED-GENTILI-SpA)
 
 
@@ -1960,7 +1830,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-NEOPHARMED-GENTILI-SpA)
 
 
@@ -1975,7 +1844,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ALFASIGMA-SpA)
 
 
@@ -1990,7 +1858,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-S-F-GROUP-Srl)
 
 
@@ -2005,7 +1872,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-FARTO-Srl)
 
 
@@ -2020,7 +1886,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-S-F-GROUP-Srl)
 
 
@@ -2035,7 +1900,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-AGIPS-FARMACEUTICI-Srl)
 
 
@@ -2050,7 +1914,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ECUPHARMA-Srl)
 
 
@@ -2065,7 +1928,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-S-F-GROUP-Srl)
 
 
@@ -2080,7 +1942,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-S-F-GROUP-Srl)
 
 
@@ -2095,7 +1956,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-SUN-PHARMACEUTICAL-IND-EU-B-V-)
 
 
@@ -2110,7 +1970,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-SANDOZ-SpA)
 
 
@@ -2125,7 +1984,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-SANDOZ-SpA)
 
 
@@ -2140,7 +1998,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ACCORD-HEALTHCARE-SLU)
 
 
@@ -2155,7 +2012,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ABC-FARMACEUTICI-SpA)
 
 
@@ -2170,7 +2026,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-LABORATORI-ALTER-Srl)
 
 
@@ -2185,7 +2040,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-MYLAN-SpA)
 
 
@@ -2200,7 +2054,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-EG-SpA)
 
 
@@ -2215,7 +2068,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ARISTO-PHARMA-GMBH)
 
 
@@ -2230,7 +2082,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ZENTIVA-ITALIA-Srl)
 
 
@@ -2245,7 +2096,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-KRKA-D-D-NOVO-MESTO)
 
 
@@ -2260,7 +2110,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ALMUS-Srl)
 
 
@@ -2275,7 +2124,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-PENSA-PHARMA-SpA)
 
 
@@ -2290,7 +2138,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-TECNIGEN-Srl)
 
 
@@ -2305,7 +2152,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-AUROBINDO-PHARMA-ITALIA-Srl)
 
 
@@ -2320,7 +2166,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-DOC-GENERICI-Srl)
 
 
@@ -2335,7 +2180,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-TEVA-ITALIA-Srl)
 
 
@@ -2350,7 +2194,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-DYMALIFE-PHARMACEUTICAL-Srl)
 
 
@@ -2365,7 +2208,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-GENETIC-SpA)
 
 
@@ -2380,7 +2222,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-EPIFARMA-Srl)
 
 
@@ -2395,7 +2236,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-GENETIC-SpA)
 
 
@@ -2410,7 +2250,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-S-F-GROUP-Srl)
 
 
@@ -2425,7 +2264,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-SO-SE-PHARM-Srl)
 
 
@@ -2440,7 +2278,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-RO-FARM-di-DE-MAIO-SALVATORE-C)
 
 
@@ -2455,7 +2292,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-MSD-ITALIA-Srl)
 
 
@@ -2470,7 +2306,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-NEOPHARMED-GENTILI-SpA)
 
 
@@ -2485,7 +2320,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-NEOPHARMED-GENTILI-SpA)
 
 
@@ -2500,7 +2334,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-NEOPHARMED-GENTILI-SpA)
 
 
@@ -2515,7 +2348,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ALFASIGMA-SpA)
 
 
@@ -2530,7 +2362,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-S-F-GROUP-Srl)
 
 
@@ -2545,7 +2376,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-FARTO-Srl)
 
 
@@ -2560,7 +2390,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-S-F-GROUP-Srl)
 
 
@@ -2575,7 +2404,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-AGIPS-FARMACEUTICI-Srl)
 
 
@@ -2590,7 +2418,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ECUPHARMA-Srl)
 
 
@@ -2605,7 +2432,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-S-F-GROUP-Srl)
 
 
@@ -2620,7 +2446,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-S-F-GROUP-Srl)
 
 
@@ -2635,7 +2460,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-SUN-PHARMACEUTICAL-IND-EU-B-V-)
 
 
@@ -2650,7 +2474,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-SANDOZ-SpA)
 
 
@@ -2665,7 +2488,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-SANDOZ-SpA)
 
 
@@ -2680,7 +2502,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ACCORD-HEALTHCARE-SLU)
 
 
@@ -2695,7 +2516,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-LABORATORI-ALTER-Srl)
 
 
@@ -2710,7 +2530,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-MYLAN-SpA)
 
 
@@ -2725,7 +2544,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-EG-SpA)
 
 
@@ -2740,7 +2558,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ARISTO-PHARMA-GMBH)
 
 
@@ -2755,7 +2572,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ZENTIVA-ITALIA-Srl)
 
 
@@ -2770,7 +2586,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-KRKA-D-D-NOVO-MESTO)
 
 
@@ -2785,7 +2600,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ALMUS-Srl)
 
 
@@ -2800,7 +2614,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-PENSA-PHARMA-SpA)
 
 
@@ -2815,7 +2628,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-TECNIGEN-Srl)
 
 
@@ -2830,7 +2642,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-AUROBINDO-PHARMA-ITALIA-Srl)
 
 
@@ -2845,7 +2656,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-DOC-GENERICI-Srl)
 
 
@@ -2860,7 +2670,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-TEVA-ITALIA-Srl)
 
 
@@ -2875,7 +2684,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-GENETIC-SpA)
 
 
@@ -2890,7 +2698,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-EPIFARMA-Srl)
 
 
@@ -2905,7 +2712,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-GENETIC-SpA)
 
 
@@ -2920,7 +2726,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-S-F-GROUP-Srl)
 
 
@@ -2935,7 +2740,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-SO-SE-PHARM-Srl)
 
 
@@ -2950,7 +2754,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-RO-FARM-di-DE-MAIO-SALVATORE-C)
 
 
@@ -2965,7 +2768,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-DYMALIFE-PHARMACEUTICAL-Srl)
 
 
@@ -2980,7 +2782,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-MSD-ITALIA-Srl)
 
 
@@ -2995,7 +2796,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-NEOPHARMED-GENTILI-SpA)
 
 
@@ -3010,7 +2810,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-NEOPHARMED-GENTILI-SpA)
 
 
@@ -3025,7 +2824,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-NEOPHARMED-GENTILI-SpA)
 
 
@@ -3040,7 +2838,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ALFASIGMA-SpA)
 
 
@@ -3055,7 +2852,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-PENSA-PHARMA-SpA)
 
 
@@ -3070,7 +2866,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-SANDOZ-SpA)
 
 
@@ -3085,7 +2880,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-SANDOZ-SpA)
 
 
@@ -3100,7 +2894,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-MYLAN-SpA)
 
 
@@ -3115,7 +2908,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-EG-SpA)
 
 
@@ -3130,7 +2922,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ZENTIVA-ITALIA-Srl)
 
 
@@ -3145,7 +2936,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-AUROBINDO-PHARMA-ITALIA-Srl)
 
 
@@ -3160,7 +2950,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-DOC-GENERICI-Srl)
 
 
@@ -3175,7 +2964,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-TEVA-ITALIA-Srl)
 
 
@@ -3190,7 +2978,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-MSD-ITALIA-Srl)
 
 
@@ -3205,7 +2992,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-NEOPHARMED-GENTILI-SpA)
 
 
@@ -3220,7 +3006,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-NEOPHARMED-GENTILI-SpA)
 
 
@@ -3235,7 +3020,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-ALFASIGMA-SpA)
 
 
@@ -3250,7 +3034,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-AUROBINDO-PHARMA-ITALIA-Srl)
 
 
@@ -3265,7 +3048,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-SANDOZ-SpA)
 
 
@@ -3280,7 +3062,6 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-SANDOZ-SpA)
 
 
@@ -3295,6 +3076,5 @@ Usage: #example
 * region = $100000000002#100000000430 "Italian Republic"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 //  * statusDate = "2013-06-07"
-//TODO: reference organization
 * holder = Reference(LOC-TEVA-ITALIA-Srl)
 

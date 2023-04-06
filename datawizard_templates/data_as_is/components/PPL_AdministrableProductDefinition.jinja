@@ -1,13 +1,13 @@
 
 
-Instance: {{instance_id}}
+Instance: {{administrable_product_definition.instance_id}}
 InstanceOf: PPLAdministrableProductDefinition
 Usage: #{{usage}}
 * status = #active
-* formOf = Reference({{reference_form}})
+* formOf = Reference({{administrable_product_definition.reference_form}})
 * administrableDoseForm = $200000000004#{{administrable_product_definition.administrable_doseform.code}} "{{administrable_product_definition.administrable_doseform.display}}"
 * unitOfPresentation = $200000000014#{{administrable_product_definition.unit_of_presentation.code}} "{{administrable_product_definition.unit_of_presentation.display}}"
-* producedFrom = Reference({{producedFrom}})
+* producedFrom = Reference({{administrable_product_definition.produced_from}})
 * routeOfAdministration.code = $100000073345#{{administrable_product_definition.route_of_administration.code}} "{{administrable_product_definition.route_of_administration.display}}"
 
 
