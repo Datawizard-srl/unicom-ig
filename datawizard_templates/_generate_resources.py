@@ -12,7 +12,7 @@ def is_duplicate(instance_id):
 
 
 def make_resources(index, row):
-    print(f"--- row_{index=}", end=": ")
+    print(f"--- row_{index=}: {row['packagedMedicinalProductPrimaryKey']=} ---")
     base_context = {
         "full_name": row['fullName'].strip(),
         "mpid": row["mpIdLabel"].strip(),  # TODO this is not the mpid
