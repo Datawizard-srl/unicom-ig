@@ -98,9 +98,9 @@ def main():
         validate_row(row)
 
         make_resources(index, row)
-        #make_bundle(index, row)
+        make_bundle(index, row)
 
-    #bundle_results()
+    bundle_results()
 
 
 if __name__ == '__main__':

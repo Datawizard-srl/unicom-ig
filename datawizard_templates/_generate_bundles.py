@@ -15,7 +15,7 @@ def bundle_results():
     print("------------ BUNDLES --------------------")
 
 
-def make_bundle(index, row):
+def make_bundle(index, row, bundle_type="batch"):
     base_context = {
         "full_name": row['fullName'].strip(),
         "mpid": row["mpIdLabel"].strip(),  # TODO this is not the mpid
@@ -24,7 +24,7 @@ def make_bundle(index, row):
         "pcId": row['pcId'].strip(),
         "usage": "example",
         "server_url": "https://jpa.unicom.datawizard.it/fhir",
-        "type": "batch",
+        "type": bundle_type,
         #"description": "",
     }
     if base_context.get("server_url") and base_context.get("server_url").endswith("/"):
@@ -33,7 +33,8 @@ def make_bundle(index, row):
     organization_id, organization_name, organization_instance_id = make_organization(row, base_context)
 
     common_name = normalize_name(base_context["full_name"]).strip('-')
-    bundle_filename = f"bundle_{common_name}"
+    bundle_id = f"{common_name}_{index}"
+    bundle_filename = f"bundle_{bundle_id}"
 
     mpd_id = f'{common_name}-{index}-{base_context["country"]["abbreviation"]}-MPD'  # TODO: index? country?
     apd_id = f'{common_name}-{index}-{base_context["country"]["abbreviation"]}-APD'
@@ -50,7 +51,7 @@ def make_bundle(index, row):
         output_filename=bundle_filename,
         context={
             **base_context,
-            "instance_id": common_name,
+            "instance_id": bundle_id,
 
             # CONTEXT ADMINISTRABLE PRODUCT DEFINITION
             "administrable_product_definition": {
