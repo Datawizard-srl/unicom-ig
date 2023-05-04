@@ -3,11 +3,11 @@ def _get_by_code(codes, code):
     try:
         return next(x for _, x in codes.items() if x['code'].lower() == code)
     except StopIteration:
-        return None
+        return codes[code]
 
 
 def get_doseform(code):
-    code_mapping = {
+    codes = {
         '10219000': {'code': '100000073664', 'display': 'Tablet'},
         '10210000': {'code': '100000073375', 'display': 'Capsule, hard'},
         '10220000': {'code': '100000073380', 'display': 'Coated tablet'},
@@ -36,7 +36,7 @@ def get_doseform(code):
         '50029200': {'code': '100000073650', 'display': "Granules for oral suspension"},
         '11201000': {'code': '100000073863', 'display': "Solution for injection"},
     }
-    return _get_by_code(code_mapping, code) or code_mapping[code]
+    return _get_by_code(codes, code)
 
 
 def get_substance(code):
@@ -51,7 +51,7 @@ def get_substance(code):
         #'100000089571': {'code': None, 'display': None},  # TODO missing AMLODIPINE MESILATE MONOHYDRATE from sustance code system
         '100000085009': {'code': '100000085009', 'display': 'Ibuprofen sodium'}
     }
-    return _get_by_code(codes, code) or codes[code]
+    return _get_by_code(codes, code)
 
 
 def get_routes_of_administration(code):
@@ -63,7 +63,7 @@ def get_routes_of_administration(code):
         '20061000': {'code': '100000073628', 'display': 'Rectal use'},
         '20035000': {'code': '100000073600', 'display': 'Intramuscular use'},
     }
-    return _get_by_code(codes, code) or codes[code]
+    return _get_by_code(codes, code)
 
 
 def get_unit_of_measurement(code):
@@ -73,7 +73,7 @@ def get_unit_of_measurement(code):
         'ml': {'code': '100000110662', 'display':  'millilitre(s)'},
         'g': {'code': '100000110654', 'display': "gram(s)"},
     }
-    return _get_by_code(codes, code) or codes[code]
+    return _get_by_code(codes, code)
 
 
 def get_unit_of_presentation(code):
@@ -87,7 +87,7 @@ def get_unit_of_presentation(code):
         '15060000': {'code': '200000002158', 'display': 'Vial'},
         '': {'code': '200000022814', 'display': 'Other'}
     }
-    return _get_by_code(codes, code) or codes[code]
+    return _get_by_code(codes, code)
 
 
 def get_unit_of_presentation_code_by_display(display):
