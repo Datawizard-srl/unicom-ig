@@ -1,3 +1,4 @@
+from datawizard_templates.data_as_is.contexts import JinjaContexts
 from datawizard_templates.generate import render_component, Templates
 from datawizard_templates.jinja_filters import *
 from datawizard_templates.script.utilities import *
@@ -43,9 +44,8 @@ def make_bundle(index, row, bundle_type="batch"):
     ra_id = f'{common_name}-{index}-{base_context["country"]["abbreviation"]}-RA'
     ingredient_id = f'I-{base_context["country"]["abbreviation"]}-{index}-{common_name}'  # TODO: substance name
 
-    ratio_type, ratio_numerator, ratio_denominator, reference_strength = get_ingredient_info(row)
-
     print(f"Generate bundle for {row['packagedMedicinalProductPrimaryKey']} - {bundle_filename}")
+
     render_component(
         Templates.BUNDLE,
         output_filename=bundle_filename,
@@ -54,88 +54,51 @@ def make_bundle(index, row, bundle_type="batch"):
             "instance_id": bundle_id,
 
             # CONTEXT ADMINISTRABLE PRODUCT DEFINITION
-            "administrable_product_definition": {
-                "administrable_doseform": get_doseform(row['administrableDoseForm']),
-                "unit_of_presentation": get_unit_of_presentation(row['pharmaceuticalProductUnitOfPresentation']),
-                "route_of_administration": get_routes_of_administration(row['routesOfAdministration']),
-                "reference_form": mpd_id,
-                "produced_from": mid_id,
-                "instance_id": apd_id,
-            },
+            **JinjaContexts.AdministrableProductDefinition(
+                row,
+                apd_id=apd_id,
+                mpd_id=mpd_id,
+                mid_id=mid_id
+            ),
 
             # CONTEXT INGREDIENT
-            "ingredient": {
-                "instance_id": ingredient_id,
-                "full_name": normalize_name(f"{row['substanceCode']}"),
-                "substance": get_substance(row['substanceCode']),
-                "moiety": {'code': row['moietyCode'], 'display': row['moietyLabel']},
-                "references": {
-                    "mpd": mpd_id,
-                    "mid": mid_id,
-                    "apd": apd_id
-                },
-                "ratio": {
-                    "type": ratio_type,
-                    "numerator": ratio_numerator,
-                    "denominator": ratio_denominator,
-                },
-                **reference_strength,
-            },
+            **JinjaContexts.Ingredient(
+                row,
+                ingredient_id=ingredient_id,
+                mid_id=mid_id,
+                mpd_id=mpd_id,
+                apd_id=apd_id,
+            ),
 
             # CONTEXT MANUFACTURED ITEM DEFINITION
-            "manufactured_item_definition": {
-                "instance_id": mid_id,
-                "manufactured_doseform": {
-                    **get_doseform(row['manufacturedDoseForm']),
-                    "unit_of_presentation": get_unit_of_presentation(row['pharmaceuticalProductUnitOfPresentation']),
-                },
-            },
+            **JinjaContexts.ManufacturedItemDefinition(
+                row,
+                mid_id=mid_id,
+            ),
 
-            # MEDICINAL PRODUCT DEFINITION
-            "medicinal_product_definition": {
-                "instance_id": mpd_id,
-                "pharmaceutical_doseform": get_doseform(row['administrableDoseForm']),
-                "legal_status_of_supply": {
-                    "code": '100000072084',  # TODO ????
-                    "display": "Medicinal Product subject to medical prescription",  # TODO ????
-                },
-                "name_parts": {  # TODO
-                    'invented': 'invented part',
-                    'doseForm': 'dose form',
-                    'strength': 'strength'
-                }
-            },
+            # CONTEXT MEDICINAL PRODUCT DEFINITION
+            **JinjaContexts.MedicinalProductDefinition(
+                row,
+                mpd_id=mpd_id,
+            ),
 
             # CONTEXT PACKAGED PRODUCT DEFINITION
-            "packaged_product_definition": {
-                "instance_id": ppd_id,
-                "reference_package": mpd_id,
-                "reference_containedItem": mid_id,
-                "unit_of_presentation": get_unit_of_presentation(row['manufacturedItemUnitOfPresentation']),
-                "pack_size": row['packSize'],  # TODO packSize
-                "description": "Mock description",
-                "packaging": {
-                    "type": 'Bottle' if row['manufacturedDoseFormLabel'].lower() == 'syrup' else 'Box',
-                    "code": 100000073497 if row['manufacturedDoseFormLabel'].lower() == 'syrup' else 100000073498,
-                    "quantity": 1
-                    # if row['manufacturedDoseFormLabel'].lower() == 'syrup' else row['manufacturedItemQuanty'],
-                }
-            },
+            **JinjaContexts.PackagedProductDefinition(
+                row,
+                ppd_id=ppd_id,
+                mpd_id=mpd_id,
+                mid_id=mid_id
+            ),
 
             # CONTEXT REGULATED AUTHORIZATION
-            "regulated_authorization": {
-                "instance_id": ra_id,
-                "reference_subject": mpd_id,
-                "reference_holder": organization_instance_id,
-                "authorization_holder": {
-                    "code": organization_id,  # TODO not sure if this is the exact column
-                },
-                "organization": {
-                    "identifier": organization_id,  # TODO not sure if this is the exact column
-                    "name": organization_name,  # TODO not sure if this is the exact column
-                    # "name": normalize_name(row['marketingAuthorizationHolderLabel']),  # TODO not sure if this is the exact column
-                },
-            },
+            **JinjaContexts.RegulatedAuthorization(
+                row,
+                ra_id=ra_id,
+                mpd_id=mpd_id,
+                organization_id=organization_id,
+                organization_name=organization_name,
+                organization_instance_id=organization_instance_id,
+            ),
         }
     )
     bundles.add(common_name)

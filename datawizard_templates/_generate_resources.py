@@ -1,3 +1,4 @@
+from datawizard_templates.data_as_is.contexts import JinjaContexts
 from datawizard_templates.generate import render_component, Templates
 from datawizard_templates.jinja_filters import *
 from datawizard_templates.script.utilities import *
@@ -37,47 +38,29 @@ def make_resources(index, row):
         render_component(
             Templates.ADMINISTRABLE_PRODUCT_DEFINITION,
             output_filename="AdministrableProductDefinition",
-            context={
-                **base_context,
-                "administrable_product_definition": {
-                    "administrable_doseform": get_doseform(row['administrableDoseForm']),
-                    "unit_of_presentation": get_unit_of_presentation(row['pharmaceuticalProductUnitOfPresentation']),
-                    "route_of_administration": get_routes_of_administration(row['routesOfAdministration']),
-                    "reference_form": mpd_id,
-                    "produced_from": mid_id,
-                    "instance_id": apd_id,
-                }
-            }
+            context=JinjaContexts.AdministrableProductDefinition(
+                row,
+                base_context=base_context,
+                apd_id=apd_id,
+                mpd_id=mpd_id,
+                mid_id=mid_id
+            )
         )
 
     # RENDER INGREDIENT
     if not is_duplicate(ingredient_id):
-        ratio_type, ratio_numerator, ratio_denominator, reference_strength = get_ingredient_info(row)
         render_component(
             Templates.INGREDIENT,
             # output_filename=f'I-{normalize_name(get_substance(row["substanceCode"])["display"])}-{normalize_name(base_context["full_name"])}',
             output_filename="Ingredient",
-            context={
-                **base_context,
-                "ingredient": {
-                    "instance_id": ingredient_id,
-                    # "full_name": normalize_name(f"{row['substanceCode']} {base_context['full_name']}"),
-                    "full_name": normalize_name(f"{row['substanceCode']}"),
-                    "substance": get_substance(row['substanceCode']),
-                    "moiety": {'code': row['moietyCode'], 'display': row['moietyLabel']},
-                    "references": {
-                        "mpd": mpd_id,
-                        "mid": mid_id,
-                        "apd": apd_id
-                    },
-                    "ratio": {
-                        "type": ratio_type,
-                        "numerator": ratio_numerator,
-                        "denominator": ratio_denominator,
-                    },
-                    **reference_strength,
-                },
-            }
+            context=JinjaContexts.Ingredient(
+                row,
+                base_context=base_context,
+                ingredient_id=ingredient_id,
+                mid_id=mid_id,
+                mpd_id=mpd_id,
+                apd_id=apd_id,
+            )
         )
 
     # RENDER MANUFACTURED_ITEM_DEFINITION
@@ -85,17 +68,11 @@ def make_resources(index, row):
         render_component(
             Templates.MANUFACTURED_ITEM_DEFINITION,
             output_filename="ManufacturedItemDefinition",
-            context={
-                **base_context,
-                "manufactured_item_definition": {
-                    "instance_id": mid_id,
-                    "manufactured_doseform": {
-                        **get_doseform(row['manufacturedDoseForm']),
-                        "unit_of_presentation": get_unit_of_presentation(
-                            row['pharmaceuticalProductUnitOfPresentation']),
-                    },
-                },
-            }
+            context=JinjaContexts.ManufacturedItemDefinition(
+                row,
+                base_context=base_context,
+                mid_id=mid_id,
+            )
         )
 
     # RENDER MEDICINAL_PRODUCT_DEFINITION
@@ -103,23 +80,11 @@ def make_resources(index, row):
         render_component(
             Templates.MEDICINAL_PRODUCT_DEFINITION,
             output_filename="MedicinalProductDefinition",
-            context={
-                **base_context,
-
-                "medicinal_product_definition": {
-                    "instance_id": mpd_id,
-                    "pharmaceutical_doseform": get_doseform(row['administrableDoseForm']),
-                    "legal_status_of_supply": {
-                        "code": '100000072084',  # TODO ????
-                        "display": "Medicinal Product subject to medical prescription",  # TODO ????
-                    },
-                    "name_parts": {  # TODO
-                        'invented': 'invented part',
-                        'doseForm': 'dose form',
-                        'strength': 'strength'
-                    }
-                },
-            }
+            context=JinjaContexts.MedicinalProductDefinition(
+                row,
+                base_context=base_context,
+                mpd_id=mpd_id,
+            )
         )
 
     # RENDER PACKAGED_PRODUCT_DEFINITION
@@ -127,23 +92,13 @@ def make_resources(index, row):
         render_component(
             Templates.PACKAGED_PRODUCT_DEFINITION,
             output_filename="PackagedProductDefinition",
-            context={
-                **base_context,
-                "packaged_product_definition": {
-                    "instance_id": ppd_id,
-                    "reference_package": mpd_id,
-                    "reference_containedItem": mid_id,
-                    "unit_of_presentation": get_unit_of_presentation(row['manufacturedItemUnitOfPresentation']),
-                    "pack_size": row['packSize'],
-                    "description": "Mock description",
-                    "packaging": {
-                        "type": 'Bottle' if row['manufacturedDoseFormLabel'].lower() == 'syrup' else 'Box',
-                        "code": 100000073497 if row['manufacturedDoseFormLabel'].lower() == 'syrup' else 100000073498,
-                        "quantity": 1
-                        # if row['manufacturedDoseFormLabel'].lower() == 'syrup' else row['manufacturedItemQuanty'],
-                    }
-                },
-            }
+            context=JinjaContexts.PackagedProductDefinition(
+                row,
+                base_context=base_context,
+                ppd_id=ppd_id,
+                mpd_id=mpd_id,
+                mid_id=mid_id,
+            )
         )
 
     # RENDER ORGANIZATION
@@ -153,14 +108,13 @@ def make_resources(index, row):
         render_component(
             Templates.ORGANIZATION,
             output_filename="Organization",
-            context={
-                **base_context,
-                "organization": {
-                    "instance_id": organization_instance_id,
-                    "identifier": organization_id,
-                    "name": organization_name,
-                }
-            }
+            context=JinjaContexts.Organization(
+                row,
+                base_context=base_context,
+                organization_instance_id=organization_instance_id,
+                organization_id=organization_id,
+                organization_name=organization_name,
+            )
         )
 
     # RENDER REGULATED_AUTHORIZATION
@@ -168,20 +122,13 @@ def make_resources(index, row):
         render_component(
             Templates.REGULATED_AUTHORIZATION,
             output_filename="RegulatedAuthorization",
-            context={
-                **base_context,
-                "regulated_authorization": {
-                    "instance_id": ra_id,
-                    "reference_subject": mpd_id,
-                    "reference_holder": organization_instance_id,
-                    "authorization_holder": {
-                        "code": organization_id,  # TODO not sure if this is the exact column
-                    },
-                    "organization": {
-                        "identifier": organization_id,  # TODO not sure if this is the exact column
-                        "name": organization_name,  # TODO not sure if this is the exact column
-                        # "name": normalize_name(row['marketingAuthorizationHolderLabel']),  # TODO not sure if this is the exact column
-                    },
-                },
-            }
+            context=JinjaContexts.RegulatedAuthorization(
+                row,
+                base_context=base_context,
+                ra_id=ra_id,
+                mpd_id=mpd_id,
+                organization_instance_id=organization_instance_id,
+                organization_id=organization_id,
+                organization_name=organization_name,
+            )
         )

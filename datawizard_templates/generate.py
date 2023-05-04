@@ -46,7 +46,18 @@ def is_duplicate(instance_id, check_list):
     return instance_id in check_list
 
 
-def validate_row(row):
+def validate_row(index, row, min_index=0, max_index=-1):
+    if index < min_index:
+        raise EnvironmentError
+    if 0 < max_index < index:
+        raise StopIteration
+
+    assert row['packSize'] is not None, f"row {index}: packSize can't be None"
+
+    has_concentration = row['pharmaceuticalProductUnitOfPresentation'] in [None, '']
+    if has_concentration:
+        assert row['referenceStrengthConcentrationNumeratorValue'] is not None,  f"row {index}: referenceStrengthConcentrationNumeratorValue must be present"
+
     # pharmaceutical dose form must be spor
     # unit of presentation must be spor
     # if unit of presentation is null then concentration strength must be not null
@@ -86,21 +97,36 @@ def write_list_to_file(file_path, file_name, input_list):
     print(f"Lista scritta nel file {full_file_path}")
 
 
-def main():
+def main(generation_type='resource'):
     from datawizard_templates._generate_bundles import make_bundle, bundle_results
     from datawizard_templates._generate_resources import make_resources
+
+    make = {"bundle": [None, None], "resource": [None, None]}
+
+    GEN, RES = 0, 1
+
+    make["bundle"][GEN] = make_bundle
+    make["bundle"][RES] = bundle_results
+
+    make["resource"][GEN] = make_resources
+    make["resource"][RES] = lambda : print('\nResources created!!')  # resource_results
+
     for index, row in df.iterrows():
         if row['substanceName'].upper() == 'AMLODIPINE MESILATE MONOHYDRATE':
             # TODO if unit of presentation is null then concentration strength must be not null
             # TODO missing AMLODIPINE MESILATE MONOHYDRATE from sustance code system
             continue
         #if index > 0 : break
-        validate_row(row)
+        try:
+            validate_row(index, row, max_index=1000)
+        except StopIteration:
+            break
+        except EnvironmentError:
+            continue
 
-        make_resources(index, row)
-        make_bundle(index, row)
+        make[generation_type][GEN](index, row)
 
-    bundle_results()
+    make[generation_type][RES]()
 
 
 if __name__ == '__main__':
@@ -120,7 +146,6 @@ if __name__ == '__main__':
 
     # 3. 'packSize' should be an integer, not '20 x 100 ml', or 'ml'
     # > set wrong values of 'packSize' to None
-    df['packSize'] = df['packSize'].replace(r'[^0-9]+', None, regex=True)
 
     # 4. 'pcId' column is missing
     # > add empty column for 'pcId'
@@ -130,13 +155,20 @@ if __name__ == '__main__':
     # > fix typo
     # df['authorizedPharmaceuticalDoseForm'] = df['authorisedPharmaceuticalDoseForm']
 
+    float_fields = [
+        'referenceStrengthConcentrationNumeratorValue',
+        'referenceStrengthConcentrationDenominatorValue',
+        'referenceStrengthPresentationNumeratorValue',
+        'referenceStrengthPresentationDenominatorValue',
+        'packSize',
+    ]
+    df[float_fields] = df[float_fields].apply(lambda x: x.str.replace(',', '.'))
+
     df = df.astype(dtype={
-        'packSize': 'Int64',
-        'referenceStrengthConcentrationNumeratorValue': float,
-        'referenceStrengthConcentrationDenominatorValue': float,
-        'referenceStrengthPresentationNumeratorValue': float,
-        'referenceStrengthPresentationDenominatorValue': float,
+        #'packSize': 'Int64',
+        **{field: float for field in float_fields},
     })
+
     df = df.replace(np.nan, None)
 
     df['country'] = df['country'].str.lower()

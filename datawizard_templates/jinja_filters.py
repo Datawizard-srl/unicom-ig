@@ -20,4 +20,4 @@ def add_custom_filters(environment: jinja2.Environment):
 @custom_filter
 def normalize_name(name):
     normalized = re.sub(r"\W+", r"-", name.strip())
-    return unidecode(normalized)[:50]
+    return unidecode(normalized)[:50].replace(" ", "").replace("/", "-")

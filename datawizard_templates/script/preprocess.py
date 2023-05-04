@@ -174,19 +174,23 @@ if __name__ == '__main__':
     # 7. typo: 'authorisedPharmaceuticalDoseForm' instead of 'authorizedPharmaceuticalDoseForm'
     # > fix typo
     #df['authorizedPharmaceuticalDoseForm'] = df['authorisedPharmaceuticalDoseForm']
+    float_fields = [
+        'manufacturedItemQuantity',
+        'referenceStrengthConcentrationNumeratorValue',
+        'referenceStrengthConcentrationDenominatorValue',
+        'referenceStrengthPresentationNumeratorValue',
+        'referenceStrengthPresentationDenominatorValue',
+        'strengthConcentrationNumeratorValue',
+        'strengthConcentrationDenominatorValue',
+        'strengthPresentationNumeratorValue',
+        'strengthPresentationDenominatorValue',
+    ]
+    df[float_fields] = df[float_fields].apply(lambda x: x.str.replace(',', '.'))
 
     df = df.astype(dtype={
         'packSize': 'Int64',
         'packageItemQuantity': 'Int64',
-        'manufacturedItemQuantity': float,
-        'referenceStrengthConcentrationNumeratorValue': float,
-        'referenceStrengthConcentrationDenominatorValue': float,
-        'referenceStrengthPresentationNumeratorValue': float,
-        'referenceStrengthPresentationDenominatorValue': float,
-        'strengthConcentrationNumeratorValue': float,
-        'strengthConcentrationDenominatorValue': float,
-        'strengthPresentationNumeratorValue': float,
-        'strengthPresentationDenominatorValue': float,
+        **{field: float for field in float_fields},
     })
     df = df.replace(np.nan, None)
 

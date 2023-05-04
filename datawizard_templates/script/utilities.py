@@ -25,6 +25,12 @@ def get_doseform(code):
         '10227000': {'code': '100000073683', 'display': 'Prolonged-release tablet'},
         '10106000': {'code': '100000073362', 'display': 'Oral suspension'},
         '13007000': {'code': '100000174002', 'display': "Effervescent granules for oral suspension"},
+        '10105000': {'code': '100000073646', 'display': "Oral solution"},
+        '10215000': {'code': '100000073662', 'display': "Prolonged-release capsule, hard"},
+        '10228000': {'code': '100000073684', 'display': "Chewable tablet"},
+        '50060000': {'code': '100000074038', 'display': "Solution for injection/infusion"},
+        '10102000': {'code': '100000073643', 'display': "Oral drops, suspension"},
+
 
         # combined
         '50029200': {'code': '100000073650', 'display': "Granules for oral suspension"},
@@ -54,7 +60,8 @@ def get_routes_of_administration(code):
         '20003000': {'code': '100000073566', 'display': 'Cutaneous use'},
         '20045000': {'code': '100000073611', 'display': 'Intravenous use'},
         '20070000': {'code': '100000073637', 'display': 'Transdermal use'},
-        '20061000': {'code': '100000073628', 'display': 'Rectal use'}
+        '20061000': {'code': '100000073628', 'display': 'Rectal use'},
+        '20035000': {'code': '100000073600', 'display': 'Intramuscular use'},
     }
     return _get_by_code(codes, code) or codes[code]
 
