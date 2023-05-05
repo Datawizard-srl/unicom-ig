@@ -17,12 +17,15 @@ def bundle_results():
 
 
 def make_bundle(index, row, bundle_type="batch"):
+    print(f"--- row_{index=}: Bundle for {row['packagedMedicinalProductPrimaryKey']=} ---")
+
+    country_info = get_country_info_by_ema(row['country'])
     base_context = {
         "full_name": row['fullName'].strip(),
         "mpid": row["mpIdLabel"].strip(),  # TODO this is not the mpid
-        "country": get_country_info_by_ema(row['country']),
+        "country": country_info,
         "language": get_language_info_by_ema(row['country']),
-        "pcId": row['pcId'].strip(),
+        "pcId": country_info["abbreviation"]+"-"+row['packagedMedicinalProductPrimaryKey'].strip(),
         "usage": "example",
         "server_url": "https://jpa.unicom.datawizard.it/fhir",
         "type": bundle_type,
@@ -32,10 +35,11 @@ def make_bundle(index, row, bundle_type="batch"):
         base_context['server_url'] = base_context['server_url'][:-1]
 
     organization_id, organization_name, organization_instance_id = make_organization(row, base_context)
-
     common_name = normalize_name(base_context["full_name"]).strip('-')
     bundle_id = f"{common_name}_{index}"
     bundle_filename = f"bundle_{bundle_id}"
+
+    pcid = country_info["abbreviation"]+"-"+row['packagedMedicinalProductPrimaryKey'].strip()
 
     mpd_id = f'{common_name}-{index}-{base_context["country"]["abbreviation"]}-MPD'  # TODO: index? country?
     apd_id = f'{common_name}-{index}-{base_context["country"]["abbreviation"]}-APD'
@@ -43,8 +47,6 @@ def make_bundle(index, row, bundle_type="batch"):
     ppd_id = f'{common_name}-{index}-{base_context["country"]["abbreviation"]}-PPD'
     ra_id = f'{common_name}-{index}-{base_context["country"]["abbreviation"]}-RA'
     ingredient_id = f'I-{base_context["country"]["abbreviation"]}-{index}-{common_name}'  # TODO: substance name
-
-    print(f"Generate bundle for {row['packagedMedicinalProductPrimaryKey']} - {bundle_filename}")
 
     render_component(
         Templates.BUNDLE,
@@ -87,7 +89,8 @@ def make_bundle(index, row, bundle_type="batch"):
                 row,
                 ppd_id=ppd_id,
                 mpd_id=mpd_id,
-                mid_id=mid_id
+                mid_id=mid_id,
+                pcid=pcid,
             ),
 
             # CONTEXT REGULATED AUTHORIZATION

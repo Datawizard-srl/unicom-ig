@@ -5,17 +5,18 @@ from datawizard_templates.script.utilities import get_unit_of_presentation, get_
 
 class JinjaContexts:
     @staticmethod
-    def PackagedProductDefinition(row, base_context=None, *, ppd_id, mpd_id, mid_id):
+    def PackagedProductDefinition(row, base_context=None, *, ppd_id, mpd_id, mid_id, pcid):
         base_context = base_context or {}
         return {
             **base_context,
             "packaged_product_definition": {
+                "pcid": pcid,
                 "instance_id": ppd_id,
                 "reference_package": mpd_id,
                 "reference_containedItem": mid_id,
                 "unit_of_presentation": get_unit_of_presentation(row['manufacturedItemUnitOfPresentation']),
                 "pack_size": str(row['packSize']).split('.')[0] if str(row['packSize']).split('.')[1] == '0' else row['packSize'],
-                "description": "Mock description",
+                #"description": "Mock description",
                 "packaging": {
                     "type": 'Bottle' if row['manufacturedDoseFormLabel'].lower() == 'syrup' else 'Box',
                     "code": 100000073497 if row['manufacturedDoseFormLabel'].lower() == 'syrup' else 100000073498,
@@ -92,11 +93,15 @@ class JinjaContexts:
                     "code": '100000072084',  # TODO ????
                     "display": "Medicinal Product subject to medical prescription",  # TODO ????
                 },
-                "name_parts": {  # TODO
-                    'invented': 'invented part',
-                    'doseForm': 'dose form',
-                    'strength': 'strength'
-                }
+                "classification": [
+                    '$100000093533#100000095065 "amlodipine"',
+                    '$who-atc#C08CA01 "amlodipine"',
+                ]  # TODO
+                # "name_parts": {  # TODO
+                #     'invented': 'invented part',
+                #     'doseForm': 'dose form',
+                #     'strength': 'strength'
+                # }
             },
         }
 

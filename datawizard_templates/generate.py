@@ -49,8 +49,12 @@ def is_duplicate(instance_id, check_list):
 def validate_row(index, row, min_index=0, max_index=-1):
     if index < min_index:
         raise EnvironmentError
-    if 0 < max_index < index:
+    if 0 < max_index <= index:
         raise StopIteration
+
+    if row['substanceName'].upper() == 'AMLODIPINE MESILATE MONOHYDRATE':
+        # TODO missing AMLODIPINE MESILATE MONOHYDRATE from sustance code system
+        raise EnvironmentError
 
     assert row['packSize'] is not None, f"row {index}: packSize can't be None"
 
@@ -112,13 +116,8 @@ def main(generation_type='resource'):
     make["resource"][RES] = lambda : print('\nResources created!!')  # resource_results
 
     for index, row in df.iterrows():
-        if row['substanceName'].upper() == 'AMLODIPINE MESILATE MONOHYDRATE':
-            # TODO if unit of presentation is null then concentration strength must be not null
-            # TODO missing AMLODIPINE MESILATE MONOHYDRATE from sustance code system
-            continue
-        #if index > 0 : break
         try:
-            validate_row(index, row, max_index=1000)
+            validate_row(index, row)
         except StopIteration:
             break
         except EnvironmentError:

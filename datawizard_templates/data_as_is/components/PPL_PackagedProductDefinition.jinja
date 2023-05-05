@@ -4,7 +4,7 @@ Instance: {{packaged_product_definition.instance_id}}
 InstanceOf: PPLPackagedProductDefinition
 Usage: #{{usage}}
 
-* identifier[pcid].value = "{{country.abbreviation}}-{{pcId|normalize_name}}"
+* identifier[pcid].value = "{{packaged_product_definition.pcid}}"
 * packageFor = Reference({{packaged_product_definition.reference_package}})
 * containedItemQuantity = {{packaged_product_definition.pack_size}} $200000000014#{{packaged_product_definition.unit_of_presentation.code}} "{{packaged_product_definition.unit_of_presentation.display}}"
 * description = "{{packaged_product_definition.description}}"

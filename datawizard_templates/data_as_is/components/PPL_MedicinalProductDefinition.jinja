@@ -9,12 +9,16 @@ Usage: #{{usage}}
 * status = $200000005003#200000005004 "Provisional"
 * combinedPharmaceuticalDoseForm = $200000000004#{{medicinal_product_definition.pharmaceutical_doseform.code}} "{{medicinal_product_definition.pharmaceutical_doseform.display}}"
 * legalStatusOfSupply = $100000072051#{{medicinal_product_definition.legal_status_of_supply.code}} "{{medicinal_product_definition.legal_status_of_supply.display}}"
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+{% if medicinal_product_definition.classification %}
+* classification[0] = {{ medicinal_product_definition.classification.0 }}
+* classification[+] = {{ medicinal_product_definition.classification.1 }}
+{% endif %}
 * name.productName = "{{full_name}}"
+{% if medicinal_product_definition.name_parts %}
 {%- for part_key, part_value in medicinal_product_definition.name_parts.items() %}
 * name.part[{{part_key}}].part = "{{part_value}}"
 {%- endfor %}
+{% endif %}
 * name.usage.country = $100000000002#{{country.code}} "{{country.display}}"
 * name.usage.language = $100000072057#{{language.code}} "{{language.display}}"
 

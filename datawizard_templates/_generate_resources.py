@@ -14,16 +14,18 @@ def is_duplicate(instance_id):
 
 def make_resources(index, row):
     print(f"--- row_{index=}: {row['packagedMedicinalProductPrimaryKey']=} ---")
+    country_info = get_country_info_by_ema(row['country'])
     base_context = {
         "full_name": row['fullName'].strip(),
         "mpid": row["mpIdLabel"].strip(),  # TODO this is not the mpid
-        "country": get_country_info_by_ema(row['country']),
+        "country": country_info,
         "language": get_language_info_by_ema(row['country']),
-        "pcId": row['pcId'].strip(),
         "usage": "example"
     }
 
     common_file_name = normalize_name(base_context["full_name"])
+
+    pcid = country_info["abbreviation"]+"-"+row['packagedMedicinalProductPrimaryKey'].strip()
 
     mpd_id = f'{common_file_name}-{index}-{base_context["country"]["abbreviation"]}-MPD'
     apd_id = f'{common_file_name}-{index}-{base_context["country"]["abbreviation"]}-APD'
@@ -98,6 +100,7 @@ def make_resources(index, row):
                 ppd_id=ppd_id,
                 mpd_id=mpd_id,
                 mid_id=mid_id,
+                pcid=pcid,
             )
         )
 
