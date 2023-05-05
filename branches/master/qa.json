@@ -1,0 +1,12 @@
+{
+  "url" : "http://unicom-project.eu/fhir/ImplementationGuide/hl7.eu.fhir.unicom",
+  "name" : "UnicomIG",
+  "package-id" : "hl7.eu.fhir.unicom",
+  "ig-ver" : "0.1.0",
+  "date" : "Fri, 05 May, 2023 14:19:24 +0000",
+  "errs" : 0,
+  "warnings" : 2277,
+  "hints" : 171,
+  "version" : "5.0.0",
+  "tool" : "5.0.0 (3)"
+}
