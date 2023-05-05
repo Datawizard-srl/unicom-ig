@@ -1,0 +1,65 @@
+Instance: {{instance_id}}
+InstanceOf: Bundle
+Usage: #example
+{% if description -%}
+Description: "{{description}}"
+{%- endif %}
+* type = #{{type}}
+
+* entry[0].resource = {{medicinal_product_definition.instance_id}}
+* entry[=].request.method = #PUT
+* entry[=].request.url = "MedicinalProductDefinition/{{medicinal_product_definition.instance_id}}"
+* entry[=].fullUrl = "{{server_url}}/MedicinalProductDefinition/{{medicinal_product_definition.instance_id}}"
+
+* entry[+].resource = {{regulated_authorization.instance_id}}
+* entry[=].request.method = #PUT
+* entry[=].request.url = "RegulatedAuthorization/{{regulated_authorization.instance_id}}"
+* entry[=].fullUrl = "{{server_url}}/RegulatedAuthorization/{{regulated_authorization.instance_id}}"
+{#
+* entry[+].resource = {{organization.instance_id}}
+* entry[=].request.method = #PUT
+* entry[=].request.url = "Organization/{{organization.instance_id}}"
+* entry[=].fullUrl = "{{server_url}}/Organization/{{organization.instance_id}}"
+#}
+* entry[+].resource = {{administrable_product_definition.instance_id}}
+* entry[=].request.method = #PUT
+* entry[=].request.url = "AdministrableProductDefinition/{{administrable_product_definition.instance_id}}"
+* entry[=].fullUrl = "{{server_url}}/AdministrableProductDefinition/{{administrable_product_definition.instance_id}}"
+
+* entry[+].resource = {{manufactured_item_definition.instance_id}}
+* entry[=].request.method = #PUT
+* entry[=].request.url = "ManufacturedItemDefinition/{{manufactured_item_definition.instance_id}}"
+* entry[=].fullUrl = "{{server_url}}/ManufacturedItemDefinition/{{manufactured_item_definition.instance_id}}"
+
+* entry[+].resource = {{ingredient.instance_id}}
+* entry[=].request.method = #PUT
+* entry[=].request.url = "Ingredient/{{ingredient.instance_id}}"
+* entry[=].fullUrl = "{{server_url}}/Ingredient/{{medicinal_product_definition.instance_id}}"
+
+* entry[+].resource = {{packaged_product_definition.instance_id}}
+* entry[=].request.method = #PUT
+* entry[=].request.url = "PackagedProductDefinition/{{packaged_product_definition.instance_id}}"
+* entry[=].fullUrl = "{{server_url}}/PackagedProductDefinition/{{medicinal_product_definition.instance_id}}"
+
+{% with usage="inline" %}
+
+{% include "PPL_MedicinalProductDefinition.jinja" %}
+
+
+{% include "PPL_RegulatedAuthorization.jinja" %}
+
+
+{% include "/PPL_AdministrableProductDefinition.jinja" %}
+
+
+{% include "PPL_ManufacturedItemDefinition.jinja" %}
+
+
+{% include "PPL_Ingredient.jinja" %}
+
+
+{# include "PPL_Organization.jinja" #}
+
+
+{% include "PPL_PackagedProductDefinition.jinja" %}
+{% endwith %}

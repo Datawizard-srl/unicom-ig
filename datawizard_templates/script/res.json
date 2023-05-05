@@ -1,0 +1,3186 @@
+[{
+  "pcId": "NOR amlodipine besilate Accord Healthcare B.V. tablet 100 x 10mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10219000",
+          "unitOfPresentation": "15054000",
+          "manufacturedItemQuantity": 100.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000090079"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10219000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Amlodipin Accord tab 10 mg",
+    "atcCodes": [
+      "C08CA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10219000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Accord Healthcare B.V.",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10219000",
+      "unitOfPresentation": "10219000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR amlodipine besilate Accord Healthcare B.V. tablet 100 x 5mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10219000",
+          "unitOfPresentation": "15054000",
+          "manufacturedItemQuantity": 100.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000090079"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10219000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Amlodipin Accord tab 5 mg",
+    "atcCodes": [
+      "C08CA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10219000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Accord Healthcare B.V.",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10219000",
+      "unitOfPresentation": "10219000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR amlodipine besilate Upjohn EESV tablet 100 x 10mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10219000",
+          "unitOfPresentation": "15054000",
+          "manufacturedItemQuantity": 100.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000090079"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10219000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Norvasc tab 10 mg",
+    "atcCodes": [
+      "C08CA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10219000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Upjohn EESV",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10219000",
+      "unitOfPresentation": "10219000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR amlodipine besilate Sandoz A/S tablet 105 x 10mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10219000",
+          "unitOfPresentation": "15054000",
+          "manufacturedItemQuantity": 105.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000090079"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10219000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Amlodipin Sandoz tab 10 mg",
+    "atcCodes": [
+      "C08CA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10219000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Sandoz A/S",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10219000",
+      "unitOfPresentation": "10219000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR amlodipine besilate Sandoz A/S tablet 30 x 5mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10219000",
+          "unitOfPresentation": "15054000",
+          "manufacturedItemQuantity": 30.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000090079"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10219000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Amlodipin Sandoz tab 5 mg",
+    "atcCodes": [
+      "C08CA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10219000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Sandoz A/S",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10219000",
+      "unitOfPresentation": "10219000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR amlodipine besilate Sandoz A/S tablet 250 x 10mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10219000",
+          "unitOfPresentation": "15054000",
+          "manufacturedItemQuantity": 250.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000090079"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10219000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Amlodipin Sandoz tab 10 mg",
+    "atcCodes": [
+      "C08CA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10219000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Sandoz A/S",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10219000",
+      "unitOfPresentation": "10219000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR amlodipine besilate Sandoz A/S tablet 30 x 10mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10219000",
+          "unitOfPresentation": "15054000",
+          "manufacturedItemQuantity": 30.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000090079"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10219000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Amlodipin Sandoz tab 10 mg",
+    "atcCodes": [
+      "C08CA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10219000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Sandoz A/S",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10219000",
+      "unitOfPresentation": "10219000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR amlodipine besilate Sandoz A/S tablet 90 x 10mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10219000",
+          "unitOfPresentation": "15054000",
+          "manufacturedItemQuantity": 90.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000090079"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10219000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Amlodipin Sandoz tab 10 mg",
+    "atcCodes": [
+      "C08CA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10219000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Sandoz A/S",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10219000",
+      "unitOfPresentation": "10219000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR amlodipine besilate Upjohn EESV tablet 50 x 5mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10219000",
+          "unitOfPresentation": "15054000",
+          "manufacturedItemQuantity": 50.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000090079"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10219000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Norvasc SySk tab 5 mg",
+    "atcCodes": [
+      "C08CA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10219000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Upjohn EESV",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10219000",
+      "unitOfPresentation": "10219000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR amlodipine besilate Accord Healthcare B.V. tablet 30 x 5mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10219000",
+          "unitOfPresentation": "15054000",
+          "manufacturedItemQuantity": 30.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000090079"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10219000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Amlodipin Accord tab 5 mg",
+    "atcCodes": [
+      "C08CA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10219000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Accord Healthcare B.V.",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10219000",
+      "unitOfPresentation": "10219000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR amlodipine besilate Orifarm AS tablet 100 x 10mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10219000",
+          "unitOfPresentation": "15054000",
+          "manufacturedItemQuantity": 100.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000090079"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10219000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Norvasc tab 10 mg",
+    "atcCodes": [
+      "C08CA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10219000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Orifarm AS",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10219000",
+      "unitOfPresentation": "10219000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR amlodipine besilate Sandoz A/S tablet 90 x 5mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10219000",
+          "unitOfPresentation": "15054000",
+          "manufacturedItemQuantity": 90.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000090079"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10219000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Amlodipin Sandoz tab 5 mg",
+    "atcCodes": [
+      "C08CA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10219000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Sandoz A/S",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10219000",
+      "unitOfPresentation": "10219000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR amlodipine besilate Sandoz A/S tablet 100 x 10mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10219000",
+          "unitOfPresentation": "15054000",
+          "manufacturedItemQuantity": 100.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000090079"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10219000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Amlodipin Sandoz tab 10 mg",
+    "atcCodes": [
+      "C08CA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10219000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Sandoz A/S",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10219000",
+      "unitOfPresentation": "10219000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR amlodipine besilate Sandoz A/S tablet 250 x 5mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10219000",
+          "unitOfPresentation": "15054000",
+          "manufacturedItemQuantity": 250.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000090079"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10219000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Amlodipin Sandoz tab 5 mg",
+    "atcCodes": [
+      "C08CA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10219000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Sandoz A/S",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10219000",
+      "unitOfPresentation": "10219000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR carbamazepine Orifarm AS prolonged-release tablet 100 x 300mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10227000",
+          "unitOfPresentation": "15054000",
+          "manufacturedItemQuantity": 100.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000092127"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10227000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Trimonil Retard depottab 300 mg",
+    "atcCodes": [
+      "N03AF01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10227000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Orifarm AS",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10227000",
+      "unitOfPresentation": "10227000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR carbamazepine Desitin Arzneimittel GmbH prolonged-release tablet 100 x 600mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10227000",
+          "unitOfPresentation": "15054000",
+          "manufacturedItemQuantity": 100.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000092127"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10227000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Trimonil Retard depottab 600 mg",
+    "atcCodes": [
+      "N03AF01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10227000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Desitin Arzneimittel GmbH",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10227000",
+      "unitOfPresentation": "10227000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR carbamazepine Desitin Arzneimittel GmbH prolonged-release tablet 20 x 300mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10227000",
+          "unitOfPresentation": "15054000",
+          "manufacturedItemQuantity": 20.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000092127"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10227000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Trimonil Retard SySk depottab 300 mg",
+    "atcCodes": [
+      "N03AF01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10227000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Desitin Arzneimittel GmbH",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10227000",
+      "unitOfPresentation": "10227000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR carbamazepine Novartis Norge (2) tablet 100 x 100mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10219000",
+          "unitOfPresentation": "15054000",
+          "manufacturedItemQuantity": 100.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000092127"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10219000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Tegretol tab 100 mg",
+    "atcCodes": [
+      "N03AF01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10219000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Novartis Norge (2)",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10219000",
+      "unitOfPresentation": "10219000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR carbamazepine Novartis Norge (2) prolonged-release tablet 200 x 200mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10227000",
+          "unitOfPresentation": "15054000",
+          "manufacturedItemQuantity": 200.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000092127"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10227000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Tegretol Retard depottab 200 mg",
+    "atcCodes": [
+      "N03AF01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10227000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Novartis Norge (2)",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10227000",
+      "unitOfPresentation": "10227000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR carbamazepine Desitin Arzneimittel GmbH prolonged-release tablet 20 x 150mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10227000",
+          "unitOfPresentation": "15054000",
+          "manufacturedItemQuantity": 20.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000092127"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10227000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Trimonil Retard SySk depottab 150 mg",
+    "atcCodes": [
+      "N03AF01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10227000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Desitin Arzneimittel GmbH",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10227000",
+      "unitOfPresentation": "10227000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR carbamazepine Novartis Norge (2) prolonged-release tablet 200 x 400mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10227000",
+          "unitOfPresentation": "15054000",
+          "manufacturedItemQuantity": 200.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000092127"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10227000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Tegretol Retard depottab 400 mg",
+    "atcCodes": [
+      "N03AF01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10227000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Novartis Norge (2)",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10227000",
+      "unitOfPresentation": "10227000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR carbamazepine Novartis Norge (2) prolonged-release tablet 200 x 400mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10227000",
+          "unitOfPresentation": "15054000",
+          "manufacturedItemQuantity": 200.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000092127"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10227000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Tegretol Retard depottab 400 mg",
+    "atcCodes": [
+      "N03AF01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10227000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Novartis Norge (2)",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10227000",
+      "unitOfPresentation": "10227000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR carbamazepine Essential Pharma (M) Limited Ssuppository 5 x 250mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "11013000",
+          "unitOfPresentation": "15051000",
+          "manufacturedItemQuantity": 5.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000092127"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "11013000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Carbamazepine Essential Pharma stikkpille 250 mg",
+    "atcCodes": [
+      "N03AF01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "11013000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Essential Pharma (M) Limited",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "11013000",
+      "unitOfPresentation": "11013000",
+      "routesOfAdministration": [
+        "20061000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR carbamazepine Novartis Norge (2) tablet 20 x 200mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10219000",
+          "unitOfPresentation": "15054000",
+          "manufacturedItemQuantity": 20.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000092127"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10219000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Tegretol SySk tab 200 mg",
+    "atcCodes": [
+      "N03AF01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10219000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Novartis Norge (2)",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10219000",
+      "unitOfPresentation": "10219000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR carbamazepine Novartis Norge (2) oral suspension 300mL x 100mg/5mL",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10220000",
+          "unitOfPresentation": null,
+          "manufacturedItemQuantity": 300.0,
+          "volumeUnit": "mL",
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000092127"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10220000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Tegretol mikst susp 20 mg/ml",
+    "atcCodes": [
+      "N03AF01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10220000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Novartis Norge (2)",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10220000",
+      "unitOfPresentation": "10220000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR ibuprofen Recordati Rare Diseases solution for injection 4 x 5mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "11201000",
+          "unitOfPresentation": "15002000",
+          "manufacturedItemQuantity": 4.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000090365"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "11201000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Pedea inj, oppl 5 mg/ml",
+    "atcCodes": [
+      "C01EB16"
+    ],
+    "authorizedPharmaceuticalDoseForm": "11201000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Recordati Rare Diseases",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "11201000",
+      "unitOfPresentation": "11201000",
+      "routesOfAdministration": [
+        "20045000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR ibuprofen Karo Pharma AS film coated tablet 50 x 400mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10221000",
+          "unitOfPresentation": "15054000",
+          "manufacturedItemQuantity": 50.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000090365"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10221000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Ibux SySk tab 400 mg",
+    "atcCodes": [
+      "M01AE01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10221000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Karo Pharma AS",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10221000",
+      "unitOfPresentation": "10221000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR ibuprofen Karo Pharma AS oral suspension 100mL x 100mg/5mL",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10220000",
+          "unitOfPresentation": null,
+          "manufacturedItemQuantity": 100.0,
+          "volumeUnit": "mL",
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000090365"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10220000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Ibux mikst susp med jordb\u00e6rsmak 20 mg/ml",
+    "atcCodes": [
+      "M01AE01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10220000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Karo Pharma AS",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10220000",
+      "unitOfPresentation": "10220000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR ibuprofen Reckitt Benckiser Healthcare (Scandinavia) A/S (1) oral suspension 100mL x 200mg/5mL",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10220000",
+          "unitOfPresentation": null,
+          "manufacturedItemQuantity": 100.0,
+          "volumeUnit": "mL",
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000090365"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10220000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Nurofen mikst susp med jordb\u00e6rsmak 40 mg/ml",
+    "atcCodes": [
+      "M01AE01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10220000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Reckitt Benckiser Healthcare (Scandinavia) A/S (1)",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10220000",
+      "unitOfPresentation": "10220000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR ibuprofen Karo Pharma AS film coated tablet 20 x 600mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10221000",
+          "unitOfPresentation": "15054000",
+          "manufacturedItemQuantity": 20.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000090365"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10221000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Ibux SySk tab 600 mg",
+    "atcCodes": [
+      "M01AE01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10221000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Karo Pharma AS",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10221000",
+      "unitOfPresentation": "10221000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR ibuprofen B. Braun Melsungen  AG solution for infusion 10 x 600mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "11210000",
+          "unitOfPresentation": "15060000",
+          "manufacturedItemQuantity": 10.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000090365"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "11210000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Ibuprofen B. Braun inf, oppl 600 mg",
+    "atcCodes": [
+      "M01AE01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "11210000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "B. Braun Melsungen  AG",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "11210000",
+      "unitOfPresentation": "11210000",
+      "routesOfAdministration": [
+        "20045000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR ibuprofen Karo Pharma AS capsule, soft 10 x 400mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10211000",
+          "unitOfPresentation": "15012000",
+          "manufacturedItemQuantity": 10.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000090365"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10211000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Ibux kaps 400 mg",
+    "atcCodes": [
+      "M01AE01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10211000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Karo Pharma AS",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10211000",
+      "unitOfPresentation": "10211000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR ibuprofen Karo Pharma AS capsule, soft 20 x 200mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10211000",
+          "unitOfPresentation": "15012000",
+          "manufacturedItemQuantity": 20.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000090365"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10211000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Ibux kaps 200 mg",
+    "atcCodes": [
+      "M01AE01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10211000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Karo Pharma AS",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10211000",
+      "unitOfPresentation": "10211000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR ibuprofen Reckitt Benckiser Healthcare (Scandinavia) A/S (1) oral suspension 100mL x 40mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10220000",
+          "unitOfPresentation": null,
+          "manufacturedItemQuantity": 100.0,
+          "volumeUnit": "mL",
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000090365"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10220000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Nurofen mikst susp med appelsinsmak 40 mg/ml",
+    "atcCodes": [
+      "M01AE01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10220000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Reckitt Benckiser Healthcare (Scandinavia) A/S (1)",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10220000",
+      "unitOfPresentation": "10220000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR ibuprofen Karo Pharma AS oral suspension 100mL x 40mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10220000",
+          "unitOfPresentation": null,
+          "manufacturedItemQuantity": 100.0,
+          "volumeUnit": "mL",
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000090365"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10220000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Ibux mikst susp 40 mg/ml",
+    "atcCodes": [
+      "M01AE01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10220000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Karo Pharma AS",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10220000",
+      "unitOfPresentation": "10220000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR ibuprofen Karo Pharma AS film coated tablet 50 x 200mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10221000",
+          "unitOfPresentation": "15060000",
+          "manufacturedItemQuantity": 50.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000090365"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10221000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Ibux SySk tab 200 mg",
+    "atcCodes": [
+      "M01AE01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10221000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Karo Pharma AS",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10221000",
+      "unitOfPresentation": "10221000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR ibuprofen Orifarm Healthcare A/S film coated tablet 20 x 400mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10221000",
+          "unitOfPresentation": "15060000",
+          "manufacturedItemQuantity": 20.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000090365"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10221000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Ibumetin tab 400 mg",
+    "atcCodes": [
+      "M01AE01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10221000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Orifarm Healthcare A/S",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10221000",
+      "unitOfPresentation": "10221000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR ibuprofen Karo Pharma AS gel 50g x 50mg/1g",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10503000",
+          "unitOfPresentation": null,
+          "manufacturedItemQuantity": 50.0,
+          "volumeUnit": "g",
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000090365"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": 50.0,
+                "concentrationDenominatorValue": 1.0,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10503000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Ibux gel 50 mg/g",
+    "atcCodes": [
+      "M02AA13"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10503000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Karo Pharma AS",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10503000",
+      "unitOfPresentation": "10503000",
+      "routesOfAdministration": [
+        "20003000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR simvastatin N.V. Organon - Kloosterstraat film coated tablet 98 x 10mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10221000",
+          "unitOfPresentation": "15060000",
+          "manufacturedItemQuantity": 98.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000091786"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10221000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Zocor tab 10 mg",
+    "atcCodes": [
+      "C10AA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10221000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "N.V. Organon - Kloosterstraat",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10221000",
+      "unitOfPresentation": "10221000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR simvastatin Bluefish Pharmaceuticals AB film coated tablet 30 x 40mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10221000",
+          "unitOfPresentation": "15060000",
+          "manufacturedItemQuantity": 30.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000091786"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10221000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Simvastatin Bluefish tab 40 mg",
+    "atcCodes": [
+      "C10AA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10221000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Bluefish Pharmaceuticals AB",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10221000",
+      "unitOfPresentation": "10221000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR simvastatin Bluefish Pharmaceuticals AB film coated tablet 100 x 10mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10221000",
+          "unitOfPresentation": "15060000",
+          "manufacturedItemQuantity": 100.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000091786"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10221000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Simvastatin Bluefish tab 10 mg",
+    "atcCodes": [
+      "C10AA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10221000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Bluefish Pharmaceuticals AB",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10221000",
+      "unitOfPresentation": "10221000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR simvastatin Bluefish Pharmaceuticals AB film coated tablet 50 x 20mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10221000",
+          "unitOfPresentation": "15060000",
+          "manufacturedItemQuantity": 50.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000091786"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10221000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Simvastatin Bluefish SySk tab 20 mg",
+    "atcCodes": [
+      "C10AA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10221000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Bluefish Pharmaceuticals AB",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10221000",
+      "unitOfPresentation": "10221000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR simvastatin N.V. Organon - Kloosterstraat film coated tablet 98 x 40mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10221000",
+          "unitOfPresentation": "15060000",
+          "manufacturedItemQuantity": 98.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000091786"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10221000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Zocor tab 40 mg",
+    "atcCodes": [
+      "C10AA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10221000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "N.V. Organon - Kloosterstraat",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10221000",
+      "unitOfPresentation": "10221000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR simvastatin Sandoz - K\u00f8benhavn film coated tablet 30 x 20mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10221000",
+          "unitOfPresentation": "15060000",
+          "manufacturedItemQuantity": 30.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000091786"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10221000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Simvastatin Sandoz tab 20 mg",
+    "atcCodes": [
+      "C10AA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10221000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Sandoz - K\u00f8benhavn",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10221000",
+      "unitOfPresentation": "10221000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR simvastatin Sandoz - K\u00f8benhavn film coated tablet 20 x 40mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10221000",
+          "unitOfPresentation": "15060000",
+          "manufacturedItemQuantity": 20.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000091786"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10221000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Simvastatin Sandoz SySk tab 40 mg",
+    "atcCodes": [
+      "C10AA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10221000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Sandoz - K\u00f8benhavn",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10221000",
+      "unitOfPresentation": "10221000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR simvastatin Sandoz - K\u00f8benhavn film coated tablet 90 x 10mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10221000",
+          "unitOfPresentation": "15060000",
+          "manufacturedItemQuantity": 90.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000091786"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10221000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Simvastatin Sandoz tab 10 mg",
+    "atcCodes": [
+      "C10AA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10221000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Sandoz - K\u00f8benhavn",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10221000",
+      "unitOfPresentation": "10221000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR simvastatin Bluefish Pharmaceuticals AB film coated tablet 100 x 40mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10221000",
+          "unitOfPresentation": "15060000",
+          "manufacturedItemQuantity": 100.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000091786"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10221000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Simvastatin Bluefish tab 40 mg",
+    "atcCodes": [
+      "C10AA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10221000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Bluefish Pharmaceuticals AB",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10221000",
+      "unitOfPresentation": "10221000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR simvastatin Sandoz - K\u00f8benhavn film coated tablet 30 x 10mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10221000",
+          "unitOfPresentation": "15060000",
+          "manufacturedItemQuantity": 30.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000091786"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10221000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Simvastatin Sandoz tab 10 mg",
+    "atcCodes": [
+      "C10AA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10221000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Sandoz - K\u00f8benhavn",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10221000",
+      "unitOfPresentation": "10221000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}, {
+  "pcId": "NOR simvastatin Orifarm AS film coated tablet 98 x 40mg/",
+  "packSize": null,
+  "packageItems": [
+    {
+      "type": null,
+      "packageItemQuantity": null,
+      "manufacturedItems": [
+        {
+          "manufacturedDoseForm": "10221000",
+          "unitOfPresentation": "15060000",
+          "manufacturedItemQuantity": 98.0,
+          "volumeUnit": null,
+          "ingredients": [
+            {
+              "role": "100000072072",
+              "substance": {
+                "substanceCode": "100000091786"
+              },
+              "referenceStrength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": "10221000"
+              },
+              "strength": {
+                "concentrationNumeratorValue": null,
+                "concentrationDenominatorValue": null,
+                "concentrationNumeratorUnit": null,
+                "concentrationDenominatorUnit": null,
+                "presentationNumeratorValue": null,
+                "presentationDenominatorValue": null,
+                "presentationNumeratorUnit": null,
+                "presentationDenominatorUnit": null
+              }
+            }
+          ]
+        }
+      ],
+      "parentPackageItem": null,
+      "childrenPackageItems": []
+    }
+  ],
+  "medicinalProduct": {
+    "mpId": null,
+    "fullName": "Zocor tab 40 mg",
+    "atcCodes": [
+      "C10AA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10221000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Orifarm AS",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10221000",
+      "unitOfPresentation": "10221000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+}]

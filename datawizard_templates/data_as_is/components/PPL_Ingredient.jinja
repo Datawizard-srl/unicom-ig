@@ -1,0 +1,21 @@
+
+
+Instance: {{ingredient.instance_id}}
+InstanceOf: PPLIngredient
+Usage: #{{usage}}
+* status = #active
+* for[0] = Reference({{ingredient.references.mpd}})
+* for[+] = Reference({{ingredient.references.mid}})
+* for[+] = Reference({{ingredient.references.apd}})
+* role = $100000072050#100000072072 "Active"
+* substance.code.concept = $sms#{{ingredient.substance.code}} "{{ingredient.substance.display}}"
+
+* substance.strength.{{ingredient.ratio.type}}.numerator = {{ingredient.ratio.numerator.value}} $100000110633#{{ingredient.ratio.numerator.code}} "{{ingredient.ratio.numerator.display}}"
+* substance.strength.{{ingredient.ratio.type}}.denominator = {{ingredient.ratio.denominator.value}} $100000110633#{{ingredient.ratio.denominator.code}} "{{ingredient.ratio.denominator.display}}"
+{% if ingredient.reference_strength %}
+* substance.strength.referenceStrength.substance.concept = $sms#{{ingredient.moiety.code}} "{{ingredient.moiety.display}}"
+* substance.strength.referenceStrength.strengthRatio.numerator = {{ingredient.reference_strength.numerator.value}} $100000110633#{{ingredient.reference_strength.numerator.code}} "{{ingredient.reference_strength.numerator.display}}"
+* substance.strength.referenceStrength.strengthRatio.denominator = {{ingredient.reference_strength.denominator.value}} $100000110633#{{ingredient.reference_strength.denominator.code}} "{{ingredient.reference_strength.denominator.display}}"
+{% endif %}
+
+

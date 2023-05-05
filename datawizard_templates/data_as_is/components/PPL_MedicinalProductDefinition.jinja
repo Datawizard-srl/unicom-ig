@@ -1,0 +1,21 @@
+
+
+Instance: {{medicinal_product_definition.instance_id}}
+InstanceOf: PPLMedicinalProductDefinition
+Usage: #{{usage}}
+
+* identifier[mpid].value = "{{medicinal_product_definition.instance_id}}"
+* domain = $100000000004#100000000012 "Human use"
+* status = $200000005003#200000005004 "Provisional"
+* combinedPharmaceuticalDoseForm = $200000000004#{{medicinal_product_definition.pharmaceutical_doseform.code}} "{{medicinal_product_definition.pharmaceutical_doseform.display}}"
+* legalStatusOfSupply = $100000072051#{{medicinal_product_definition.legal_status_of_supply.code}} "{{medicinal_product_definition.legal_status_of_supply.display}}"
+* classification[0] = $100000093533#100000095065 "amlodipine"
+* classification[+] = $who-atc#C08CA01 "amlodipine"
+* name.productName = "{{full_name}}"
+{%- for part_key, part_value in medicinal_product_definition.name_parts.items() %}
+* name.part[{{part_key}}].part = "{{part_value}}"
+{%- endfor %}
+* name.usage.country = $100000000002#{{country.code}} "{{country.display}}"
+* name.usage.language = $100000072057#{{language.code}} "{{language.display}}"
+
+

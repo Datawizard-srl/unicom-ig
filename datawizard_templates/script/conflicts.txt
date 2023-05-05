@@ -1,0 +1,508 @@
+row 6: 
+------------------------------
+CONFLICT for key ('06-4159',)
+diff:
+  {
+    "mpId": null,
+-   "fullName": "Amlodipin Sandoz tab 5 mg",
++   "fullName": "Amlodipin Sandoz SA tab 5 mg",
+?                                 +++
+
+    "atcCodes": [
+      "C08CA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10219000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Sandoz A/S",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10219000",
+      "unitOfPresentation": "10219000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+------------------------------
+
+row 9: 
+------------------------------
+CONFLICT for key ('0000-07527',)
+diff:
+  {
+    "mpId": null,
+-   "fullName": "Norvasc tab 10 mg",
++   "fullName": "Norvasc SySk tab 10 mg",
+?                        +++++
+
+    "atcCodes": [
+      "C08CA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10219000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Upjohn EESV",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10219000",
+      "unitOfPresentation": "10219000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+------------------------------
+
+row 11: 
+------------------------------
+CONFLICT for key ('0000-07526',)
+diff:
+  {
+    "mpId": null,
+-   "fullName": "Norvasc SySk tab 5 mg",
+?                        -----
+
++   "fullName": "Norvasc tab 5 mg",
+    "atcCodes": [
+      "C08CA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10219000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Upjohn EESV",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10219000",
+      "unitOfPresentation": "10219000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+------------------------------
+
+row 14: 
+------------------------------
+CONFLICT for key ('06-4161',)
+diff:
+  {
+    "mpId": null,
+-   "fullName": "Amlodipin Sandoz tab 10 mg",
++   "fullName": "Amlodipin Sandoz SySk tab 10 mg",
+?                                 +++++
+
+    "atcCodes": [
+      "C08CA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10219000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Sandoz A/S",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10219000",
+      "unitOfPresentation": "10219000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+------------------------------
+
+row 23: 
+------------------------------
+CONFLICT for key ('0000-07239',)
+diff:
+  {
+    "mpId": null,
+-   "fullName": "Tegretol Retard depottab 200 mg",
++   "fullName": "Tegretol Retard SySk depottab 200 mg",
+?                                +++++
+
+    "atcCodes": [
+      "N03AF01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10227000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Novartis Norge (2)",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10227000",
+      "unitOfPresentation": "10227000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+------------------------------
+
+row 26: 
+------------------------------
+CONFLICT for key ('0000-07859',)
+diff:
+  {
+    "mpId": null,
+-   "fullName": "Trimonil Retard SySk depottab 150 mg",
+?                                -----
+
++   "fullName": "Trimonil Retard depottab 150 mg",
+    "atcCodes": [
+      "N03AF01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10227000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Desitin Arzneimittel GmbH",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10227000",
+      "unitOfPresentation": "10227000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+------------------------------
+
+row 30: 
+------------------------------
+CONFLICT for key ('0000-04851',)
+diff:
+  {
+    "mpId": null,
+-   "fullName": "Tegretol SySk tab 200 mg",
+?                         -----
+
++   "fullName": "Tegretol tab 200 mg",
+    "atcCodes": [
+      "N03AF01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10219000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Novartis Norge (2)",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10219000",
+      "unitOfPresentation": "10219000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+------------------------------
+
+row 36: 
+------------------------------
+CONFLICT for key ('0000-07068',)
+diff:
+  {
+    "mpId": null,
+-   "fullName": "Ibux SySk tab 400 mg",
+?                     -----
+
++   "fullName": "Ibux tab 400 mg",
+    "atcCodes": [
+      "M01AE01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10221000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Karo Pharma AS",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10221000",
+      "unitOfPresentation": "10221000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+------------------------------
+
+row 38: 
+------------------------------
+CONFLICT for key ('0000-07069',)
+diff:
+  {
+    "mpId": null,
+-   "fullName": "Ibux SySk tab 600 mg",
+?                     -----
+
++   "fullName": "Ibux tab 600 mg",
+    "atcCodes": [
+      "M01AE01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10221000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Karo Pharma AS",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10221000",
+      "unitOfPresentation": "10221000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+------------------------------
+
+row 39: 
+------------------------------
+CONFLICT for key ('0000-07068',)
+diff:
+  {
+    "mpId": null,
+-   "fullName": "Ibux SySk tab 400 mg",
+?                     -----
+
++   "fullName": "Ibux tab 400 mg",
+    "atcCodes": [
+      "M01AE01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10221000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Karo Pharma AS",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10221000",
+      "unitOfPresentation": "10221000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+------------------------------
+
+row 46: 
+------------------------------
+CONFLICT for key ('0000-07068',)
+diff:
+  {
+    "mpId": null,
+-   "fullName": "Ibux SySk tab 400 mg",
+?                     -----
+
++   "fullName": "Ibux tab 400 mg",
+    "atcCodes": [
+      "M01AE01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10221000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Karo Pharma AS",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10221000",
+      "unitOfPresentation": "10221000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+------------------------------
+
+row 47: 
+------------------------------
+CONFLICT for key ('0000-07068',)
+diff:
+  {
+    "mpId": null,
+-   "fullName": "Ibux SySk tab 400 mg",
+?                     -----
+
++   "fullName": "Ibux tab 400 mg",
+    "atcCodes": [
+      "M01AE01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10221000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Karo Pharma AS",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10221000",
+      "unitOfPresentation": "10221000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+------------------------------
+
+row 48: 
+------------------------------
+CONFLICT for key ('0000-07067',)
+diff:
+  {
+    "mpId": null,
+-   "fullName": "Ibux SySk tab 200 mg",
+?                     -----
+
++   "fullName": "Ibux tab 200 mg",
+    "atcCodes": [
+      "M01AE01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10221000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Karo Pharma AS",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10221000",
+      "unitOfPresentation": "10221000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+------------------------------
+
+row 50: 
+------------------------------
+CONFLICT for key ('0000-07067',)
+diff:
+  {
+    "mpId": null,
+-   "fullName": "Ibux SySk tab 200 mg",
+?                     -----
+
++   "fullName": "Ibux tab 200 mg",
+    "atcCodes": [
+      "M01AE01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10221000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Karo Pharma AS",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10221000",
+      "unitOfPresentation": "10221000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+------------------------------
+
+row 51: 
+------------------------------
+CONFLICT for key ('0000-07069',)
+diff:
+  {
+    "mpId": null,
+-   "fullName": "Ibux SySk tab 600 mg",
+?                     -----
+
++   "fullName": "Ibux tab 600 mg",
+    "atcCodes": [
+      "M01AE01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10221000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Karo Pharma AS",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10221000",
+      "unitOfPresentation": "10221000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+------------------------------
+
+row 52: 
+------------------------------
+CONFLICT for key ('0000-07069',)
+diff:
+  {
+    "mpId": null,
+-   "fullName": "Ibux SySk tab 600 mg",
+?                     -----
+
++   "fullName": "Ibux tab 600 mg",
+    "atcCodes": [
+      "M01AE01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10221000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Karo Pharma AS",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10221000",
+      "unitOfPresentation": "10221000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+------------------------------
+
+row 54: 
+------------------------------
+CONFLICT for key ('referenceStrength-ibuprofen gel 50mg/1g',)
+diff:
+  {
+    "concentrationNumeratorValue": 50.0,
+-   "concentrationDenominatorValue": 1.0,
+?                                    ^^^
+
++   "concentrationDenominatorValue": null,
+?                                    ^^^^
+
+    "concentrationNumeratorUnit": null,
+    "concentrationDenominatorUnit": null,
+    "presentationNumeratorValue": null,
+    "presentationDenominatorValue": null,
+    "presentationNumeratorUnit": null,
+    "presentationDenominatorUnit": "10503000"
+  }
+------------------------------
+
+row 58: 
+------------------------------
+CONFLICT for key ('08-5741',)
+diff:
+  {
+    "mpId": null,
+-   "fullName": "Simvastatin Bluefish tab 40 mg",
++   "fullName": "Simvastatin Bluefish SySk tab 40 mg",
+?                                     +++++
+
+    "atcCodes": [
+      "C10AA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10221000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Bluefish Pharmaceuticals AB",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10221000",
+      "unitOfPresentation": "10221000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+------------------------------
+
+row 64: 
+------------------------------
+CONFLICT for key ('05-3625',)
+diff:
+  {
+    "mpId": null,
+-   "fullName": "Simvastatin Sandoz SySk tab 40 mg",
+?                                   -----
+
++   "fullName": "Simvastatin Sandoz tab 40 mg",
+    "atcCodes": [
+      "C10AA01"
+    ],
+    "authorizedPharmaceuticalDoseForm": "10221000",
+    "marketingAuthorizationHolderCode": null,
+    "marketingAuthorizationHolderLabel": "Sandoz - K\u00f8benhavn",
+    "country": "nor",
+    "pharmaceuticalProduct": {
+      "administrableDoseForm": "10221000",
+      "unitOfPresentation": "10221000",
+      "routesOfAdministration": [
+        "20053000"
+      ]
+    }
+  }
+------------------------------
+
+found 19 conflicts

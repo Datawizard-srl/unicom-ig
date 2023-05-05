@@ -1,0 +1,23 @@
+
+
+Instance: {{packaged_product_definition.instance_id}}
+InstanceOf: PPLPackagedProductDefinition
+Usage: #{{usage}}
+
+* identifier[pcid].value = "{{country.abbreviation}}-{{pcId|normalize_name}}"
+* packageFor = Reference({{packaged_product_definition.reference_package}})
+* containedItemQuantity = {{packaged_product_definition.pack_size}} $200000000014#{{packaged_product_definition.unit_of_presentation.code}} "{{packaged_product_definition.unit_of_presentation.display}}"
+* description = "{{packaged_product_definition.description}}"
+* marketingStatus.country = $100000000002#{{country.code}} "{{country.display}}"
+* marketingStatus.status = $100000072052#100000072083 "Marketed" // status?
+{%- if packaged_product_definition.packaging %}
+* packaging.type = $100000073346#{{packaged_product_definition.packaging.code}} "{{packaged_product_definition.packaging.type}}"
+* packaging.quantity = {{packaged_product_definition.packaging.quantity}}
+* packaging.material = $200000003199#200000003529 "Cardboard"
+
+* packaging.packaging.containedItem[0].item.reference = Reference({{packaged_product_definition.reference_containedItem}})
+* packaging.packaging.containedItem[=].amount.value = {{packaged_product_definition.pack_size}}
+{%- endif %}
+
+
+
