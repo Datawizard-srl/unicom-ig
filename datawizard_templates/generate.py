@@ -129,7 +129,13 @@ def main(generation_type='resource'):
 
 
 if __name__ == '__main__':
-    df = pd.read_csv(args.input_file, keep_default_na=False, dtype=str, sep=";")
+    df = pd.read_csv(args.input_file,
+                     keep_default_na=False,
+                     dtype=str,
+                     sep=";",
+                     # skiprows=[i for i in range(1,4000)],
+                     # nrows=1000
+                     )
 
     df = df.replace(r'^\s*$', None, regex=True)
     df = df.replace(r'^NULL$', None, regex=True)

@@ -1,120 +1,516 @@
 
 
-Instance: LOC-pfizer-laboratories-div-pfizer-inc
+Instance: LOC-aurohealth-llc
 InstanceOf: PPLOrganization
 Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = ""
-* name = "pfizer laboratories div pfizer inc"
+* name = "aurohealth llc"
 
 
-Instance: LOC-cmp-pharma-inc
+Instance: LOC-strides-pharma-inc
 InstanceOf: PPLOrganization
 Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = ""
-* name = "cmp pharma inc"
+* name = "strides pharma inc"
 
 
-Instance: LOC-teva-pharmaceuticals-inc
+Instance: LOC-p-and-l-development-of-new-york-corporation
 InstanceOf: PPLOrganization
 Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = ""
-* name = "teva pharmaceuticals inc"
+* name = "p and l development of new york corporation"
 
 
-Instance: LOC-ncs-healthcare-of-ky-llc-dba-vangard-labs
+Instance: LOC-cvs-pharmacy
 InstanceOf: PPLOrganization
 Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = ""
-* name = "ncs healthcare of ky llc dba vangard labs"
+* name = "cvs pharmacy"
 
 
-Instance: LOC-major-pharmaceuticals
+Instance: LOC-st-marys-medical-park-pharmacy
 InstanceOf: PPLOrganization
 Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = ""
-* name = "major pharmaceuticals"
+* name = "st marys medical park pharmacy"
 
 
-Instance: LOC-marlex-pharmaceuticals-inc
+Instance: LOC-safetec-of-america-inc
 InstanceOf: PPLOrganization
 Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = ""
-* name = "marlex pharmaceuticals inc"
+* name = "safetec of america inc"
 
 
-Instance: LOC-apotheca-inc
+Instance: LOC-conney-safety-products-llc
 InstanceOf: PPLOrganization
 Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = ""
-* name = "apotheca inc"
+* name = "conney safety products llc"
 
 
-Instance: LOC-torrent-pharmaceuticals-limited
+Instance: LOC-direct-rx
 InstanceOf: PPLOrganization
 Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = ""
-* name = "torrent pharmaceuticals limited"
+* name = "direct rx"
 
 
-Instance: LOC-unichem-pharmaceuticals-usa-inc
+Instance: LOC-strategic-sourcing-services-llc
 InstanceOf: PPLOrganization
 Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = ""
-* name = "unichem pharmaceuticals usa inc"
+* name = "strategic sourcing services llc"
 
 
-Instance: LOC-camber-pharmaceuticals-inc
+Instance: LOC-granules-india-limited
 InstanceOf: PPLOrganization
 Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = ""
-* name = "camber pharmaceuticals inc"
+* name = "granules india limited"
 
 
-Instance: LOC-bicoastal-pharma-international-llc
+Instance: LOC-ingles-markets-inc
 InstanceOf: PPLOrganization
 Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = ""
-* name = "bicoastal pharma international llc"
+* name = "ingles markets inc"
 
 
-Instance: LOC-qpharma-inc
+Instance: LOC-proficient-rx-lp
 InstanceOf: PPLOrganization
 Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = ""
-* name = "qpharma inc"
+* name = "proficient rx lp"
 
 
-Instance: LOC-epic-pharma-llc
+Instance: LOC-pld-acquisitions-llc-dba-avi-1-2ma-pharma-sol
 InstanceOf: PPLOrganization
 Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = ""
-* name = "epic pharma llc"
+* name = "pld acquisitions llc dba avï¿½ma pharma solutions"
+
+
+Instance: LOC-bryant-ranch-prepack
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "bryant ranch prepack"
+
+
+Instance: LOC-chain-drug-marketing-association-inc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "chain drug marketing association inc"
+
+
+Instance: LOC-harmon-store-inc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "harmon store inc"
+
+
+Instance: LOC-valu-merchandisers-company
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "valu merchandisers company"
+
+
+Instance: LOC-costco-wholesale-corporation
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "costco wholesale corporation"
+
+
+Instance: LOC-costco-wholesale-company
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "costco wholesale company"
+
+
+Instance: LOC-aldi-inc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "aldi inc"
+
+
+Instance: LOC-great-lakes-wholesale-marketing-sales-inc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "great lakes wholesale marketing  sales inc"
+
+
+Instance: LOC-nucare-pharmaceuticals-inc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "nucare pharmaceuticals inc"
+
+
+Instance: LOC-sda-laboratories-inc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "sda laboratories inc"
+
+
+Instance: LOC-lil-drug-store-products-inc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "lil drug store products inc"
+
+
+Instance: LOC-advanced-first-aid-inc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "advanced first aid inc"
+
+
+Instance: LOC-winco-foods-llc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "winco foods llc"
+
+
+Instance: LOC-navajo-manufacturing-company-inc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "navajo manufacturing company inc"
+
+
+Instance: LOC-chain-drug-constortium
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "chain drug constortium"
+
+
+Instance: LOC-chain-drug-consortium
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "chain drug consortium"
+
+
+Instance: LOC-nucare-pharmaceuticalsinc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "nucare pharmaceuticalsinc"
+
+
+Instance: LOC-sams-west-inc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "sams west inc"
+
+
+Instance: LOC-spirit-pharmaceuticals-llc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "spirit pharmaceuticals llc"
+
+
+Instance: LOC-spirit-pharmaceutical-llc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "spirit pharmaceutical llc"
+
+
+Instance: LOC-bjwc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "bjwc"
+
+
+Instance: LOC-mckesson-medicalsurgical
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "mckesson medicalsurgical"
+
+
+Instance: LOC-preferred-pharmaceuticals-inc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "preferred pharmaceuticals inc"
+
+
+Instance: LOC-marc-glassman-inc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "marc glassman inc"
+
+
+Instance: LOC-provision-medical-products
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "provision medical products"
+
+
+Instance: LOC-allegiant-health
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "allegiant health"
+
+
+Instance: LOC-healthlife-of-usa-llc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "healthlife of usa llc"
+
+
+Instance: LOC-uline
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "uline"
+
+
+Instance: LOC-southern-sales-services-inc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "southern sales  services inc"
+
+
+Instance: LOC-cvs-pharmacy-inc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "cvs pharmacy inc"
+
+
+Instance: LOC-cvs-pharmacyinc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "cvs pharmacyinc"
+
+
+Instance: LOC-granules-usa-inc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "granules usa inc"
+
+
+Instance: LOC-cardinal-health-110-llc-dba-leader
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "cardinal health 110 llc dba leader"
+
+
+Instance: LOC-cardinal-health
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "cardinal health"
+
+
+Instance: LOC-remedyrepack-inc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "remedyrepack inc"
+
+
+Instance: LOC-breeden-brothers-llc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "breeden brothers llc"
+
+
+Instance: LOC-redicare-llc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "redicare llc"
+
+
+Instance: LOC-lidl-us-llc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "lidl us llc"
+
+
+Instance: LOC-safrel-pharmaceuticals-llc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "safrel pharmaceuticals llc"
+
+
+Instance: LOC-health-pharma-usa-llc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "health pharma usa llc"
+
+
+Instance: LOC-harris-teeter
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "harris teeter"
+
+
+Instance: LOC-pioneer-life-sciencesllc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "pioneer life sciencesllc"
+
+
+Instance: LOC-amazoncom-services-llc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "amazoncom services llc"
+
+
+Instance: LOC-retail-business-services-llc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "retail business services  llc"
 
 
 Instance: LOC-pdrx-pharmaceuticals-inc
@@ -126,6 +522,177 @@ Description: "Marketing Authorisation Holder / Organisation"
 * name = "pdrx pharmaceuticals inc"
 
 
+Instance: LOC-thompson-safety
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "thompson safety"
+
+
+Instance: LOC-jhk-inc-dba-american-safety-first-aid
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "jhk inc dba american safety  first aid"
+
+
+Instance: LOC-rapid-care-inc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "rapid care inc"
+
+
+Instance: LOC-dollar-general-corporation
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "dollar general corporation"
+
+
+Instance: LOC-live-betr-llc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "live betr llc"
+
+
+Instance: LOC-western-first-aid-safety
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "western first aid safety"
+
+
+Instance: LOC-fsa-store-inc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "fsa store inc"
+
+
+Instance: LOC-gobrands-inc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "gobrands inc"
+
+
+Instance: LOC-organon-llc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "organon llc"
+
+
+Instance: LOC-salerno-pharmaceuticals-co
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "salerno pharmaceuticals co"
+
+
+Instance: LOC-ncs-healthcare-of-ky-llc-dba-vangard-labs
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "ncs healthcare of ky llc dba vangard labs"
+
+
+Instance: LOC-blenheim-pharmacal-inc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "blenheim pharmacal inc"
+
+
+Instance: LOC-northstar-rx-llc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "northstar rx llc"
+
+
+Instance: LOC-accord-healthcare-inc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "accord healthcare inc"
+
+
+Instance: LOC-puracap-laboratories-llc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "puracap laboratories llc"
+
+
+Instance: LOC-camber-pharmaceuticals-inc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "camber pharmaceuticals inc"
+
+
+Instance: LOC-rxchange-co
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "rxchange co"
+
+
+Instance: LOC-micro-labs-limited
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "micro labs limited"
+
+
+Instance: LOC-hisun-pharmaceuticals-usa-inc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "hisun pharmaceuticals usa inc"
+
+
 Instance: LOC-aphena-pharma-solutions-tennessee-llc
 InstanceOf: PPLOrganization
 Usage: #example
@@ -133,15 +700,6 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = ""
 * name = "aphena pharma solutions  tennessee llc"
-
-
-Instance: LOC-china-resources-saike-pharmaceutical-co-ltd
-InstanceOf: PPLOrganization
-Usage: #example
-Description: "Marketing Authorisation Holder / Organisation"
-
-* identifier[loc].value = ""
-* name = "china resources saike pharmaceutical co ltd"
 
 
 Instance: LOC-as-medication-solutions-llc
@@ -162,22 +720,22 @@ Description: "Marketing Authorisation Holder / Organisation"
 * name = "as medication solutions"
 
 
-Instance: LOC-northwind-pharmaceuticals
+Instance: LOC-acetris-health-llc
 InstanceOf: PPLOrganization
 Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = ""
-* name = "northwind pharmaceuticals"
+* name = "acetris health llc"
 
 
-Instance: LOC-polygen-pharmaceuticals-inc
+Instance: LOC-hj-harkins-company-inc
 InstanceOf: PPLOrganization
 Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = ""
-* name = "polygen pharmaceuticals inc"
+* name = "hj harkins company inc"
 
 
 Instance: LOC-rpk-pharmaceuticals-inc
@@ -189,13 +747,13 @@ Description: "Marketing Authorisation Holder / Organisation"
 * name = "rpk pharmaceuticals inc"
 
 
-Instance: LOC-doh-central-pharmacy
+Instance: LOC-international-laboratories-llc
 InstanceOf: PPLOrganization
 Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = ""
-* name = "doh central pharmacy"
+* name = "international laboratories llc"
 
 
 Instance: LOC-dr-reddys-laboratories-limited
@@ -207,51 +765,6 @@ Description: "Marketing Authorisation Holder / Organisation"
 * name = "dr reddys laboratories limited"
 
 
-Instance: LOC-cardinal-health-107-llc
-InstanceOf: PPLOrganization
-Usage: #example
-Description: "Marketing Authorisation Holder / Organisation"
-
-* identifier[loc].value = ""
-* name = "cardinal health 107 llc"
-
-
-Instance: LOC-lake-erie-medical-dba-quality-care-products-ll
-InstanceOf: PPLOrganization
-Usage: #example
-Description: "Marketing Authorisation Holder / Organisation"
-
-* identifier[loc].value = ""
-* name = "lake erie medical dba quality care products llc"
-
-
-Instance: LOC-sun-pharmaceutical-industries-inc
-InstanceOf: PPLOrganization
-Usage: #example
-Description: "Marketing Authorisation Holder / Organisation"
-
-* identifier[loc].value = ""
-* name = "sun pharmaceutical industries inc"
-
-
-Instance: LOC-clinical-solutions-wholesale-llc
-InstanceOf: PPLOrganization
-Usage: #example
-Description: "Marketing Authorisation Holder / Organisation"
-
-* identifier[loc].value = ""
-* name = "clinical solutions wholesale llc"
-
-
-Instance: LOC-greenstone-llc
-InstanceOf: PPLOrganization
-Usage: #example
-Description: "Marketing Authorisation Holder / Organisation"
-
-* identifier[loc].value = ""
-* name = "greenstone llc"
-
-
 Instance: LOC-american-health-packaging
 InstanceOf: PPLOrganization
 Usage: #example
@@ -261,58 +774,13 @@ Description: "Marketing Authorisation Holder / Organisation"
 * name = "american health packaging"
 
 
-Instance: LOC-direct-rx
+Instance: LOC-mckesson-corporation-dba-sky-packaging
 InstanceOf: PPLOrganization
 Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = ""
-* name = "direct rx"
-
-
-Instance: LOC-directrx
-InstanceOf: PPLOrganization
-Usage: #example
-Description: "Marketing Authorisation Holder / Organisation"
-
-* identifier[loc].value = ""
-* name = "directrx"
-
-
-Instance: LOC-proficient-rx-lp
-InstanceOf: PPLOrganization
-Usage: #example
-Description: "Marketing Authorisation Holder / Organisation"
-
-* identifier[loc].value = ""
-* name = "proficient rx lp"
-
-
-Instance: LOC-bryant-ranch-prepack
-InstanceOf: PPLOrganization
-Usage: #example
-Description: "Marketing Authorisation Holder / Organisation"
-
-* identifier[loc].value = ""
-* name = "bryant ranch prepack"
-
-
-Instance: LOC-wockhardt-usa-llc
-InstanceOf: PPLOrganization
-Usage: #example
-Description: "Marketing Authorisation Holder / Organisation"
-
-* identifier[loc].value = ""
-* name = "wockhardt usa llc"
-
-
-Instance: LOC-amneal-pharmaceuticals-llc
-InstanceOf: PPLOrganization
-Usage: #example
-Description: "Marketing Authorisation Holder / Organisation"
-
-* identifier[loc].value = ""
-* name = "amneal pharmaceuticals llc"
+* name = "mckesson corporation dba sky packaging"
 
 
 Instance: LOC-zydus-lifesciences-limited
@@ -331,51 +799,6 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = ""
 * name = "aurobindo pharma limited"
-
-
-Instance: LOC-coupler-enterprises
-InstanceOf: PPLOrganization
-Usage: #example
-Description: "Marketing Authorisation Holder / Organisation"
-
-* identifier[loc].value = ""
-* name = "coupler enterprises"
-
-
-Instance: LOC-redpharm-drug-inc
-InstanceOf: PPLOrganization
-Usage: #example
-Description: "Marketing Authorisation Holder / Organisation"
-
-* identifier[loc].value = ""
-* name = "redpharm drug inc"
-
-
-Instance: LOC-ascend-laboratories-llc
-InstanceOf: PPLOrganization
-Usage: #example
-Description: "Marketing Authorisation Holder / Organisation"
-
-* identifier[loc].value = ""
-* name = "ascend laboratories llc"
-
-
-Instance: LOC-nucare-pharmaceuticals-inc
-InstanceOf: PPLOrganization
-Usage: #example
-Description: "Marketing Authorisation Holder / Organisation"
-
-* identifier[loc].value = ""
-* name = "nucare pharmaceuticals inc"
-
-
-Instance: LOC-nucare-pharmaceuticalsinc
-InstanceOf: PPLOrganization
-Usage: #example
-Description: "Marketing Authorisation Holder / Organisation"
-
-* identifier[loc].value = ""
-* name = "nucare pharmaceuticalsinc"
 
 
 Instance: LOC-lupin-pharmaceuticals-inc
@@ -405,49 +828,13 @@ Description: "Marketing Authorisation Holder / Organisation"
 * name = "legacy pharmaceutical packaging llc"
 
 
-Instance: LOC-preferred-pharmaceuticals-inc
+Instance: LOC-biocon-pharma-inc
 InstanceOf: PPLOrganization
 Usage: #example
 Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = ""
-* name = "preferred pharmaceuticals inc"
-
-
-Instance: LOC-cipla-usa-inc
-InstanceOf: PPLOrganization
-Usage: #example
-Description: "Marketing Authorisation Holder / Organisation"
-
-* identifier[loc].value = ""
-* name = "cipla usa inc"
-
-
-Instance: LOC-biomes-pharmaceuticals-llc
-InstanceOf: PPLOrganization
-Usage: #example
-Description: "Marketing Authorisation Holder / Organisation"
-
-* identifier[loc].value = ""
-* name = "biomes pharmaceuticals llc"
-
-
-Instance: LOC-oxford-pharmaceuticals-llc
-InstanceOf: PPLOrganization
-Usage: #example
-Description: "Marketing Authorisation Holder / Organisation"
-
-* identifier[loc].value = ""
-* name = "oxford pharmaceuticals llc"
-
-
-Instance: LOC-remedyrepack-inc
-InstanceOf: PPLOrganization
-Usage: #example
-Description: "Marketing Authorisation Holder / Organisation"
-
-* identifier[loc].value = ""
-* name = "remedyrepack inc"
+* name = "biocon pharma inc"
 
 
 Instance: LOC-denton-pharma-inc-dba-northwind-pharmaceutical
@@ -459,24 +846,6 @@ Description: "Marketing Authorisation Holder / Organisation"
 * name = "denton pharma inc dba northwind pharmaceuticals"
 
 
-Instance: LOC-aci-healthcare-usa-inc
-InstanceOf: PPLOrganization
-Usage: #example
-Description: "Marketing Authorisation Holder / Organisation"
-
-* identifier[loc].value = ""
-* name = "aci healthcare usa inc"
-
-
-Instance: LOC-exelan-pharmaceuticals-inc
-InstanceOf: PPLOrganization
-Usage: #example
-Description: "Marketing Authorisation Holder / Organisation"
-
-* identifier[loc].value = ""
-* name = "exelan pharmaceuticals inc"
-
-
 Instance: LOC-quallent-pharmaceuticals-health-llc
 InstanceOf: PPLOrganization
 Usage: #example
@@ -484,3 +853,48 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 * identifier[loc].value = ""
 * name = "quallent pharmaceuticals health llc"
+
+
+Instance: LOC-qpharma-inc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "qpharma inc"
+
+
+Instance: LOC-unit-dose-services
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "unit dose services"
+
+
+Instance: LOC-cardinal-health-107-llc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "cardinal health 107 llc"
+
+
+Instance: LOC-redpharm-drug-inc
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "redpharm drug inc"
+
+
+Instance: LOC-directrx
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = ""
+* name = "directrx"
