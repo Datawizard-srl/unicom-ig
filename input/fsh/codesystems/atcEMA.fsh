@@ -19,3 +19,11 @@ Description: "ATC classification recoded with EMA SPOR RMS codes. Flat list, WHO
 * #100000094266 "enoxaparin" "B01AB05"
 * #100000095693 "clotrimazole" "G01AF02"
 * #100000094023 "insulin glargine" "A10AE04"
+* #100000095169 "simvastatin" "C10AA01"
+* #100000097377 "carbamazepine" "N03AF01"
+* #100000096928 "ibuprofen" "M01AE01"
+
+* #100000095765 "ibuprofen" "G02CC01"
+* #100000094669 "ibuprofen" "C01EB16"
+* #100000097010 "ibuprofen" "M02AA13"
+* #100000167249 "ibuprofen" "R02AX02"

@@ -30,7 +30,7 @@ def get_doseform(code):
         '10228000': {'code': '100000073684', 'display': "Chewable tablet"},
         '50060000': {'code': '100000074038', 'display': "Solution for injection/infusion"},
         '10102000': {'code': '100000073643', 'display': "Oral drops, suspension"},
-
+        '10503000': {'code': '100000073726', 'display': "Gel"},
 
         # combined
         '50029200': {'code': '100000073650', 'display': "Granules for oral suspension"},
@@ -85,6 +85,7 @@ def get_unit_of_presentation(code):
         '15036000': {'code': '200000002134', 'display': 'Patch'},
         '15051000': {'code': '200000002149', 'display': 'Suppository'},
         '15060000': {'code': '200000002158', 'display': 'Vial'},
+        '15002000': {'code': '200000002164', 'display': "Ampoule"},
         '': {'code': '200000022814', 'display': 'Other'}
     }
     return _get_by_code(codes, code)
@@ -109,6 +110,7 @@ def get_country_info_by_ema(abbreviation):
         'ITA': ['100000000430', "Italian Republic"],
         'GRC': ['100000000406', "Hellenic Republic"],
         'USA': ['100000000557', "United States of America"],
+        'NOR': ['100000000489', "Kingdom of Norway"]
     }
 
     abbrev = abbreviation.upper()
@@ -127,6 +129,7 @@ def get_language_info_by_ema(abbreviation):
         'BEL': ['100000072169', "Dutch"],
         'GRC': ['100000072181', "Greek"],
         'USA': ['100000072147', "English"],
+        'NOR': ['100000072243', "Norwegian"],
     }
 
     abbrev = abbreviation.upper()
@@ -174,3 +177,17 @@ def get_ingredient_info(row):
             }
         }
     return ratio_type, ratio_numerator, ratio_denominator, reference_strength
+
+
+def get_classification(atc_code):
+    codes = {
+        'C08CA01': ['$100000093533#100000095065 "amlodipine"', '$who-atc#C08CA01 "amlodipine"'],
+        'C10AA01': ['$100000093533#100000095169 "simvastatin"', '$who-atc#C10AA01 "simvastatin"'],
+        'N03AF01': ['$100000093533#100000097377 "carbamazepine"', '$who-atc#N03AF01 "carbamazepine"'],
+        'M01AE01': ['$100000093533#100000096928 "ibuprofen"', '$who-atc#N03AF01 "ibuprofen"'],
+        'M02AA13': ['$100000093533#100000097010 "ibuprofen"', '$who-atc#M02AA13 "ibuprofen"'],
+        'G02CC01': ['$100000093533#100000095765 "ibuprofen"', '$who-atc#G02CC01 "ibuprofen"'],
+        'R02AX02': ['$100000093533#100000167249 "ibuprofen"', '$who-atc#R02AX02 "ibuprofen"'],
+        'C01EB16': ['$100000093533#100000094669 "ibuprofen"', '$who-atc#C01EB16 "ibuprofen"'],
+    }
+    return codes[atc_code]

@@ -10,8 +10,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET in 1 BOTTLE"
 
@@ -30,8 +30,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 60 TABLET in 1 BOTTLE, PLASTIC"
 
@@ -50,8 +50,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 250 TABLET in 1 BOTTLE, PLASTIC"
 
@@ -70,8 +70,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1000 TABLET in 1 BOTTLE, PLASTIC"
 
@@ -90,8 +90,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 300 TABLET in 1 BOTTLE"
 
@@ -110,8 +110,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 700 TABLET in 1 BOTTLE, PLASTIC"
 
@@ -130,8 +130,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 150 TABLET in 1 BOTTLE"
 
@@ -150,8 +150,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 24 TABLET in 1 BOTTLE"
 
@@ -170,8 +170,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 300 TABLET in 1 BOTTLE, PLASTIC"
 
@@ -190,8 +190,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 200 TABLET in 1 BOTTLE"
 
@@ -210,8 +210,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 550 TABLET in 1 BOTTLE, PLASTIC"
 
@@ -230,8 +230,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 24 TABLET in 1 BOTTLE, PLASTIC"
 
@@ -250,8 +250,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET in 1 BOTTLE, PLASTIC"
 
@@ -270,8 +270,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 150 TABLET in 1 BOTTLE, PLASTIC"
 
@@ -290,8 +290,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 40 TABLET in 1 BOTTLE, PLASTIC"
 
@@ -310,8 +310,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 90 TABLET in 1 BOTTLE, PLASTIC"
 
@@ -330,8 +330,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET in 1 BOTTLE"
 
@@ -350,8 +350,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET in 1 BOTTLE, PLASTIC"
 
@@ -370,8 +370,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET in 1 BOTTLE"
 
@@ -390,8 +390,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 60 TABLET in 1 BOTTLE"
 
@@ -410,8 +410,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 60 TABLET in 1 BOTTLE, PLASTIC"
 
@@ -430,8 +430,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 200 TABLET in 1 BOTTLE, PLASTIC"
 
@@ -450,8 +450,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 250 TABLET in 1 BOTTLE, PLASTIC"
 
@@ -470,8 +470,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 500 TABLET in 1 BOTTLE, PLASTIC"
 
@@ -490,8 +490,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1000 TABLET in 1 BOTTLE, PLASTIC"
 
@@ -510,8 +510,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1500 TABLET in 1 BOTTLE"
 
@@ -530,8 +530,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 500 TABLET in 1 BOTTLE"
 
@@ -550,8 +550,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 300 TABLET in 1 BOTTLE"
 
@@ -570,8 +570,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 700 TABLET in 1 BOTTLE, PLASTIC"
 
@@ -590,8 +590,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 150 TABLET in 1 BOTTLE"
 
@@ -610,8 +610,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 90 TABLET in 1 BOTTLE"
 
@@ -630,8 +630,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 40 TABLET in 1 BOTTLE"
 
@@ -650,8 +650,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1000 TABLET in 1 BOTTLE"
 
@@ -670,8 +670,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 225 TABLET in 1 BOTTLE"
 
@@ -690,8 +690,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 550 TABLET in 1 BOTTLE"
 
@@ -710,8 +710,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 250 TABLET in 1 BOTTLE"
 
@@ -730,8 +730,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 24 TABLET in 1 BOTTLE"
 
@@ -750,8 +750,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 300 TABLET in 1 BOTTLE, PLASTIC"
 
@@ -770,8 +770,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 200 TABLET in 1 BOTTLE"
 
@@ -790,8 +790,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 750 TABLET in 1 BOTTLE"
 
@@ -810,8 +810,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 550 TABLET in 1 BOTTLE, PLASTIC"
 
@@ -830,8 +830,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 24 TABLET in 1 BOTTLE"
 
@@ -850,8 +850,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 40 TABLET in 1 BOTTLE"
 
@@ -870,8 +870,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET in 1 BOTTLE"
 
@@ -890,8 +890,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 60 TABLET in 1 BOTTLE"
 
@@ -910,8 +910,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 90 TABLET in 1 BOTTLE"
 
@@ -930,8 +930,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET in 1 BOTTLE"
 
@@ -950,8 +950,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 150 TABLET in 1 BOTTLE"
 
@@ -970,8 +970,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 200 TABLET in 1 BOTTLE"
 
@@ -990,8 +990,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 225 TABLET in 1 BOTTLE"
 
@@ -1010,8 +1010,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 250 TABLET in 1 BOTTLE"
 
@@ -1030,8 +1030,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 300 TABLET in 1 BOTTLE"
 
@@ -1050,8 +1050,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 500 TABLET in 1 BOTTLE"
 
@@ -1070,8 +1070,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1000 TABLET in 1 BOTTLE"
 
@@ -1090,8 +1090,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1500 TABLET in 1 BOTTLE"
 
@@ -1110,8 +1110,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 550 TABLET in 1 BOTTLE"
 
@@ -1130,8 +1130,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 750 TABLET in 1 BOTTLE"
 
@@ -1150,8 +1150,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 24 TABLET in 1 BOTTLE"
 
@@ -1170,8 +1170,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET in 1 BOTTLE"
 
@@ -1190,8 +1190,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET in 1 BOTTLE"
 
@@ -1210,8 +1210,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 150 TABLET in 1 BOTTLE"
 
@@ -1230,8 +1230,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 200 TABLET in 1 BOTTLE"
 
@@ -1250,8 +1250,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aurohealth llc ibuprofen 200 MG Oral Tablet x 300 TABLET in 1 BOTTLE"
 
@@ -1270,8 +1270,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, COATED in 1 BOTTLE"
 
@@ -1290,8 +1290,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 1000 TABLET, COATED in 1 BOTTLE"
 
@@ -1310,8 +1310,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 24 TABLET, COATED in 1 BOTTLE"
 
@@ -1330,8 +1330,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, COATED in 1 BOTTLE"
 
@@ -1350,8 +1350,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 1000 TABLET, COATED in 1 BOTTLE"
 
@@ -1370,8 +1370,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 24 TABLET, COATED in 1 BOTTLE"
 
@@ -1390,8 +1390,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, COATED in 1 BOTTLE"
 
@@ -1410,8 +1410,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 1000 TABLET, COATED in 1 BOTTLE"
 
@@ -1430,8 +1430,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET, COATED in 1 BOTTLE"
 
@@ -1450,8 +1450,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 24 TABLET, COATED in 1 BOTTLE"
 
@@ -1470,8 +1470,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 165 TABLET, COATED in 1 BOTTLE"
 
@@ -1490,8 +1490,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, COATED in 1 BOTTLE"
 
@@ -1510,8 +1510,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 1000 TABLET, COATED in 1 BOTTLE"
 
@@ -1530,8 +1530,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET, COATED in 1 BOTTLE"
 
@@ -1550,8 +1550,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 24 TABLET, COATED in 1 BOTTLE"
 
@@ -1570,8 +1570,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 165 TABLET, COATED in 1 BOTTLE"
 
@@ -1590,8 +1590,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, COATED in 1 BOTTLE"
 
@@ -1610,8 +1610,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 500 TABLET, COATED in 1 BOTTLE"
 
@@ -1630,8 +1630,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 1000 TABLET, COATED in 1 BOTTLE"
 
@@ -1650,8 +1650,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET, COATED in 1 BOTTLE"
 
@@ -1670,8 +1670,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 24 TABLET, COATED in 1 BOTTLE"
 
@@ -1690,8 +1690,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 10000 TABLET, COATED in 1 BAG"
 
@@ -1710,8 +1710,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 165 TABLET, COATED in 1 BOTTLE"
 
@@ -1730,8 +1730,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1000 TABLET, COATED in 1 BAG"
 
@@ -1750,8 +1750,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, COATED in 1 BOTTLE"
 
@@ -1770,8 +1770,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 500 TABLET, COATED in 1 BOTTLE"
 
@@ -1790,8 +1790,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 1000 TABLET, COATED in 1 BOTTLE"
 
@@ -1810,8 +1810,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET, COATED in 1 BOTTLE"
 
@@ -1830,8 +1830,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 24 TABLET, COATED in 1 BOTTLE"
 
@@ -1850,8 +1850,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 10000 TABLET, COATED in 1 BAG"
 
@@ -1870,8 +1870,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 165 TABLET, COATED in 1 BOTTLE"
 
@@ -1890,8 +1890,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 1000 TABLET, COATED in 1 BAG"
 
@@ -1910,8 +1910,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 10000 TABLET, COATED in 1 BAG"
 
@@ -1930,8 +1930,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strides pharma inc ibuprofen 200 MG Oral Tablet x 10000 TABLET, COATED in 1 BAG"
 
@@ -1950,8 +1950,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "p and l development of new york corporation ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 BOX   > 40 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -1970,8 +1970,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "p and l development of new york corporation ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 BOX   > 50 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -1990,8 +1990,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -2010,8 +2010,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -2030,8 +2030,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 10 TABLET, FILM COATED in 1 VIAL"
 
@@ -2050,8 +2050,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 400 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -2070,8 +2070,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 PACKAGE   > 10 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -2090,8 +2090,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -2110,8 +2110,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -2130,8 +2130,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 150 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -2150,8 +2150,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 120 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -2170,8 +2170,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 2 BOTTLE, PLASTIC in 1 PACKAGE   > 400 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -2190,8 +2190,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 2 BOTTLE in 1 PACKAGE   > 10 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -2210,8 +2210,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 24 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -2230,8 +2230,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -2250,8 +2250,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -2270,8 +2270,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -2290,8 +2290,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -2310,8 +2310,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 225 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -2330,8 +2330,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -2350,8 +2350,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 250 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -2370,8 +2370,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 50 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -2390,8 +2390,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -2410,8 +2410,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -2430,8 +2430,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 550 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -2450,8 +2450,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 150 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -2470,8 +2470,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 24 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -2490,8 +2490,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -2510,8 +2510,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 120 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -2530,8 +2530,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -2550,8 +2550,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 2 BOTTLE in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -2570,8 +2570,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 300 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -2590,8 +2590,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -2610,8 +2610,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -2630,8 +2630,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 24 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -2650,8 +2650,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -2670,8 +2670,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -2690,8 +2690,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 200 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -2710,8 +2710,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 250 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -2730,8 +2730,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -2750,8 +2750,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "st marys medical park pharmacy ibuprofen 200 MG Oral Tablet x 24 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -2770,8 +2770,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "st marys medical park pharmacy ibuprofen 200 MG Oral Tablet x 40 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -2790,8 +2790,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "st marys medical park pharmacy ibuprofen 200 MG Oral Tablet x 24 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -2810,8 +2810,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "safetec of america inc ibuprofen 200 MG Oral Tablet x 2 TABLET in 1 POUCH"
 
@@ -2830,8 +2830,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "safetec of america inc ibuprofen 200 MG Oral Tablet x 50 POUCH in 1 CARTON   > 2 TABLET in 1 POUCH"
 
@@ -2850,8 +2850,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "safetec of america inc ibuprofen 200 MG Oral Tablet x 100 POUCH in 1 CARTON   > 2 TABLET in 1 POUCH"
 
@@ -2870,8 +2870,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "conney safety products llc ibuprofen 200 MG Oral Tablet x 250 PACKET in 1 BOX   > 2 TABLET, COATED in 1 PACKET"
 
@@ -2890,8 +2890,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "conney safety products llc ibuprofen 200 MG Oral Tablet x 250 PACKET in 1 BOX   > 2 TABLET, COATED in 1 PACKET"
 
@@ -2910,8 +2910,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "direct rx ibuprofen 200 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -2930,8 +2930,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strategic sourcing services llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -2950,8 +2950,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strategic sourcing services llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -2970,8 +2970,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strategic sourcing services llc ibuprofen 200 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -2990,8 +2990,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strategic sourcing services llc ibuprofen 200 MG Oral Tablet x 2 TABLET, FILM COATED in 1 POUCH"
 
@@ -3010,8 +3010,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strategic sourcing services llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 120 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -3030,8 +3030,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strategic sourcing services llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 24 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -3050,8 +3050,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strategic sourcing services llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -3070,8 +3070,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strategic sourcing services llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -3090,8 +3090,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strategic sourcing services llc ibuprofen 200 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -3110,8 +3110,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strategic sourcing services llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -3130,8 +3130,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strategic sourcing services llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -3150,8 +3150,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "strategic sourcing services llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -3170,8 +3170,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 24 TABLET in 1 BOTTLE"
 
@@ -3190,8 +3190,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 50 TABLET in 1 BOTTLE"
 
@@ -3210,8 +3210,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 100 TABLET in 1 BOTTLE"
 
@@ -3230,8 +3230,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 250 TABLET in 1 BOTTLE"
 
@@ -3250,8 +3250,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 500 TABLET in 1 BOTTLE"
 
@@ -3270,8 +3270,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 750 TABLET in 1 BOTTLE"
 
@@ -3290,8 +3290,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 1000 TABLET in 1 BOTTLE"
 
@@ -3310,8 +3310,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 10 TABLET in 1 BOTTLE"
 
@@ -3330,8 +3330,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 1700 TABLET in 1 BOTTLE"
 
@@ -3350,8 +3350,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 160000 TABLET in 1 DRUM"
 
@@ -3370,8 +3370,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 24 TABLET in 1 BOTTLE"
 
@@ -3390,8 +3390,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 50 TABLET in 1 BOTTLE"
 
@@ -3410,8 +3410,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 100 TABLET in 1 BOTTLE"
 
@@ -3430,8 +3430,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 250 TABLET in 1 BOTTLE"
 
@@ -3450,8 +3450,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 500 TABLET in 1 BOTTLE"
 
@@ -3470,8 +3470,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 750 TABLET in 1 BOTTLE"
 
@@ -3490,8 +3490,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 1000 TABLET in 1 BOTTLE"
 
@@ -3510,8 +3510,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 10 TABLET in 1 BOTTLE"
 
@@ -3530,8 +3530,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 1700 TABLET in 1 BOTTLE"
 
@@ -3550,8 +3550,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 160000 TABLET in 1 DRUM"
 
@@ -3570,8 +3570,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 24 TABLET in 1 BOTTLE"
 
@@ -3590,8 +3590,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 50 TABLET in 1 BOTTLE"
 
@@ -3610,8 +3610,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 100 TABLET in 1 BOTTLE"
 
@@ -3630,8 +3630,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 250 TABLET in 1 BOTTLE"
 
@@ -3650,8 +3650,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 500 TABLET in 1 BOTTLE"
 
@@ -3670,8 +3670,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 750 TABLET in 1 BOTTLE"
 
@@ -3690,8 +3690,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 1000 TABLET in 1 BOTTLE"
 
@@ -3710,8 +3710,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 160000 BAG in 1 DRUM   > 1 TABLET in 1 BAG"
 
@@ -3730,8 +3730,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 24 TABLET in 1 BOTTLE"
 
@@ -3750,8 +3750,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 50 TABLET in 1 BOTTLE"
 
@@ -3770,8 +3770,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 100 TABLET in 1 BOTTLE"
 
@@ -3790,8 +3790,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 250 TABLET in 1 BOTTLE"
 
@@ -3810,8 +3810,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 500 TABLET in 1 BOTTLE"
 
@@ -3830,8 +3830,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 750 TABLET in 1 BOTTLE"
 
@@ -3850,8 +3850,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 1000 TABLET in 1 BOTTLE"
 
@@ -3870,8 +3870,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 160000 BAG in 1 DRUM   > 1 TABLET in 1 BAG"
 
@@ -3890,8 +3890,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 24 TABLET in 1 BOTTLE"
 
@@ -3910,8 +3910,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 50 TABLET in 1 BOTTLE"
 
@@ -3930,8 +3930,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 100 TABLET in 1 BOTTLE"
 
@@ -3950,8 +3950,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 250 TABLET in 1 BOTTLE"
 
@@ -3970,8 +3970,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 500 TABLET in 1 BOTTLE"
 
@@ -3990,8 +3990,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 750 TABLET in 1 BOTTLE"
 
@@ -4010,8 +4010,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 1000 TABLET in 1 BOTTLE"
 
@@ -4030,8 +4030,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 10 TABLET in 1 BOTTLE"
 
@@ -4050,8 +4050,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 24 TABLET in 1 BOTTLE"
 
@@ -4070,8 +4070,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 50 TABLET in 1 BOTTLE"
 
@@ -4090,8 +4090,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 100 TABLET in 1 BOTTLE"
 
@@ -4110,8 +4110,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 250 TABLET in 1 BOTTLE"
 
@@ -4130,8 +4130,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 500 TABLET in 1 BOTTLE"
 
@@ -4150,8 +4150,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 750 TABLET in 1 BOTTLE"
 
@@ -4170,8 +4170,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 1000 TABLET in 1 BOTTLE"
 
@@ -4190,8 +4190,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 10 TABLET in 1 BOTTLE"
 
@@ -4210,8 +4210,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 24 TABLET in 1 BOTTLE"
 
@@ -4230,8 +4230,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 50 TABLET in 1 BOTTLE"
 
@@ -4250,8 +4250,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 100 TABLET in 1 BOTTLE"
 
@@ -4270,8 +4270,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 250 TABLET in 1 BOTTLE"
 
@@ -4290,8 +4290,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 500 TABLET in 1 BOTTLE"
 
@@ -4310,8 +4310,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 750 TABLET in 1 BOTTLE"
 
@@ -4330,8 +4330,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 1000 TABLET in 1 BOTTLE"
 
@@ -4350,8 +4350,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 10 TABLET in 1 BOTTLE"
 
@@ -4370,8 +4370,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 24 TABLET in 1 BOTTLE"
 
@@ -4390,8 +4390,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 50 TABLET in 1 BOTTLE"
 
@@ -4410,8 +4410,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 100 TABLET in 1 BOTTLE"
 
@@ -4430,8 +4430,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 250 TABLET in 1 BOTTLE"
 
@@ -4450,8 +4450,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 500 TABLET in 1 BOTTLE"
 
@@ -4470,8 +4470,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 750 TABLET in 1 BOTTLE"
 
@@ -4490,8 +4490,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 1000 TABLET in 1 BOTTLE"
 
@@ -4510,8 +4510,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules india limited ibuprofen 200 MG Oral Tablet x 10 TABLET in 1 BOTTLE"
 
@@ -4530,8 +4530,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "ingles markets inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -4550,8 +4550,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "ingles markets inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -4570,8 +4570,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "proficient rx lp ibuprofen 200 MG Oral Tablet x 6 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -4590,8 +4590,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "proficient rx lp ibuprofen 200 MG Oral Tablet x 10 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -4610,8 +4610,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "proficient rx lp ibuprofen 200 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -4630,8 +4630,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "proficient rx lp ibuprofen 200 MG Oral Tablet x 40 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -4650,8 +4650,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "proficient rx lp ibuprofen 200 MG Oral Tablet x 50 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -4670,8 +4670,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "proficient rx lp ibuprofen 200 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -4690,8 +4690,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "proficient rx lp ibuprofen 200 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -4710,8 +4710,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "pld acquisitions llc dba avï¿½ma pharma solutions ibuprofen 200 MG Oral Tablet x 10 TABLET, COATED in 1 VIAL"
 
@@ -4730,8 +4730,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "pld acquisitions llc dba avï¿½ma pharma solutions ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 BOX   > 100 TABLET, COATED in 1 BOTTLE"
 
@@ -4750,8 +4750,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "pld acquisitions llc dba avï¿½ma pharma solutions ibuprofen 200 MG Oral Tablet x 1000 TABLET, COATED in 1 BOTTLE"
 
@@ -4770,8 +4770,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "pld acquisitions llc dba avï¿½ma pharma solutions ibuprofen 200 MG Oral Tablet x 10 TABLET, COATED in 1 VIAL"
 
@@ -4790,8 +4790,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "pld acquisitions llc dba avï¿½ma pharma solutions ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 BOX   > 100 TABLET, COATED in 1 BOTTLE"
 
@@ -4810,8 +4810,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "pld acquisitions llc dba avï¿½ma pharma solutions ibuprofen 200 MG Oral Tablet x 1000 TABLET, COATED in 1 BOTTLE"
 
@@ -4830,8 +4830,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 80 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -4850,8 +4850,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 20 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -4870,8 +4870,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 15 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -4890,8 +4890,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -4910,8 +4910,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -4930,8 +4930,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -4950,8 +4950,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -4970,8 +4970,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 40 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -4990,8 +4990,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 10 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -5010,8 +5010,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 56 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -5030,8 +5030,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 10 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -5050,8 +5050,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug marketing association inc ibuprofen 200 MG Oral Tablet x 250 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -5070,8 +5070,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug marketing association inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -5090,8 +5090,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug marketing association inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -5110,8 +5110,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug marketing association inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -5130,8 +5130,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug marketing association inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -5150,8 +5150,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug marketing association inc ibuprofen 200 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -5170,8 +5170,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug marketing association inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -5190,8 +5190,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug marketing association inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 24 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -5210,8 +5210,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug marketing association inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -5230,8 +5230,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug marketing association inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -5250,8 +5250,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug marketing association inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 24 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -5270,8 +5270,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug marketing association inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -5290,8 +5290,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "harmon store inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 PACKAGE   > 10 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -5310,8 +5310,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "harmon store inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 24 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -5330,8 +5330,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "harmon store inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -5350,8 +5350,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "harmon store inc ibuprofen 200 MG Oral Tablet x 250 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -5370,8 +5370,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "harmon store inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -5390,8 +5390,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "harmon store inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 24 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -5410,8 +5410,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "harmon store inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -5430,8 +5430,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "harmon store inc ibuprofen 200 MG Oral Tablet x 250 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -5450,8 +5450,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "harmon store inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -5470,8 +5470,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "harmon store inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 PACKAGE   > 10 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -5490,8 +5490,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "harmon store inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -5510,8 +5510,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "harmon store inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -5530,8 +5530,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "harmon store inc ibuprofen 200 MG Oral Tablet x 225 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -5550,8 +5550,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "valu merchandisers company ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 24 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -5570,8 +5570,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "valu merchandisers company ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -5590,8 +5590,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "valu merchandisers company ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -5610,8 +5610,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "valu merchandisers company ibuprofen 200 MG Oral Tablet x 500 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -5630,8 +5630,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "valu merchandisers company ibuprofen 200 MG Oral Tablet x 2 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -5650,8 +5650,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "valu merchandisers company ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -5670,8 +5670,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "valu merchandisers company ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 24 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -5690,8 +5690,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "valu merchandisers company ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -5710,8 +5710,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "valu merchandisers company ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -5730,8 +5730,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "valu merchandisers company ibuprofen 200 MG Oral Tablet x 2 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -5750,8 +5750,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "valu merchandisers company ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -5770,8 +5770,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "costco wholesale corporation ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 PACKAGE   > 10 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -5790,8 +5790,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "costco wholesale corporation ibuprofen 200 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -5810,8 +5810,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "costco wholesale corporation ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 PACKAGE   > 10 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -5830,8 +5830,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "costco wholesale corporation ibuprofen 200 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -5850,8 +5850,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "costco wholesale company ibuprofen 200 MG Oral Tablet x 2 BOTTLE in 1 PACKAGE   > 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -5870,8 +5870,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "costco wholesale company ibuprofen 200 MG Oral Tablet x 10 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -5890,8 +5890,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "costco wholesale company ibuprofen 200 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -5910,8 +5910,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "aldi inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -5930,8 +5930,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "great lakes wholesale marketing  sales inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 30 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -5950,8 +5950,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "great lakes wholesale marketing  sales inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -5970,8 +5970,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "great lakes wholesale marketing  sales inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 30 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -5990,8 +5990,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "nucare pharmaceuticals inc ibuprofen 200 MG Oral Tablet x 20 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -6010,8 +6010,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "nucare pharmaceuticals inc ibuprofen 200 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -6030,8 +6030,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "nucare pharmaceuticals inc ibuprofen 200 MG Oral Tablet x 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -6050,8 +6050,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "sda laboratories inc ibuprofen 200 MG Oral Tablet x 1000 TABLET in 1 BOTTLE, PLASTIC"
 
@@ -6070,8 +6070,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "lil drug store products inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET, COATED in 1 BOTTLE"
 
@@ -6090,8 +6090,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "lil drug store products inc ibuprofen 200 MG Oral Tablet x 2 POUCH in 1 CARTON   > 2 TABLET, FILM COATED in 1 POUCH"
 
@@ -6110,8 +6110,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "lil drug store products inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 24 TABLET in 1 BOTTLE"
 
@@ -6130,8 +6130,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "lil drug store products inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET, COATED in 1 BOTTLE"
 
@@ -6150,8 +6150,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "lil drug store products inc ibuprofen 200 MG Oral Tablet x 12 TABLET in 1 VIAL"
 
@@ -6170,8 +6170,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "lil drug store products inc ibuprofen 200 MG Oral Tablet x 50 POUCH in 1 BOX, UNIT-DOSE   > 2 TABLET, FILM COATED in 1 POUCH"
 
@@ -6190,8 +6190,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "advanced first aid inc ibuprofen 200 MG Oral Tablet x 250 PACKET in 1 CARTON   > 2 TABLET, FILM COATED in 1 PACKET"
 
@@ -6210,8 +6210,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "advanced first aid inc ibuprofen 200 MG Oral Tablet x 100 PACKET in 1 CARTON   > 2 TABLET, FILM COATED in 1 PACKET"
 
@@ -6230,8 +6230,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "advanced first aid inc ibuprofen 200 MG Oral Tablet x 250 PACKET in 1 CARTON   > 2 TABLET, FILM COATED in 1 PACKET"
 
@@ -6250,8 +6250,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "advanced first aid inc ibuprofen 200 MG Oral Tablet x 100 PACKET in 1 CARTON   > 2 TABLET, FILM COATED in 1 PACKET"
 
@@ -6270,8 +6270,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "advanced first aid inc ibuprofen 200 MG Oral Tablet x 250 PACKET in 1 CARTON   > 2 TABLET, FILM COATED in 1 PACKET"
 
@@ -6290,8 +6290,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "advanced first aid inc ibuprofen 200 MG Oral Tablet x 100 PACKET in 1 CARTON   > 2 TABLET, FILM COATED in 1 PACKET"
 
@@ -6310,8 +6310,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "winco foods llc ibuprofen 200 MG Oral Tablet x 500 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -6330,8 +6330,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "winco foods llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -6350,8 +6350,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "winco foods llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -6370,8 +6370,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "winco foods llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -6390,8 +6390,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "winco foods llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -6410,8 +6410,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "winco foods llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -6430,8 +6430,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "winco foods llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -6450,8 +6450,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "winco foods llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -6470,8 +6470,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "navajo manufacturing company inc ibuprofen 200 MG Oral Tablet x 1 POUCH in 1 CARTON   > 4 TABLET, COATED in 1 POUCH"
 
@@ -6490,8 +6490,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug constortium ibuprofen 200 MG Oral Tablet x 50 TABLET in 1 CARTON"
 
@@ -6510,8 +6510,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug constortium ibuprofen 200 MG Oral Tablet x 100 TABLET in 1 CARTON"
 
@@ -6530,8 +6530,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug constortium ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -6550,8 +6550,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug constortium ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -6570,8 +6570,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug consortium ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 24 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -6590,8 +6590,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug consortium ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -6610,8 +6610,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug consortium ibuprofen 200 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -6630,8 +6630,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug consortium ibuprofen 200 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -6650,8 +6650,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug consortium ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -6670,8 +6670,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug consortium ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 24 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -6690,8 +6690,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug consortium ibuprofen 200 MG Oral Tablet x 250 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -6710,8 +6710,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug consortium ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -6730,8 +6730,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug consortium ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -6750,8 +6750,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug consortium ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -6770,8 +6770,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug consortium ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 24 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -6790,8 +6790,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug consortium ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -6810,8 +6810,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "chain drug consortium ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -6830,8 +6830,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "nucare pharmaceuticals inc ibuprofen 200 MG Oral Tablet x 20 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -6850,8 +6850,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "nucare pharmaceuticals inc ibuprofen 200 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -6870,8 +6870,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "nucare pharmaceuticals inc ibuprofen 200 MG Oral Tablet x 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -6890,8 +6890,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "nucare pharmaceuticalsinc ibuprofen 200 MG Oral Tablet x 20 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -6910,8 +6910,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "nucare pharmaceuticalsinc ibuprofen 200 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -6930,8 +6930,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "nucare pharmaceuticalsinc ibuprofen 200 MG Oral Tablet x 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -6950,8 +6950,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "nucare pharmaceuticalsinc ibuprofen 200 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -6970,8 +6970,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "nucare pharmaceuticals inc ibuprofen 200 MG Oral Tablet x 30 TABLET in 1 BOTTLE"
 
@@ -6990,8 +6990,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "sams west inc ibuprofen 200 MG Oral Tablet x 600 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7010,8 +7010,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "sams west inc ibuprofen 200 MG Oral Tablet x 600 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -7030,8 +7030,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "spirit pharmaceuticals llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 40 TABLET in 1 BOTTLE"
 
@@ -7050,8 +7050,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "spirit pharmaceutical llc ibuprofen 200 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -7070,8 +7070,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "spirit pharmaceutical llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 25 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -7090,8 +7090,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "spirit pharmaceutical llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7110,8 +7110,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "spirit pharmaceutical llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7130,8 +7130,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "spirit pharmaceutical llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7150,8 +7150,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "spirit pharmaceutical llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7170,8 +7170,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "spirit pharmaceuticals llc ibuprofen 200 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7190,8 +7190,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "spirit pharmaceuticals llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 40 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7210,8 +7210,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "spirit pharmaceuticals llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 40 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7230,8 +7230,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "spirit pharmaceutical llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7250,8 +7250,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "spirit pharmaceuticals llc ibuprofen 200 MG Oral Tablet x 25 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7270,8 +7270,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "spirit pharmaceuticals llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7290,8 +7290,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "spirit pharmaceuticals llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 40 TABLET, COATED in 1 BOTTLE"
 
@@ -7310,8 +7310,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "spirit pharmaceuticals llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 25 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7330,8 +7330,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "spirit pharmaceutical llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7350,8 +7350,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "spirit pharmaceutical llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 25 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7370,8 +7370,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "spirit pharmaceutical llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7390,8 +7390,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "spirit pharmaceutical llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7410,8 +7410,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bjwc ibuprofen 200 MG Oral Tablet x 750 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7430,8 +7430,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bjwc ibuprofen 200 MG Oral Tablet x 2 BOTTLE in 1 PACKAGE   > 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7450,8 +7450,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bjwc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 24 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7470,8 +7470,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bjwc ibuprofen 200 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7490,8 +7490,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "mckesson medicalsurgical ibuprofen 200 MG Oral Tablet x 200 PACKET in 1 BOX   > 2 TABLET, COATED in 1 PACKET"
 
@@ -7510,8 +7510,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "preferred pharmaceuticals inc ibuprofen 200 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7530,8 +7530,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "preferred pharmaceuticals inc ibuprofen 200 MG Oral Tablet x 20 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7550,8 +7550,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "preferred pharmaceuticals inc ibuprofen 200 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7570,8 +7570,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "preferred pharmaceuticals inc ibuprofen 200 MG Oral Tablet x 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7590,8 +7590,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "preferred pharmaceuticals inc ibuprofen 200 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7610,8 +7610,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "preferred pharmaceuticals inc ibuprofen 200 MG Oral Tablet x 20 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7630,8 +7630,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "preferred pharmaceuticals inc ibuprofen 200 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7650,8 +7650,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "preferred pharmaceuticals inc ibuprofen 200 MG Oral Tablet x 40 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7670,8 +7670,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "preferred pharmaceuticals inc ibuprofen 200 MG Oral Tablet x 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7690,8 +7690,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "preferred pharmaceuticals inc ibuprofen 200 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7710,8 +7710,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "preferred pharmaceuticals inc ibuprofen 200 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -7730,8 +7730,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "marc glassman inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -7750,8 +7750,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "marc glassman inc ibuprofen 200 MG Oral Tablet x 1 PACKAGE in 1 CARTON   > 100 TABLET, COATED in 1 PACKAGE"
 
@@ -7770,8 +7770,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "marc glassman inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -7790,8 +7790,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "marc glassman inc ibuprofen 200 MG Oral Tablet x 500 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -7810,8 +7810,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "marc glassman inc ibuprofen 200 MG Oral Tablet x 250 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -7830,8 +7830,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "marc glassman inc ibuprofen 200 MG Oral Tablet x 2 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -7850,8 +7850,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "marc glassman inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -7870,8 +7870,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "provision medical products ibuprofen 200 MG Oral Tablet x 250 PACKET in 1 CARTON   > 2 TABLET in 1 PACKET"
 
@@ -7890,8 +7890,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "provision medical products ibuprofen 200 MG Oral Tablet x 100 PACKET in 1 CARTON   > 2 TABLET in 1 PACKET"
 
@@ -7910,8 +7910,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "allegiant health ibuprofen 200 MG Oral Tablet x 100 TABLET in 1 BOX"
 
@@ -7930,8 +7930,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "allegiant health ibuprofen 200 MG Oral Tablet x 250 TABLET in 1 BOTTLE"
 
@@ -7950,8 +7950,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "allegiant health ibuprofen 200 MG Oral Tablet x 30 TABLET in 1 BOX"
 
@@ -7970,8 +7970,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "allegiant health ibuprofen 200 MG Oral Tablet x 40 TABLET in 1 BOX"
 
@@ -7990,8 +7990,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "allegiant health ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET in 1 BOTTLE"
 
@@ -8010,8 +8010,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "allegiant health ibuprofen 200 MG Oral Tablet x 250 TABLET in 1 BOTTLE"
 
@@ -8030,8 +8030,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "allegiant health ibuprofen 200 MG Oral Tablet x 500 TABLET in 1 BOTTLE"
 
@@ -8050,8 +8050,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "allegiant health ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 30 TABLET in 1 BOTTLE"
 
@@ -8070,8 +8070,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "allegiant health ibuprofen 200 MG Oral Tablet x 100 TABLET in 1 BOTTLE"
 
@@ -8090,8 +8090,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "allegiant health ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 40 TABLET in 1 BOTTLE"
 
@@ -8110,8 +8110,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "allegiant health ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 30 TABLET in 1 BOTTLE"
 
@@ -8130,8 +8130,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "allegiant health ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -8150,8 +8150,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "healthlife of usa llc ibuprofen 200 MG Oral Tablet x 2 POUCH in 1 POUCH   > 2 TABLET, COATED in 1 POUCH"
 
@@ -8170,8 +8170,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "healthlife of usa llc ibuprofen 200 MG Oral Tablet x 500  in 1 BOTTLE"
 
@@ -8190,8 +8190,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "healthlife of usa llc ibuprofen 200 MG Oral Tablet x 1000 BOTTLE in 1 BOTTLE   > 500 BOTTLE in 1 BOTTLE   > 30 CARTON in 1 BOTTLE   > 1 TABLET, COATED in 1 CARTON"
 
@@ -8210,8 +8210,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "healthlife of usa llc ibuprofen 200 MG Oral Tablet x 25 POUCH in 1 CARTON   > 2 TABLET, COATED in 1 POUCH"
 
@@ -8230,8 +8230,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "healthlife of usa llc ibuprofen 200 MG Oral Tablet x 1  in 1 CARTON"
 
@@ -8250,8 +8250,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "healthlife of usa llc ibuprofen 200 MG Oral Tablet x 50 POUCH in 1 CARTON   > 2 TABLET, COATED in 1 POUCH"
 
@@ -8270,8 +8270,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "uline ibuprofen 200 MG Oral Tablet x 50 PACKET in 1 BOX   > 2 TABLET, COATED in 1 PACKET"
 
@@ -8290,8 +8290,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "uline ibuprofen 200 MG Oral Tablet x 50 PACKET in 1 BOX   > 2 TABLET in 1 PACKET"
 
@@ -8310,8 +8310,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "southern sales  services inc ibuprofen 200 MG Oral Tablet x 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -8330,8 +8330,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy inc ibuprofen 200 MG Oral Tablet x 15 POUCH in 1 CARTON   > 2 TABLET in 1 POUCH"
 
@@ -8350,8 +8350,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacyinc ibuprofen 200 MG Oral Tablet x 225 TABLET, COATED in 1 BOTTLE"
 
@@ -8370,8 +8370,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET in 1 BOTTLE"
 
@@ -8390,8 +8390,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy inc ibuprofen 200 MG Oral Tablet x 500 TABLET in 1 BOTTLE"
 
@@ -8410,8 +8410,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cvs pharmacy ibuprofen 200 MG Oral Tablet x 1 KIT in 1 PACKAGE, COMBINATION   *  50 TABLET, FILM COATED in 1 BOTTLE, PLASTIC *  10 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -8430,8 +8430,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules usa inc ibuprofen 200 MG Oral Tablet x 24 TABLET in 1 BOTTLE"
 
@@ -8450,8 +8450,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules usa inc ibuprofen 200 MG Oral Tablet x 100 TABLET in 1 BOTTLE"
 
@@ -8470,8 +8470,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules usa inc ibuprofen 200 MG Oral Tablet x 24 TABLET in 1 BOTTLE"
 
@@ -8490,8 +8490,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "granules usa inc ibuprofen 200 MG Oral Tablet x 250 TABLET in 1 BOTTLE"
 
@@ -8510,8 +8510,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cardinal health 110 llc dba leader ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -8530,8 +8530,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cardinal health 110 llc dba leader ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -8550,8 +8550,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cardinal health 110 llc dba leader ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 24 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -8570,8 +8570,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cardinal health 110 llc dba leader ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -8590,8 +8590,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cardinal health 110 llc dba leader ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -8610,8 +8610,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cardinal health 110 llc dba leader ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 250 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -8630,8 +8630,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cardinal health 110 llc dba leader ibuprofen 200 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -8650,8 +8650,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cardinal health 110 llc dba leader ibuprofen 200 MG Oral Tablet x 2 TABLET, FILM COATED in 1 POUCH"
 
@@ -8670,8 +8670,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cardinal health 110 llc dba leader ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 120 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -8690,8 +8690,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cardinal health 110 llc dba leader ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 200 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -8710,8 +8710,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cardinal health 110 llc dba leader ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -8730,8 +8730,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cardinal health 110 llc dba leader ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 200 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -8750,8 +8750,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cardinal health 110 llc dba leader ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 250 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -8770,8 +8770,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cardinal health 110 llc dba leader ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -8790,8 +8790,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cardinal health 110 llc dba leader ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -8810,8 +8810,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cardinal health 110 llc dba leader ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 120 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -8830,8 +8830,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cardinal health 110 llc dba leader ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -8850,8 +8850,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cardinal health 110 llc dba leader ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -8870,8 +8870,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cardinal health 110 llc dba leader ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -8890,8 +8890,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cardinal health 110 llc dba leader ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -8910,8 +8910,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cardinal health 110 llc dba leader ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -8930,8 +8930,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cardinal health ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET in 1 BOTTLE"
 
@@ -8950,8 +8950,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "cardinal health ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET in 1 BOTTLE"
 
@@ -8970,8 +8970,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "remedyrepack inc ibuprofen 200 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BLISTER PACK"
 
@@ -8990,8 +8990,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "remedyrepack inc ibuprofen 200 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -9010,8 +9010,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "remedyrepack inc ibuprofen 200 MG Oral Tablet x 10 TABLET, FILM COATED in 1 BLISTER PACK"
 
@@ -9030,8 +9030,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "remedyrepack inc ibuprofen 200 MG Oral Tablet x 10 BLISTER PACK in 1 CARTON   > 10 TABLET, FILM COATED in 1 BLISTER PACK"
 
@@ -9050,8 +9050,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "remedyrepack inc ibuprofen 200 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BLISTER PACK"
 
@@ -9070,8 +9070,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "breeden brothers llc ibuprofen 200 MG Oral Tablet x 24 TABLET in 1 BOTTLE"
 
@@ -9090,8 +9090,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "breeden brothers llc ibuprofen 200 MG Oral Tablet x 50 TABLET in 1 BOTTLE"
 
@@ -9110,8 +9110,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "breeden brothers llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -9130,8 +9130,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "redicare llc ibuprofen 200 MG Oral Tablet x 1 TABLET, FILM COATED in 1 BOX"
 
@@ -9150,8 +9150,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "lidl us llc ibuprofen 200 MG Oral Tablet x 200 TABLET, COATED in 1 BOTTLE"
 
@@ -9170,8 +9170,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "lidl us llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -9190,8 +9190,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "proficient rx lp ibuprofen 200 MG Oral Tablet x 6 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9210,8 +9210,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "proficient rx lp ibuprofen 200 MG Oral Tablet x 24 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9230,8 +9230,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "proficient rx lp ibuprofen 200 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9250,8 +9250,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "proficient rx lp ibuprofen 200 MG Oral Tablet x 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9270,8 +9270,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "proficient rx lp ibuprofen 200 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9290,8 +9290,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "proficient rx lp ibuprofen 200 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9310,8 +9310,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "safrel pharmaceuticals llc ibuprofen 200 MG Oral Tablet x 2 POUCH in 1 POUCH   > 2 TABLET, COATED in 1 POUCH"
 
@@ -9330,8 +9330,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "safrel pharmaceuticals llc ibuprofen 200 MG Oral Tablet x 500  in 1 BOTTLE"
 
@@ -9350,8 +9350,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "safrel pharmaceuticals llc ibuprofen 200 MG Oral Tablet x 1000 BOTTLE in 1 BOTTLE   > 500 BOTTLE in 1 BOTTLE   > 30 CARTON in 1 BOTTLE   > 1 TABLET, COATED in 1 CARTON"
 
@@ -9370,8 +9370,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "safrel pharmaceuticals llc ibuprofen 200 MG Oral Tablet x 25 BOTTLE in 1 CARTON   > 2 TABLET, COATED in 1 BOTTLE"
 
@@ -9390,8 +9390,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "safrel pharmaceuticals llc ibuprofen 200 MG Oral Tablet x 1  in 1 CARTON"
 
@@ -9410,8 +9410,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "safrel pharmaceuticals llc ibuprofen 200 MG Oral Tablet x 50 BOTTLE in 1 CARTON   > 2 TABLET, COATED in 1 BOTTLE"
 
@@ -9430,8 +9430,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9450,8 +9450,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 20 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9470,8 +9470,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 15 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9490,8 +9490,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9510,8 +9510,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9530,8 +9530,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9550,8 +9550,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9570,8 +9570,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 40 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9590,8 +9590,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 10 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9610,8 +9610,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 56 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9630,8 +9630,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9650,8 +9650,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 20 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9670,8 +9670,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 15 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9690,8 +9690,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9710,8 +9710,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9730,8 +9730,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9750,8 +9750,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9770,8 +9770,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 40 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9790,8 +9790,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 10 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9810,8 +9810,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 56 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9830,8 +9830,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9850,8 +9850,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 20 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9870,8 +9870,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 15 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9890,8 +9890,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9910,8 +9910,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9930,8 +9930,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9950,8 +9950,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9970,8 +9970,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 40 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -9990,8 +9990,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 10 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -10010,8 +10010,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 56 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -10030,8 +10030,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -10050,8 +10050,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 20 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -10070,8 +10070,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 15 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -10090,8 +10090,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -10110,8 +10110,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -10130,8 +10130,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -10150,8 +10150,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -10170,8 +10170,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 40 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -10190,8 +10190,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 10 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -10210,8 +10210,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "bryant ranch prepack ibuprofen 200 MG Oral Tablet x 56 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -10230,8 +10230,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "health pharma usa llc ibuprofen 200 MG Oral Tablet x 500 TABLET, COATED in 1 BOTTLE"
 
@@ -10250,8 +10250,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "harris teeter ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 24 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -10270,8 +10270,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "harris teeter ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -10290,8 +10290,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "harris teeter ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -10310,8 +10310,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "harris teeter ibuprofen 200 MG Oral Tablet x 500 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -10330,8 +10330,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "harris teeter ibuprofen 200 MG Oral Tablet x 300 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -10350,8 +10350,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "harris teeter ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 24 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -10370,8 +10370,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "harris teeter ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -10390,8 +10390,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "harris teeter ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -10410,8 +10410,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "harris teeter ibuprofen 200 MG Oral Tablet x 500 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -10430,8 +10430,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "harris teeter ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -10450,8 +10450,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "harris teeter ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -10470,8 +10470,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "harris teeter ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -10490,8 +10490,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "harris teeter ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -10510,8 +10510,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "harris teeter ibuprofen 200 MG Oral Tablet x 225 TABLET, COATED in 1 PACKAGE"
 
@@ -10530,8 +10530,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "pioneer life sciencesllc ibuprofen 200 MG Oral Tablet x 500 TABLET in 1 BOTTLE"
 
@@ -10550,8 +10550,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "direct rx ibuprofen 200 MG Oral Tablet x 28 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -10570,8 +10570,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "direct rx ibuprofen 200 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -10590,8 +10590,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "direct rx ibuprofen 200 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -10610,8 +10610,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "amazoncom services llc ibuprofen 200 MG Oral Tablet x 50 POUCH in 1 CARTON   > 2 TABLET, FILM COATED in 1 POUCH"
 
@@ -10630,8 +10630,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "amazoncom services llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -10650,8 +10650,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "amazoncom services llc ibuprofen 200 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -10670,8 +10670,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "amazoncom services llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -10690,8 +10690,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "amazoncom services llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 200 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -10710,8 +10710,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "amazoncom services llc ibuprofen 200 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -10730,8 +10730,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "amazoncom services llc ibuprofen 200 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -10750,8 +10750,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "retail business services  llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 24 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -10770,8 +10770,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "retail business services  llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -10790,8 +10790,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "retail business services  llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -10810,8 +10810,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "retail business services  llc ibuprofen 200 MG Oral Tablet x 500 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -10830,8 +10830,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "retail business services  llc ibuprofen 200 MG Oral Tablet x 1000 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -10850,8 +10850,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "retail business services  llc ibuprofen 200 MG Oral Tablet x 250 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -10870,8 +10870,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "retail business services  llc ibuprofen 200 MG Oral Tablet x 2 BOTTLE, PLASTIC in 1 PACKAGE   > 100 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -10890,8 +10890,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "retail business services  llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -10910,8 +10910,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "retail business services  llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -10930,8 +10930,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "retail business services  llc ibuprofen 200 MG Oral Tablet x 1 PACKAGE in 1 CARTON   > 100 TABLET, COATED in 1 PACKAGE"
 
@@ -10950,8 +10950,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "retail business services  llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 250 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -10970,8 +10970,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "retail business services  llc ibuprofen 200 MG Oral Tablet x 500 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -10990,8 +10990,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "retail business services  llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -11010,8 +11010,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "retail business services  llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 50 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -11030,8 +11030,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "retail business services  llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE, PLASTIC in 1 CARTON   > 100 TABLET, COATED in 1 BOTTLE, PLASTIC"
 
@@ -11050,8 +11050,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "retail business services llc ibuprofen 200 MG Oral Tablet x 50 TABLET in 1 BOTTLE"
 
@@ -11070,8 +11070,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "retail business services llc ibuprofen 200 MG Oral Tablet x 100 TABLET in 1 BOTTLE"
 
@@ -11090,8 +11090,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "retail business services llc ibuprofen 200 MG Oral Tablet x 200 TABLET in 1 BOTTLE"
 
@@ -11110,8 +11110,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "retail business services llc ibuprofen 200 MG Oral Tablet x 24 TABLET in 1 BOTTLE"
 
@@ -11130,8 +11130,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "retail business services llc ibuprofen 200 MG Oral Tablet x 500 TABLET in 1 BOTTLE"
 
@@ -11150,8 +11150,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "retail business services llc ibuprofen 200 MG Oral Tablet x 1000 TABLET in 1 BOTTLE"
 
@@ -11170,8 +11170,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "retail business services llc ibuprofen 200 MG Oral Tablet x 50 TABLET in 1 BOTTLE"
 
@@ -11190,8 +11190,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "retail business services llc ibuprofen 200 MG Oral Tablet x 100 TABLET in 1 BOTTLE"
 
@@ -11210,8 +11210,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "pdrx pharmaceuticals inc ibuprofen 200 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -11230,8 +11230,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "thompson safety ibuprofen 200 MG Oral Tablet x 50 PACKET in 1 BOX   > 2 TABLET, COATED in 1 PACKET"
 
@@ -11250,8 +11250,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "thompson safety ibuprofen 200 MG Oral Tablet x 50 PACKET in 1 BOX   > 2 TABLET, COATED in 1 PACKET"
 
@@ -11270,8 +11270,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "jhk inc dba american safety  first aid ibuprofen 200 MG Oral Tablet x 50 PACKET in 1 BOX   > 2 TABLET, COATED in 1 PACKET"
 
@@ -11290,8 +11290,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "jhk inc dba american safety  first aid ibuprofen 200 MG Oral Tablet x 125 PACKET in 1 BOX   > 2 TABLET, COATED in 1 PACKET"
 
@@ -11310,8 +11310,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "rapid care inc ibuprofen 200 MG Oral Tablet x 50 POUCH in 1 BOX   > 2 TABLET, FILM COATED in 1 POUCH"
 
@@ -11330,8 +11330,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "rapid care inc ibuprofen 200 MG Oral Tablet x 125 POUCH in 1 BOX   > 2 TABLET, FILM COATED in 1 POUCH"
 
@@ -11350,8 +11350,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "dollar general corporation ibuprofen 200 MG Oral Tablet x 2 BOTTLE in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -11370,8 +11370,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "live betr llc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -11390,8 +11390,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "western first aid safety ibuprofen 200 MG Oral Tablet x 50 PACKET in 1 BOX   > 2 TABLET in 1 PACKET"
 
@@ -11410,8 +11410,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "western first aid safety ibuprofen 200 MG Oral Tablet x 125 PACKET in 1 BOX   > 2 TABLET in 1 PACKET"
 
@@ -11430,8 +11430,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "fsa store inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 50 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -11450,8 +11450,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "fsa store inc ibuprofen 200 MG Oral Tablet x 1 BOTTLE in 1 CARTON   > 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -11470,8 +11470,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "fsa store inc ibuprofen 200 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -11490,8 +11490,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000097010 "ibuprofen"
+* classification[+] = $who-atc#M02AA13 "ibuprofen"
 
 * name.productName = "gobrands inc ibuprofen 200 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -11510,8 +11510,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "organon llc simvastatin 10 MG Oral Tablet [Zocor] x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -11530,8 +11530,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "organon llc simvastatin 10 MG Oral Tablet [Zocor] x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -11550,8 +11550,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "organon llc simvastatin 20 MG Oral Tablet [Zocor] x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -11570,8 +11570,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "organon llc simvastatin 20 MG Oral Tablet [Zocor] x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -11590,8 +11590,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "organon llc simvastatin 40 MG Oral Tablet [Zocor] x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -11610,8 +11610,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "organon llc simvastatin 40 MG Oral Tablet [Zocor] x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -11630,8 +11630,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "salerno pharmaceuticals co simvastatin 4 MG/ML Oral Suspension [Flolipid] x 150 mL in 1 BOTTLE, GLASS"
 
@@ -11650,8 +11650,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "salerno pharmaceuticals co simvastatin 8 MG/ML Oral Suspension [Flolipid] x 150 mL in 1 BOTTLE, GLASS"
 
@@ -11670,8 +11670,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "organon llc simvastatin 80 MG Oral Tablet [Zocor] x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -11690,8 +11690,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "organon llc simvastatin 80 MG Oral Tablet [Zocor] x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -11710,8 +11710,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "ncs healthcare of ky llc dba vangard labs simvastatin 40 MG Oral Tablet x 15 TABLET, FILM COATED in 1 BLISTER PACK"
 
@@ -11730,8 +11730,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "ncs healthcare of ky llc dba vangard labs simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BLISTER PACK"
 
@@ -11750,8 +11750,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "blenheim pharmacal inc simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -11770,8 +11770,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "northstar rx llc simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -11790,8 +11790,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "northstar rx llc simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -11810,8 +11810,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "northstar rx llc simvastatin 40 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -11830,8 +11830,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "accord healthcare inc simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -11850,8 +11850,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "accord healthcare inc simvastatin 40 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -11870,8 +11870,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "accord healthcare inc simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -11890,8 +11890,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "accord healthcare inc simvastatin 40 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -11910,8 +11910,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "puracap laboratories llc simvastatin 40 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -11930,8 +11930,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "puracap laboratories llc simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -11950,8 +11950,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "puracap laboratories llc simvastatin 40 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -11970,8 +11970,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "puracap laboratories llc simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -11990,8 +11990,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "camber pharmaceuticals inc simvastatin 40 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12010,8 +12010,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "camber pharmaceuticals inc simvastatin 40 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12030,8 +12030,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "camber pharmaceuticals inc simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12050,8 +12050,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "camber pharmaceuticals inc simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12070,8 +12070,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "rxchange co simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12090,8 +12090,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "micro labs limited simvastatin 40 MG Oral Tablet x 500 TABLET in 1 BOTTLE"
 
@@ -12110,8 +12110,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "micro labs limited simvastatin 40 MG Oral Tablet x 1000 TABLET in 1 BOTTLE"
 
@@ -12130,8 +12130,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "micro labs limited simvastatin 40 MG Oral Tablet x 30 TABLET in 1 BOTTLE"
 
@@ -12150,8 +12150,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "micro labs limited simvastatin 40 MG Oral Tablet x 60 TABLET in 1 BOTTLE"
 
@@ -12170,8 +12170,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "micro labs limited simvastatin 40 MG Oral Tablet x 90 TABLET in 1 BOTTLE"
 
@@ -12190,8 +12190,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "hisun pharmaceuticals usa inc simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12210,8 +12210,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "hisun pharmaceuticals usa inc simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12230,8 +12230,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "hisun pharmaceuticals usa inc simvastatin 40 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12250,8 +12250,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "pdrx pharmaceuticals inc simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -12270,8 +12270,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "pdrx pharmaceuticals inc simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -12290,8 +12290,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 40 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12310,8 +12310,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12330,8 +12330,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 40 MG Oral Tablet x 15 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -12350,8 +12350,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 40 MG Oral Tablet x 6030 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -12370,8 +12370,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -12390,8 +12390,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 40 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -12410,8 +12410,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -12430,8 +12430,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 40 MG Oral Tablet x 900 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -12450,8 +12450,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions llc simvastatin 40 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12470,8 +12470,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions llc simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12490,8 +12490,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions llc simvastatin 40 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12510,8 +12510,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions llc simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12530,8 +12530,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions llc simvastatin 40 MG Oral Tablet x 200 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12550,8 +12550,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12570,8 +12570,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions simvastatin 40 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12590,8 +12590,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12610,8 +12610,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions simvastatin 40 MG Oral Tablet x 200 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12630,8 +12630,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12650,8 +12650,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions llc simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12670,8 +12670,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "acetris health llc simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12690,8 +12690,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "acetris health llc simvastatin 40 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12710,8 +12710,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "acetris health llc simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12730,8 +12730,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "acetris health llc simvastatin 40 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12750,8 +12750,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "hj harkins company inc simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12770,8 +12770,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "rpk pharmaceuticals inc simvastatin 40 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12790,8 +12790,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "rpk pharmaceuticals inc simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12810,8 +12810,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "rpk pharmaceuticals inc simvastatin 40 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12830,8 +12830,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "international laboratories llc simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12850,8 +12850,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 40 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12870,8 +12870,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 40 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12890,8 +12890,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 40 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12910,8 +12910,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12930,8 +12930,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 40 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12950,8 +12950,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 40 MG Oral Tablet x 10 DOSE PACK in 1 BOX   > 10 TABLET, FILM COATED in 1 DOSE PACK"
 
@@ -12970,8 +12970,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -12990,8 +12990,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "american health packaging simvastatin 40 MG Oral Tablet x 100 BLISTER PACK in 1 BOX, UNIT-DOSE   > 1 TABLET, FILM COATED in 1 BLISTER PACK"
 
@@ -13010,8 +13010,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "american health packaging simvastatin 40 MG Oral Tablet x 1  in 1 BLISTER PACK"
 
@@ -13030,8 +13030,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "st marys medical park pharmacy simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -13050,8 +13050,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "direct rx simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13070,8 +13070,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "direct rx simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13090,8 +13090,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "proficient rx lp simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13110,8 +13110,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "proficient rx lp simvastatin 40 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13130,8 +13130,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "proficient rx lp simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13150,8 +13150,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 40 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13170,8 +13170,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13190,8 +13190,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 40 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13210,8 +13210,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13230,8 +13230,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 40 MG Oral Tablet x 180 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13250,8 +13250,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 40 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13270,8 +13270,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 40 MG Oral Tablet x 120 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13290,8 +13290,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 40 MG Oral Tablet x 28 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13310,8 +13310,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 40 MG Oral Tablet x 10 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13330,8 +13330,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "mckesson corporation dba sky packaging simvastatin 40 MG Oral Tablet x 10 BLISTER PACK in 1 BOX, UNIT-DOSE   > 10 TABLET, FILM COATED in 1 BLISTER PACK"
 
@@ -13350,8 +13350,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus lifesciences limited simvastatin 40 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13370,8 +13370,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus lifesciences limited simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13390,8 +13390,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus lifesciences limited simvastatin 40 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13410,8 +13410,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus lifesciences limited simvastatin 40 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13430,8 +13430,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus lifesciences limited simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13450,8 +13450,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus lifesciences limited simvastatin 40 MG Oral Tablet x 5000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13470,8 +13470,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 40 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13490,8 +13490,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 40 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13510,8 +13510,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 40 MG Oral Tablet x 2000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13530,8 +13530,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13550,8 +13550,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 40 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13570,8 +13570,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13590,8 +13590,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 40 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13610,8 +13610,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "nucare pharmaceuticals inc simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13630,8 +13630,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "nucare pharmaceuticals inc simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13650,8 +13650,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "nucare pharmaceuticals inc simvastatin 40 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13670,8 +13670,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "nucare pharmaceuticals inc simvastatin 40 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13690,8 +13690,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "nucare pharmaceuticals inc simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13710,8 +13710,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "nucare pharmaceuticals inc simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13730,8 +13730,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "nucare pharmaceuticalsinc simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13750,8 +13750,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "nucare pharmaceuticals inc simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13770,8 +13770,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "nucare pharmaceuticals inc simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13790,8 +13790,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "lupin pharmaceuticals inc simvastatin 40 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13810,8 +13810,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "lupin pharmaceuticals inc simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13830,8 +13830,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "lupin pharmaceuticals inc simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13850,8 +13850,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "lupin pharmaceuticals inc simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13870,8 +13870,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "lupin pharmaceuticals inc simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13890,8 +13890,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "lupin pharmaceuticals inc simvastatin 40 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13910,8 +13910,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus pharmaceuticals usa inc simvastatin 40 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13930,8 +13930,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus pharmaceuticals usa inc simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13950,8 +13950,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus pharmaceuticals usa inc simvastatin 40 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13970,8 +13970,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus pharmaceuticals usa inc simvastatin 40 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -13990,8 +13990,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus pharmaceuticals usa inc simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14010,8 +14010,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus pharmaceuticals usa inc simvastatin 40 MG Oral Tablet x 5000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14030,8 +14030,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "legacy pharmaceutical packaging llc simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14050,8 +14050,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "preferred pharmaceuticals inc simvastatin 40 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14070,8 +14070,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "preferred pharmaceuticals inc simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14090,8 +14090,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "preferred pharmaceuticals inc simvastatin 40 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14110,8 +14110,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "preferred pharmaceuticals inc simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14130,8 +14130,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "biocon pharma inc simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14150,8 +14150,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "biocon pharma inc simvastatin 40 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14170,8 +14170,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "biocon pharma inc simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14190,8 +14190,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "biocon pharma inc simvastatin 40 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14210,8 +14210,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "remedyrepack inc simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14230,8 +14230,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "remedyrepack inc simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BLISTER PACK"
 
@@ -14250,8 +14250,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "remedyrepack inc simvastatin 40 MG Oral Tablet x 180 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -14270,8 +14270,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "remedyrepack inc simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -14290,8 +14290,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "remedyrepack inc simvastatin 40 MG Oral Tablet x 30 POUCH in 1 BOX   > 1 TABLET, FILM COATED in 1 POUCH"
 
@@ -14310,8 +14310,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "denton pharma inc dba northwind pharmaceuticals simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -14330,8 +14330,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "denton pharma inc dba northwind pharmaceuticals simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -14350,8 +14350,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "proficient rx lp simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14370,8 +14370,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "proficient rx lp simvastatin 40 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14390,8 +14390,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "proficient rx lp simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14410,8 +14410,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14430,8 +14430,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 40 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14450,8 +14450,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14470,8 +14470,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 40 MG Oral Tablet x 180 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14490,8 +14490,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 40 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14510,8 +14510,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 40 MG Oral Tablet x 120 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14530,8 +14530,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 40 MG Oral Tablet x 28 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14550,8 +14550,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 40 MG Oral Tablet x 10 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14570,8 +14570,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14590,8 +14590,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 40 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14610,8 +14610,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14630,8 +14630,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 40 MG Oral Tablet x 15 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14650,8 +14650,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14670,8 +14670,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 40 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14690,8 +14690,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14710,8 +14710,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 40 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14730,8 +14730,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 40 MG Oral Tablet x 15 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14750,8 +14750,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 40 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14770,8 +14770,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 40 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14790,8 +14790,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 40 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14810,8 +14810,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "quallent pharmaceuticals health llc simvastatin 40 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14830,8 +14830,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "northstar rx llc simvastatin 80 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14850,8 +14850,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "northstar rx llc simvastatin 80 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14870,8 +14870,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "northstar rx llc simvastatin 80 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14890,8 +14890,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "accord healthcare inc simvastatin 80 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14910,8 +14910,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "accord healthcare inc simvastatin 80 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14930,8 +14930,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "accord healthcare inc simvastatin 80 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14950,8 +14950,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "accord healthcare inc simvastatin 80 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14970,8 +14970,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "puracap laboratories llc simvastatin 80 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -14990,8 +14990,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "puracap laboratories llc simvastatin 80 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15010,8 +15010,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "puracap laboratories llc simvastatin 80 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15030,8 +15030,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "puracap laboratories llc simvastatin 80 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15050,8 +15050,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "camber pharmaceuticals inc simvastatin 80 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15070,8 +15070,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "camber pharmaceuticals inc simvastatin 80 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15090,8 +15090,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "camber pharmaceuticals inc simvastatin 80 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15110,8 +15110,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "camber pharmaceuticals inc simvastatin 80 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15130,8 +15130,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "micro labs limited simvastatin 80 MG Oral Tablet x 500 TABLET in 1 BOTTLE"
 
@@ -15150,8 +15150,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "micro labs limited simvastatin 80 MG Oral Tablet x 1000 TABLET in 1 BOTTLE"
 
@@ -15170,8 +15170,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "micro labs limited simvastatin 80 MG Oral Tablet x 30 TABLET in 1 BOTTLE"
 
@@ -15190,8 +15190,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "micro labs limited simvastatin 80 MG Oral Tablet x 60 TABLET in 1 BOTTLE"
 
@@ -15210,8 +15210,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "micro labs limited simvastatin 80 MG Oral Tablet x 90 TABLET in 1 BOTTLE"
 
@@ -15230,8 +15230,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "hisun pharmaceuticals usa inc simvastatin 80 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15250,8 +15250,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "hisun pharmaceuticals usa inc simvastatin 80 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15270,8 +15270,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "hisun pharmaceuticals usa inc simvastatin 80 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15290,8 +15290,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "pdrx pharmaceuticals inc simvastatin 80 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -15310,8 +15310,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "pdrx pharmaceuticals inc simvastatin 80 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -15330,8 +15330,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "pdrx pharmaceuticals inc simvastatin 80 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -15350,8 +15350,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 80 MG Oral Tablet x 15 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15370,8 +15370,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 80 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15390,8 +15390,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 80 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15410,8 +15410,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 80 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15430,8 +15430,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 80 MG Oral Tablet x 15 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -15450,8 +15450,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 80 MG Oral Tablet x 3060 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -15470,8 +15470,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 80 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -15490,8 +15490,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 80 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -15510,8 +15510,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 80 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -15530,8 +15530,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 80 MG Oral Tablet x 540 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -15550,8 +15550,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions llc simvastatin 80 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15570,8 +15570,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions llc simvastatin 80 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15590,8 +15590,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions llc simvastatin 80 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15610,8 +15610,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions llc simvastatin 80 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15630,8 +15630,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions llc simvastatin 80 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -15650,8 +15650,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions simvastatin 80 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15670,8 +15670,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions simvastatin 80 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15690,8 +15690,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "acetris health llc simvastatin 80 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15710,8 +15710,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "acetris health llc simvastatin 80 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15730,8 +15730,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "acetris health llc simvastatin 80 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15750,8 +15750,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "acetris health llc simvastatin 80 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15770,8 +15770,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 80 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15790,8 +15790,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 80 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15810,8 +15810,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 80 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15830,8 +15830,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 80 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15850,8 +15850,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 80 MG Oral Tablet x 10 DOSE PACK in 1 BOX   > 10 TABLET, FILM COATED in 1 DOSE PACK"
 
@@ -15870,8 +15870,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 80 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15890,8 +15890,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "st marys medical park pharmacy simvastatin 80 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -15910,8 +15910,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "direct rx simvastatin 80 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15930,8 +15930,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 80 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15950,8 +15950,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 80 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15970,8 +15970,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 80 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -15990,8 +15990,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 80 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16010,8 +16010,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 80 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16030,8 +16030,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 80 MG Oral Tablet x 10 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16050,8 +16050,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus lifesciences limited simvastatin 80 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16070,8 +16070,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus lifesciences limited simvastatin 80 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16090,8 +16090,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus lifesciences limited simvastatin 80 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16110,8 +16110,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus lifesciences limited simvastatin 80 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16130,8 +16130,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus lifesciences limited simvastatin 80 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16150,8 +16150,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 80 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16170,8 +16170,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 80 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16190,8 +16190,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 80 MG Oral Tablet x 3000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16210,8 +16210,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 80 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16230,8 +16230,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 80 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16250,8 +16250,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 80 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16270,8 +16270,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "lupin pharmaceuticals inc simvastatin 80 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16290,8 +16290,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "lupin pharmaceuticals inc simvastatin 80 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16310,8 +16310,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "lupin pharmaceuticals inc simvastatin 80 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16330,8 +16330,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "lupin pharmaceuticals inc simvastatin 80 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16350,8 +16350,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "lupin pharmaceuticals inc simvastatin 80 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16370,8 +16370,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "lupin pharmaceuticals inc simvastatin 80 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16390,8 +16390,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus pharmaceuticals usa inc simvastatin 80 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16410,8 +16410,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus pharmaceuticals usa inc simvastatin 80 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16430,8 +16430,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus pharmaceuticals usa inc simvastatin 80 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16450,8 +16450,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus pharmaceuticals usa inc simvastatin 80 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16470,8 +16470,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus pharmaceuticals usa inc simvastatin 80 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16490,8 +16490,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "preferred pharmaceuticals inc simvastatin 80 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16510,8 +16510,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "preferred pharmaceuticals inc simvastatin 80 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16530,8 +16530,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "preferred pharmaceuticals inc simvastatin 80 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16550,8 +16550,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "preferred pharmaceuticals inc simvastatin 80 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16570,8 +16570,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "biocon pharma inc simvastatin 80 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16590,8 +16590,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "biocon pharma inc simvastatin 80 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16610,8 +16610,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "biocon pharma inc simvastatin 80 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16630,8 +16630,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "biocon pharma inc simvastatin 80 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16650,8 +16650,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 80 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16670,8 +16670,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "quallent pharmaceuticals health llc simvastatin 80 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16690,8 +16690,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "ncs healthcare of ky llc dba vangard labs simvastatin 20 MG Oral Tablet x 15 TABLET, FILM COATED in 1 BLISTER PACK"
 
@@ -16710,8 +16710,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "ncs healthcare of ky llc dba vangard labs simvastatin 20 MG Oral Tablet x 6 BLISTER PACK in 1 BOX, UNIT-DOSE   > 5 TABLET, FILM COATED in 1 BLISTER PACK"
 
@@ -16730,8 +16730,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "ncs healthcare of ky llc dba vangard labs simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BLISTER PACK"
 
@@ -16750,8 +16750,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "blenheim pharmacal inc simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16770,8 +16770,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "northstar rx llc simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16790,8 +16790,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "northstar rx llc simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16810,8 +16810,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "northstar rx llc simvastatin 20 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16830,8 +16830,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "accord healthcare inc simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16850,8 +16850,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "accord healthcare inc simvastatin 20 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16870,8 +16870,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "accord healthcare inc simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16890,8 +16890,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "accord healthcare inc simvastatin 20 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16910,8 +16910,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "puracap laboratories llc simvastatin 20 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16930,8 +16930,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "puracap laboratories llc simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16950,8 +16950,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "puracap laboratories llc simvastatin 20 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16970,8 +16970,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "puracap laboratories llc simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -16990,8 +16990,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "camber pharmaceuticals inc simvastatin 20 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17010,8 +17010,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "camber pharmaceuticals inc simvastatin 20 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17030,8 +17030,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "camber pharmaceuticals inc simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17050,8 +17050,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "camber pharmaceuticals inc simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17070,8 +17070,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "rxchange co simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17090,8 +17090,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "micro labs limited simvastatin 20 MG Oral Tablet x 500 TABLET in 1 BOTTLE"
 
@@ -17110,8 +17110,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "micro labs limited simvastatin 20 MG Oral Tablet x 1000 TABLET in 1 BOTTLE"
 
@@ -17130,8 +17130,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "micro labs limited simvastatin 20 MG Oral Tablet x 30 TABLET in 1 BOTTLE"
 
@@ -17150,8 +17150,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "micro labs limited simvastatin 20 MG Oral Tablet x 60 TABLET in 1 BOTTLE"
 
@@ -17170,8 +17170,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "micro labs limited simvastatin 20 MG Oral Tablet x 90 TABLET in 1 BOTTLE"
 
@@ -17190,8 +17190,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "hisun pharmaceuticals usa inc simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17210,8 +17210,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "hisun pharmaceuticals usa inc simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17230,8 +17230,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "hisun pharmaceuticals usa inc simvastatin 20 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17250,8 +17250,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "qpharma inc simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -17270,8 +17270,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "pdrx pharmaceuticals inc simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -17290,8 +17290,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "pdrx pharmaceuticals inc simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -17310,8 +17310,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 20 MG Oral Tablet x 9000 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -17330,8 +17330,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 20 MG Oral Tablet x 15 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -17350,8 +17350,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -17370,8 +17370,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 20 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -17390,8 +17390,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -17410,8 +17410,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 20 MG Oral Tablet x 900 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -17430,8 +17430,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17450,8 +17450,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17470,8 +17470,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions simvastatin 20 MG Oral Tablet x 200 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17490,8 +17490,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions llc simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17510,8 +17510,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions llc simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17530,8 +17530,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17550,8 +17550,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions llc simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17570,8 +17570,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "unit dose services simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17590,8 +17590,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "acetris health llc simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17610,8 +17610,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "acetris health llc simvastatin 20 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17630,8 +17630,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "acetris health llc simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17650,8 +17650,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "acetris health llc simvastatin 20 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17670,8 +17670,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "hj harkins company inc simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17690,8 +17690,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "hj harkins company inc simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17710,8 +17710,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "rpk pharmaceuticals inc simvastatin 20 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17730,8 +17730,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "rpk pharmaceuticals inc simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17750,8 +17750,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "rpk pharmaceuticals inc simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17770,8 +17770,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "international laboratories llc simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17790,8 +17790,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 20 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17810,8 +17810,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 20 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17830,8 +17830,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 20 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17850,8 +17850,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17870,8 +17870,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 20 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17890,8 +17890,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 20 MG Oral Tablet x 10 DOSE PACK in 1 BOX   > 10 TABLET, FILM COATED in 1 DOSE PACK"
 
@@ -17910,8 +17910,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -17930,8 +17930,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "cardinal health 107 llc simvastatin 20 MG Oral Tablet x 10 BLISTER PACK in 1 BAG   > 1 TABLET, FILM COATED in 1 BLISTER PACK"
 
@@ -17950,8 +17950,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "cardinal health 107 llc simvastatin 20 MG Oral Tablet x 10 BLISTER PACK in 1 BAG   > 1 TABLET, FILM COATED in 1 BLISTER PACK"
 
@@ -17970,8 +17970,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "st marys medical park pharmacy simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -17990,8 +17990,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "st marys medical park pharmacy simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -18010,8 +18010,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "direct rx simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18030,8 +18030,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "direct rx simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18050,8 +18050,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "proficient rx lp simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18070,8 +18070,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "proficient rx lp simvastatin 20 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18090,8 +18090,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "proficient rx lp simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18110,8 +18110,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 20 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18130,8 +18130,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18150,8 +18150,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 20 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18170,8 +18170,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 20 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18190,8 +18190,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18210,8 +18210,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 20 MG Oral Tablet x 120 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18230,8 +18230,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 20 MG Oral Tablet x 180 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18250,8 +18250,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 20 MG Oral Tablet x 3 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18270,8 +18270,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 20 MG Oral Tablet x 10 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18290,8 +18290,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "mckesson corporation dba sky packaging simvastatin 20 MG Oral Tablet x 10 BLISTER PACK in 1 BOX, UNIT-DOSE   > 10 TABLET, FILM COATED in 1 BLISTER PACK"
 
@@ -18310,8 +18310,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus lifesciences limited simvastatin 20 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18330,8 +18330,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus lifesciences limited simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18350,8 +18350,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus lifesciences limited simvastatin 20 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18370,8 +18370,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus lifesciences limited simvastatin 20 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18390,8 +18390,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus lifesciences limited simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18410,8 +18410,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus lifesciences limited simvastatin 20 MG Oral Tablet x 10000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18430,8 +18430,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 20 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18450,8 +18450,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 20 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18470,8 +18470,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 20 MG Oral Tablet x 2500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18490,8 +18490,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18510,8 +18510,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 20 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18530,8 +18530,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18550,8 +18550,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 20 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18570,8 +18570,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "redpharm drug inc simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18590,8 +18590,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "nucare pharmaceuticals inc simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18610,8 +18610,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "nucare pharmaceuticals inc simvastatin 20 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18630,8 +18630,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "nucare pharmaceuticals inc simvastatin 20 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18650,8 +18650,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "nucare pharmaceuticals inc simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18670,8 +18670,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "nucare pharmaceuticals inc simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18690,8 +18690,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "nucare pharmaceuticals inc simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18710,8 +18710,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "nucare pharmaceuticals inc simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18730,8 +18730,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "nucare pharmaceuticalsinc simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18750,8 +18750,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "nucare pharmaceuticalsinc simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18770,8 +18770,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "american health packaging simvastatin 20 MG Oral Tablet x 100 BLISTER PACK in 1 BOX, UNIT-DOSE   > 1 TABLET, FILM COATED in 1 BLISTER PACK"
 
@@ -18790,8 +18790,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "american health packaging simvastatin 20 MG Oral Tablet x 1  in 1 BLISTER PACK"
 
@@ -18810,8 +18810,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "lupin pharmaceuticals inc simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18830,8 +18830,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "lupin pharmaceuticals inc simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18850,8 +18850,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "lupin pharmaceuticals inc simvastatin 20 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18870,8 +18870,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus pharmaceuticals usa inc simvastatin 20 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18890,8 +18890,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus pharmaceuticals usa inc simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18910,8 +18910,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus pharmaceuticals usa inc simvastatin 20 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18930,8 +18930,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus pharmaceuticals usa inc simvastatin 20 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18950,8 +18950,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus pharmaceuticals usa inc simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18970,8 +18970,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus pharmaceuticals usa inc simvastatin 20 MG Oral Tablet x 10000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -18990,8 +18990,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "legacy pharmaceutical packaging llc simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19010,8 +19010,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "preferred pharmaceuticals inc simvastatin 20 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19030,8 +19030,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "preferred pharmaceuticals inc simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19050,8 +19050,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "preferred pharmaceuticals inc simvastatin 20 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19070,8 +19070,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "preferred pharmaceuticals inc simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19090,8 +19090,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "biocon pharma inc simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19110,8 +19110,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "biocon pharma inc simvastatin 20 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19130,8 +19130,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "biocon pharma inc simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19150,8 +19150,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "biocon pharma inc simvastatin 20 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19170,8 +19170,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "remedyrepack inc simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19190,8 +19190,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "remedyrepack inc simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BLISTER PACK"
 
@@ -19210,8 +19210,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "remedyrepack inc simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -19230,8 +19230,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "remedyrepack inc simvastatin 20 MG Oral Tablet x 30 POUCH in 1 BOX   > 1 TABLET, FILM COATED in 1 POUCH"
 
@@ -19250,8 +19250,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "remedyrepack inc simvastatin 20 MG Oral Tablet x 1  in 1 POUCH"
 
@@ -19270,8 +19270,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "denton pharma inc dba northwind pharmaceuticals simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -19290,8 +19290,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "denton pharma inc dba northwind pharmaceuticals simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -19310,8 +19310,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19330,8 +19330,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 20 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19350,8 +19350,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 20 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19370,8 +19370,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19390,8 +19390,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 20 MG Oral Tablet x 120 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19410,8 +19410,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 20 MG Oral Tablet x 180 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19430,8 +19430,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 20 MG Oral Tablet x 3 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19450,8 +19450,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 20 MG Oral Tablet x 10 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19470,8 +19470,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 20 MG Oral Tablet x 15 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19490,8 +19490,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 20 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19510,8 +19510,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 20 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19530,8 +19530,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 20 MG Oral Tablet x 15 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19550,8 +19550,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 20 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19570,8 +19570,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 20 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19590,8 +19590,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 20 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19610,8 +19610,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "quallent pharmaceuticals health llc simvastatin 20 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19630,8 +19630,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "northstar rx llc simvastatin 5 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19650,8 +19650,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "northstar rx llc simvastatin 5 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19670,8 +19670,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "accord healthcare inc simvastatin 5 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19690,8 +19690,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "accord healthcare inc simvastatin 5 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19710,8 +19710,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "accord healthcare inc simvastatin 5 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19730,8 +19730,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "puracap laboratories llc simvastatin 5 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19750,8 +19750,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "puracap laboratories llc simvastatin 5 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19770,8 +19770,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "puracap laboratories llc simvastatin 5 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19790,8 +19790,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "camber pharmaceuticals inc simvastatin 5 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19810,8 +19810,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "camber pharmaceuticals inc simvastatin 5 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19830,8 +19830,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "camber pharmaceuticals inc simvastatin 5 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19850,8 +19850,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "camber pharmaceuticals inc simvastatin 5 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19870,8 +19870,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "micro labs limited simvastatin 5 MG Oral Tablet x 500 TABLET in 1 BOTTLE"
 
@@ -19890,8 +19890,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "micro labs limited simvastatin 5 MG Oral Tablet x 1000 TABLET in 1 BOTTLE"
 
@@ -19910,8 +19910,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "micro labs limited simvastatin 5 MG Oral Tablet x 30 TABLET in 1 BOTTLE"
 
@@ -19930,8 +19930,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "micro labs limited simvastatin 5 MG Oral Tablet x 60 TABLET in 1 BOTTLE"
 
@@ -19950,8 +19950,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "micro labs limited simvastatin 5 MG Oral Tablet x 90 TABLET in 1 BOTTLE"
 
@@ -19970,8 +19970,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions llc simvastatin 5 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -19990,8 +19990,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions llc simvastatin 5 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20010,8 +20010,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "acetris health llc simvastatin 5 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20030,8 +20030,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "acetris health llc simvastatin 5 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20050,8 +20050,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "acetris health llc simvastatin 5 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20070,8 +20070,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 5 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20090,8 +20090,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 5 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20110,8 +20110,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 5 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20130,8 +20130,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 5 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20150,8 +20150,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 5 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20170,8 +20170,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 5 MG Oral Tablet x 10 DOSE PACK in 1 BOX   > 10 TABLET, FILM COATED in 1 DOSE PACK"
 
@@ -20190,8 +20190,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 5 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20210,8 +20210,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "directrx simvastatin 5 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20230,8 +20230,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 5 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20250,8 +20250,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 5 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20270,8 +20270,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 5 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20290,8 +20290,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 5 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20310,8 +20310,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 5 MG Oral Tablet x 10 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20330,8 +20330,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "mckesson corporation dba sky packaging simvastatin 5 MG Oral Tablet x 10 BLISTER PACK in 1 BOX, UNIT-DOSE   > 10 TABLET, FILM COATED in 1 BLISTER PACK"
 
@@ -20350,8 +20350,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus lifesciences limited simvastatin 5 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20370,8 +20370,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus lifesciences limited simvastatin 5 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20390,8 +20390,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus lifesciences limited simvastatin 5 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20410,8 +20410,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus lifesciences limited simvastatin 5 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20430,8 +20430,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus lifesciences limited simvastatin 5 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20450,8 +20450,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 5 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20470,8 +20470,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 5 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20490,8 +20490,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 5 MG Oral Tablet x 2500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20510,8 +20510,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 5 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20530,8 +20530,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 5 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20550,8 +20550,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 5 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20570,8 +20570,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 5 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20590,8 +20590,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "nucare pharmaceuticals inc simvastatin 5 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20610,8 +20610,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "nucare pharmaceuticals inc simvastatin 5 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20630,8 +20630,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "lupin pharmaceuticals inc simvastatin 5 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20650,8 +20650,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "lupin pharmaceuticals inc simvastatin 5 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20670,8 +20670,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "lupin pharmaceuticals inc simvastatin 5 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20690,8 +20690,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus pharmaceuticals usa inc simvastatin 5 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20710,8 +20710,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus pharmaceuticals usa inc simvastatin 5 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20730,8 +20730,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus pharmaceuticals usa inc simvastatin 5 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20750,8 +20750,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus pharmaceuticals usa inc simvastatin 5 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20770,8 +20770,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus pharmaceuticals usa inc simvastatin 5 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20790,8 +20790,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "biocon pharma inc simvastatin 5 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20810,8 +20810,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "biocon pharma inc simvastatin 5 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20830,8 +20830,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "biocon pharma inc simvastatin 5 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20850,8 +20850,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "biocon pharma inc simvastatin 5 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20870,8 +20870,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "remedyrepack inc simvastatin 5 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BLISTER PACK"
 
@@ -20890,8 +20890,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "remedyrepack inc simvastatin 5 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -20910,8 +20910,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "proficient rx lp simvastatin 5 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20930,8 +20930,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "proficient rx lp simvastatin 5 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20950,8 +20950,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "proficient rx lp simvastatin 5 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20970,8 +20970,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 5 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -20990,8 +20990,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 5 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21010,8 +21010,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 5 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21030,8 +21030,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 5 MG Oral Tablet x 10 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21050,8 +21050,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "quallent pharmaceuticals health llc simvastatin 5 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21070,8 +21070,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "ncs healthcare of ky llc dba vangard labs simvastatin 10 MG Oral Tablet x 15 TABLET, FILM COATED in 1 BLISTER PACK"
 
@@ -21090,8 +21090,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "ncs healthcare of ky llc dba vangard labs simvastatin 10 MG Oral Tablet x 6 BLISTER PACK in 1 BOX, UNIT-DOSE   > 5 TABLET, FILM COATED in 1 BLISTER PACK"
 
@@ -21110,8 +21110,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "ncs healthcare of ky llc dba vangard labs simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BLISTER PACK"
 
@@ -21130,8 +21130,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "northstar rx llc simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21150,8 +21150,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "northstar rx llc simvastatin 10 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21170,8 +21170,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "northstar rx llc simvastatin 10 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21190,8 +21190,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "accord healthcare inc simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21210,8 +21210,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "accord healthcare inc simvastatin 10 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21230,8 +21230,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "accord healthcare inc simvastatin 10 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21250,8 +21250,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "accord healthcare inc simvastatin 10 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21270,8 +21270,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "puracap laboratories llc simvastatin 10 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21290,8 +21290,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "puracap laboratories llc simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21310,8 +21310,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "puracap laboratories llc simvastatin 10 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21330,8 +21330,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "puracap laboratories llc simvastatin 10 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21350,8 +21350,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "camber pharmaceuticals inc simvastatin 10 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21370,8 +21370,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "camber pharmaceuticals inc simvastatin 10 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21390,8 +21390,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "camber pharmaceuticals inc simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21410,8 +21410,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "camber pharmaceuticals inc simvastatin 10 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21430,8 +21430,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "micro labs limited simvastatin 10 MG Oral Tablet x 500 TABLET in 1 BOTTLE"
 
@@ -21450,8 +21450,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "micro labs limited simvastatin 10 MG Oral Tablet x 1000 TABLET in 1 BOTTLE"
 
@@ -21470,8 +21470,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "micro labs limited simvastatin 10 MG Oral Tablet x 30 TABLET in 1 BOTTLE"
 
@@ -21490,8 +21490,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "micro labs limited simvastatin 10 MG Oral Tablet x 60 TABLET in 1 BOTTLE"
 
@@ -21510,8 +21510,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "micro labs limited simvastatin 10 MG Oral Tablet x 90 TABLET in 1 BOTTLE"
 
@@ -21530,8 +21530,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "hisun pharmaceuticals usa inc simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21550,8 +21550,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "hisun pharmaceuticals usa inc simvastatin 10 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21570,8 +21570,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "hisun pharmaceuticals usa inc simvastatin 10 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21590,8 +21590,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "pdrx pharmaceuticals inc simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -21610,8 +21610,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "pdrx pharmaceuticals inc simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -21630,8 +21630,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "pdrx pharmaceuticals inc simvastatin 10 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE, PLASTIC"
 
@@ -21650,8 +21650,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions simvastatin 10 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21670,8 +21670,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21690,8 +21690,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions simvastatin 10 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21710,8 +21710,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "as medication solutions simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21730,8 +21730,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "acetris health llc simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21750,8 +21750,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "acetris health llc simvastatin 10 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21770,8 +21770,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "acetris health llc simvastatin 10 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21790,8 +21790,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "acetris health llc simvastatin 10 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21810,8 +21810,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "rpk pharmaceuticals inc simvastatin 10 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21830,8 +21830,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "rpk pharmaceuticals inc simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21850,8 +21850,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "rpk pharmaceuticals inc simvastatin 10 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21870,8 +21870,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "international laboratories llc simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21890,8 +21890,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 10 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21910,8 +21910,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 10 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21930,8 +21930,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21950,8 +21950,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 10 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -21970,8 +21970,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 10 MG Oral Tablet x 10 DOSE PACK in 1 BOX   > 10 TABLET, FILM COATED in 1 DOSE PACK"
 
@@ -21990,8 +21990,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "dr reddys laboratories limited simvastatin 10 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22010,8 +22010,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "direct rx simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22030,8 +22030,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "direct rx simvastatin 10 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22050,8 +22050,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "proficient rx lp simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22070,8 +22070,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "proficient rx lp simvastatin 10 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22090,8 +22090,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "proficient rx lp simvastatin 10 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22110,8 +22110,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 10 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22130,8 +22130,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22150,8 +22150,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 10 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22170,8 +22170,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 10 MG Oral Tablet x 120 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22190,8 +22190,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 10 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22210,8 +22210,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 10 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22230,8 +22230,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 10 MG Oral Tablet x 28 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22250,8 +22250,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 10 MG Oral Tablet x 10 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22270,8 +22270,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "mckesson corporation dba sky packaging simvastatin 10 MG Oral Tablet x 10 BLISTER PACK in 1 BOX, UNIT-DOSE   > 10 TABLET, FILM COATED in 1 BLISTER PACK"
 
@@ -22290,8 +22290,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus lifesciences limited simvastatin 10 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22310,8 +22310,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus lifesciences limited simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22330,8 +22330,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus lifesciences limited simvastatin 10 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22350,8 +22350,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus lifesciences limited simvastatin 10 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22370,8 +22370,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus lifesciences limited simvastatin 10 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22390,8 +22390,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus lifesciences limited simvastatin 10 MG Oral Tablet x 10000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22410,8 +22410,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 10 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22430,8 +22430,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 10 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22450,8 +22450,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 10 MG Oral Tablet x 2500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22470,8 +22470,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22490,8 +22490,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 10 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22510,8 +22510,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 10 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22530,8 +22530,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aurobindo pharma limited simvastatin 10 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22550,8 +22550,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "nucare pharmaceuticals inc simvastatin 10 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22570,8 +22570,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "nucare pharmaceuticals inc simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22590,8 +22590,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "nucare pharmaceuticals inc simvastatin 10 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22610,8 +22610,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "american health packaging simvastatin 10 MG Oral Tablet x 100 BLISTER PACK in 1 BOX, UNIT-DOSE   > 1 TABLET, FILM COATED in 1 BLISTER PACK"
 
@@ -22630,8 +22630,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "american health packaging simvastatin 10 MG Oral Tablet x 1  in 1 BLISTER PACK"
 
@@ -22650,8 +22650,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "lupin pharmaceuticals inc simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22670,8 +22670,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "lupin pharmaceuticals inc simvastatin 10 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22690,8 +22690,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "lupin pharmaceuticals inc simvastatin 10 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22710,8 +22710,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus pharmaceuticals usa inc simvastatin 10 MG Oral Tablet x 500 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22730,8 +22730,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus pharmaceuticals usa inc simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22750,8 +22750,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus pharmaceuticals usa inc simvastatin 10 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22770,8 +22770,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus pharmaceuticals usa inc simvastatin 10 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22790,8 +22790,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus pharmaceuticals usa inc simvastatin 10 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22810,8 +22810,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "zydus pharmaceuticals usa inc simvastatin 10 MG Oral Tablet x 10000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22830,8 +22830,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "preferred pharmaceuticals inc simvastatin 10 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22850,8 +22850,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "preferred pharmaceuticals inc simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22870,8 +22870,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "preferred pharmaceuticals inc simvastatin 10 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22890,8 +22890,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "preferred pharmaceuticals inc simvastatin 10 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22910,8 +22910,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "biocon pharma inc simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22930,8 +22930,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "biocon pharma inc simvastatin 10 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22950,8 +22950,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "biocon pharma inc simvastatin 10 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22970,8 +22970,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "biocon pharma inc simvastatin 10 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -22990,8 +22990,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "remedyrepack inc simvastatin 10 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -23010,8 +23010,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "remedyrepack inc simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BLISTER PACK"
 
@@ -23030,8 +23030,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "remedyrepack inc simvastatin 10 MG Oral Tablet x 30 POUCH in 1 BOX   > 1 TABLET, FILM COATED in 1 POUCH"
 
@@ -23050,8 +23050,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "remedyrepack inc simvastatin 10 MG Oral Tablet x 1  in 1 POUCH"
 
@@ -23070,8 +23070,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "remedyrepack inc simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BLISTER PACK"
 
@@ -23090,8 +23090,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -23110,8 +23110,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 10 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -23130,8 +23130,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 10 MG Oral Tablet x 120 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -23150,8 +23150,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 10 MG Oral Tablet x 100 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -23170,8 +23170,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 10 MG Oral Tablet x 60 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -23190,8 +23190,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 10 MG Oral Tablet x 28 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -23210,8 +23210,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "bryant ranch prepack simvastatin 10 MG Oral Tablet x 10 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -23230,8 +23230,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -23250,8 +23250,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 10 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -23270,8 +23270,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 10 MG Oral Tablet x 30 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -23290,8 +23290,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 10 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -23310,8 +23310,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 10 MG Oral Tablet x 90 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -23330,8 +23330,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "aphena pharma solutions  tennessee llc simvastatin 10 MG Oral Tablet x 45 TABLET, FILM COATED in 1 BOTTLE"
 
@@ -23350,8 +23350,8 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* classification[0] = $100000093533#100000095065 "amlodipine"
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+* classification[0] = $100000093533#100000095169 "simvastatin"
+* classification[+] = $who-atc#C10AA01 "simvastatin"
 
 * name.productName = "quallent pharmaceuticals health llc simvastatin 10 MG Oral Tablet x 1000 TABLET, FILM COATED in 1 BOTTLE"
 

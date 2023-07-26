@@ -1,6 +1,6 @@
 from datawizard_templates.jinja_filters import normalize_name
 from datawizard_templates.script.utilities import get_unit_of_presentation, get_doseform, get_routes_of_administration, \
-    get_substance, get_ingredient_info
+    get_substance, get_ingredient_info, get_classification
 
 
 class JinjaContexts:
@@ -93,10 +93,7 @@ class JinjaContexts:
                     "code": '100000072084',  # TODO ????
                     "display": "Medicinal Product subject to medical prescription",  # TODO ????
                 },
-                "classification": [
-                    '$100000093533#100000095065 "amlodipine"',
-                    '$who-atc#C08CA01 "amlodipine"',
-                ]  # TODO
+                "classification": get_classification(row['atcCodes']),
                 # "name_parts": {  # TODO
                 #     'invented': 'invented part',
                 #     'doseForm': 'dose form',
