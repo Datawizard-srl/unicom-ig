@@ -184,7 +184,7 @@ def get_classification(atc_code):
         'C08CA01': ['$100000093533#100000095065 "amlodipine"', '$who-atc#C08CA01 "amlodipine"'],
         'C10AA01': ['$100000093533#100000095169 "simvastatin"', '$who-atc#C10AA01 "simvastatin"'],
         'N03AF01': ['$100000093533#100000097377 "carbamazepine"', '$who-atc#N03AF01 "carbamazepine"'],
-        'M01AE01': ['$100000093533#100000096928 "ibuprofen"', '$who-atc#N03AF01 "ibuprofen"'],
+        'M01AE01': ['$100000093533#100000096928 "ibuprofen"', '$who-atc#M01AE01 "ibuprofen"'],
         'M02AA13': ['$100000093533#100000097010 "ibuprofen"', '$who-atc#M02AA13 "ibuprofen"'],
         'G02CC01': ['$100000093533#100000095765 "ibuprofen"', '$who-atc#G02CC01 "ibuprofen"'],
         'R02AX02': ['$100000093533#100000167249 "ibuprofen"', '$who-atc#R02AX02 "ibuprofen"'],
